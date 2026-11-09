@@ -5,10 +5,10 @@
     "home": "https://www.cls.cn/telegraph",
     "kind": "快讯",
     "status": "ok",
-    "checkedAt": "2026-11-09T15:42:10.787Z",
-    "lastSuccessAt": "2026-11-09T15:42:10.787Z",
-    "count": 13,
-    "message": "仅提取标题及原文链接"
+    "checkedAt": "2026-11-10T15:29:17.533Z",
+    "lastSuccessAt": "2026-11-10T15:29:17.533Z",
+    "count": 10,
+    "message": "提取标题、可用来源摘要及原文链接"
   },
   {
     "id": "eastmoney",
@@ -16,10 +16,10 @@
     "home": "https://kuaixun.eastmoney.com/",
     "kind": "快讯",
     "status": "ok",
-    "checkedAt": "2026-11-09T15:42:10.787Z",
-    "lastSuccessAt": "2026-11-09T15:42:10.787Z",
+    "checkedAt": "2026-11-10T15:29:17.533Z",
+    "lastSuccessAt": "2026-11-10T15:29:17.533Z",
     "count": 100,
-    "message": "仅提取标题及原文链接"
+    "message": "提取标题、可用来源摘要及原文链接"
   },
   {
     "id": "wallstreet",
@@ -27,10 +27,10 @@
     "home": "https://wallstreetcn.com/live/global",
     "kind": "快讯",
     "status": "ok",
-    "checkedAt": "2026-11-09T15:42:10.787Z",
-    "lastSuccessAt": "2026-11-09T15:42:10.787Z",
-    "count": 52,
-    "message": "仅提取标题及原文链接"
+    "checkedAt": "2026-11-10T15:29:17.533Z",
+    "lastSuccessAt": "2026-11-10T15:29:17.533Z",
+    "count": 56,
+    "message": "提取标题、可用来源摘要及原文链接"
   },
   {
     "id": "cctv",
@@ -38,9 +38,9 @@
     "home": "https://tv.cctv.com/lm/xwlb/",
     "kind": "权威发布",
     "status": "ok",
-    "checkedAt": "2026-11-09T15:42:10.787Z",
-    "lastSuccessAt": "2026-11-09T15:42:10.787Z",
-    "count": 1,
-    "message": "仅提取标题及原文链接"
+    "checkedAt": "2026-11-10T15:29:17.533Z",
+    "lastSuccessAt": "2026-11-10T15:29:17.533Z",
+    "count": 2,
+    "message": "提取标题、可用来源摘要及原文链接"
   }
 ]
