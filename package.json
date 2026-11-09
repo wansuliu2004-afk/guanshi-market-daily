@@ -1,0 +1,9 @@
+{
+  "name": "guanshi-market-daily",
+  "version": "1.3.0",
+  "private": true,
+  "type": "module",
+  "description": "观市：多源财经标题聚合 TOP 20 与市场事实快照",
+  "scripts": { "start": "node server.mjs", "build": "node scripts/build.mjs", "publish:static": "node scripts/publish-static.mjs", "seed:create": "node scripts/seed-data.mjs --create" },
+  "engines": { "node": ">=20" }
+}

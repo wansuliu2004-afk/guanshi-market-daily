@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="观市财经信息聚合：多源新闻标题与原文入口、市场行情、板块资金和按日保存的盘面记录。">
+  <meta name="theme-color" content="#f6f7f9"><title>观市 · 财经日报</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/styles.css">
+  <script>try{document.documentElement.dataset.theme=localStorage.getItem('guanshi-theme')||'light'}catch{}</script>
+  <script defer src="/vendor/echarts.min.js"></script><script type="module" src="/app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">跳转到内容</a>
+<aside class="rail" aria-label="主导航">
+  <a href="/" class="brand-mark" aria-label="观市首页"><svg viewBox="0 0 32 32" fill="none"><path d="M5 23V11l7 7 7-13 8 8" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="26" cy="23" r="3" fill="currentColor"/></svg></a>
+  <span class="rail-word">观市</span>
+  <nav>
+    <button class="rail-item active" data-view="overview" aria-label="今日总览" title="今日总览"><i data-icon="layout"></i><span>总览</span></button>
+    <button class="rail-item" data-view="news" aria-label="新闻追踪" title="新闻追踪"><i data-icon="news"></i><span>快讯</span></button>
+    <button class="rail-item" data-view="review" aria-label="收盘复盘" title="收盘复盘"><i data-icon="chart"></i><span>复盘</span></button>
+    <button class="rail-item" data-action="favorites" aria-label="我的收藏" title="我的收藏"><i data-icon="bookmark"></i><span>收藏</span></button>
+  </nav>
+  <div class="rail-bottom"><button class="rail-item" data-action="sources" title="数据与说明" aria-label="数据与说明"><i data-icon="info"></i><span>说明</span></button><span class="rail-version">v 1.0</span></div>
+</aside>
+<div class="shell">
+  <header class="global-bar">
+    <div class="brand-text">观市<span>MARKET DAILY</span><b class="demo-label">信息聚合</b></div>
+    <div class="global-tools">
+      <label class="search-box"><i data-icon="search"></i><input id="search" type="search" placeholder="搜索新闻、板块、关键词" aria-label="搜索新闻、板块、关键词"><kbd>/</kbd></label>
+      <button class="icon-button" id="themeToggle" title="切换深色模式" aria-label="切换深色模式"><i data-icon="moon"></i></button>
+      <span class="tool-divider"></span><button class="avatar" data-action="favorites" aria-label="打开我的收藏">观</button>
+    </div>
+  </header>
+  <div class="status-bar" aria-live="polite"><span><i class="status-dot"></i><span id="connectionText">正在加载标题聚合</span><span class="status-separator">/</span><span id="newsStamp" class="numeric">采集时间 —</span></span><span><i data-icon="lock"></i><span id="snapshotStamp">盘面采样 · 待确认</span><span class="timezone">北京时间 UTC+8</span></span></div>
+  <main id="main">
+    <section class="page-heading">
+      <div><div class="eyebrow" id="editionLabel">DAILY MARKET BRIEF · 每日市场简报</div><h1>把握脉络，<span>看清市场。</span></h1><p>从一条消息，到一日盘面。让市场的每一步，都有迹可循。</p></div>
+      <div class="date-area"><div class="date-control"><button class="icon-button small" id="prevDate" aria-label="上一个有记录的日期"><i data-icon="chevronLeft"></i></button><label><i data-icon="calendar"></i><input id="datePicker" type="date" value="2026-11-09" aria-label="选择历史日期"></label><button class="icon-button small" id="nextDate" aria-label="下一个有记录的日期"><i data-icon="chevronRight"></i></button></div><span class="date-caption" id="dateCaption">按来源时间显示</span><div class="date-shortcuts"><button id="archiveToggle" class="text-button" aria-expanded="false" aria-controls="archiveDates"><i data-icon="calendar"></i>已有记录</button><button id="backToday" class="text-button">回到今天</button></div></div>
+    </section>
+    <section class="archive-toolbar" aria-label="历史归档与自动更新状态"><span id="archiveSummary"><i data-icon="calendar"></i>正在读取建站记录</span><button class="runtime-status" id="runtimeStatus" data-action="runtime"><i class="tiny-dot"></i><span>自动更新状态加载中</span><i data-icon="info"></i></button></section>
+    <section id="archiveDates" class="archive-dates hidden" aria-label="已有历史记录"><div class="archive-title"><strong>按日回看</strong><span>保留建站后已采集的记录；中断采集的日期不会补造数据。</span></div><div id="archiveDateList" class="archive-date-list"></div></section>
+    <section class="market-section" aria-labelledby="marketTitle">
+      <div class="section-minihead"><h2 id="marketTitle"><span class="section-tick"></span>市场速览</h2><div id="marketTabs" class="text-tabs" role="group" aria-label="市场分类"><button class="active" data-market="全部">全部市场</button><button data-market="A股">A 股</button><button data-market="全球">全球</button><button data-market="商品汇率">商品 / 汇率</button></div><span class="market-hint">左右滑动查看更多 <i data-icon="arrowRight"></i></span></div>
+      <div id="marketStrip" class="market-strip" tabindex="0" aria-label="市场指数卡片，可左右滚动"></div>
+    </section>
+    <section class="must-section" aria-labelledby="mustTitle"><div class="section-minihead"><h2 id="mustTitle"><i data-icon="zap"></i>今日必读<span class="tiny-badge">3</span></h2><span class="muted small-text">平台热度前 3 · 点击跳转原文</span><button class="text-button push-right" id="allImportant">查看前 20 <i data-icon="arrowRight"></i></button></div><div id="mustReads" class="must-grid"></div></section>
+    <details class="mobile-nav"><summary>模块导航 <span>新闻 · 盘面 · 资金 · 明日观察 <i data-icon="chevronRight"></i></span></summary><nav aria-label="页面锚点"><a href="#newsPanel">新闻追踪</a><a href="#chartPanel">盘面复盘</a><a href="#sectorPanel">板块资金</a><a href="#recapPanel">明日观察</a></nav></details>
+    <div class="workspace-tabs"><div role="tablist" aria-label="工作台布局"><button class="active" role="tab" aria-selected="true" data-view="overview">今日总览</button><button role="tab" aria-selected="false" data-view="news">新闻追踪</button><button role="tab" aria-selected="false" data-view="review">收盘复盘</button></div><span><span class="tiny-dot"></span>一份日报，两条线索</span></div>
+    <div id="emptyDay" class="empty-day hidden"></div>
+    <div class="workspace" id="workspace" data-view="overview">
+      <section class="panel news-panel" id="newsPanel" aria-labelledby="newsTitle">
+        <div class="panel-heading"><div><h2 id="newsTitle"><i data-icon="radio"></i>新闻热榜 <span class="live-badge" id="newsMode">5 分钟聚合</span></h2><p>多站快讯去重聚合，标题直达原文</p></div><button class="icon-button" id="pauseNews" aria-label="暂停新闻连接" title="暂停新闻连接"><i data-icon="pause"></i></button></div>
+        <div class="aggregation-summary"><div id="sourceStatus" class="source-status"></div><div><span id="rankingStats">正在载入候选标题</span><button class="text-button" data-action="sources">排序说明 <i data-icon="info"></i></button></div></div><div class="news-filter"><div id="newsCategories" class="chip-group" role="group" aria-label="新闻分类"><button class="active" data-category="全部">全部</button><button data-category="政策">政策</button><button data-category="宏观">宏观</button><button data-category="行业">行业</button><button data-category="公司">公司</button><button data-category="海外">海外</button></div><div class="filter-second"><label><input id="importantOnly" type="checkbox">只看前 3</label><label class="sort-select"><i data-icon="sort"></i><select id="newsSort" aria-label="新闻排序"><option value="heat">平台热度</option><option value="desc">最新优先</option><option value="asc">时间顺序</option></select></label></div><div id="activeFilters" class="active-filters hidden"></div></div>
+        <div class="news-count"><span>当日 TOP 20 <b id="newsCount" class="numeric">0</b> 条</span><button class="text-button" id="refreshNews"><i data-icon="refresh"></i>刷新</button></div>
+        <div id="newsViewport" class="news-viewport" tabindex="0" aria-label="新闻时间线"><div id="newsCanvas"></div></div>
+        <div class="news-panel-footer"><i data-icon="checkCircle"></i><span id="newsFootnote">仅聚合标题 · 不转载内容</span><span class="numeric" id="newsFooterTime">—</span></div>
+        <div class="daily-note"><span class="note-icon"><i data-icon="link"></i></span><div><strong>把消息和盘面连起来</strong><p>点击新闻查看相关板块，点击板块筛选关联资讯。</p></div></div>
+      </section>
+      <div class="review-column" id="reviewColumn">
+        <section class="panel chart-panel" id="chartPanel" aria-labelledby="chartTitle">
+          <div class="panel-heading"><div><h2 id="chartTitle"><i data-icon="chart"></i>盘面复盘<span class="snapshot-badge"><i data-icon="lock"></i>收盘快照</span></h2><p id="chartSubtitle">上证指数 · 正在获取来源数据</p></div><div class="segmented" id="chartModes" role="group" aria-label="图表类型"><button class="active" data-chart="intraday">分时</button><button data-chart="candles">日 K</button></div></div>
+          <div class="chart-statline"><div><strong class="numeric" id="chartValue">—</strong><span class="positive numeric" id="chartChange">—</span><span class="muted">收盘</span></div><span class="volume-stat">两市成交 <b class="numeric" id="turnover">—</b> 万亿 <em class="positive numeric" id="turnoverDelta"></em></span></div>
+          <div class="chart-wrap"><div id="priceChart" class="price-chart" role="img" aria-label="上证指数分时走势及成交量，采样数据以来源时间为准"></div><div id="chartLoading" class="chart-skeleton"><div></div><div></div><div></div><div></div><div></div></div></div>
+          <div class="event-strip" id="eventStrip"></div>
+          <div class="chart-foot"><i data-icon="mouse"></i><span>悬停同步查看价格与成交量 · 来源：东方财富</span><span id="chartSourceLink"></span></div>
+        </section>
+        <section class="panel sector-panel" id="sectorPanel" aria-labelledby="sectorTitle"><div class="panel-heading compact"><div><h2 id="sectorTitle"><i data-icon="grid"></i>板块与资金</h2></div><div class="segmented" id="sectorModes" role="group" aria-label="板块视图"><button class="active" data-sector-view="heatmap">行业热力</button><button data-sector-view="flows">资金流向</button></div></div><div class="sector-subtitle"><span id="sectorCaption">面积：成交额 · 颜色：涨跌幅</span><span class="heat-legend"><i class="negative-bg"></i>跌 <span>−</span><i class="positive-bg"></i>涨 <span>+</span></span></div><div id="sectorChart" class="sector-chart" role="img" aria-label="行业热力图，点击板块筛选相关新闻"></div><div id="flowList" class="flow-list hidden"></div><div class="sector-footer"><span id="sectorLinkHint"><i data-icon="link"></i>点击板块，追踪消息来源</span><span id="sectorSourceLink"></span><button id="clearSector" class="text-button hidden">取消联动 ×</button></div></section>
+        <section class="panel sentiment-panel" id="sentimentPanel" aria-labelledby="sentimentTitle"><div class="panel-heading compact"><h2 id="sentimentTitle"><i data-icon="activity"></i>市场情绪</h2><span class="mood-tag">等待数据</span></div><div class="sentiment-grid"><div class="breadth-block"><span class="metric-label">涨跌家数</span><div class="breadth-values numeric"><b class="positive" id="upCount">—</b><span>/</span><b class="negative" id="downCount">—</b></div><div class="breadth-bar"><i id="upBar"></i><i></i></div><div class="metric-foot"><span>上涨</span><span>下跌</span></div></div><div><span class="metric-label">赚钱效应 <button class="help-dot" title="需取得完整个股样本后计算" aria-label="赚钱效应：当日个股涨跌幅中位数">?</button></span><div class="metric-value positive numeric" id="moneyEffect">—</div><span class="metric-foot">个股涨跌幅中位数</span></div><div><span class="metric-label">市场温度</span><div class="metric-value numeric">—<span> 待积累</span></div><span class="metric-foot">近 250 日历史分位</span></div></div><div class="limit-stats"><span>涨停 <b class="positive numeric" id="limitUp">—</b></span><span>跌停 <b class="negative numeric" id="limitDown">—</b></span><span>连板高度 <b class="numeric">—</b></span><span>炸板率 <b class="numeric">—</b></span><span id="limitSourceLink"></span><button class="text-button" id="limitDetails">题材详情 <i data-icon="chevronRight"></i></button></div></section>
+        <section class="panel recap-panel" id="recapPanel" aria-labelledby="recapTitle"><div class="panel-heading"><div><h2 id="recapTitle"><i data-icon="file"></i>收盘结论 / 明日观察</h2><p>记录当时的判断，让复盘可以被回看</p></div><button class="icon-button" id="exportRecap" title="导出本日复盘" aria-label="导出本日复盘"><i data-icon="download"></i></button></div><div class="recap-headline"><span class="regime-tag" id="regimeTag">待确认</span><h3 id="recapHeadline">等待盘面事实记录</h3><div class="segmented" id="readingModes" role="group" aria-label="复盘阅读深度"><button class="active" data-reading="brief">要点</button><button data-reading="full">全文</button></div></div><div id="recapContent" class="recap-content"></div><div class="levels"><span>明日关注 <i data-icon="eye"></i></span><span>主线归因与关键位待复盘确认</span></div></section>
+      </div>
+    </div>
+    <footer class="page-footer"><div><a href="/" class="footer-brand">观市 <span>MARKET DAILY</span></a><p>保持独立思考，让每一次复盘都有价值。</p></div><div class="disclaimer"><p>新闻只聚合标题、来源和原文链接；行情由公开接口采样，可能存在延迟。</p><p>所有内容仅供信息展示与学习，不构成投资建议。正式数据可能存在延迟，请以交易所及权威来源为准。</p><button class="text-button" data-action="sources">数据来源与更新说明 <i data-icon="external"></i></button></div></footer>
+  </main>
+</div>
+<dialog id="detailDialog" class="detail-dialog"><div id="dialogContent"></div></dialog>
+<div class="toast" id="toast" role="status"></div>
+<noscript><div class="noscript-note">动态新闻、筛选与图表需要启用 JavaScript。以下为静态收盘摘要。</div></noscript>
+<div id="staticRecap"><!--STATIC_RECAP--></div>
+<!--BOOTSTRAP-->
+</body></html>

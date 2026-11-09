@@ -1,0 +1,9 @@
+node_modules/
+dist/
+site/
+.history/
+.runtime-data/
+data/
+*.log
+.env
+.env.*
