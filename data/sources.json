@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cls",
+    "name": "财联社",
+    "home": "https://www.cls.cn/telegraph",
+    "kind": "快讯",
+    "status": "ok",
+    "checkedAt": "2026-11-09T15:42:10.787Z",
+    "lastSuccessAt": "2026-11-09T15:42:10.787Z",
+    "count": 13,
+    "message": "仅提取标题及原文链接"
+  },
+  {
+    "id": "eastmoney",
+    "name": "东方财富",
+    "home": "https://kuaixun.eastmoney.com/",
+    "kind": "快讯",
+    "status": "ok",
+    "checkedAt": "2026-11-09T15:42:10.787Z",
+    "lastSuccessAt": "2026-11-09T15:42:10.787Z",
+    "count": 100,
+    "message": "仅提取标题及原文链接"
+  },
+  {
+    "id": "wallstreet",
+    "name": "华尔街见闻",
+    "home": "https://wallstreetcn.com/live/global",
+    "kind": "快讯",
+    "status": "ok",
+    "checkedAt": "2026-11-09T15:42:10.787Z",
+    "lastSuccessAt": "2026-11-09T15:42:10.787Z",
+    "count": 52,
+    "message": "仅提取标题及原文链接"
+  },
+  {
+    "id": "cctv",
+    "name": "央视新闻联播",
+    "home": "https://tv.cctv.com/lm/xwlb/",
+    "kind": "权威发布",
+    "status": "ok",
+    "checkedAt": "2026-11-09T15:42:10.787Z",
+    "lastSuccessAt": "2026-11-09T15:42:10.787Z",
+    "count": 1,
+    "message": "仅提取标题及原文链接"
+  }
+]
