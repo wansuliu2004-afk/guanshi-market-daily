@@ -5,7 +5,7 @@ import {DATA_DIR} from '../lib/collector.mjs';
 import {root} from './build.mjs';
 
 const seed=path.join(root,'deploy/initial-data.json.gz');
-const permitted=name=>/^(?:site|sources|market-latest|market-dates)\.json$/.test(name)||/^(?:archive|markets|news)\/\d{4}-\d{2}-\d{2}\.json$/.test(name);
+const permitted=name=>/^(?:site|sources|market-latest|market-dates)\.json$/.test(name)||/^(?:archive|markets|news|reports)\/\d{4}-\d{2}-\d{2}\.json$/.test(name);
 async function entries(directory,prefix=''){
  const result=[];
  for(const entry of await readdir(directory,{withFileTypes:true})){

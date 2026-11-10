@@ -2,12 +2,14 @@ import path from 'node:path';
 import {Collector,chinaDate,DATA_DIR,jsonFile,atomic} from '../lib/collector.mjs';
 import {MarketCollector} from '../lib/markets.mjs';
 import {DailyArchive} from '../lib/archive.mjs';
+import {DailyReports} from '../lib/reports.mjs';
 import {build,root} from './build.mjs';
 import {restoreSeed} from './seed-data.mjs';
 
 const skipCollection=process.argv.includes('--skip-collection');
 await restoreSeed();
 const collector=new Collector(),markets=new MarketCollector(),archive=new DailyArchive();
+const reports=new DailyReports();
 await Promise.all([collector.init(),markets.init(),archive.init()]);
 for(const date of [...new Set([...(await collector.dates()),...(await markets.dates())])].sort()){
  if(date<archive.site.startedDate||date>chinaDate())continue;
@@ -19,6 +21,7 @@ if(!skipCollection){
  results=await Promise.allSettled([collector.refresh(),markets.refresh()]);
  await archive.capture(chinaDate(),{news:await collector.payload(),snapshot:await markets.get(chinaDate())});
 }
+await reports.refreshAll();
 const sources=[...collector.status,...(markets.latest?.sources||[])],errors=results.filter(r=>r.status==='rejected').map(r=>String(r.reason.message));
 const now=new Date().toISOString(),previous=await jsonFile(path.join(DATA_DIR,'cloud-runtime.json'));
 const nextRun=new Date(now);nextRun.setUTCSeconds(0,0);

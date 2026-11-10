@@ -6,8 +6,10 @@ import {AVAILABLE_DATES,getSnapshot} from './lib/data.mjs';
 import {Collector,chinaDate,INTERVAL_MS} from './lib/collector.mjs';
 import {MarketCollector} from './lib/markets.mjs';
 import {DailyArchive} from './lib/archive.mjs';
+import {DailyReports} from './lib/reports.mjs';
 
 const collector=new Collector(),markets=new MarketCollector(),archive=new DailyArchive();
+const reports=new DailyReports();
 await Promise.all([collector.init(),markets.init(),archive.init()]);
 // 将升级前已保存的建站日及之后数据迁入统一日档，不删除旧采集文件。
 for(const date of [...new Set([...(await collector.dates()),...(await markets.dates())])].sort()){
@@ -44,6 +46,7 @@ async function runCycle(){
    await Promise.allSettled([collector.refresh(),markets.refresh()]);
    const today=chinaDate();
    await archive.capture(today,{news:await collector.payload(today),snapshot:await markets.get(today)});
+   await reports.refreshAll();
    for(const date of await allDates())await saveStatic(date);
    runtime.lastCycleAt=new Date().toISOString();runtime.state='running';
    const news=await newsFor(today),snapshot=await snapshotFor(today);
@@ -64,6 +67,7 @@ const server=http.createServer(async(req,res)=>{
   if(!validDate(date))return json(res,{error:'INVALID_DATE'},400);
   if(url.pathname==='/api/dates')return json(res,{...await archive.catalogue(),...(demoMode?{dates:AVAILABLE_DATES}:{}),demo:demoMode});
   if(url.pathname==='/api/runtime')return json(res,{...runtime,site:archive.site,serverTime:new Date().toISOString()});
+  if(url.pathname==='/api/report'){const report=await reports.get(date);return json(res,report||{error:'NO_REPORT',date},report?200:404);}
   if(url.pathname==='/api/news')return json(res,await newsFor(date));
   if(url.pathname==='/api/news/refresh'){
    if(req.method!=='POST')return json(res,{error:'METHOD_NOT_ALLOWED'},405);

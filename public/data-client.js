@@ -11,6 +11,7 @@ export async function dataFetch(route,options={}){
  else if(request.pathname==='/api/runtime')file='feed/runtime.json';
  else if(/^\d{4}-\d{2}-\d{2}$/.test(date)){
   if(request.pathname==='/api/snapshot')file=`${request.searchParams.get('mode')==='demo'?'demo/':''}daily/${date}/snapshot.json`;
+  if(request.pathname==='/api/report')file=`daily/${date}/report.json`;
   if(['/api/news','/api/news/refresh'].includes(request.pathname))file=`daily/${date}/news.json`;
  }
  if(!file)throw Error('不支持的静态数据请求');

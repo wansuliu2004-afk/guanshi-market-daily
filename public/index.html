@@ -19,7 +19,7 @@
     <button class="rail-item" data-view="review" aria-label="收盘复盘" title="收盘复盘"><i data-icon="chart"></i><span>复盘</span></button>
     <button class="rail-item" data-action="favorites" aria-label="我的收藏" title="我的收藏"><i data-icon="bookmark"></i><span>收藏</span></button>
   </nav>
-  <div class="rail-bottom"><button class="rail-item" data-action="sources" title="数据与说明" aria-label="数据与说明"><i data-icon="info"></i><span>说明</span></button><span class="rail-version">v 1.0</span></div>
+  <div class="rail-bottom"><button class="rail-item" data-action="sources" title="数据与说明" aria-label="数据与说明"><i data-icon="info"></i><span>说明</span></button><span class="rail-version">v 1.4</span></div>
 </aside>
 <div class="shell">
   <header class="global-bar">
@@ -37,6 +37,8 @@
       <div class="date-area"><div class="date-control"><button class="icon-button small" id="prevDate" aria-label="上一个有记录的日期"><i data-icon="chevronLeft"></i></button><label><i data-icon="calendar"></i><input id="datePicker" type="date" value="2026-11-09" aria-label="选择历史日期"></label><button class="icon-button small" id="nextDate" aria-label="下一个有记录的日期"><i data-icon="chevronRight"></i></button></div><span class="date-caption" id="dateCaption">按来源时间显示</span><div class="date-shortcuts"><button id="archiveToggle" class="text-button" aria-expanded="false" aria-controls="archiveDates"><i data-icon="calendar"></i>已有记录</button><button id="backToday" class="text-button">回到今天</button></div></div>
     </section>
     <section class="archive-toolbar" aria-label="历史归档与自动更新状态"><span id="archiveSummary"><i data-icon="calendar"></i>正在读取建站记录</span><button class="runtime-status" id="runtimeStatus" data-action="runtime"><i class="tiny-dot"></i><span>自动更新状态加载中</span><i data-icon="info"></i></button></section>
+    <section class="edition-picker" aria-label="选择实时追踪或每日收盘报"><button class="edition-option active" data-edition="live" aria-pressed="true"><span class="edition-icon"><i data-icon="radio"></i></span><span><strong>实时追踪</strong><small>最新新闻热榜 · 各市场最新报价</small></span><span class="edition-check"><i data-icon="checkCircle"></i></span></button><button class="edition-option" data-edition="report" aria-pressed="false"><span class="edition-icon"><i data-icon="file"></i></span><span><strong>每日收盘报</strong><small>全日重要新闻 20 条 · A 股收盘盘面</small></span><span class="edition-check"><i data-icon="checkCircle"></i></span></button></section>
+    <section id="editionNotice" class="edition-notice" aria-live="polite"></section>
     <section id="archiveDates" class="archive-dates hidden" aria-label="已有历史记录"><div class="archive-title"><strong>按日回看</strong><span>保留建站后已采集的记录；中断采集的日期不会补造数据。</span></div><div id="archiveDateList" class="archive-date-list"></div></section>
     <section class="market-section" aria-labelledby="marketTitle">
       <div class="section-minihead"><h2 id="marketTitle"><span class="section-tick"></span>市场速览</h2><div id="marketTabs" class="text-tabs" role="group" aria-label="市场分类"><button class="active" data-market="全部">全部市场</button><button data-market="A股">A 股</button><button data-market="全球">全球</button><button data-market="商品汇率">商品 / 汇率</button></div><span class="market-hint">左右滑动查看更多 <i data-icon="arrowRight"></i></span></div>

@@ -2,8 +2,9 @@ import {mkdir,readFile,writeFile,cp} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 import {AVAILABLE_DATES,DEMO_DATE,getSnapshot} from '../lib/data.mjs';
-import {DATA_DIR,jsonFile,chinaDate} from '../lib/collector.mjs';
+import {chinaDate} from '../lib/collector.mjs';
 import {DailyArchive} from '../lib/archive.mjs';
+import {DailyReports} from '../lib/reports.mjs';
 export const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const escape=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export function renderHTML(template,snapshot,{demoMode=false,availableDates=[],date=chinaDate(),catalogue=null,staticMode=false,basePath='/'}={}){
@@ -22,6 +23,8 @@ export async function build({staticMode=false,basePath='/',outputDir=path.join(r
  await mkdir(outputDir,{recursive:true});
  await cp(path.join(root,'public'),outputDir,{recursive:true});
  const archive=new DailyArchive();await archive.init();const catalogue=await archive.catalogue();
+ const reports=new DailyReports();await reports.refreshAll();
+ for(const entry of catalogue.entries){const report=await reports.get(entry.date);entry.reportStatus=report?.status||null;entry.hasClose=Boolean(report?.close);entry.dailyNewsCount=report?.news?.items?.length||0;}
  const today=chinaDate(),latest=(await archive.get(today))?.snapshot||null;
  const actualDates=catalogue.dates;
  const options={staticMode,basePath};
@@ -32,6 +35,7 @@ export async function build({staticMode=false,basePath='/',outputDir=path.join(r
    await writeFile(path.join(folder,'snapshot.json'),JSON.stringify(getSnapshot(date)));
  }
  for(const date of actualDates){const saved=await archive.get(date),snapshot=saved?.snapshot||null;const folder=folderFor('daily',date);await mkdir(folder,{recursive:true});await writeFile(path.join(folder,'index.html'),renderHTML(template,snapshot,{availableDates:actualDates,date,catalogue,...options}));await writeJSON(path.join(folder,'snapshot.json'),snapshot);await writeJSON(path.join(folder,'news.json'),saved?.news||{date,items:[],asOf:null,sources:[]});}
+ for(const date of actualDates)await writeJSON(folderFor('daily',date,'report.json'),await reports.get(date));
  if(staticMode){
   if(!runtime)throw Error('静态发布需要提供定时采集状态');
   await writeJSON(folderFor('feed/catalogue.json'),catalogue);
