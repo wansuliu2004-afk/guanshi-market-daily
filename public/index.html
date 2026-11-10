@@ -2,7 +2,7 @@
 <html lang="zh-CN" data-theme="light">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="观市财经信息聚合：多源新闻标题与原文入口、市场行情、板块资金和按日保存的盘面记录。">
+  <meta name="description" content="观市财经信息聚合：多源新闻标题、来源短摘要与原文入口、市场行情、板块资金和按日保存的盘面记录。">
   <meta name="theme-color" content="#f6f7f9"><title>观市 · 财经日报</title>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/styles.css">
   <script>try{document.documentElement.dataset.theme=localStorage.getItem('guanshi-theme')||'light'}catch{}</script>
@@ -19,7 +19,7 @@
     <button class="rail-item" data-view="review" aria-label="收盘复盘" title="收盘复盘"><i data-icon="chart"></i><span>复盘</span></button>
     <button class="rail-item" data-action="favorites" aria-label="我的收藏" title="我的收藏"><i data-icon="bookmark"></i><span>收藏</span></button>
   </nav>
-  <div class="rail-bottom"><button class="rail-item" data-action="sources" title="数据与说明" aria-label="数据与说明"><i data-icon="info"></i><span>说明</span></button><span class="rail-version">v 1.4</span></div>
+  <div class="rail-bottom"><button class="rail-item" data-action="sources" title="数据与说明" aria-label="数据与说明"><i data-icon="info"></i><span>说明</span></button><span class="rail-version">v 1.5</span></div>
 </aside>
 <div class="shell">
   <header class="global-bar">
@@ -54,7 +54,7 @@
         <div class="aggregation-summary"><div id="sourceStatus" class="source-status"></div><div><span id="rankingStats">正在载入候选标题</span><button class="text-button" data-action="sources">排序说明 <i data-icon="info"></i></button></div></div><div class="news-filter"><div id="newsCategories" class="chip-group" role="group" aria-label="新闻分类"><button class="active" data-category="全部">全部</button><button data-category="政策">政策</button><button data-category="宏观">宏观</button><button data-category="行业">行业</button><button data-category="公司">公司</button><button data-category="海外">海外</button></div><div class="filter-second"><label><input id="importantOnly" type="checkbox">只看前 3</label><label class="sort-select"><i data-icon="sort"></i><select id="newsSort" aria-label="新闻排序"><option value="heat">平台热度</option><option value="desc">最新优先</option><option value="asc">时间顺序</option></select></label></div><div id="activeFilters" class="active-filters hidden"></div></div>
         <div class="news-count"><span>当日 TOP 20 <b id="newsCount" class="numeric">0</b> 条</span><button class="text-button" id="refreshNews"><i data-icon="refresh"></i>刷新</button></div>
         <div id="newsViewport" class="news-viewport" tabindex="0" aria-label="新闻时间线"><div id="newsCanvas"></div></div>
-        <div class="news-panel-footer"><i data-icon="checkCircle"></i><span id="newsFootnote">仅聚合标题 · 不转载内容</span><span class="numeric" id="newsFooterTime">—</span></div>
+        <div class="news-panel-footer"><i data-icon="checkCircle"></i><span id="newsFootnote">标题与来源摘要 · 点击打开原文</span><span class="numeric" id="newsFooterTime">—</span></div>
         <div class="daily-note"><span class="note-icon"><i data-icon="link"></i></span><div><strong>把消息和盘面连起来</strong><p>点击新闻查看相关板块，点击板块筛选关联资讯。</p></div></div>
       </section>
       <div class="review-column" id="reviewColumn">
@@ -70,7 +70,7 @@
         <section class="panel recap-panel" id="recapPanel" aria-labelledby="recapTitle"><div class="panel-heading"><div><h2 id="recapTitle"><i data-icon="file"></i>收盘结论 / 明日观察</h2><p>记录当时的判断，让复盘可以被回看</p></div><button class="icon-button" id="exportRecap" title="导出本日复盘" aria-label="导出本日复盘"><i data-icon="download"></i></button></div><div class="recap-headline"><span class="regime-tag" id="regimeTag">待确认</span><h3 id="recapHeadline">等待盘面事实记录</h3><div class="segmented" id="readingModes" role="group" aria-label="复盘阅读深度"><button class="active" data-reading="brief">要点</button><button data-reading="full">全文</button></div></div><div id="recapContent" class="recap-content"></div><div class="levels"><span>明日关注 <i data-icon="eye"></i></span><span>主线归因与关键位待复盘确认</span></div></section>
       </div>
     </div>
-    <footer class="page-footer"><div><a href="/" class="footer-brand">观市 <span>MARKET DAILY</span></a><p>保持独立思考，让每一次复盘都有价值。</p></div><div class="disclaimer"><p>新闻只聚合标题、来源和原文链接；行情由公开接口采样，可能存在延迟。</p><p>所有内容仅供信息展示与学习，不构成投资建议。正式数据可能存在延迟，请以交易所及权威来源为准。</p><button class="text-button" data-action="sources">数据来源与更新说明 <i data-icon="external"></i></button></div></footer>
+    <footer class="page-footer"><div><a href="/" class="footer-brand">观市 <span>MARKET DAILY</span></a><p>保持独立思考，让每一次复盘都有价值。</p></div><div class="disclaimer"><p>新闻聚合来源标题与独立短摘要；行情由公开接口采样，可能存在延迟。</p><p>所有内容仅供信息展示与学习，不构成投资建议。正式数据可能存在延迟，请以交易所及权威来源为准。</p><button class="text-button" data-action="sources">数据来源与更新说明 <i data-icon="external"></i></button></div></footer>
   </main>
 </div>
 <dialog id="detailDialog" class="detail-dialog"><div id="dialogContent"></div></dialog>
