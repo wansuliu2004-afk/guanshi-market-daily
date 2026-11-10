@@ -1,49 +1,11 @@
 {
   "date": "2026-11-10",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-09T16:48:32.819Z",
-  "lastSavedAt": "2026-11-10T15:29:33.201Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-11T02:38:59.983Z",
+  "sealedAt": "2026-11-10T16:32:24.603Z",
   "news": {
     "items": [
-      {
-        "id": "topic-dda81c47a9f759ce64ca",
-        "title": "Anthropic拟通过IPO和私募配售筹资至多904亿美元 有望超过SpaceX纪录",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3197671",
-        "summary": "财联社11月10日电，Anthropic PBC寻求在首次公开募股(IPO)中实现约1.4万亿美元的完全摊薄估值，力争成为首家上市的前沿人工智能实验室。这家Claude聊天机器人开发商及其部分股东寻求通过IPO和私募配售筹集至多904亿美元。根据周二提交给美国证券交易委员会的文…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-10T11:34:39.000Z",
-        "date": "2026-11-10",
-        "time": "19:34",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3197671"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2530653"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611103927537546.html"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 82.7,
-        "signals": {
-          "coverage": 35,
-          "engagement": 20.8,
-          "recency": 20.4,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 1,
-        "importance": "重磅"
-      },
       {
         "id": "topic-0148c99e3d7a44c7e6c6",
         "title": "阿里拟分拆平头哥赴港上市 估值或在200亿至300亿美元",
@@ -70,11 +32,49 @@
           }
         ],
         "sourceCount": 3,
-        "score": 81.1,
+        "score": 85.7,
         "signals": {
           "coverage": 35,
-          "engagement": 16.8,
-          "recency": 22.8,
+          "engagement": 22.4,
+          "recency": 21.8,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 1,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-dda81c47a9f759ce64ca",
+        "title": "Anthropic拟通过IPO和私募配售筹资至多904亿美元 有望超过SpaceX纪录",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3197671",
+        "summary": "财联社11月10日电，Anthropic PBC寻求在首次公开募股(IPO)中实现约1.4万亿美元的完全摊薄估值，力争成为首家上市的前沿人工智能实验室。这家Claude聊天机器人开发商及其部分股东寻求通过IPO和私募配售筹集至多904亿美元。根据周二提交给美国证券交易委员会的文…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-10T11:34:39.000Z",
+        "date": "2026-11-10",
+        "time": "19:34",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3197671"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2530653"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611103927537546.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 81.8,
+        "signals": {
+          "coverage": 35,
+          "engagement": 20.8,
+          "recency": 19.5,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -106,11 +106,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 78.9,
+        "score": 78.3,
         "signals": {
           "coverage": 35,
           "engagement": 29.3,
-          "recency": 14.6,
+          "recency": 14,
           "emphasis": 0
         },
         "category": "政策",
@@ -144,11 +144,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 78.8,
+        "score": 78,
         "signals": {
           "coverage": 35,
           "engagement": 24.7,
-          "recency": 19.1,
+          "recency": 18.3,
           "emphasis": 0
         },
         "category": "行业",
@@ -180,11 +180,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 78,
+        "score": 77.7,
         "signals": {
           "coverage": 35,
           "engagement": 29.1,
-          "recency": 7.3,
+          "recency": 7,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -214,11 +214,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 74.5,
+        "score": 73.6,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.3,
-          "recency": 21.2,
+          "recency": 20.3,
           "emphasis": 6.5
         },
         "category": "宏观",
@@ -248,11 +248,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 73.4,
+        "score": 72.6,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.7,
-          "recency": 19.7,
+          "recency": 18.9,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -282,11 +282,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 73.2,
+        "score": 72.4,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.1,
-          "recency": 20.1,
+          "recency": 19.3,
           "emphasis": 6.5
         },
         "category": "公司",
@@ -294,6 +294,42 @@
           "食品饮料"
         ],
         "rank": 8,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-e3266568ebe06876a48a",
+        "title": "贵金属价格波动，中国金币集团发布风险提示",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3197402",
+        "publishedAt": "2026-11-10T05:16:20.000Z",
+        "date": "2026-11-10",
+        "time": "13:16",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3197402"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2529965"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611103927214856.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 72.4,
+        "signals": {
+          "coverage": 35,
+          "engagement": 27.2,
+          "recency": 10.2,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 9,
         "importance": "关注"
       },
       {
@@ -322,47 +358,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 73,
+        "score": 72.1,
         "signals": {
           "coverage": 35,
-          "engagement": 19.3,
-          "recency": 18.7,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 9,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-e3266568ebe06876a48a",
-        "title": "贵金属价格波动，中国金币集团发布风险提示",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3197402",
-        "publishedAt": "2026-11-10T05:16:20.000Z",
-        "date": "2026-11-10",
-        "time": "13:16",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3197402"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2529965"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611103927214856.html"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 72.8,
-        "signals": {
-          "coverage": 35,
-          "engagement": 27.2,
-          "recency": 10.7,
+          "engagement": 19.2,
+          "recency": 18,
           "emphasis": 0
         },
         "category": "行业",
@@ -392,11 +392,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 72.1,
+        "score": 72,
         "signals": {
           "coverage": 17.5,
-          "engagement": 25,
-          "recency": 23.1,
+          "engagement": 25.9,
+          "recency": 22.1,
           "emphasis": 6.5
         },
         "category": "海外",
@@ -430,11 +430,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 71.9,
+        "score": 71.6,
         "signals": {
           "coverage": 35,
           "engagement": 28,
-          "recency": 8.9,
+          "recency": 8.5,
           "emphasis": 0
         },
         "category": "行业",
@@ -468,11 +468,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 71.7,
+        "score": 71.4,
         "signals": {
           "coverage": 35,
           "engagement": 29.3,
-          "recency": 7.3,
+          "recency": 7,
           "emphasis": 0
         },
         "category": "行业",
@@ -504,11 +504,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 71.1,
+        "score": 70.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29.3,
-          "recency": 17.8,
+          "engagement": 29.1,
+          "recency": 17.1,
           "emphasis": 6.5
         },
         "category": "宏观",
@@ -542,11 +542,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 70.8,
+        "score": 70.1,
         "signals": {
           "coverage": 35,
-          "engagement": 16.8,
-          "recency": 19,
+          "engagement": 16.9,
+          "recency": 18.2,
           "emphasis": 0
         },
         "category": "宏观",
@@ -576,120 +576,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 69.5,
+        "score": 68.7,
         "signals": {
           "coverage": 17.5,
           "engagement": 26.6,
-          "recency": 18.8,
+          "recency": 18,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
         "rank": 16,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-0f00c44a9e25d3fc3f7e",
-        "title": "美国12月加息50个基点概率升至15.3% CPI公布后市场开始定价更大幅度加息",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2530715",
-        "summary": "财联社11月10日电，CME美联储观察工具（FedWatch）显示，受美国10月CPI数据超预期影响，市场对美联储12月加息的预期进一步升温。12月加息50个基点的概率升至15.3%，前一日为0%；加息25个基点的概率为84.7%。目前市场定价美联储12月加息的概率达到100%。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-10T14:03:04.000Z",
-        "date": "2026-11-10",
-        "time": "22:03",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2530715"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://forex.eastmoney.com/a/202611103927619727.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 68,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 28.3,
-          "recency": 22.2,
-          "emphasis": 0
-        },
-        "category": "宏观",
-        "sectors": [],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-6a51f0b657651e7f6e77",
-        "title": "算力总规模位居世界第二 我国推进具身智能等领域数据标准制定",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3197725",
-        "summary": "记者从国家数据局了解到，今天，全国数据标准化技术委员会2026年第二次“标准周”活动在福建厦门举行。据相关负责人介绍，全国数据标准化技术委员会此次正式成立具身智能数据标准起草工作组及气象、卫生健康、电力、商务等4个行业应用标准起草工作组，加快推进“十五五”期间数据领域相关标准制…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-10T13:14:38.000Z",
-        "date": "2026-11-10",
-        "time": "21:14",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3197725"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611103927556239.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 68,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 29.8,
-          "recency": 20.7,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "人工智能"
-        ],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-d1555811b0b0082ed2fa",
-        "title": "华利集团：拟不超5亿美元投资光通信企业O-Net Technologies 取得后者不超过25%股权",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2530480",
-        "summary": "华利集团(300979.SZ)公告称，公司或全资子公司拟以自有资金不超过5亿美元投资O-NetTechnologiesGroupLimited，取得标的公司不超过25%股权。标的公司目前正在开展股权及组织架构重组。重组完成后，标的公司将成为全球业务控股平台，旗下企业主要于全球各…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-10T10:29:24.000Z",
-        "date": "2026-11-10",
-        "time": "18:29",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2530480"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611103927430527.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 67.8,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 27.3,
-          "recency": 16.5,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 19,
         "importance": "一般"
       },
       {
@@ -714,37 +610,141 @@
           }
         ],
         "sourceCount": 2,
-        "score": 67.7,
+        "score": 68.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 26,
-          "recency": 24.2,
+          "engagement": 27.8,
+          "recency": 23.2,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "半导体"
         ],
+        "rank": 17,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-0f00c44a9e25d3fc3f7e",
+        "title": "美国12月加息50个基点概率升至15.3% CPI公布后市场开始定价更大幅度加息",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2530715",
+        "summary": "财联社11月10日电，CME美联储观察工具（FedWatch）显示，受美国10月CPI数据超预期影响，市场对美联储12月加息的预期进一步升温。12月加息50个基点的概率升至15.3%，前一日为0%；加息25个基点的概率为84.7%。目前市场定价美联储12月加息的概率达到100%。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-10T14:03:04.000Z",
+        "date": "2026-11-10",
+        "time": "22:03",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2530715"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://forex.eastmoney.com/a/202611103927619727.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 67.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.3,
+          "recency": 21.3,
+          "emphasis": 0
+        },
+        "category": "宏观",
+        "sectors": [],
+        "rank": 18,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-6a51f0b657651e7f6e77",
+        "title": "算力总规模位居世界第二 我国推进具身智能等领域数据标准制定",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3197725",
+        "summary": "记者从国家数据局了解到，今天，全国数据标准化技术委员会2026年第二次“标准周”活动在福建厦门举行。据相关负责人介绍，全国数据标准化技术委员会此次正式成立具身智能数据标准起草工作组及气象、卫生健康、电力、商务等4个行业应用标准起草工作组，加快推进“十五五”期间数据领域相关标准制…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-10T13:14:38.000Z",
+        "date": "2026-11-10",
+        "time": "21:14",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3197725"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611103927556239.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 67.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.8,
+          "recency": 19.9,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 19,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-d1555811b0b0082ed2fa",
+        "title": "华利集团：拟不超5亿美元投资光通信企业O-Net Technologies 取得后者不超过25%股权",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2530480",
+        "summary": "华利集团(300979.SZ)公告称，公司或全资子公司拟以自有资金不超过5亿美元投资O-NetTechnologiesGroupLimited，取得标的公司不超过25%股权。标的公司目前正在开展股权及组织架构重组。重组完成后，标的公司将成为全球业务控股平台，旗下企业主要于全球各…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-10T10:29:24.000Z",
+        "date": "2026-11-10",
+        "time": "18:29",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2530480"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611103927430527.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 67.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 27.3,
+          "recency": 15.8,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-10T15:29:17.533Z",
-    "collectedAt": "2026-11-10T15:29:17.533Z",
-    "latestPublishedAt": "2026-11-10T15:27:00.000Z",
-    "totalCandidates": 1284,
-    "financeCandidates": 876,
+    "asOf": "2026-11-11T02:38:41.006Z",
+    "collectedAt": "2026-11-11T02:38:41.006Z",
+    "latestPublishedAt": "2026-11-10T15:56:01.000Z",
+    "totalCandidates": 1304,
+    "financeCandidates": 884,
     "sources": [
       {
         "id": "cls",
         "name": "财联社",
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
-        "status": "ok",
-        "checkedAt": "2026-11-10T15:29:17.533Z",
-        "lastSuccessAt": "2026-11-10T15:29:17.533Z",
-        "count": 10,
-        "message": "提取标题、可用来源摘要及原文链接"
+        "status": "error",
+        "checkedAt": "2026-11-11T02:38:41.006Z",
+        "lastSuccessAt": "2026-11-11T02:32:19.054Z",
+        "count": 0,
+        "message": "fetch failed"
       },
       {
         "id": "eastmoney",
@@ -752,8 +752,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-10T15:29:17.533Z",
-        "lastSuccessAt": "2026-11-10T15:29:17.533Z",
+        "checkedAt": "2026-11-11T02:38:41.006Z",
+        "lastSuccessAt": "2026-11-11T02:38:41.006Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -763,9 +763,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-10T15:29:17.533Z",
-        "lastSuccessAt": "2026-11-10T15:29:17.533Z",
-        "count": 56,
+        "checkedAt": "2026-11-11T02:38:41.006Z",
+        "lastSuccessAt": "2026-11-11T02:38:41.006Z",
+        "count": 35,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -774,8 +774,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-10T15:29:17.533Z",
-        "lastSuccessAt": "2026-11-10T15:29:17.533Z",
+        "checkedAt": "2026-11-11T02:38:41.006Z",
+        "lastSuccessAt": "2026-11-11T02:38:41.006Z",
         "count": 2,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -793,7 +793,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-10",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-10T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-10",
@@ -1020,36 +1021,52 @@
       {
         "id": "sp",
         "name": "标普 500",
-        "code": "SPX · 隔夜",
+        "code": "SPX",
         "category": "全球",
-        "value": "7,515.88",
-        "rawValue": 7515.88,
-        "change": -0.45,
-        "time": "23:28:59",
-        "asOf": "2026-11-10T15:28:59.000Z",
-        "source": "腾讯财经",
-        "status": "quoted",
-        "trend": [],
-        "turnoverYuan": null,
         "group": "美股",
-        "sourceUrl": "https://gu.qq.com/us.INX"
+        "rawValue": 7549.94,
+        "value": "7,549.94",
+        "change": 2.35,
+        "previousClose": 7376.86,
+        "quoteDate": "2026-11-09",
+        "tradeDate": "2026-11-09",
+        "exchangeQuoteDate": "2026-11-09",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-09 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.INX",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连"
       },
       {
         "id": "nas",
         "name": "纳斯达克",
-        "code": "IXIC · 隔夜",
+        "code": "IXIC",
         "category": "全球",
-        "value": "25,145.65",
-        "rawValue": 25145.65,
-        "change": -0.43,
-        "time": "23:28:59",
-        "asOf": "2026-11-10T15:28:59.000Z",
-        "source": "腾讯财经",
-        "status": "quoted",
-        "trend": [],
-        "turnoverYuan": null,
         "group": "美股",
-        "sourceUrl": "https://gu.qq.com/us.IXIC"
+        "rawValue": 25253.14,
+        "value": "25,253.14",
+        "change": 2.74,
+        "previousClose": 24579.42,
+        "quoteDate": "2026-11-09",
+        "tradeDate": "2026-11-09",
+        "exchangeQuoteDate": "2026-11-09",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-09 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.IXIC",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连"
       },
       {
         "id": "hs300",
@@ -1156,19 +1173,27 @@
       {
         "id": "dji",
         "name": "道琼斯",
-        "code": "DJI · 隔夜",
+        "code": "DJI",
         "category": "全球",
-        "value": "52,127.95",
-        "rawValue": 52127.95,
-        "change": -0.5,
-        "time": "23:28:59",
-        "asOf": "2026-11-10T15:28:59.000Z",
-        "source": "腾讯财经",
-        "status": "quoted",
-        "trend": [],
-        "turnoverYuan": null,
         "group": "美股",
-        "sourceUrl": "https://gu.qq.com/us.DJI"
+        "rawValue": 52389.75,
+        "value": "52,389.75",
+        "change": 2.15,
+        "previousClose": 51285.73,
+        "quoteDate": "2026-11-09",
+        "tradeDate": "2026-11-09",
+        "exchangeQuoteDate": "2026-11-09",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-09 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.DJI",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连"
       },
       {
         "id": "oil",
@@ -4077,6 +4102,12 @@
         "name": "东方财富全 A 股情绪",
         "status": "ok",
         "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      },
+      {
+        "id": "overnight",
+        "name": "腾讯财经 · 隔夜日 K 收盘",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T06:58:53.089Z"
       }
     ],
     "limitThemes": [
@@ -4342,6 +4373,22 @@
         "name": "东方财富 · 涨停板池",
         "url": "https://quote.eastmoney.com/ztb/detail#type=ztgc"
       }
+    },
+    "overnight": {
+      "policy": "previous-us-session-close",
+      "aShareDate": "2026-11-10",
+      "usTradeDate": "2026-11-09",
+      "status": "locked",
+      "lockedAt": "2026-11-11T06:58:53.089Z"
     }
-  }
+  },
+  "cutoffAt": "2026-11-10T16:00:00.000Z",
+  "dayEnd": {
+    "cutoffAt": "2026-11-10T16:00:00.000Z",
+    "completedAt": "2026-11-11T02:38:59.983Z",
+    "newsCollectedAt": "2026-11-11T02:38:41.006Z",
+    "marketCollectedAt": "2026-11-10T15:29:17.586Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
+  },
+  "marketPolicyUpdatedAt": "2026-11-11T06:58:55.371Z"
 }

@@ -1,86 +1,87 @@
 {
+  "appVersion": "1.8.1",
   "mode": "scheduled-static",
-  "intervalSeconds": 1800,
-  "state": "running",
-  "lastCycleAt": "2026-11-10T15:29:34.482Z",
-  "publishedAt": "2026-11-10T15:29:34.482Z",
-  "nextRunAt": "2026-11-10T15:47:00.000Z",
-  "message": "GitHub Actions 云端计划每 30 分钟采集；可能排队或延迟。个人电脑关机不影响网页访问与云端任务。",
+  "intervalSeconds": 300,
+  "state": "degraded",
+  "lastCycleAt": "2026-11-11T15:18:25.195Z",
+  "publishedAt": "2026-11-11T15:18:25.195Z",
+  "nextRunAt": "2026-11-11T15:22:00.000Z",
+  "message": "GitHub Actions 云端每 5 分钟计划触发；平台可能延迟或跳过。网页每 30 秒自动检查新发布数据，延迟会明确提示，无需手动刷新。",
   "sources": [
     {
       "name": "财联社",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.533Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.706Z"
     },
     {
       "name": "东方财富",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.533Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.706Z"
     },
     {
       "name": "华尔街见闻",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.533Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.706Z"
     },
     {
       "name": "央视新闻联播",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.533Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.706Z"
     },
     {
       "name": "腾讯财经",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "腾讯财经分钟线",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "东方财富跨市场",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "东方财富分时",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "东方财富日 K",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "东方财富板块",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "东方财富涨停池",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "东方财富跌停池",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "东方财富炸板池",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "东方财富国债收益率",
       "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "lastSuccessAt": "2026-11-11T15:18:12.761Z"
     },
     {
       "name": "东方财富全 A 股情绪",
-      "status": "ok",
-      "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      "status": "error",
+      "lastSuccessAt": "2026-11-11T10:28:38.129Z"
     }
   ],
   "errors": []

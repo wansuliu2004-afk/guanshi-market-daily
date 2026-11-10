@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-11-09",
   "createdAt": "2026-11-10T11:28:51.231Z",
-  "updatedAt": "2026-11-10T13:32:32.609Z",
+  "updatedAt": "2026-11-11T06:58:55.374Z",
   "finalizedAt": "2026-11-10T11:28:51.231Z",
   "status": "final",
   "news": {
@@ -789,7 +789,8 @@
     "finalizedAt": "2026-11-10T11:28:51.231Z",
     "mode": "daily",
     "legacy": false,
-    "coverageStart": "2026-11-09T07:25:50.161Z"
+    "coverageStart": "2026-11-09T07:25:50.161Z",
+    "cutoffAt": "2026-11-09T16:00:00.000Z"
   },
   "close": {
     "capturedAt": "2026-11-10T11:28:51.231Z",
@@ -4018,7 +4019,7 @@
   },
   "closeStatus": "closed",
   "closeMessage": "A 股收盘盘面已独立保存；后续实时行情不覆盖该快照",
-  "scope": "新闻覆盖北京时间当日全部已采集标题；盘面以 A 股收盘为基准。全日新闻跨日后首轮任务定稿，收盘盘面独立锁定。",
+  "scope": "全日统计截至北京时间当日24:00，跨日补采后固定新闻榜单；A 股收盘盘面独立锁定，美股固定绑定此前最近已完成交易日收盘，其他市场标注各自来源日期与时间。",
   "marketOverview": {
     "date": "2026-11-09",
     "collectedAt": "2026-11-09T15:42:10.841Z",
@@ -4237,40 +4238,6 @@
         "group": "港股"
       },
       {
-        "id": "sp",
-        "name": "标普 500",
-        "code": "SPX · 隔夜",
-        "category": "全球",
-        "value": "7,518.10",
-        "rawValue": 7518.1,
-        "change": 1.91,
-        "time": "23:42:00",
-        "asOf": "2026-11-09T15:42:00.000Z",
-        "source": "腾讯财经",
-        "status": "quoted",
-        "trend": [],
-        "turnoverYuan": null,
-        "sourceUrl": "https://gu.qq.com/us.INX",
-        "group": "美股"
-      },
-      {
-        "id": "nas",
-        "name": "纳斯达克",
-        "code": "IXIC · 隔夜",
-        "category": "全球",
-        "value": "25,156.70",
-        "rawValue": 25156.7,
-        "change": 2.35,
-        "time": "23:42:00",
-        "asOf": "2026-11-09T15:42:00.000Z",
-        "source": "腾讯财经",
-        "status": "quoted",
-        "trend": [],
-        "turnoverYuan": null,
-        "sourceUrl": "https://gu.qq.com/us.IXIC",
-        "group": "美股"
-      },
-      {
         "id": "oil",
         "name": "布伦特原油",
         "code": "USD / 桶 · 期货",
@@ -4362,6 +4329,93 @@
         "asOf": null,
         "sourceUrl": "https://data.eastmoney.com/cjsj/zmgzsyl.html",
         "group": "利率"
+      },
+      {
+        "id": "sp",
+        "name": "标普 500",
+        "code": "SPX",
+        "category": "全球",
+        "group": "美股",
+        "rawValue": 7376.86,
+        "value": "7,376.86",
+        "change": 0.31,
+        "previousClose": 7353.73,
+        "quoteDate": "2026-11-06",
+        "tradeDate": "2026-11-06",
+        "exchangeQuoteDate": "2026-11-06",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-06 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.INX",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-06",
+        "exchangeQuoteTime": null,
+        "sessionLabel": "隔夜收盘"
+      },
+      {
+        "id": "nas",
+        "name": "纳斯达克",
+        "code": "IXIC",
+        "category": "全球",
+        "group": "美股",
+        "rawValue": 24579.42,
+        "value": "24,579.42",
+        "change": 1.09,
+        "previousClose": 24315,
+        "quoteDate": "2026-11-06",
+        "tradeDate": "2026-11-06",
+        "exchangeQuoteDate": "2026-11-06",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-06 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.IXIC",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-06",
+        "exchangeQuoteTime": null,
+        "sessionLabel": "隔夜收盘"
+      },
+      {
+        "id": "dji",
+        "name": "道琼斯",
+        "code": "DJI",
+        "category": "全球",
+        "group": "美股",
+        "rawValue": 51285.73,
+        "value": "51,285.73",
+        "change": -0.46,
+        "previousClose": 51523.06,
+        "quoteDate": "2026-11-06",
+        "tradeDate": "2026-11-06",
+        "exchangeQuoteDate": "2026-11-06",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-06 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.DJI",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-06",
+        "exchangeQuoteTime": null,
+        "sessionLabel": "隔夜收盘"
       }
     ],
     "sources": [
@@ -4418,8 +4472,22 @@
         "name": "东方财富炸板池",
         "status": "ok",
         "lastSuccessAt": "2026-11-09T15:42:10.841Z"
+      },
+      {
+        "id": "overnight",
+        "name": "腾讯财经 · 隔夜日 K 收盘",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T06:58:53.089Z"
       }
     ],
-    "scope": "A 股显示当日留存报价，其他市场显示当日最后留存、隔夜或日度数据；以各卡片原始报价日期为准，不代表同一时点收盘。"
-  }
+    "scope": "以 A 股日期为主键：美股固定绑定此前最近已完成交易日的日 K 收盘，保存后不改写；其他市场保留各自来源日期与时间。",
+    "overnight": {
+      "policy": "previous-us-session-close",
+      "aShareDate": "2026-11-09",
+      "usTradeDate": "2026-11-06",
+      "status": "locked",
+      "lockedAt": "2026-11-11T06:58:53.089Z"
+    }
+  },
+  "cutoffAt": "2026-11-09T16:00:00.000Z"
 }

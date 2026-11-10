@@ -1,12 +1,15 @@
 {
-  "version": 2,
+  "version": 3,
   "date": "2026-11-10",
+  "cutoffAt": "2026-11-10T16:00:00.000Z",
+  "dayEndCompletedAt": "2026-11-11T02:38:59.983Z",
   "createdAt": "2026-11-10T11:28:51.231Z",
-  "updatedAt": "2026-11-10T15:29:34.493Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-11T06:58:55.374Z",
+  "finalizedAt": "2026-11-10T16:32:40.047Z",
+  "status": "final",
   "news": {
     "date": "2026-11-10",
+    "cutoffAt": "2026-11-10T16:00:00.000Z",
     "items": [
       {
         "id": "topic-75b12af483735e424b1c",
@@ -83,41 +86,6 @@
         "importance": "重磅"
       },
       {
-        "id": "topic-aeeb2049c911125ca472",
-        "title": "美国劳工统计局将不公布10月CPI同比数据 受去年政府停摆影响",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3197666",
-        "summary": "美国劳工统计局表示，受去年政府停摆影响，将不公布10月CPI同比数据。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-10T11:25:36.000Z",
-        "date": "2026-11-10",
-        "time": "19:25",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3197666"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611103927464234.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 73.2,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 24.4,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 15
-        },
-        "category": "宏观",
-        "sectors": [],
-        "rank": 3,
-        "importance": "重磅"
-      },
-      {
         "id": "topic-d2460ed4ad4cb0770132",
         "title": "美国10月核心CPI环比增长0.3% 高于市场预期",
         "source": "财联社",
@@ -149,7 +117,81 @@
         },
         "category": "宏观",
         "sectors": [],
+        "rank": 3,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-aeeb2049c911125ca472",
+        "title": "美国劳工统计局将不公布10月CPI同比数据 受去年政府停摆影响",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3197666",
+        "summary": "美国劳工统计局表示，受去年政府停摆影响，将不公布10月CPI同比数据。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-10T11:25:36.000Z",
+        "date": "2026-11-10",
+        "time": "19:25",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3197666"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611103927464234.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 73,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.2,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 15
+        },
+        "category": "宏观",
+        "sectors": [],
         "rank": 4,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-0148c99e3d7a44c7e6c6",
+        "title": "阿里拟分拆平头哥赴港上市 估值或在200亿至300亿美元",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3197749",
+        "summary": "财联社11月10日电，阿里巴巴公告称，拟分拆全资子公司平头哥（上海）技术股份有限公司赴香港联交所主板独立上市。一名专业投资机构人士在接受记者采访时，对平头哥给出的估值为200亿至300亿美元。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-10T14:20:36.000Z",
+        "date": "2026-11-10",
+        "time": "22:20",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3197749"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2530728"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611103927643935.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 72.9,
+        "signals": {
+          "coverage": 35,
+          "engagement": 18.6,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 5,
         "importance": "关注"
       },
       {
@@ -172,7 +214,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 72.3,
+        "score": 72.4,
         "signals": {
           "coverage": 17.5,
           "engagement": 23.6,
@@ -182,7 +224,7 @@
         },
         "category": "政策",
         "sectors": [],
-        "rank": 5,
+        "rank": 6,
         "importance": "关注"
       },
       {
@@ -214,46 +256,7 @@
         "score": 71.6,
         "signals": {
           "coverage": 35,
-          "engagement": 17.4,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 6,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-0148c99e3d7a44c7e6c6",
-        "title": "阿里拟分拆平头哥赴港上市 估值或在200亿至300亿美元",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3197749",
-        "summary": "财联社11月10日电，阿里巴巴公告称，拟分拆全资子公司平头哥（上海）技术股份有限公司赴香港联交所主板独立上市。一名专业投资机构人士在接受记者采访时，对平头哥给出的估值为200亿至300亿美元。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-10T14:20:36.000Z",
-        "date": "2026-11-10",
-        "time": "22:20",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3197749"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2530728"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611103927643935.html"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 68.2,
-        "signals": {
-          "coverage": 35,
-          "engagement": 14,
+          "engagement": 17.3,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -690,10 +693,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 57.6,
+        "score": 58.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 20.8,
+          "engagement": 21.6,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -741,21 +744,22 @@
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-10T15:29:17.533Z",
-    "collectedAt": "2026-11-10T15:29:17.533Z",
-    "totalCandidates": 1284,
-    "financeCandidates": 876,
+    "asOf": "2026-11-11T02:38:41.006Z",
+    "collectedAt": "2026-11-11T02:38:41.006Z",
+    "latestPublishedAt": "2026-11-10T15:56:01.000Z",
+    "totalCandidates": 1304,
+    "financeCandidates": 884,
     "sources": [
       {
         "id": "cls",
         "name": "财联社",
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
-        "status": "ok",
-        "checkedAt": "2026-11-10T15:29:17.533Z",
-        "lastSuccessAt": "2026-11-10T15:29:17.533Z",
-        "count": 10,
-        "message": "提取标题、可用来源摘要及原文链接"
+        "status": "error",
+        "checkedAt": "2026-11-11T02:38:41.006Z",
+        "lastSuccessAt": "2026-11-11T02:32:19.054Z",
+        "count": 0,
+        "message": "fetch failed"
       },
       {
         "id": "eastmoney",
@@ -763,8 +767,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-10T15:29:17.533Z",
-        "lastSuccessAt": "2026-11-10T15:29:17.533Z",
+        "checkedAt": "2026-11-11T02:38:41.006Z",
+        "lastSuccessAt": "2026-11-11T02:38:41.006Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -774,9 +778,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-10T15:29:17.533Z",
-        "lastSuccessAt": "2026-11-10T15:29:17.533Z",
-        "count": 56,
+        "checkedAt": "2026-11-11T02:38:41.006Z",
+        "lastSuccessAt": "2026-11-11T02:38:41.006Z",
+        "count": 35,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -785,8 +789,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-10T15:29:17.533Z",
-        "lastSuccessAt": "2026-11-10T15:29:17.533Z",
+        "checkedAt": "2026-11-11T02:38:41.006Z",
+        "lastSuccessAt": "2026-11-11T02:38:41.006Z",
         "count": 2,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -802,8 +806,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-11T02:38:59.986Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-09T18:05:36.782Z"
@@ -4308,40 +4312,6 @@
         "sourceUrl": "https://gu.qq.com/hkHSI"
       },
       {
-        "id": "sp",
-        "name": "标普 500",
-        "code": "SPX · 隔夜",
-        "category": "全球",
-        "value": "7,515.88",
-        "rawValue": 7515.88,
-        "change": -0.45,
-        "time": "23:28:59",
-        "asOf": "2026-11-10T15:28:59.000Z",
-        "source": "腾讯财经",
-        "status": "quoted",
-        "trend": [],
-        "turnoverYuan": null,
-        "group": "美股",
-        "sourceUrl": "https://gu.qq.com/us.INX"
-      },
-      {
-        "id": "nas",
-        "name": "纳斯达克",
-        "code": "IXIC · 隔夜",
-        "category": "全球",
-        "value": "25,145.65",
-        "rawValue": 25145.65,
-        "change": -0.43,
-        "time": "23:28:59",
-        "asOf": "2026-11-10T15:28:59.000Z",
-        "source": "腾讯财经",
-        "status": "quoted",
-        "trend": [],
-        "turnoverYuan": null,
-        "group": "美股",
-        "sourceUrl": "https://gu.qq.com/us.IXIC"
-      },
-      {
         "id": "hs300",
         "name": "沪深 300",
         "code": "000300.SH",
@@ -4444,23 +4414,6 @@
         "sourceUrl": "https://gu.qq.com/hkHSTECH"
       },
       {
-        "id": "dji",
-        "name": "道琼斯",
-        "code": "DJI · 隔夜",
-        "category": "全球",
-        "value": "52,127.95",
-        "rawValue": 52127.95,
-        "change": -0.5,
-        "time": "23:28:59",
-        "asOf": "2026-11-10T15:28:59.000Z",
-        "source": "腾讯财经",
-        "status": "quoted",
-        "trend": [],
-        "turnoverYuan": null,
-        "group": "美股",
-        "sourceUrl": "https://gu.qq.com/us.DJI"
-      },
-      {
         "id": "oil",
         "name": "布伦特原油",
         "code": "USD / 桶 · 期货",
@@ -4555,6 +4508,93 @@
         "trend": [],
         "group": "利率",
         "sourceUrl": "https://data.eastmoney.com/cjsj/zmgzsyl.html"
+      },
+      {
+        "id": "sp",
+        "name": "标普 500",
+        "code": "SPX",
+        "category": "全球",
+        "group": "美股",
+        "rawValue": 7549.94,
+        "value": "7,549.94",
+        "change": 2.35,
+        "previousClose": 7376.86,
+        "quoteDate": "2026-11-09",
+        "tradeDate": "2026-11-09",
+        "exchangeQuoteDate": "2026-11-09",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-09 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.INX",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-09",
+        "exchangeQuoteTime": null,
+        "sessionLabel": "隔夜收盘"
+      },
+      {
+        "id": "nas",
+        "name": "纳斯达克",
+        "code": "IXIC",
+        "category": "全球",
+        "group": "美股",
+        "rawValue": 25253.14,
+        "value": "25,253.14",
+        "change": 2.74,
+        "previousClose": 24579.42,
+        "quoteDate": "2026-11-09",
+        "tradeDate": "2026-11-09",
+        "exchangeQuoteDate": "2026-11-09",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-09 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.IXIC",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-09",
+        "exchangeQuoteTime": null,
+        "sessionLabel": "隔夜收盘"
+      },
+      {
+        "id": "dji",
+        "name": "道琼斯",
+        "code": "DJI",
+        "category": "全球",
+        "group": "美股",
+        "rawValue": 52389.75,
+        "value": "52,389.75",
+        "change": 2.15,
+        "previousClose": 51285.73,
+        "quoteDate": "2026-11-09",
+        "tradeDate": "2026-11-09",
+        "exchangeQuoteDate": "2026-11-09",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-09 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.DJI",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-09",
+        "exchangeQuoteTime": null,
+        "sessionLabel": "隔夜收盘"
       }
     ],
     "sources": [
@@ -4623,10 +4663,23 @@
         "name": "东方财富全 A 股情绪",
         "status": "ok",
         "lastSuccessAt": "2026-11-10T15:29:17.586Z"
+      },
+      {
+        "id": "overnight",
+        "name": "腾讯财经 · 隔夜日 K 收盘",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T06:58:53.089Z"
       }
     ],
-    "scope": "A 股显示当日留存报价，其他市场显示当日最后留存、隔夜或日度数据；以各卡片原始报价日期为准，不代表同一时点收盘。"
+    "scope": "以 A 股日期为主键：美股固定绑定此前最近已完成交易日的日 K 收盘，保存后不改写；其他市场保留各自来源日期与时间。",
+    "overnight": {
+      "policy": "previous-us-session-close",
+      "aShareDate": "2026-11-10",
+      "usTradeDate": "2026-11-09",
+      "status": "locked",
+      "lockedAt": "2026-11-11T06:58:53.089Z"
+    }
   },
   "closeMessage": "A 股收盘盘面已独立保存；后续实时行情不覆盖该快照",
-  "scope": "新闻覆盖北京时间当日全部已采集标题；A 股收盘盘面独立锁定，市场概览保留各市场当日最后留存报价。全日新闻与市场概览跨日后首轮任务定稿。"
+  "scope": "全日统计截至北京时间当日24:00，跨日补采后固定新闻榜单；A 股收盘盘面独立锁定，美股固定绑定此前最近已完成交易日收盘，其他市场标注各自来源日期与时间。"
 }

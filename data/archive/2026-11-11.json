@@ -1,0 +1,4450 @@
+{
+  "date": "2026-11-11",
+  "cutoffAt": "2026-11-11T16:00:00.000Z",
+  "status": "collecting",
+  "firstSavedAt": "2026-11-10T16:32:40.046Z",
+  "lastSavedAt": "2026-11-11T15:18:22.721Z",
+  "sealedAt": null,
+  "news": {
+    "items": [
+      {
+        "id": "topic-06cb3dd3dc942b91d587",
+        "title": "中国船舶：全资子公司签订20艘VLCC原油轮建造合同，总金额约172亿元",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198361",
+        "summary": "财联社11月11日电，中国船舶(600150.SH)公告称，公司全资子公司大连造船联合中船贸易与中远海能下属海南海能、中远海发下属东方富利签订总计20艘30.7万吨级VLCC型原油轮建造合同。其中海南海能4艘合同金额37.93亿元(含税)，东方富利16艘合同金额134.25亿元…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T10:26:43.000Z",
+        "date": "2026-11-11",
+        "time": "18:26",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198361"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531710"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928518396.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 86,
+        "signals": {
+          "coverage": 35,
+          "engagement": 27.8,
+          "recency": 16.7,
+          "emphasis": 6.5
+        },
+        "category": "公司",
+        "sectors": [],
+        "rank": 1,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-b192a1ac9fb7bbd8180a",
+        "title": "费城半导体指数开盘大涨4.5% 收复11月5日暴跌的12%的全部跌幅",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531959",
+        "summary": "财联社11月11日电，费城半导体指数开盘大涨4.5%。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T14:31:30.000Z",
+        "date": "2026-11-11",
+        "time": "22:31",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531959"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://global.eastmoney.com/a/202611113928747741.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 75.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 27.8,
+          "recency": 23.4,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 2,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-1be3525e07a58dd3b439",
+        "title": "江苏首部人工智能专项地方性法规在苏州出台",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531213",
+        "summary": "财联社11月11日电，今天（11月11日）上午，2026江苏人工智能创新发展大会暨第二届人工智能OPC大会上介绍，《苏州市人工智能产业发展和应用促进条例》（简称《条例》）将于12月1日起正式施行。这是江苏省首部人工智能专项地方性法规，也是全国首部地级市人工智能地方性法规。在要素…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T04:53:04.000Z",
+        "date": "2026-11-11",
+        "time": "12:53",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531213"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928272950.html"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198115"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 73.8,
+        "signals": {
+          "coverage": 35,
+          "engagement": 28.3,
+          "recency": 10.5,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 3,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-e11e986433fad871be6e",
+        "title": "财政部：全链条依法重拳惩治财务报表和审计违法违规行为",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198232",
+        "summary": "财联社11月11日电，财政部会计司司长林启云在财政部新闻发布会上表示，“十五五”时期将更加注重法治与监督，财会监督体系是重要抓手。一方面把尺子打准，系统推进会计准则等标准，加快完善注册会计师行业配套制度；另一方面把规矩守严，建设协同高效的会计监督体系，全链条依法重拳惩治财务报表…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T07:21:05.000Z",
+        "date": "2026-11-11",
+        "time": "15:21",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198232"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531435"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928369748.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 73.2,
+        "signals": {
+          "coverage": 35,
+          "engagement": 25.3,
+          "recency": 12.9,
+          "emphasis": 0
+        },
+        "category": "政策",
+        "sectors": [],
+        "rank": 4,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-6744faff21babd118136",
+        "title": "新易盛：预计未来毛利率水平可保持相对稳定",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198109",
+        "summary": "财联社11月11日电，新易盛在互动平台表示，结合未来的行业指引及订单预期，公司已进行了充分的原材料及产能准备，以满足日益增长的订单交付需求，公司预计未来毛利率水平可保持相对稳定。成都与泰国工厂均在大规模扩产，目前客户需求旺盛，订单交付正常。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T04:18:05.000Z",
+        "date": "2026-11-11",
+        "time": "12:18",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198109"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531189"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928267864.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 72.6,
+        "signals": {
+          "coverage": 35,
+          "engagement": 27.6,
+          "recency": 10,
+          "emphasis": 0
+        },
+        "category": "宏观",
+        "sectors": [
+          "银行"
+        ],
+        "rank": 5,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-34d4f456b46d068b3031",
+        "title": "纳斯达克指数高开1.5% 资金重返AI板块 芯片半导体股票明显上涨",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531960",
+        "summary": "美股开盘三大指数集体上涨，道琼斯指数涨0.18%，标普500指数涨0.96%，纳斯达克综合指数涨1.53%。 热门股票中，苹果股价上涨0.7%，英伟达股价上涨2.63%，微软股价下跌0.26%，谷歌-A股价上涨0.96%，亚马逊股价上涨1.39%，台积电股价上涨4.4%，Spa…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T14:31:01.000Z",
+        "date": "2026-11-11",
+        "time": "22:31",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531960"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928745586.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 72.4,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 25,
+          "recency": 23.4,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [
+          "半导体",
+          "人工智能"
+        ],
+        "rank": 6,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-937a7011a364092878f5",
+        "title": "m9因品质问题被英伟达取消订货？生益科技：未接到任何终端取消订单的通知",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198385",
+        "summary": "有投资者问，今天有消息说，公司的m9因为品质问题，被英伟达取消了订货。生益科技在互动平台表示，公司未接到任何终端取消订单的通知，目前生产经营情况正常，订单饱满（对于近期网络流传的相关说法，公司对其来源与用意不予置评）。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-11T10:52:50.000Z",
+        "date": "2026-11-11",
+        "time": "18:52",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198385"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928533260.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 70.9,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.6,
+          "recency": 17.3,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 7,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-1ea7f89f3e0db3ff888f",
+        "title": "报道：印度政府禁止出口未分类的电池废物和废碎料",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198273",
+        "summary": "财联社11月11日电，印度政府周二宣布，立即禁止出口不含铅、镉或汞的原电池、电池和蓄电池的未分类废物及废碎料。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T08:15:30.000Z",
+        "date": "2026-11-11",
+        "time": "16:15",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198273"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531524"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928424561.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 70.8,
+        "signals": {
+          "coverage": 35,
+          "engagement": 15.4,
+          "recency": 14,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 8,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-106ca0db7ddecb5690ce",
+        "title": "中国央行：用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198352",
+        "summary": "央行发布2026年第三季度中国货币政策执行报告，下一阶段货币政策主要思路：积极稳妥防范化解金融风险。构建覆盖全面的宏观审慎管理体系，完善系统性金融风险防范处置机制。拓展丰富中央银行宏观审慎与金融稳定功能，丰富完善工具箱，加力实施支持资本市场的两项货币政策工具，用好债市非银大额赎…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-11T10:11:07.000Z",
+        "date": "2026-11-11",
+        "time": "18:11",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198352"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928506743.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 70.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.8,
+          "recency": 16.3,
+          "emphasis": 6.5
+        },
+        "category": "政策",
+        "sectors": [],
+        "rank": 9,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-4e4e328670ca32824889",
+        "title": "“路条”稀缺 承诺加码 A股破产重整“门槛”抬高",
+        "source": "东方财富",
+        "sourceId": "eastmoney",
+        "sourceUrl": "http://finance.eastmoney.com/a/202611113927717485.html",
+        "summary": "A股上市公司破产重整的“路条”，正变得愈发稀缺。截至11月9日，年内被法院裁定受理破产重整的A股上市公司仅有3家，分别为*ST华闻、*ST西发与*ST中基。上年同期，这一数字为9家。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-10T22:40:57.000Z",
+        "date": "2026-11-11",
+        "time": "06:40",
+        "relatedSources": [
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113927717485.html"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2530859"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3197957"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 69.5,
+        "signals": {
+          "coverage": 35,
+          "engagement": 28.3,
+          "recency": 6.3,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 10,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-f09db5f1a5c1c2ff47a0",
+        "title": "商务部：继续推进与非洲建交国商签共同发展经济伙伴关系协定",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531109",
+        "summary": "财联社11月11日电，国家发展改革委召开奋进“十五五”系列新闻发布会，介绍共建“一带一路”有关情况。商务部综合司一级巡视员宋立洪表示，“十五五”时期，商务部将从多方面着手，与共建“一带一路”国家一道完善国际经贸规则，进一步推动和保障共建“一带一路”高质量发展。将扩大面向全球的自…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T02:51:05.000Z",
+        "date": "2026-11-11",
+        "time": "10:51",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531109"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928239613.html"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198079"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 69.4,
+        "signals": {
+          "coverage": 35,
+          "engagement": 25.5,
+          "recency": 8.9,
+          "emphasis": 0
+        },
+        "category": "宏观",
+        "sectors": [],
+        "rank": 11,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-64b1ee56b79404b24963",
+        "title": "韩国金融委将于13日举行座谈会 讨论资本市场相关问题",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198328",
+        "summary": "据报道，韩国政府将于11月13日在韩国交易所举行座谈会，讨论资本市场相关问题。韩国金融投资业界11日消息称，韩国金融委员会计划于13日在首尔汝矣岛的韩国交易所举行资本市场座谈会。预计本次会议将讨论资本市场的关键议题，包括提升企业价值和振兴韩国KOSDAQ市场的措施。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-11T09:41:34.000Z",
+        "date": "2026-11-11",
+        "time": "17:41",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198328"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928491454.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 68.4,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.8,
+          "recency": 15.7,
+          "emphasis": 6.5
+        },
+        "category": "海外",
+        "sectors": [],
+        "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-5fb2b0397b858efdffab",
+        "title": "16天9板文投控股：AI漫剧相关业务收入占营业收入的比例约为2.57%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531690",
+        "summary": "财联社11月11日电，文投控股(600715.SH)公告称，截至2026年第三季度，公司AI漫剧相关业务收入占公司营业收入的比例约为2.57%（未经审计），占比仍然较小。AI漫剧业务受剧本内容质量、受众题材偏好、平台审核及分发政策、AI制作技术成熟度等多方面因素综合影响，存在在…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T10:05:40.000Z",
+        "date": "2026-11-11",
+        "time": "18:05",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531690"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928507933.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 68.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.1,
+          "recency": 16.2,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 13,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-b1ee1c868235a84e32c2",
+        "title": "8天4板上海电影：AI视频相关业务尚处于前期投入阶段 营收占比不足0.5%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531714",
+        "summary": "财联社11月11日电，上海电影(601595.SH)发布风险提示公告，公司关注到市场将公司列为AI视频概念股，目前公司生产经营未发生重大变化，公司的主营业务为电影宣发、院线经营及IP全链路开发，AI视频相关业务尚处于前期投入阶段，业务规模较小，截至10月末，相关业务营收占比不足…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T10:19:46.000Z",
+        "date": "2026-11-11",
+        "time": "18:19",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531714"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928518436.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 67.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 26.6,
+          "recency": 16.5,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能",
+          "传媒"
+        ],
+        "rank": 14,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-545ddf31c66cd87b64a2",
+        "title": "锚定新一代智能制造与能源装备 上海加快打造三个千亿级产业集聚区",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531919",
+        "summary": "财联社11月11日电，上海市新一代智能制造与能源装备重点工作推进会2026年11月11日召开。会上，市经济信息化委智能制造推进处解读《上海市加快发展新一代智能制造行动方案》、《上海能源装备产业创新发展三年行动方案（2027-2029年）》两项政策，锚定新一代智能制造“54321…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T13:16:57.000Z",
+        "date": "2026-11-11",
+        "time": "21:16",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531919"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928665544.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 64.5,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 25.9,
+          "recency": 21.1,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 15,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-43859526a8b8d13761d8",
+        "title": "Anthropic IPO认购需求超额数倍 拟通过IPO及私募融资最高904亿美元",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531917",
+        "summary": "财联社11月11日电，Anthropic大型IPO据悉获数倍超额认购。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T13:15:16.000Z",
+        "date": "2026-11-11",
+        "time": "21:15",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531917"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928663617.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 62.9,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.3,
+          "recency": 21.1,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-82f70eb70b220019b553",
+        "title": "洛阳钼业：取得不超18亿元股票回购专项贷款承诺函",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531715",
+        "summary": "财联社11月11日电，洛阳钼业(603993.SH)公告称，公司近日取得招商银行上海分行出具的《贷款承诺函》，贷款额度最高不超过18亿元，贷款期限36个月，专项用于回购公司A股股票。此前公司董事会审议通过回购方案，拟以集中竞价方式回购A股股份，回购资金总额为10亿元至20亿元，…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T10:19:55.000Z",
+        "date": "2026-11-11",
+        "time": "18:19",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531715"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://bank.eastmoney.com/a/202611113928518720.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 61.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 27.3,
+          "recency": 16.5,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 17,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-50a704d51d925fde2829",
+        "title": "CPO概念持续走高 新易盛等多股涨超10%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531142",
+        "summary": "CPO概念盘中持续反弹，新易盛、太辰光、致尚科技均涨超10%，中际旭创涨超9%，收复500元关口，A+H股总市值重返6000亿上方，此前剑桥科技、青山纸业涨停，源杰科技、东山精密、联讯仪器、天孚通信均涨超7%。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-11T03:20:38.000Z",
+        "date": "2026-11-11",
+        "time": "11:20",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531142"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928254145.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 61.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.1,
+          "recency": 9.2,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 18,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-a795eda66ec8a2935798",
+        "title": "报告：预计今年化石燃料排放微降 清洁能源增速不足",
+        "source": "东方财富",
+        "sourceId": "eastmoney",
+        "sourceUrl": "http://finance.eastmoney.com/a/202611113928584961.html",
+        "summary": "国际组织“全球碳计划”的最新报告预计，2026年全球使用化石燃料带来的二氧化碳排放量将同比下降0.4%，至382亿吨。此外，清洁能源发展速度仍不足以支撑碳排放持续下降。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-11T12:07:59.000Z",
+        "date": "2026-11-11",
+        "time": "20:07",
+        "relatedSources": [
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928584961.html"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531823"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 61,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.3,
+          "recency": 19.2,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 19,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-9b450d32265849bcdec6",
+        "title": "国家能源局：增强能源安全韧性和抗风险能力 大力推动新型电网建设",
+        "source": "东方财富",
+        "sourceId": "eastmoney",
+        "sourceUrl": "http://finance.eastmoney.com/a/202611113928514074.html",
+        "summary": "国家能源局党组理论学习中心组11月10日召开学习（扩大）会议，会议要求，一是胸怀“国之大者”，紧扣实现新时代新征程党的使命任务，始终站在全局和战略的高度谋划和推进能源工作。二是坚持问题导向，准确把握国际国内形势任务挑战，增强能源安全韧性和抗风险能力。三是坚持守正创新，加快发展能…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-11T10:14:53.000Z",
+        "date": "2026-11-11",
+        "time": "18:14",
+        "relatedSources": [
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928514074.html"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531704"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 59.4,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 25.5,
+          "recency": 16.4,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 20,
+        "importance": "一般"
+      }
+    ],
+    "asOf": "2026-11-11T15:18:12.706Z",
+    "collectedAt": "2026-11-11T15:18:12.706Z",
+    "latestPublishedAt": "2026-11-11T15:16:44.000Z",
+    "totalCandidates": 1286,
+    "financeCandidates": 793,
+    "sources": [
+      {
+        "id": "cls",
+        "name": "财联社",
+        "home": "https://www.cls.cn/telegraph",
+        "kind": "快讯",
+        "status": "ok",
+        "checkedAt": "2026-11-11T15:18:12.706Z",
+        "lastSuccessAt": "2026-11-11T15:18:12.706Z",
+        "count": 13,
+        "message": "提取标题、可用来源摘要及原文链接"
+      },
+      {
+        "id": "eastmoney",
+        "name": "东方财富",
+        "home": "https://kuaixun.eastmoney.com/",
+        "kind": "快讯",
+        "status": "ok",
+        "checkedAt": "2026-11-11T15:18:12.706Z",
+        "lastSuccessAt": "2026-11-11T15:18:12.706Z",
+        "count": 100,
+        "message": "提取标题、可用来源摘要及原文链接"
+      },
+      {
+        "id": "wallstreet",
+        "name": "华尔街见闻",
+        "home": "https://wallstreetcn.com/live/global",
+        "kind": "快讯",
+        "status": "ok",
+        "checkedAt": "2026-11-11T15:18:12.706Z",
+        "lastSuccessAt": "2026-11-11T15:18:12.706Z",
+        "count": 60,
+        "message": "提取标题、可用来源摘要及原文链接"
+      },
+      {
+        "id": "cctv",
+        "name": "央视新闻联播",
+        "home": "https://tv.cctv.com/lm/xwlb/",
+        "kind": "权威发布",
+        "status": "ok",
+        "checkedAt": "2026-11-11T15:18:12.706Z",
+        "lastSuccessAt": "2026-11-11T15:18:12.706Z",
+        "count": 2,
+        "message": "提取标题、可用来源摘要及原文链接"
+      }
+    ],
+    "ranking": {
+      "name": "平台热度",
+      "description": "平台综合排序，非全网真实阅读量。先筛选财经相关标题，再跨来源近似去重；按跨站覆盖 35%、源内互动分位 30%、时效 25%、来源重点标记 10%计算。没有互动数据时该项计 0；排序只基于已采集到的候选。",
+      "weights": {
+        "coverage": 35,
+        "engagement": 30,
+        "recency": 25,
+        "emphasis": 10
+      }
+    },
+    "mode": "aggregate",
+    "demo": false,
+    "date": "2026-11-11",
+    "intervalSeconds": 300
+  },
+  "snapshot": {
+    "date": "2026-11-11",
+    "demo": false,
+    "status": "close-observed",
+    "version": "live",
+    "previousClose": 3663.72,
+    "asOf": "2026-11-11T08:14:27.000Z",
+    "collectedAt": "2026-11-11T15:18:12.761Z",
+    "timezone": "Asia/Shanghai",
+    "markets": [
+      {
+        "id": "sh",
+        "name": "上证指数",
+        "code": "000001.SH",
+        "category": "A股",
+        "value": "3,680.64",
+        "rawValue": 3680.64,
+        "previousClose": 3663.72,
+        "change": 0.46,
+        "time": "16:14:27",
+        "asOf": "2026-11-11T08:14:27.000Z",
+        "sourceLocalTime": "20261111161427",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [
+          3655.66,
+          3669.42,
+          3667.69,
+          3662.66,
+          3662.37,
+          3654.37,
+          3652.83,
+          3656.66,
+          3656.74,
+          3658.2,
+          3655.8,
+          3654.97,
+          3657.05,
+          3655.5,
+          3658.27,
+          3654.95,
+          3661.28,
+          3671.3,
+          3670.68,
+          3669.93,
+          3670.78,
+          3687.64,
+          3686.44,
+          3683.3,
+          3683.68,
+          3686.01,
+          3685.72,
+          3683.59,
+          3682.46,
+          3679.78,
+          3680.64
+        ],
+        "turnoverYuan": 736154790000,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "当日收盘报价",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000001"
+      },
+      {
+        "id": "sz",
+        "name": "深证成指",
+        "code": "399001.SZ",
+        "category": "A股",
+        "value": "11,389.74",
+        "rawValue": 11389.74,
+        "previousClose": 11241.54,
+        "change": 1.32,
+        "time": "16:14:33",
+        "asOf": "2026-11-11T08:14:33.000Z",
+        "sourceLocalTime": "20261111161433",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [
+          11205.35,
+          11257.51,
+          11252.53,
+          11233.58,
+          11255.69,
+          11195.65,
+          11182.2,
+          11195.3,
+          11208.34,
+          11224.81,
+          11213.4,
+          11209.43,
+          11235.65,
+          11239.59,
+          11274.74,
+          11253.67,
+          11302.75,
+          11357.68,
+          11349.27,
+          11329.72,
+          11324.37,
+          11403.27,
+          11388.35,
+          11368.28,
+          11400.18,
+          11404.1,
+          11402.79,
+          11389.35,
+          11383.86,
+          11377.47,
+          11390.57
+        ],
+        "turnoverYuan": 940123790000,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "当日收盘报价",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sz399001"
+      },
+      {
+        "id": "cy",
+        "name": "创业板指",
+        "code": "399006.SZ",
+        "category": "A股",
+        "value": "2,572.07",
+        "rawValue": 2572.07,
+        "previousClose": 2494.4,
+        "change": 3.11,
+        "time": "16:14:48",
+        "asOf": "2026-11-11T08:14:48.000Z",
+        "sourceLocalTime": "20261111161448",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [
+          2490.1,
+          2511.6,
+          2512.6,
+          2506.4,
+          2517.01,
+          2498.09,
+          2494.29,
+          2498.67,
+          2502.72,
+          2507.49,
+          2502.5,
+          2502,
+          2510.42,
+          2513.4,
+          2527.87,
+          2519.14,
+          2535.1,
+          2555.66,
+          2553.57,
+          2546.84,
+          2543.54,
+          2571.45,
+          2567.14,
+          2559.21,
+          2573.93,
+          2575.18,
+          2576.5,
+          2571.84,
+          2569.8,
+          2568.65,
+          2572.4
+        ],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "当日收盘报价",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sz399006"
+      },
+      {
+        "id": "kc",
+        "name": "科创 50",
+        "code": "000688.SH",
+        "category": "A股",
+        "value": "1,300.38",
+        "rawValue": 1300.38,
+        "previousClose": 1265.02,
+        "change": 2.8,
+        "time": "16:14:09",
+        "asOf": "2026-11-11T08:14:09.000Z",
+        "sourceLocalTime": "20261111161409",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [
+          1260.07,
+          1268.87,
+          1269.85,
+          1269.6,
+          1272.97,
+          1260.91,
+          1258.25,
+          1258.48,
+          1259.32,
+          1260.59,
+          1258.17,
+          1256.33,
+          1258.96,
+          1260.72,
+          1268.24,
+          1263.43,
+          1272.85,
+          1286.66,
+          1284.87,
+          1279.29,
+          1280.79,
+          1298.23,
+          1296.03,
+          1290.88,
+          1298.97,
+          1299.51,
+          1299.46,
+          1297.64,
+          1299.52,
+          1298.45,
+          1301.35
+        ],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "当日收盘报价",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000688"
+      },
+      {
+        "id": "hk",
+        "name": "恒生指数",
+        "code": "HSI · 延迟",
+        "category": "全球",
+        "value": "24,315.92",
+        "rawValue": 24315.92,
+        "previousClose": 24557.04,
+        "change": -0.98,
+        "time": "18:31:03",
+        "asOf": "2026-11-11T10:31:03.000Z",
+        "sourceLocalTime": "2026/11/11 18:31:03",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "delayed",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-11",
+        "group": "港股",
+        "sourceUrl": "https://gu.qq.com/hkHSI"
+      },
+      {
+        "id": "sp",
+        "name": "标普 500",
+        "code": "SPX",
+        "category": "全球",
+        "group": "美股",
+        "rawValue": 7520.93,
+        "value": "7,520.93",
+        "change": -0.38,
+        "previousClose": 7549.94,
+        "quoteDate": "2026-11-10",
+        "tradeDate": "2026-11-10",
+        "exchangeQuoteDate": "2026-11-10",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-10 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.INX",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连"
+      },
+      {
+        "id": "nas",
+        "name": "纳斯达克",
+        "code": "IXIC",
+        "category": "全球",
+        "group": "美股",
+        "rawValue": 25065.87,
+        "value": "25,065.87",
+        "change": -0.74,
+        "previousClose": 25253.14,
+        "quoteDate": "2026-11-10",
+        "tradeDate": "2026-11-10",
+        "exchangeQuoteDate": "2026-11-10",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-10 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.IXIC",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连"
+      },
+      {
+        "id": "hs300",
+        "name": "沪深 300",
+        "code": "000300.SH",
+        "category": "A股",
+        "value": "4,075.71",
+        "rawValue": 4075.71,
+        "previousClose": 4059.11,
+        "change": 0.41,
+        "time": "16:14:09",
+        "asOf": "2026-11-11T08:14:09.000Z",
+        "sourceLocalTime": "20261111161409",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "当日收盘报价",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000300"
+      },
+      {
+        "id": "sz50",
+        "name": "上证 50",
+        "code": "000016.SH",
+        "category": "A股",
+        "value": "2,765.54",
+        "rawValue": 2765.54,
+        "previousClose": 2772.96,
+        "change": -0.27,
+        "time": "16:14:27",
+        "asOf": "2026-11-11T08:14:27.000Z",
+        "sourceLocalTime": "20261111161427",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "当日收盘报价",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000016"
+      },
+      {
+        "id": "zz500",
+        "name": "中证 500",
+        "code": "000905.SH",
+        "category": "A股",
+        "value": "6,713.18",
+        "rawValue": 6713.18,
+        "previousClose": 6645.89,
+        "change": 1.01,
+        "time": "16:14:09",
+        "asOf": "2026-11-11T08:14:09.000Z",
+        "sourceLocalTime": "20261111161409",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "当日收盘报价",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000905"
+      },
+      {
+        "id": "zz1000",
+        "name": "中证 1000",
+        "code": "000852.SH",
+        "category": "A股",
+        "value": "6,669.55",
+        "rawValue": 6669.55,
+        "previousClose": 6579.36,
+        "change": 1.37,
+        "time": "16:14:27",
+        "asOf": "2026-11-11T08:14:27.000Z",
+        "sourceLocalTime": "20261111161427",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "当日收盘报价",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000852"
+      },
+      {
+        "id": "bj50",
+        "name": "北证 50",
+        "code": "899050.BJ",
+        "category": "A股",
+        "value": "923.31",
+        "rawValue": 923.31,
+        "previousClose": 902.51,
+        "change": 2.3,
+        "time": "15:33:30",
+        "asOf": "2026-11-11T07:33:30.000Z",
+        "sourceLocalTime": "20261111153330",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "当日收盘报价",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/bj899050"
+      },
+      {
+        "id": "hktech",
+        "name": "恒生科技",
+        "code": "HSTECH · 延迟",
+        "category": "全球",
+        "value": "4,027.06",
+        "rawValue": 4027.06,
+        "previousClose": 4084.45,
+        "change": -1.41,
+        "time": "16:08:28",
+        "asOf": "2026-11-11T08:08:28.000Z",
+        "sourceLocalTime": "2026/11/11 16:08:28",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "delayed",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-11",
+        "group": "港股",
+        "sourceUrl": "https://gu.qq.com/hkHSTECH"
+      },
+      {
+        "id": "dji",
+        "name": "道琼斯",
+        "code": "DJI",
+        "category": "全球",
+        "group": "美股",
+        "rawValue": 52231.89,
+        "value": "52,231.89",
+        "change": -0.3,
+        "previousClose": 52389.75,
+        "quoteDate": "2026-11-10",
+        "tradeDate": "2026-11-10",
+        "exchangeQuoteDate": "2026-11-10",
+        "exchangeTimezone": "America/New_York",
+        "frequency": "daily-close",
+        "overnight": true,
+        "status": "overnight-close",
+        "asOf": null,
+        "time": "11-10 收盘 · 日K",
+        "collectedAt": "2026-11-11T06:58:53.089Z",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.DJI",
+        "trend": [],
+        "confirmation": "来源已完成交易日日K收盘字段；并非交易所实时直连"
+      },
+      {
+        "id": "oil",
+        "name": "布伦特原油",
+        "code": "USD / 桶 · 期货",
+        "category": "商品汇率",
+        "value": "93.75",
+        "rawValue": 93.75,
+        "change": 2.48,
+        "time": "23:17:51",
+        "asOf": "2026-11-11T15:17:51.000Z",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-11",
+        "group": "商品",
+        "sourceUrl": "https://gu.qq.com/hf_OIL"
+      },
+      {
+        "id": "gold",
+        "name": "纽约黄金",
+        "code": "USD / 盎司 · 期货",
+        "category": "商品汇率",
+        "value": "4,021.78",
+        "rawValue": 4021.78,
+        "change": -0.21,
+        "time": "23:18:02",
+        "asOf": "2026-11-11T15:18:02.000Z",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-11",
+        "group": "商品",
+        "sourceUrl": "https://gu.qq.com/hf_GC"
+      },
+      {
+        "id": "copper",
+        "name": "LME 铜",
+        "code": "USD / 吨",
+        "category": "商品汇率",
+        "value": "13,765.30",
+        "rawValue": 13765.3,
+        "change": 0.63,
+        "time": "23:17:48",
+        "asOf": "2026-11-11T15:17:48.000Z",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-11",
+        "group": "商品",
+        "sourceUrl": "https://gu.qq.com/hf_CAD"
+      },
+      {
+        "id": "nk",
+        "name": "日经 225",
+        "code": "N225",
+        "category": "全球",
+        "value": "61,248.59",
+        "change": 1.31,
+        "time": "14:30:00",
+        "asOf": "2026-11-11T06:30:00.000Z",
+        "source": "东方财富",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-11",
+        "group": "亚太",
+        "sourceUrl": "https://quote.eastmoney.com/gb/zsN225.html"
+      },
+      {
+        "id": "fx",
+        "name": "美元 / 离岸人民币",
+        "code": "USD / CNH",
+        "category": "商品汇率",
+        "value": "6.6717",
+        "change": -0.07,
+        "time": "23:18:16",
+        "asOf": "2026-11-11T15:18:16.000Z",
+        "source": "东方财富",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-11",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-11",
+        "group": "汇率",
+        "sourceUrl": "https://quote.eastmoney.com/forex/USDCNH.html"
+      },
+      {
+        "id": "bond",
+        "name": "中国 10Y 国债",
+        "code": "到期收益率 · 日度",
+        "category": "商品汇率",
+        "value": "1.6039%",
+        "rawValue": 1.6039,
+        "change": 0.0074,
+        "time": "11-11 · 日度",
+        "asOf": null,
+        "quoteDate": "2026-11-11",
+        "frequency": "daily",
+        "source": "东方财富",
+        "status": "daily",
+        "trend": [],
+        "reference": false,
+        "quoteLabel": "日度 · 2026-11-11",
+        "group": "利率",
+        "sourceUrl": "https://data.eastmoney.com/cjsj/zmgzsyl.html"
+      }
+    ],
+    "intraday": [
+      {
+        "date": "2026-11-11",
+        "time": "09:30",
+        "value": 3655.66,
+        "volume": 48.37
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:31",
+        "value": 3658.46,
+        "volume": 207.93
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:32",
+        "value": 3660.71,
+        "volume": 115.73
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:33",
+        "value": 3660.99,
+        "volume": 93.92
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:34",
+        "value": 3664.81,
+        "volume": 85.55
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:35",
+        "value": 3664.81,
+        "volume": 78.59
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:36",
+        "value": 3664.11,
+        "volume": 79.63
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:37",
+        "value": 3665.39,
+        "volume": 72.32
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:38",
+        "value": 3669.42,
+        "volume": 70.62
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:39",
+        "value": 3667.93,
+        "volume": 68.5
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:40",
+        "value": 3671.65,
+        "volume": 61.74
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:41",
+        "value": 3668.46,
+        "volume": 61.94
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:42",
+        "value": 3667.68,
+        "volume": 56.87
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:43",
+        "value": 3666.81,
+        "volume": 52.91
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:44",
+        "value": 3664.93,
+        "volume": 54.18
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:45",
+        "value": 3665.97,
+        "volume": 51.36
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:46",
+        "value": 3667.69,
+        "volume": 53.77
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:47",
+        "value": 3667.11,
+        "volume": 66.72
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:48",
+        "value": 3666.67,
+        "volume": 53.46
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:49",
+        "value": 3666.96,
+        "volume": 46.42
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:50",
+        "value": 3665.74,
+        "volume": 47.16
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:51",
+        "value": 3665.57,
+        "volume": 50.91
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:52",
+        "value": 3664.57,
+        "volume": 44.69
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:53",
+        "value": 3664.11,
+        "volume": 41.44
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:54",
+        "value": 3662.66,
+        "volume": 47.83
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:55",
+        "value": 3661.12,
+        "volume": 47.55
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:56",
+        "value": 3661.09,
+        "volume": 46.88
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:57",
+        "value": 3661.32,
+        "volume": 43.72
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:58",
+        "value": 3661.22,
+        "volume": 39.71
+      },
+      {
+        "date": "2026-11-11",
+        "time": "09:59",
+        "value": 3662.06,
+        "volume": 34.87
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:00",
+        "value": 3662.56,
+        "volume": 33.34
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:01",
+        "value": 3662.26,
+        "volume": 38.65
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:02",
+        "value": 3662.37,
+        "volume": 49.71
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:03",
+        "value": 3661.24,
+        "volume": 36.6
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:04",
+        "value": 3660.28,
+        "volume": 34.79
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:05",
+        "value": 3658.49,
+        "volume": 35.69
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:06",
+        "value": 3658.04,
+        "volume": 40.24
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:07",
+        "value": 3658,
+        "volume": 37.13
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:08",
+        "value": 3657.96,
+        "volume": 34
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:09",
+        "value": 3656.09,
+        "volume": 35.64
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:10",
+        "value": 3654.37,
+        "volume": 36.87
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:11",
+        "value": 3653.88,
+        "volume": 43.87
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:12",
+        "value": 3652.89,
+        "volume": 35.23
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:13",
+        "value": 3652.88,
+        "volume": 31.46
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:14",
+        "value": 3653.44,
+        "volume": 30.5
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:15",
+        "value": 3653.78,
+        "volume": 29.42
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:16",
+        "value": 3651.56,
+        "volume": 31.77
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:17",
+        "value": 3650.66,
+        "volume": 34.71
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:18",
+        "value": 3652.83,
+        "volume": 29.83
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:19",
+        "value": 3653.54,
+        "volume": 27.92
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:20",
+        "value": 3655.55,
+        "volume": 23.87
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:21",
+        "value": 3654.07,
+        "volume": 28.73
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:22",
+        "value": 3653.52,
+        "volume": 21.48
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:23",
+        "value": 3655.09,
+        "volume": 22.36
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:24",
+        "value": 3656.75,
+        "volume": 24.16
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:25",
+        "value": 3655.83,
+        "volume": 21.02
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:26",
+        "value": 3656.66,
+        "volume": 22.33
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:27",
+        "value": 3656.38,
+        "volume": 18.96
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:28",
+        "value": 3657.74,
+        "volume": 20.97
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:29",
+        "value": 3657.89,
+        "volume": 22.9
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:30",
+        "value": 3659.13,
+        "volume": 20.23
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:31",
+        "value": 3657.19,
+        "volume": 24.89
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:32",
+        "value": 3657.41,
+        "volume": 24.39
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:33",
+        "value": 3657.8,
+        "volume": 21.86
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:34",
+        "value": 3656.74,
+        "volume": 24.96
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:35",
+        "value": 3657.99,
+        "volume": 22.62
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:36",
+        "value": 3659.66,
+        "volume": 25.89
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:37",
+        "value": 3660.46,
+        "volume": 23.56
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:38",
+        "value": 3658.9,
+        "volume": 20.35
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:39",
+        "value": 3657.79,
+        "volume": 19.87
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:40",
+        "value": 3657.47,
+        "volume": 21.15
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:41",
+        "value": 3658.06,
+        "volume": 22.06
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:42",
+        "value": 3658.2,
+        "volume": 17.28
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:43",
+        "value": 3657.42,
+        "volume": 17.43
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:44",
+        "value": 3657.65,
+        "volume": 16.86
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:45",
+        "value": 3657.49,
+        "volume": 17.98
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:46",
+        "value": 3658.31,
+        "volume": 18.19
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:47",
+        "value": 3657.47,
+        "volume": 18.39
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:48",
+        "value": 3657.21,
+        "volume": 15.69
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:49",
+        "value": 3657.4,
+        "volume": 16.99
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:50",
+        "value": 3655.8,
+        "volume": 19.18
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:51",
+        "value": 3655.37,
+        "volume": 20.28
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:52",
+        "value": 3655.42,
+        "volume": 13.69
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:53",
+        "value": 3654.41,
+        "volume": 18.61
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:54",
+        "value": 3653.33,
+        "volume": 18.24
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:55",
+        "value": 3653.14,
+        "volume": 14.83
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:56",
+        "value": 3653.11,
+        "volume": 14.72
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:57",
+        "value": 3653.87,
+        "volume": 13.57
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:58",
+        "value": 3654.97,
+        "volume": 13.36
+      },
+      {
+        "date": "2026-11-11",
+        "time": "10:59",
+        "value": 3654.51,
+        "volume": 13.32
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:00",
+        "value": 3654.83,
+        "volume": 14.28
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:01",
+        "value": 3655.68,
+        "volume": 13.71
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:02",
+        "value": 3654.8,
+        "volume": 15.49
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:03",
+        "value": 3655.7,
+        "volume": 14.32
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:04",
+        "value": 3654.7,
+        "volume": 15.84
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:05",
+        "value": 3655.92,
+        "volume": 14.6
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:06",
+        "value": 3657.05,
+        "volume": 18.25
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:07",
+        "value": 3657.82,
+        "volume": 19.87
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:08",
+        "value": 3657.6,
+        "volume": 17.29
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:09",
+        "value": 3657.27,
+        "volume": 17.89
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:10",
+        "value": 3656.12,
+        "volume": 14.95
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:11",
+        "value": 3655.72,
+        "volume": 17.22
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:12",
+        "value": 3656.14,
+        "volume": 18.71
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:13",
+        "value": 3655,
+        "volume": 14.57
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:14",
+        "value": 3655.5,
+        "volume": 12.5
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:15",
+        "value": 3654.55,
+        "volume": 14.59
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:16",
+        "value": 3655.21,
+        "volume": 13.99
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:17",
+        "value": 3657.9,
+        "volume": 26.59
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:18",
+        "value": 3657.73,
+        "volume": 26.93
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:19",
+        "value": 3658.53,
+        "volume": 24.97
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:20",
+        "value": 3657.91,
+        "volume": 29.1
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:21",
+        "value": 3657.49,
+        "volume": 24.65
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:22",
+        "value": 3658.27,
+        "volume": 20.16
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:23",
+        "value": 3659.72,
+        "volume": 24.92
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:24",
+        "value": 3658.31,
+        "volume": 22.63
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:25",
+        "value": 3658.62,
+        "volume": 16.25
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:26",
+        "value": 3658.37,
+        "volume": 19.49
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:27",
+        "value": 3657.63,
+        "volume": 13.22
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:28",
+        "value": 3657.94,
+        "volume": 14.95
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:29",
+        "value": 3656.5,
+        "volume": 15.24
+      },
+      {
+        "date": "2026-11-11",
+        "time": "11:30",
+        "value": 3654.95,
+        "volume": 16.05
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:01",
+        "value": 3657.69,
+        "volume": 60.29
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:02",
+        "value": 3658.59,
+        "volume": 27.48
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:03",
+        "value": 3658.81,
+        "volume": 23.89
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:04",
+        "value": 3661.53,
+        "volume": 32.77
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:05",
+        "value": 3662.48,
+        "volume": 33.87
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:06",
+        "value": 3661.55,
+        "volume": 28.26
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:07",
+        "value": 3662.61,
+        "volume": 20.81
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:08",
+        "value": 3661.28,
+        "volume": 21.01
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:09",
+        "value": 3660.79,
+        "volume": 20.77
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:10",
+        "value": 3663.56,
+        "volume": 26.26
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:11",
+        "value": 3662.88,
+        "volume": 27.23
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:12",
+        "value": 3667.44,
+        "volume": 35.91
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:13",
+        "value": 3668.23,
+        "volume": 43.71
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:14",
+        "value": 3669.4,
+        "volume": 33.61
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:15",
+        "value": 3671.42,
+        "volume": 37.24
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:16",
+        "value": 3671.3,
+        "volume": 35.53
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:17",
+        "value": 3671.75,
+        "volume": 30.12
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:18",
+        "value": 3668.68,
+        "volume": 32.52
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:19",
+        "value": 3672.02,
+        "volume": 30.6
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:20",
+        "value": 3669.73,
+        "volume": 26.56
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:21",
+        "value": 3670.93,
+        "volume": 25.65
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:22",
+        "value": 3669.54,
+        "volume": 22.36
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:23",
+        "value": 3671.36,
+        "volume": 24.46
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:24",
+        "value": 3670.68,
+        "volume": 28.92
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:25",
+        "value": 3670.46,
+        "volume": 26.41
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:26",
+        "value": 3671.66,
+        "volume": 22.48
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:27",
+        "value": 3670.8,
+        "volume": 23.29
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:28",
+        "value": 3669.65,
+        "volume": 25.4
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:29",
+        "value": 3669.58,
+        "volume": 23.12
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:30",
+        "value": 3668.9,
+        "volume": 20.75
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:31",
+        "value": 3669.92,
+        "volume": 20.36
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:32",
+        "value": 3669.93,
+        "volume": 19.55
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:33",
+        "value": 3671.11,
+        "volume": 16.64
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:34",
+        "value": 3671.15,
+        "volume": 19.28
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:35",
+        "value": 3670.17,
+        "volume": 18.51
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:36",
+        "value": 3670.39,
+        "volume": 17.26
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:37",
+        "value": 3671.16,
+        "volume": 15.52
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:38",
+        "value": 3671.05,
+        "volume": 15.7
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:39",
+        "value": 3671.38,
+        "volume": 15.78
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:40",
+        "value": 3670.78,
+        "volume": 19.44
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:41",
+        "value": 3677.37,
+        "volume": 36.54
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:42",
+        "value": 3682.78,
+        "volume": 61.62
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:43",
+        "value": 3683.79,
+        "volume": 40.13
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:44",
+        "value": 3683,
+        "volume": 33.76
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:45",
+        "value": 3684.78,
+        "volume": 32.11
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:46",
+        "value": 3685.52,
+        "volume": 35.2
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:47",
+        "value": 3687.5,
+        "volume": 35.94
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:48",
+        "value": 3687.64,
+        "volume": 36.15
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:49",
+        "value": 3687.74,
+        "volume": 37.02
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:50",
+        "value": 3685.64,
+        "volume": 29.12
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:51",
+        "value": 3687.75,
+        "volume": 27.01
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:52",
+        "value": 3684.1,
+        "volume": 26.82
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:53",
+        "value": 3686,
+        "volume": 24.34
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:54",
+        "value": 3685.9,
+        "volume": 22.04
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:55",
+        "value": 3686.32,
+        "volume": 23.64
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:56",
+        "value": 3686.44,
+        "volume": 22.95
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:57",
+        "value": 3685.19,
+        "volume": 22.75
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:58",
+        "value": 3686.71,
+        "volume": 22.15
+      },
+      {
+        "date": "2026-11-11",
+        "time": "13:59",
+        "value": 3687.22,
+        "volume": 23.59
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:00",
+        "value": 3688.59,
+        "volume": 26.15
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:01",
+        "value": 3686.86,
+        "volume": 35.57
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:02",
+        "value": 3684.01,
+        "volume": 29.26
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:03",
+        "value": 3681.57,
+        "volume": 29.2
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:04",
+        "value": 3683.3,
+        "volume": 26.32
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:05",
+        "value": 3681.82,
+        "volume": 19.98
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:06",
+        "value": 3682.29,
+        "volume": 21.22
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:07",
+        "value": 3679.57,
+        "volume": 22.82
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:08",
+        "value": 3681.94,
+        "volume": 24.7
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:09",
+        "value": 3683.77,
+        "volume": 28.11
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:10",
+        "value": 3684.52,
+        "volume": 27.33
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:11",
+        "value": 3684.98,
+        "volume": 27.64
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:12",
+        "value": 3683.68,
+        "volume": 25.74
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:13",
+        "value": 3686.21,
+        "volume": 26.91
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:14",
+        "value": 3687.25,
+        "volume": 30.74
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:15",
+        "value": 3686.73,
+        "volume": 31.43
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:16",
+        "value": 3688.09,
+        "volume": 27.23
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:17",
+        "value": 3687.15,
+        "volume": 25.91
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:18",
+        "value": 3687.52,
+        "volume": 23.44
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:19",
+        "value": 3684.92,
+        "volume": 25.46
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:20",
+        "value": 3686.01,
+        "volume": 26.27
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:21",
+        "value": 3685.42,
+        "volume": 27.19
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:22",
+        "value": 3686.22,
+        "volume": 22.68
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:23",
+        "value": 3684.77,
+        "volume": 30.44
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:24",
+        "value": 3684.51,
+        "volume": 20.66
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:25",
+        "value": 3683.82,
+        "volume": 20.65
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:26",
+        "value": 3685.63,
+        "volume": 21.34
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:27",
+        "value": 3684.87,
+        "volume": 20.28
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:28",
+        "value": 3685.72,
+        "volume": 19.66
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:29",
+        "value": 3685.65,
+        "volume": 21.14
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:30",
+        "value": 3684.13,
+        "volume": 22.11
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:31",
+        "value": 3683.14,
+        "volume": 30.5
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:32",
+        "value": 3682.16,
+        "volume": 30.79
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:33",
+        "value": 3681.79,
+        "volume": 26.38
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:34",
+        "value": 3683.37,
+        "volume": 25.96
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:35",
+        "value": 3682.5,
+        "volume": 21.39
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:36",
+        "value": 3683.59,
+        "volume": 24.93
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:37",
+        "value": 3683.64,
+        "volume": 22.05
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:38",
+        "value": 3684.75,
+        "volume": 23.42
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:39",
+        "value": 3684.01,
+        "volume": 26.35
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:40",
+        "value": 3683.94,
+        "volume": 24.72
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:41",
+        "value": 3683.97,
+        "volume": 27.08
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:42",
+        "value": 3682.92,
+        "volume": 26.61
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:43",
+        "value": 3682.34,
+        "volume": 27.14
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:44",
+        "value": 3682.46,
+        "volume": 27.58
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:45",
+        "value": 3681.25,
+        "volume": 28.56
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:46",
+        "value": 3680.82,
+        "volume": 32.83
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:47",
+        "value": 3680.74,
+        "volume": 31.49
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:48",
+        "value": 3681.16,
+        "volume": 30.54
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:49",
+        "value": 3680.45,
+        "volume": 32.58
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:50",
+        "value": 3679.06,
+        "volume": 31.3
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:51",
+        "value": 3678.89,
+        "volume": 36.08
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:52",
+        "value": 3679.78,
+        "volume": 34.52
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:53",
+        "value": 3679.77,
+        "volume": 34.98
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:54",
+        "value": 3679.99,
+        "volume": 38.22
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:55",
+        "value": 3679.92,
+        "volume": 44.19
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:56",
+        "value": 3679.86,
+        "volume": 50.64
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:57",
+        "value": 3681.22,
+        "volume": 54.99
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:58",
+        "value": 3682.25,
+        "volume": 2.99
+      },
+      {
+        "date": "2026-11-11",
+        "time": "14:59",
+        "value": 3682.25,
+        "volume": 0
+      },
+      {
+        "date": "2026-11-11",
+        "time": "15:00",
+        "value": 3680.64,
+        "volume": 89.81
+      }
+    ],
+    "candles": [
+      {
+        "date": "09-09",
+        "tradeDate": "2026-09-09",
+        "values": [
+          3943.92,
+          3951.51,
+          3933.47,
+          3958.12
+        ],
+        "volume": 8737.35
+      },
+      {
+        "date": "09-10",
+        "tradeDate": "2026-09-10",
+        "values": [
+          3939.09,
+          3934.4,
+          3927.35,
+          3949.25
+        ],
+        "volume": 7796.73
+      },
+      {
+        "date": "09-11",
+        "tradeDate": "2026-09-11",
+        "values": [
+          3910.92,
+          3888.11,
+          3852.03,
+          3912.32
+        ],
+        "volume": 9581.86
+      },
+      {
+        "date": "09-14",
+        "tradeDate": "2026-09-14",
+        "values": [
+          3867.02,
+          3885.33,
+          3867.02,
+          3895.51
+        ],
+        "volume": 7792.81
+      },
+      {
+        "date": "09-15",
+        "tradeDate": "2026-09-15",
+        "values": [
+          3879.73,
+          3864.28,
+          3858.15,
+          3891.62
+        ],
+        "volume": 7639.83
+      },
+      {
+        "date": "09-16",
+        "tradeDate": "2026-09-16",
+        "values": [
+          3861.75,
+          3891.6,
+          3842.72,
+          3894.66
+        ],
+        "volume": 8711.41
+      },
+      {
+        "date": "09-17",
+        "tradeDate": "2026-09-17",
+        "values": [
+          3877,
+          3875.6,
+          3866.89,
+          3898.84
+        ],
+        "volume": 8687.73
+      },
+      {
+        "date": "09-18",
+        "tradeDate": "2026-09-18",
+        "values": [
+          3891.96,
+          3911.87,
+          3888.5,
+          3919.67
+        ],
+        "volume": 9941.69
+      },
+      {
+        "date": "09-21",
+        "tradeDate": "2026-09-21",
+        "values": [
+          3920.27,
+          3949.91,
+          3918.13,
+          3950.94
+        ],
+        "volume": 9468.19
+      },
+      {
+        "date": "09-22",
+        "tradeDate": "2026-09-22",
+        "values": [
+          3963.81,
+          3952.13,
+          3945.42,
+          3967.68
+        ],
+        "volume": 10079.96
+      },
+      {
+        "date": "09-23",
+        "tradeDate": "2026-09-23",
+        "values": [
+          3951.37,
+          3936.52,
+          3934.46,
+          3951.52
+        ],
+        "volume": 8341.33
+      },
+      {
+        "date": "09-24",
+        "tradeDate": "2026-09-24",
+        "values": [
+          3925.32,
+          3888.37,
+          3888.37,
+          3930.5
+        ],
+        "volume": 7836.13
+      },
+      {
+        "date": "09-28",
+        "tradeDate": "2026-09-28",
+        "values": [
+          3878.41,
+          3823.62,
+          3806.67,
+          3878.41
+        ],
+        "volume": 8045.44
+      },
+      {
+        "date": "09-29",
+        "tradeDate": "2026-09-29",
+        "values": [
+          3816.15,
+          3830.45,
+          3810.81,
+          3843.84
+        ],
+        "volume": 6617.04
+      },
+      {
+        "date": "09-30",
+        "tradeDate": "2026-09-30",
+        "values": [
+          3839.25,
+          3842.19,
+          3833.09,
+          3851.22
+        ],
+        "volume": 6793.99
+      },
+      {
+        "date": "10-08",
+        "tradeDate": "2026-10-08",
+        "values": [
+          3838.98,
+          3811.9,
+          3795.37,
+          3864.12
+        ],
+        "volume": 8111.83
+      },
+      {
+        "date": "10-09",
+        "tradeDate": "2026-10-09",
+        "values": [
+          3804.09,
+          3813.79,
+          3754.14,
+          3824.71
+        ],
+        "volume": 8885.61
+      },
+      {
+        "date": "10-12",
+        "tradeDate": "2026-10-12",
+        "values": [
+          3806.98,
+          3797.24,
+          3791,
+          3828.22
+        ],
+        "volume": 7149.1
+      },
+      {
+        "date": "10-13",
+        "tradeDate": "2026-10-13",
+        "values": [
+          3760.8,
+          3800.86,
+          3741.53,
+          3822.11
+        ],
+        "volume": 7793.02
+      },
+      {
+        "date": "10-14",
+        "tradeDate": "2026-10-14",
+        "values": [
+          3790.63,
+          3767.23,
+          3761.96,
+          3811.81
+        ],
+        "volume": 6624.92
+      },
+      {
+        "date": "10-15",
+        "tradeDate": "2026-10-15",
+        "values": [
+          3710.7,
+          3707.48,
+          3674.82,
+          3724.56
+        ],
+        "volume": 7743.92
+      },
+      {
+        "date": "10-16",
+        "tradeDate": "2026-10-16",
+        "values": [
+          3723.8,
+          3716.28,
+          3681.28,
+          3750.77
+        ],
+        "volume": 7324.75
+      },
+      {
+        "date": "10-19",
+        "tradeDate": "2026-10-19",
+        "values": [
+          3694.12,
+          3730.92,
+          3692.29,
+          3743.8
+        ],
+        "volume": 6870.1
+      },
+      {
+        "date": "10-20",
+        "tradeDate": "2026-10-20",
+        "values": [
+          3718.44,
+          3735.37,
+          3702.44,
+          3740.07
+        ],
+        "volume": 6999.7
+      },
+      {
+        "date": "10-21",
+        "tradeDate": "2026-10-21",
+        "values": [
+          3740.57,
+          3713.03,
+          3703.12,
+          3743.08
+        ],
+        "volume": 6427.52
+      },
+      {
+        "date": "10-22",
+        "tradeDate": "2026-10-22",
+        "values": [
+          3714.48,
+          3658.03,
+          3649.86,
+          3714.48
+        ],
+        "volume": 7060.96
+      },
+      {
+        "date": "10-23",
+        "tradeDate": "2026-10-23",
+        "values": [
+          3623.57,
+          3690.48,
+          3574.27,
+          3691.4
+        ],
+        "volume": 8986.67
+      },
+      {
+        "date": "10-26",
+        "tradeDate": "2026-10-26",
+        "values": [
+          3671,
+          3697.52,
+          3664.82,
+          3699.01
+        ],
+        "volume": 7465.28
+      },
+      {
+        "date": "10-27",
+        "tradeDate": "2026-10-27",
+        "values": [
+          3698.44,
+          3648.3,
+          3648.3,
+          3708.2
+        ],
+        "volume": 6724.14
+      },
+      {
+        "date": "10-28",
+        "tradeDate": "2026-10-28",
+        "values": [
+          3676.92,
+          3681.47,
+          3652.37,
+          3684.49
+        ],
+        "volume": 7510.19
+      },
+      {
+        "date": "10-29",
+        "tradeDate": "2026-10-29",
+        "values": [
+          3676.77,
+          3651.43,
+          3645.26,
+          3678.46
+        ],
+        "volume": 7156.21
+      },
+      {
+        "date": "10-30",
+        "tradeDate": "2026-10-30",
+        "values": [
+          3605.65,
+          3599.02,
+          3595.26,
+          3660.21
+        ],
+        "volume": 7642.27
+      },
+      {
+        "date": "11-02",
+        "tradeDate": "2026-11-02",
+        "values": [
+          3614.31,
+          3638.03,
+          3594.77,
+          3648.13
+        ],
+        "volume": 8474.59
+      },
+      {
+        "date": "11-03",
+        "tradeDate": "2026-11-03",
+        "values": [
+          3624.58,
+          3608.1,
+          3580.38,
+          3624.58
+        ],
+        "volume": 8108.29
+      },
+      {
+        "date": "11-04",
+        "tradeDate": "2026-11-04",
+        "values": [
+          3605.39,
+          3686.17,
+          3590.8,
+          3686.17
+        ],
+        "volume": 9532.65
+      },
+      {
+        "date": "11-05",
+        "tradeDate": "2026-11-05",
+        "values": [
+          3646.57,
+          3689.91,
+          3646.57,
+          3701.59
+        ],
+        "volume": 9797.12
+      },
+      {
+        "date": "11-06",
+        "tradeDate": "2026-11-06",
+        "values": [
+          3612.15,
+          3649.18,
+          3610.2,
+          3660.49
+        ],
+        "volume": 7726.35
+      },
+      {
+        "date": "11-09",
+        "tradeDate": "2026-11-09",
+        "values": [
+          3659.02,
+          3660.79,
+          3653.05,
+          3679.09
+        ],
+        "volume": 6825.33
+      },
+      {
+        "date": "11-10",
+        "tradeDate": "2026-11-10",
+        "values": [
+          3682.04,
+          3663.72,
+          3660.72,
+          3683.73
+        ],
+        "volume": 6739.52
+      },
+      {
+        "date": "11-11",
+        "tradeDate": "2026-11-11",
+        "values": [
+          3655.66,
+          3680.64,
+          3650.31,
+          3689.65
+        ],
+        "volume": 7361.55
+      }
+    ],
+    "sectors": [
+      {
+        "id": "BK1201",
+        "name": "电子",
+        "value": 4228.15,
+        "change": 2.66,
+        "flow": 177.41,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1201.html"
+      },
+      {
+        "id": "BK1036",
+        "name": "半导体",
+        "value": 2093.34,
+        "change": 3.1,
+        "flow": 76.75,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1036.html"
+      },
+      {
+        "id": "BK1205",
+        "name": "机械设备",
+        "value": 1581.93,
+        "change": 2.16,
+        "flow": 42.96,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1205.html"
+      },
+      {
+        "id": "BK1215",
+        "name": "通信",
+        "value": 1517.23,
+        "change": 4.01,
+        "flow": 133.83,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1215.html"
+      },
+      {
+        "id": "BK0448",
+        "name": "通信设备",
+        "value": 1402.6,
+        "change": 4.82,
+        "flow": 135.3,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0448.html"
+      },
+      {
+        "id": "BK1200",
+        "name": "电力设备",
+        "value": 1235.24,
+        "change": 0.65,
+        "flow": -30.92,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1200.html"
+      },
+      {
+        "id": "BK1591",
+        "name": "通信网络设备及器件",
+        "value": 1016.65,
+        "change": 7.19,
+        "flow": 104.75,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1591.html"
+      },
+      {
+        "id": "BK1331",
+        "name": "数字芯片设计",
+        "value": 997.99,
+        "change": 3.36,
+        "flow": 55.26,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1331.html"
+      },
+      {
+        "id": "BK0486",
+        "name": "传媒",
+        "value": 994.81,
+        "change": 1.65,
+        "flow": -16.13,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0486.html"
+      },
+      {
+        "id": "BK0459",
+        "name": "元件",
+        "value": 982.06,
+        "change": 4.9,
+        "flow": 81.79,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0459.html"
+      },
+      {
+        "id": "BK1340",
+        "name": "印制电路板",
+        "value": 856.67,
+        "change": 5.76,
+        "flow": 72.14,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1340.html"
+      },
+      {
+        "id": "BK1216",
+        "name": "医药生物",
+        "value": 856.06,
+        "change": 0.2,
+        "flow": -38.81,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1216.html"
+      },
+      {
+        "id": "BK1207",
+        "name": "计算机",
+        "value": 803.58,
+        "change": 0.97,
+        "flow": -11.61,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1207.html"
+      },
+      {
+        "id": "BK1211",
+        "name": "汽车",
+        "value": 747.13,
+        "change": 1.65,
+        "flow": 9.7,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1211.html"
+      },
+      {
+        "id": "BK0478",
+        "name": "有色金属",
+        "value": 718.24,
+        "change": 0.85,
+        "flow": 7.15,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0478.html"
+      },
+      {
+        "id": "BK1206",
+        "name": "基础化工",
+        "value": 707.03,
+        "change": 1.21,
+        "flow": -5.71,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1206.html"
+      },
+      {
+        "id": "BK0545",
+        "name": "通用设备",
+        "value": 676.68,
+        "change": 2.29,
+        "flow": 12.94,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0545.html"
+      },
+      {
+        "id": "BK0481",
+        "name": "汽车零部件",
+        "value": 630.6,
+        "change": 1.87,
+        "flow": 17.81,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0481.html"
+      },
+      {
+        "id": "BK1037",
+        "name": "消费电子",
+        "value": 522.54,
+        "change": 1.7,
+        "flow": 10.68,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1037.html"
+      },
+      {
+        "id": "BK1338",
+        "name": "消费电子零部件及组装",
+        "value": 482.3,
+        "change": 2.06,
+        "flow": 13.62,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1338.html"
+      },
+      {
+        "id": "BK1237",
+        "name": "自动化设备",
+        "value": 453.35,
+        "change": 3.06,
+        "flow": 17.64,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1237.html"
+      },
+      {
+        "id": "BK1033",
+        "name": "电池",
+        "value": 413.43,
+        "change": 0.61,
+        "flow": -15.73,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1033.html"
+      },
+      {
+        "id": "BK1204",
+        "name": "国防军工",
+        "value": 374.82,
+        "change": 0.42,
+        "flow": -16.46,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1204.html"
+      },
+      {
+        "id": "BK0910",
+        "name": "专用设备",
+        "value": 364.44,
+        "change": 1.93,
+        "flow": 13.48,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0910.html"
+      },
+      {
+        "id": "BK1031",
+        "name": "光伏设备",
+        "value": 361.79,
+        "change": -0.62,
+        "flow": -9.96,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1031.html"
+      },
+      {
+        "id": "BK1038",
+        "name": "光学光电子",
+        "value": 342.99,
+        "change": 1.36,
+        "flow": 3.04,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1038.html"
+      },
+      {
+        "id": "BK1526",
+        "name": "底盘与发动机系统",
+        "value": 333.1,
+        "change": 1.99,
+        "flow": 12.86,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1526.html"
+      },
+      {
+        "id": "BK0438",
+        "name": "食品饮料",
+        "value": 305.16,
+        "change": -0.94,
+        "flow": -15.58,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0438.html"
+      },
+      {
+        "id": "BK0737",
+        "name": "软件开发",
+        "value": 301.74,
+        "change": 0.92,
+        "flow": -7.3,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0737.html"
+      },
+      {
+        "id": "BK1326",
+        "name": "半导体设备",
+        "value": 298.66,
+        "change": 2.83,
+        "flow": 3.1,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1326.html"
+      },
+      {
+        "id": "BK0427",
+        "name": "公用事业",
+        "value": 282.48,
+        "change": 0.48,
+        "flow": -13.15,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0427.html"
+      },
+      {
+        "id": "BK1283",
+        "name": "银行",
+        "value": 265.59,
+        "change": -0.47,
+        "flow": -3.21,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1283.html"
+      },
+      {
+        "id": "BK1325",
+        "name": "半导体材料",
+        "value": 262.09,
+        "change": 2.88,
+        "flow": 3.43,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1325.html"
+      },
+      {
+        "id": "BK0727",
+        "name": "医疗服务",
+        "value": 249.91,
+        "change": 0.54,
+        "flow": -14.6,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0727.html"
+      },
+      {
+        "id": "BK0456",
+        "name": "家用电器",
+        "value": 249.42,
+        "change": 0.76,
+        "flow": 3,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0456.html"
+      },
+      {
+        "id": "BK1592",
+        "name": "通信线缆及配套",
+        "value": 245.93,
+        "change": 6.04,
+        "flow": 21.77,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1592.html"
+      },
+      {
+        "id": "BK1287",
+        "name": "工业金属",
+        "value": 245.2,
+        "change": 0.56,
+        "flow": 0.52,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1287.html"
+      },
+      {
+        "id": "BK0465",
+        "name": "化学制药",
+        "value": 237.94,
+        "change": 0.23,
+        "flow": -10.06,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0465.html"
+      },
+      {
+        "id": "BK1303",
+        "name": "锂电池",
+        "value": 235.88,
+        "change": 0.61,
+        "flow": -6.11,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1303.html"
+      },
+      {
+        "id": "BK0457",
+        "name": "电网设备",
+        "value": 233.94,
+        "change": 0.81,
+        "flow": -2.09,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0457.html"
+      },
+      {
+        "id": "BK1396",
+        "name": "金属制品",
+        "value": 233.16,
+        "change": 2.17,
+        "flow": 3.51,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1396.html"
+      },
+      {
+        "id": "BK0454",
+        "name": "塑料",
+        "value": 231.05,
+        "change": 2.35,
+        "flow": 3.73,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0454.html"
+      },
+      {
+        "id": "BK0538",
+        "name": "化学制品",
+        "value": 229.3,
+        "change": 0.92,
+        "flow": -6.02,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0538.html"
+      },
+      {
+        "id": "BK1027",
+        "name": "小金属",
+        "value": 228.3,
+        "change": 0.82,
+        "flow": 8.82,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1027.html"
+      },
+      {
+        "id": "BK0428",
+        "name": "电力",
+        "value": 226.93,
+        "change": -0.09,
+        "flow": -14.77,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0428.html"
+      },
+      {
+        "id": "BK1221",
+        "name": "数字媒体",
+        "value": 217.25,
+        "change": 2.08,
+        "flow": -4.7,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1221.html"
+      },
+      {
+        "id": "BK1220",
+        "name": "广告营销",
+        "value": 215.12,
+        "change": 0.87,
+        "flow": -5.46,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1220.html"
+      },
+      {
+        "id": "BK1203",
+        "name": "非银金融",
+        "value": 210.03,
+        "change": -0.23,
+        "flow": -10.48,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1203.html"
+      },
+      {
+        "id": "BK1209",
+        "name": "建筑装饰",
+        "value": 208.34,
+        "change": 0.81,
+        "flow": 1.42,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1209.html"
+      },
+      {
+        "id": "BK1447",
+        "name": "垂直应用软件",
+        "value": 205.67,
+        "change": 0.98,
+        "flow": -3.62,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1447.html"
+      },
+      {
+        "id": "BK1405",
+        "name": "其他专用设备",
+        "value": 204.48,
+        "change": 2.22,
+        "flow": 12,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1405.html"
+      },
+      {
+        "id": "BK0735",
+        "name": "计算机设备",
+        "value": 200.98,
+        "change": 1.36,
+        "flow": 1.09,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0735.html"
+      },
+      {
+        "id": "BK0433",
+        "name": "农林牧渔",
+        "value": 200.78,
+        "change": -0.32,
+        "flow": -7.21,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0433.html"
+      },
+      {
+        "id": "BK1293",
+        "name": "营销代理",
+        "value": 200.42,
+        "change": 0.92,
+        "flow": -4.84,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1293.html"
+      },
+      {
+        "id": "BK1594",
+        "name": "化学制剂",
+        "value": 198.33,
+        "change": 0.07,
+        "flow": -9.15,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1594.html"
+      },
+      {
+        "id": "BK1210",
+        "name": "交通运输",
+        "value": 191.35,
+        "change": -0.02,
+        "flow": -3.43,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1210.html"
+      },
+      {
+        "id": "BK1222",
+        "name": "影视院线",
+        "value": 188.36,
+        "change": 1.55,
+        "flow": -4.51,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1222.html"
+      },
+      {
+        "id": "BK1208",
+        "name": "建筑材料",
+        "value": 186.67,
+        "change": 1.03,
+        "flow": 8.03,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1208.html"
+      },
+      {
+        "id": "BK1600",
+        "name": "医疗研发外包",
+        "value": 182.69,
+        "change": 0.67,
+        "flow": -12.97,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1600.html"
+      },
+      {
+        "id": "BK1299",
+        "name": "影视动漫制作",
+        "value": 175.29,
+        "change": 2.45,
+        "flow": -3.59,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1299.html"
+      },
+      {
+        "id": "BK1212",
+        "name": "轻工制造",
+        "value": 167.13,
+        "change": 1.39,
+        "flow": 2.19,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1212.html"
+      },
+      {
+        "id": "BK1213",
+        "name": "商贸零售",
+        "value": 164.73,
+        "change": 0.11,
+        "flow": -7.38,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1213.html"
+      },
+      {
+        "id": "BK1446",
+        "name": "其他计算机设备",
+        "value": 161.19,
+        "change": 1.52,
+        "flow": 4.03,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1446.html"
+      },
+      {
+        "id": "BK0458",
+        "name": "仪器仪表",
+        "value": 160.17,
+        "change": 2.38,
+        "flow": 4.15,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0458.html"
+      },
+      {
+        "id": "BK1408",
+        "name": "机器人",
+        "value": 160.16,
+        "change": 3.34,
+        "flow": 4.33,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1408.html"
+      },
+      {
+        "id": "BK1327",
+        "name": "分立器件",
+        "value": 158.4,
+        "change": 4.22,
+        "flow": 15.5,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1327.html"
+      },
+      {
+        "id": "BK1041",
+        "name": "医疗器械",
+        "value": 150.61,
+        "change": 0.51,
+        "flow": -4.72,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1041.html"
+      },
+      {
+        "id": "BK1334",
+        "name": "光学元件",
+        "value": 145.2,
+        "change": 3.23,
+        "flow": 5.1,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1334.html"
+      },
+      {
+        "id": "BK1624",
+        "name": "其他小金属",
+        "value": 144.3,
+        "change": 0.6,
+        "flow": 6.55,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1624.html"
+      },
+      {
+        "id": "BK1328",
+        "name": "集成电路封测",
+        "value": 137.25,
+        "change": 4.3,
+        "flow": 7.49,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1328.html"
+      },
+      {
+        "id": "BK0436",
+        "name": "纺织服饰",
+        "value": 130.79,
+        "change": 1.24,
+        "flow": -1.28,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0436.html"
+      },
+      {
+        "id": "BK0546",
+        "name": "玻璃玻纤",
+        "value": 127.13,
+        "change": 3.3,
+        "flow": 9.86,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0546.html"
+      },
+      {
+        "id": "BK1339",
+        "name": "被动元件",
+        "value": 125.4,
+        "change": 2.71,
+        "flow": 9.65,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1339.html"
+      },
+      {
+        "id": "BK1302",
+        "name": "电池化学品",
+        "value": 125.36,
+        "change": 0.46,
+        "flow": -6.59,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1302.html"
+      },
+      {
+        "id": "BK1329",
+        "name": "集成电路制造",
+        "value": 122.46,
+        "change": 1.54,
+        "flow": -5.76,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1329.html"
+      },
+      {
+        "id": "BK1335",
+        "name": "面板",
+        "value": 122.07,
+        "change": 0.87,
+        "flow": -0.05,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1335.html"
+      },
+      {
+        "id": "BK0732",
+        "name": "贵金属",
+        "value": 120.82,
+        "change": 0.26,
+        "flow": -0.61,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0732.html"
+      },
+      {
+        "id": "BK1462",
+        "name": "玻纤制造",
+        "value": 118.13,
+        "change": 3.84,
+        "flow": 8.54,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1462.html"
+      },
+      {
+        "id": "BK1330",
+        "name": "模拟芯片设计",
+        "value": 116.49,
+        "change": 2.44,
+        "flow": -2.27,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1330.html"
+      },
+      {
+        "id": "BK0736",
+        "name": "通信服务",
+        "value": 114.63,
+        "change": 1.99,
+        "flow": -1.47,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0736.html"
+      },
+      {
+        "id": "BK1613",
+        "name": "铝",
+        "value": 113.27,
+        "change": 0.42,
+        "flow": -1.34,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1613.html"
+      },
+      {
+        "id": "BK1218",
+        "name": "出版",
+        "value": 113.16,
+        "change": 1.6,
+        "flow": -1.75,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1218.html"
+      },
+      {
+        "id": "BK1315",
+        "name": "光伏电池组件",
+        "value": 113.09,
+        "change": -1.35,
+        "flow": -6.48,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1315.html"
+      },
+      {
+        "id": "BK1593",
+        "name": "通信终端及配件",
+        "value": 112.95,
+        "change": 2.41,
+        "flow": 6.98,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK1593.html"
+      },
+      {
+        "id": "BK0482",
+        "name": "一般零售",
+        "value": 112.41,
+        "change": 0.17,
+        "flow": -4.38,
+        "source": "东方财富",
+        "asOf": "2026-11-11T07:39:57.000Z",
+        "sourceUrl": "https://quote.eastmoney.com/bk/90.BK0482.html"
+      }
+    ],
+    "events": [],
+    "news": [],
+    "sources": [
+      {
+        "id": "quotes",
+        "name": "腾讯财经",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "trends",
+        "name": "腾讯财经分钟线",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "extra",
+        "name": "东方财富跨市场",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "intraday",
+        "name": "东方财富分时",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "candles",
+        "name": "东方财富日 K",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "sectors",
+        "name": "东方财富板块",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "up",
+        "name": "东方财富涨停池",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "down",
+        "name": "东方财富跌停池",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "broken",
+        "name": "东方财富炸板池",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "bond",
+        "name": "东方财富国债收益率",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T15:18:12.761Z"
+      },
+      {
+        "id": "breadth",
+        "name": "东方财富全 A 股情绪",
+        "status": "error",
+        "lastSuccessAt": "2026-11-11T10:28:38.129Z",
+        "message": "HTTP 502"
+      },
+      {
+        "id": "overnight",
+        "name": "腾讯财经 · 隔夜日 K 收盘",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-11T06:58:53.089Z"
+      }
+    ],
+    "limitThemes": [
+      {
+        "name": "汽车零部",
+        "count": 10
+      },
+      {
+        "name": "通用设备",
+        "count": 8
+      },
+      {
+        "name": "专用设备",
+        "count": 7
+      },
+      {
+        "name": "通信设备",
+        "count": 7
+      },
+      {
+        "name": "元件",
+        "count": 5
+      },
+      {
+        "name": "游戏Ⅱ",
+        "count": 4
+      },
+      {
+        "name": "光伏设备",
+        "count": 3
+      },
+      {
+        "name": "燃气Ⅱ",
+        "count": 3
+      },
+      {
+        "name": "塑料",
+        "count": 3
+      },
+      {
+        "name": "消费电子",
+        "count": 2
+      },
+      {
+        "name": "化学原料",
+        "count": 2
+      },
+      {
+        "name": "玻璃玻纤",
+        "count": 2
+      },
+      {
+        "name": "数字媒体",
+        "count": 2
+      },
+      {
+        "name": "半导体",
+        "count": 2
+      },
+      {
+        "name": "自动化设",
+        "count": 2
+      },
+      {
+        "name": "照明设备",
+        "count": 1
+      },
+      {
+        "name": "工业金属",
+        "count": 1
+      },
+      {
+        "name": "一般零售",
+        "count": 1
+      },
+      {
+        "name": "厨卫电器",
+        "count": 1
+      },
+      {
+        "name": "食品加工",
+        "count": 1
+      },
+      {
+        "name": "专业工程",
+        "count": 1
+      },
+      {
+        "name": "包装印刷",
+        "count": 1
+      },
+      {
+        "name": "造纸",
+        "count": 1
+      },
+      {
+        "name": "普钢",
+        "count": 1
+      },
+      {
+        "name": "饰品",
+        "count": 1
+      },
+      {
+        "name": "教育",
+        "count": 1
+      },
+      {
+        "name": "电力",
+        "count": 1
+      },
+      {
+        "name": "装修装饰",
+        "count": 1
+      },
+      {
+        "name": "工程咨询",
+        "count": 1
+      },
+      {
+        "name": "家居用品",
+        "count": 1
+      },
+      {
+        "name": "服装家纺",
+        "count": 1
+      },
+      {
+        "name": "软件开发",
+        "count": 1
+      },
+      {
+        "name": "计算机设",
+        "count": 1
+      },
+      {
+        "name": "通信服务",
+        "count": 1
+      },
+      {
+        "name": "房地产开",
+        "count": 1
+      },
+      {
+        "name": "电网设备",
+        "count": 1
+      },
+      {
+        "name": "影视院线",
+        "count": 1
+      },
+      {
+        "name": "出版",
+        "count": 1
+      }
+    ],
+    "sentiment": {
+      "up": 3538,
+      "down": 1827,
+      "flat": 209,
+      "moneyEffect": 0.59,
+      "temperature": 63.5,
+      "percentile": null,
+      "breadth": {
+        "date": "2026-11-11",
+        "up": 3538,
+        "down": 1827,
+        "flat": 209,
+        "moneyEffect": 0.59,
+        "temperature": 63.5,
+        "sampleCount": 5574,
+        "totalListed": 5928,
+        "excludedCount": 354,
+        "complete": true,
+        "asOf": "2026-11-11T08:12:01.000Z",
+        "oldestQuoteAt": "2026-11-11T07:33:42.000Z",
+        "collectedAt": "2026-11-11T10:28:52.587Z",
+        "collectionStartedAt": "2026-11-11T10:28:42.095Z",
+        "isCloseSample": true,
+        "source": {
+          "name": "东方财富 · 全 A 股行情",
+          "url": "https://quote.eastmoney.com/center/gridlist.html#hs_a_board"
+        },
+        "scope": "沪深京 A 股当日有成交且报价有效的股票；剔除停牌、无有效报价与非当日行情",
+        "method": "日涨跌幅中位数；市场温度 = 上涨家数 / 有效成交家数 × 100",
+        "percentile": null,
+        "historyCount": 2,
+        "historyWindow": 250
+      },
+      "limitUp": 85,
+      "limitDown": 0,
+      "height": 4,
+      "brokenRate": 18.3
+    },
+    "recap": {
+      "regime": "事实快照",
+      "summary": "收盘报价已取得，复盘待确认",
+      "turnover": "1.68",
+      "turnoverDelta": "",
+      "mainline": null,
+      "support": null,
+      "resistance": null,
+      "paragraphs": [
+        {
+          "title": "盘面事实",
+          "brief": "上证指数 3,680.64，涨跌幅 +0.46%。沪深指数口径成交额合计约 1.68 万亿元。报价时间 2026-11-11 16:14:27 北京时间。",
+          "full": "上证指数 3,680.64，涨跌幅 +0.46%。沪深指数口径成交额合计约 1.68 万亿元。报价时间 2026-11-11 16:14:27 北京时间。"
+        },
+        {
+          "title": "板块观察",
+          "brief": "已采集的行业板块样本中，通信网络设备及器件 +7.19%、通信线缆及配套 +6.04%、印制电路板 +5.76%。数据来自东方财富，不作为因果结论。",
+          "full": "已采集的行业板块样本中，通信网络设备及器件 +7.19%、通信线缆及配套 +6.04%、印制电路板 +5.76%。数据来自东方财富，不作为因果结论。"
+        },
+        {
+          "title": "明日观察",
+          "brief": "等待收盘数据完整并确认复盘后发布。关键位、情绪历史分位和主线归因暂不生成。",
+          "full": "等待收盘数据完整并确认复盘后发布。关键位、情绪历史分位和主线归因暂不生成。"
+        }
+      ]
+    },
+    "marketContext": {
+      "phase": "close-observed",
+      "label": "当日收盘报价",
+      "hasTodayQuote": true,
+      "quoteDate": "2026-11-11"
+    },
+    "sourceLinks": {
+      "price": {
+        "name": "东方财富 · 上证指数",
+        "url": "https://quote.eastmoney.com/zs000001.html"
+      },
+      "sectors": {
+        "name": "东方财富 · 行业板块",
+        "url": "https://quote.eastmoney.com/center/boardlist.html#industry_board"
+      },
+      "flows": {
+        "name": "东方财富 · 行业资金",
+        "url": "https://data.eastmoney.com/bkzj/hy.html"
+      },
+      "limits": {
+        "name": "东方财富 · 涨停板池",
+        "url": "https://quote.eastmoney.com/ztb/detail#type=ztgc"
+      }
+    },
+    "overnight": {
+      "policy": "previous-us-session-close",
+      "aShareDate": "2026-11-11",
+      "usTradeDate": "2026-11-10",
+      "status": "locked",
+      "lockedAt": "2026-11-11T06:58:53.089Z"
+    }
+  }
+}
