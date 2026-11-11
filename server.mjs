@@ -8,6 +8,7 @@ import {MarketCollector} from './lib/markets.mjs';
 import {DailyArchive} from './lib/archive.mjs';
 import {DailyReports} from './lib/reports.mjs';
 import {completePreviousDay} from './lib/day-boundary.mjs';
+import {collectOvernight} from './lib/overnight.mjs';
 
 const collector=new Collector(),markets=new MarketCollector(),archive=new DailyArchive();
 const reports=new DailyReports();
@@ -31,7 +32,7 @@ const snapshotFor=async date=>{
  const saved=await archive.get(date);return date<chinaDate()?saved?.snapshot||null:await markets.get(date)||saved?.snapshot||null;
 };
 async function saveStatic(date){
- const snapshot=await snapshotFor(date),saved=await archive.get(date);if(!saved)return;
+ const saved=await archive.get(date),snapshot=saved?.snapshot;if(!saved)return;
  const template=await readFile(path.join(root,'public/index.html'),'utf8'),dir=path.join(root,'dist/daily',date);
  await mkdir(dir,{recursive:true});
  await writeFile(path.join(dir,'index.html'),renderHTML(template,snapshot,{date,availableDates:await allDates(),catalogue:await archive.catalogue()}));
@@ -46,11 +47,13 @@ async function runCycle(){
    await archive.sealPast();
    await Promise.allSettled([collector.refresh(),markets.refresh()]);
    const today=chinaDate();
+   const [overnightResult]=await Promise.allSettled([collectOvernight([...new Set([...(await allDates()),today])])]);
    await archive.capture(today,{news:await collector.payload(today),snapshot:await markets.get(today)});
    await completePreviousDay(archive,collector);
+   await archive.applyOvernightBindings();
    await reports.refreshAll();
    for(const date of await allDates())await saveStatic(date);
-   runtime.lastCycleAt=new Date().toISOString();runtime.state='running';
+   runtime.lastCycleAt=new Date().toISOString();runtime.state=overnightResult.status==='rejected'?'degraded':'running';runtime.error=overnightResult.status==='rejected'?overnightResult.reason.message:null;
    const news=await newsFor(today),snapshot=await snapshotFor(today);
    for(const send of subscribers){try{send('news',news);send('market',{date:today,snapshot});}catch{}}
   }catch(error){runtime.state='degraded';runtime.error=error.message;console.error(error.message);}

@@ -1,5 +1,5 @@
 const coreIds=new Set(['sh','sz','cy','kc']);
-export const marketQuoteSource=market=>market.id==='bond'?'bond':['nk','fx'].includes(market.id)?'extra':'quotes';
+export const marketQuoteSource=market=>market.overnight?'overnight':market.id==='bond'?'bond':['nk','fx'].includes(market.id)?'extra':'quotes';
 const hasQuote=market=>market.status!=='unavailable'&&Boolean(market.value)&&market.value!=='—';
 
 // 仅描述当前可见卡片依赖的失败来源；报价与分钟走势分别判断缓存。

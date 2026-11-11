@@ -1,6 +1,8 @@
-import {dataFetch,staticMode,siteRoot,todayInChina} from './data-client.js?v=1.7.2';
-import {marketContext,normalizeMarketSnapshot,chinaDateOf,isAShare} from './market-context.js?v=1.7.2';
-import {marketOverviewHealth,marketQuoteSource} from './market-health.js?v=1.7.2';
+import {dataFetch,staticMode,siteRoot,todayInChina} from './data-client.js?v=1.8.0';
+import {marketContext,normalizeMarketSnapshot,chinaDateOf,isAShare} from './market-context.js?v=1.8.0';
+import {marketOverviewHealth,marketQuoteSource} from './market-health.js?v=1.8.0';
+import {usQuoteContext,heatColor,intradayReference,intradayExtent} from './market-display.js?v=1.8.0';
+import {marketObservations} from './market-observations.js?v=1.8.0';
 const $=(s,scope=document)=>scope.querySelector(s);
 const $$=(s,scope=document)=>[...scope.querySelectorAll(s)];
 const icons={
@@ -52,7 +54,7 @@ function skeleton(){ $('#newsCanvas').innerHTML=Array.from({length:5},()=>'<div 
 function setConnection(label,stale=false){$('#connectionText').textContent=label;$('.status-dot').classList.toggle('stale',stale);}
 function updateStamps(){
  $('#newsStamp').textContent=`新闻采集 ${formatStamp(state.newsAsOf)}`;$('#newsFooterTime').textContent=formatStamp(state.newsAsOf,true);
- const s=state.snapshot,context=s?marketContext(s,state.date):null;$('#snapshotStamp').textContent=s?`${s.demo?'演示快照':context.label} · 报价 ${formatStamp(s.asOf)}`:state.edition==='report'?'今日收盘尚未形成':'盘面 · 等待当日数据';
+ const s=state.snapshot,context=s?marketContext(s,state.date):null;$('#snapshotStamp').textContent=s?`${s.demo?'演示快照':context.label} · 报价 ${formatStamp(s.asOf)}`:state.date<currentDate?'所选日无可用收盘记录':state.edition==='report'?'今日收盘尚未形成':'盘面 · 等待当日数据';
  $('#newsMode').textContent=state.edition==='report'?(state.report?.news?.status==='final'?'全日榜单 · 已定稿':'全日榜单 · 更新中'):state.date===currentDate?(staticMode?'自动聚合 · 定时采集':'5 分钟聚合'):'历史归档';
  $('#dateCaption').textContent=`${dateName(state.date)} · ${s?(s.demo?'演示盘面':context.label):state.edition==='report'?'当日收盘尚未形成':'暂无当日盘面记录'}`;
  $('#datePicker').value=state.date;
@@ -63,22 +65,26 @@ function updateStamps(){
  renderArchiveDates();
  renderEdition();
  renderSyncStatus();
+ if(runtime)renderRuntime();
 }
 function renderEdition(){
- const daily=state.edition==='report',r=state.report;
+ const daily=state.edition==='report',r=state.report,historical=state.date<currentDate;
  $('#marketTabs').classList.remove('hidden');$('#marketTitle').innerHTML='<span class="section-tick"></span>'+(daily?'当日市场概览':'市场速览');
- $('#marketScope').textContent=daily?(r?.close?'A 股核心收盘已锁定；':'A 股收盘记录尚待确认；')+'概览保存各市场当日最后留存报价，含隔夜与日度数据。以卡片日期和来源为准，跨日后固定。':'按市场分类查看最新留存报价；各市场交易时间不同，卡片均标注原报价时间。';
+ $('#marketScope').textContent=daily||historical?'以 A 股日期为主键；美股固定隔夜收盘，卡片标明美东交易日。':'各市场最新留存报价；当晚美股盘中价只在实时版出现。';
+ $('[data-edition="live"] strong').textContent=historical?'快讯归档':'实时追踪';
  $$('[data-edition]').forEach(b=>{const selected=b.dataset.edition===state.edition;b.classList.toggle('active',selected);b.setAttribute('aria-pressed',String(selected));b.disabled=demoMode&&b.dataset.edition==='report';});
- $('#newsTitle').innerHTML=icon(daily?'file':'radio')+(daily?'今日重要财经新闻':'最新新闻热榜')+' <span class="live-badge" id="newsMode">'+(daily?(r?.news?.status==='final'?'全日榜单 · 已定稿':'全日榜单 · 更新中'):state.date===currentDate?(staticMode?'自动聚合 · 定时采集':'5 分钟聚合'):'历史归档')+'</span>';
- $('#newsTitle').nextElementSibling.textContent=daily?'全日已采集候选统一筛选，早间重要消息不因时间衰减':'多站快讯去重聚合，追踪持续变化的新闻热度';
+ $('#newsTitle').innerHTML=icon(daily?'file':'radio')+(daily?'重要财经新闻':historical?'新闻热榜归档':'最新新闻热榜')+' <span class="live-badge" id="newsMode">'+(historical?'历史归档':daily?(r?.news?.status==='final'?'全日榜单 · 已定稿':'全日榜单 · 更新中'):(staticMode?'自动聚合 · 定时采集':'5 分钟聚合'))+'</span>';
+ $('#newsTitle').nextElementSibling.textContent=daily?'全日已采集候选统一筛选，早间重要消息不因时间衰减':historical?'保留当日最后一次热榜；切换日报查看全日重要新闻':'多站快讯去重聚合，追踪持续变化的新闻热度';
  $('#newsSort option[value="heat"]').textContent=daily?'全日重要度':'平台热度';
  $('.must-section .muted').textContent=daily?'全日重要度前 3 · 点击跳转原文':'平台热度前 3 · 点击跳转原文';
  $('.news-count>span').childNodes[0].textContent=daily?'全日精选 TOP 20 ':'当日 TOP 20 ';
  $('#editionNotice').classList.toggle('is-report',daily);
+ const detailsOpen=$('#editionNotice details')?.open;
  if(daily){
   const closed=Boolean(r?.close),final=r?.news?.status==='final';
-  $('#editionNotice').innerHTML='<div><span class="edition-state">'+(final?'日报已定稿':r?.status==='closing'?'午夜补采中':'今日日报 · 持续补充')+'</span><strong>'+esc(state.date)+' 每日收盘报</strong><p>'+(closed?'A 股收盘盘面已独立保存。':'今日收盘尚未形成，不展示上一交易日的收盘结论。')+' '+(final?'全日统计截止 '+esc(state.date)+' 24:00（北京时间），榜单已固定。':'新闻覆盖当日 00:00—24:00；跨日后补采截止前标题再定稿。')+(closed?' 盘面实际采集于 '+formatStamp(r.close.dataCollectedAt)+'。':'')+(final?' 新闻最近采集 '+formatStamp(r?.news?.collectedAt||r?.news?.asOf)+'；跨市场报价保留各自实际时间。':'')+'</p></div><div class="edition-metrics"><span><b class="numeric">'+(r?.news?.totalCandidates||0)+'</b> 全日候选</span><span><b class="numeric">'+(r?.news?.items?.length||0)+'</b> 条精选</span><span><b>'+(closed?'已保存':'待形成')+'</b> A 股收盘</span></div>';
- }else $('#editionNotice').innerHTML='<div><span class="edition-state">最新动态</span><p>新闻与报价按计划更新；全日重点和固定的 A 股收盘记录，请切换「每日收盘报」。</p></div>';
+  $('#editionNotice').innerHTML='<details><summary><span class="edition-state">'+(final?'日报已定稿':r?.status==='closing'?'午夜补采中':'全日榜单更新中')+'</span><span>'+(closed?'A 股收盘已保存':'当日收盘尚未形成')+' · '+(final?esc(state.date)+' 24:00 截止':'新闻统计区间 00:00—24:00')+'</span><span class="notice-more">口径详情</span></summary><p>'+(closed?'A 股收盘盘面已独立保存，实际采集于 '+formatStamp(r.close.dataCollectedAt)+'。':'当日收盘尚未形成，不展示上一交易日的收盘结论。')+' 全日候选 '+(r?.news?.totalCandidates||0)+' 条，精选 '+(r?.news?.items?.length||0)+' 条。'+(final?'新闻最近采集 '+formatStamp(r?.news?.collectedAt||r?.news?.asOf)+'。':'跨日后补采截止前标题再定稿。')+'美股固定绑定此前最近已完成交易日收盘，后续盘中报价不覆盖。</p></details>';
+  if(detailsOpen)$('#editionNotice details').open=true;
+ }else $('#editionNotice').innerHTML='<div><span class="edition-state">'+(historical?'历史归档 · 只读':'最新动态')+'</span><p>'+(historical?'保留所选日期最后留存的热榜与报价；全日重点见「每日收盘报」。':'云端按计划采集；全日重点与固定 A 股收盘另存于「每日收盘报」。')+'</p></div>';
  $('.daily-note strong').textContent=daily?'全日重点与收盘事实，分别留存':'标题回到出处，板块留在视野';
  $('.daily-note p').textContent=daily?'全日榜单不做时效衰减；A 股核心收盘盘面锁定，跨市场概览另存。':'点击标题打开原文；点击“关联板块”联动盘面。';
 }
@@ -92,6 +98,7 @@ async function refreshCatalogue(){
  try{const res=await dataFetch('/api/dates'+(demoMode?'?mode=demo':''));if(!res.ok)throw Error();const d=await res.json();catalogue=d;boot.availableDates=demoMode?boot.availableDates:d.dates;currentDate=staticMode?todayInChina():d.currentDate;renderArchiveDates();updateStamps();}catch{renderArchiveDates();}
 }
 function renderRuntime(failed=false){
+ if(state.date<currentDate){const button=$('#runtimeStatus');button.classList.remove('runtime-offline');button.innerHTML='<span>历史归档 · 只读</span>'+icon('info');button.title='此页保留所选日期的数据。点击查看独立运行的云端服务状态。';return;}
  const button=$('#runtimeStatus'),delayed=publicationDelayed();button.classList.toggle('runtime-offline',failed||delayed);
  const label=failed?(staticMode?'状态暂不可用 · 保留记录':'服务未连接 · 自动采集暂停'):delayed?'更新延迟 · 展示最后记录':runtime?.state==='degraded'?'采集部分异常 · 保留记录':runtime?.state==='collecting'?'正在自动采集':`自动更新 · 每 ${Math.round((runtime?.intervalSeconds||(staticMode?1800:300))/60)} 分钟 · ${staticMode?'云端定时':'本地服务'}`;
  button.innerHTML='<i class="tiny-dot"></i><span>'+label+'</span>'+icon('info');
@@ -100,8 +107,9 @@ function renderRuntime(failed=false){
 function publicationDelayed(){return staticMode&&runtime?.lastCycleAt&&Date.now()-Date.parse(runtime.lastCycleAt)>Math.max(600_000,(runtime.intervalSeconds||300)*2000);}
 function renderSyncStatus(){
  const label=$('#autoSyncStatus');if(!label)return;
- label.textContent=state.paused?'自动同步已暂停':publicationDelayed()?'云端更新延迟 · 页面自动重试':state.date<currentDate&&state.report?.status==='final'?'历史定稿 · 自动检查':'每 30 秒自动同步';
- label.classList.toggle('sync-delayed',Boolean(publicationDelayed()));label.title='上次页面同步 '+formatStamp(lastPageSyncAt)+'；上次云端采集 '+formatStamp(runtime?.lastCycleAt)+'。无需手动刷新。';
+ const historical=state.date<currentDate;
+ label.textContent=historical?'历史归档 · 只读':state.paused?'自动同步已暂停':publicationDelayed()?'云端更新延迟 · 页面自动重试':'每 30 秒自动同步';
+ label.classList.toggle('sync-delayed',!historical&&Boolean(publicationDelayed()));label.title=historical?'按所选日期回看已保存内容；不随当前实时行情变化。':'上次页面同步 '+formatStamp(lastPageSyncAt)+'；上次云端采集 '+formatStamp(runtime?.lastCycleAt)+'。无需手动刷新。';
 }
 async function refreshRuntime(){try{const r=await dataFetch('/api/runtime',{signal:AbortSignal.timeout(5000)});if(!r.ok)throw Error();runtime=await r.json();if(boot.appVersion&&runtime.appVersion&&boot.appVersion!==runtime.appVersion){location.reload();return;}renderRuntime();renderSyncStatus();}catch{renderRuntime(true);}}
 function showRuntime(){dialog('自动更新与历史保存','<span class="regime-tag">无需每天手动更新</span><h2>'+(staticMode?'云端自动采集，电脑关机也能访问。':'服务运行，数据就会继续积累。')+'</h2><p>'+(staticMode?'每 5 分钟计划触发新闻与行情采集，页面每 30 秒自动同步，由 GitHub Actions 执行，GitHub Pages 提供公开网页。个人电脑关机和关闭网页均不影响。':'当前每 5 分钟自动采集一次新闻与行情，关闭网页不影响后台采集。当前运行方式：本机 Node 服务。')+'</p><table class="source-table"><tbody><tr><td>建站日期</td><td>'+esc(catalogue.startedDate||'—')+'（北京时间）</td></tr><tr><td>上次采集完成</td><td>'+formatStamp(runtime?.lastCycleAt)+'</td></tr><tr><td>'+(staticMode?'下次计划（可能延迟）':'下次计划')+'</td><td>'+formatStamp(runtime?.nextRunAt)+'</td></tr><tr><td>历史记录</td><td>'+(catalogue.dates?.length||0)+' 天，'+(staticMode?'保存在云端历史分支':'保存在服务器 data/archive/')+'</td></tr></tbody></table><h3>明天回看今天</h3><p>当天新闻榜单、行情、分时、板块资金和数据时间一起保存。全日统计截止北京时间当日24:00，跨日补采截止前标题后固定；市场价格保留实际报价时间，选回日期即可读取，服务重启也会保留。建站之前的日期不补造数据。</p><h3>'+(staticMode?'免费服务的更新边界':'什么情况下会停')+'</h3><p>'+(staticMode?'定时任务可能排队、延迟或被平台跳过；来源失败时保留最后成功记录。页面超过 10 分钟未取得新批次会显示更新延迟，仍会自动重试。免费服务没有可用性保证，历史记录也可从仓库下载备份。':'电脑关机、休眠、断网或本地服务停止时无法继续抓取；已经保存的历史文件仍在。若要关电脑后也全天自动更新，需要将网站部署到持续在线的服务器，并保留数据目录。')+'</p>');}
@@ -161,21 +169,22 @@ function renderMarkets(){
  $('#marketQuoteStamp').textContent='概览采集 '+formatStamp(overview.collectedAt)+' · 北京时间';
  $('#marketStrip').innerHTML=markets.map(original=>{
   const reference=isAShare(original)&&chinaDateOf(original.asOf)!==state.date;
+  const us=usQuoteContext(original);
   const m=state.edition==='report'&&reference?{...original,value:'—',change:null,trend:[],status:'unavailable',quoteLabel:'今日报价尚未形成',time:'等待当日数据'}:original;
   const trend=m.trend||[],min=Math.min(...trend),range=Math.max(...trend)-min||1;
   const points=trend.map((v,i)=>((i/Math.max(1,trend.length-1))*70).toFixed(1)+','+(26-(v-min)/range*23).toFixed(1)).join(' ');
   const unavailable=m.status==='unavailable'||!m.value||m.value==='—',hasChange=Number.isFinite(m.change),color=!unavailable&&hasChange?changeClass(m.change):'muted',link=safeMarketURL(m.sourceUrl);
   const cached=!unavailable&&overview.sources?.some(s=>s.id===marketQuoteSource(m)&&s.status==='error');
   const tag=link?'a':'article',linkAttrs=link?' href="'+esc(link)+'" target="_blank" rel="noopener noreferrer" aria-label="查看 '+esc(m.name)+' 来源：'+esc(m.source)+'"':'';
-  return '<'+tag+linkAttrs+' class="market-card '+(m.id==='sh'?'selected ':'')+(unavailable?'stale-data':'')+'" title="'+esc(m.name+' · '+(m.source||'待接入')+(cached?' · 沿用上次成功报价':'')+' · '+(m.asOf||m.time))+'"><div class="market-name">'+esc(m.name)+'<small>'+esc(m.code)+'</small></div><span class="quote-context '+(reference?'reference-quote':'')+'">'+esc(m.quoteLabel||(reference?'上一交易日参考 · '+chinaDateOf(m.asOf):m.frequency==='daily'?'日度数据':'报价日期 '+(chinaDateOf(m.asOf)||'未知')))+'</span><strong class="market-value numeric '+color+'">'+esc(m.value)+'</strong><div class="market-bottom"><span class="market-change numeric '+color+'">'+(unavailable?'等待当日数据':hasChange?signed(m.change,m.id==='bond'?4:2)+(m.id==='bond'?' pp':'%'):'涨跌暂无')+'</span></div>'+(trend.length>1?'<svg class="spark '+color+'" viewBox="0 0 72 30" aria-hidden="true"><polyline points="'+points+'" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>':'<span class="trend-unavailable">'+(m.demo?'演示':m.id==='bond'?'较上期 · 百分点':reference?'待当日走势':'走势待补充')+'</span>')+'<span class="market-origin '+(cached?'cached-origin':'')+'">'+esc(m.source||'待接入')+(cached?' · 缓存':'')+(link?' ↗':'')+'</span><span class="market-time numeric">'+esc(unavailable?m.time:m.asOf?formatStamp(m.asOf):m.time)+'</span></'+tag+'>';
+  return '<'+tag+linkAttrs+' class="market-card '+(m.id==='sh'?'selected ':'')+(unavailable?'stale-data':'')+'" title="'+esc(m.name+' · '+(m.source||'待接入')+(cached?' · 沿用上次成功报价':'')+' · '+(us?.detail||m.asOf||m.time))+'"><div class="market-name">'+esc(m.name)+'<small>'+esc(us?m.code.replace(/ · 隔夜/g,''):m.code)+'</small></div><span class="quote-context '+(reference?'reference-quote':'')+'">'+esc(us?.label||m.quoteLabel||(reference?'上一交易日参考 · '+chinaDateOf(m.asOf):m.frequency==='daily'?'日度数据':'报价日期 '+(chinaDateOf(m.asOf)||'未知')))+'</span><strong class="market-value numeric '+color+'">'+esc(m.value)+'</strong><div class="market-bottom"><span class="market-change numeric '+color+'">'+(unavailable?(m.overnight?'隔夜收盘待确认':'等待当日数据'):hasChange?signed(m.change,m.id==='bond'?4:2)+(m.id==='bond'?' pp':'%'):'涨跌暂无')+'</span></div>'+(trend.length>1?'<svg class="spark '+color+'" viewBox="0 0 72 30" aria-hidden="true"><polyline points="'+points+'" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>':'<span class="trend-unavailable">'+(m.demo?'演示':m.id==='bond'?'较上期 · 百分点':m.overnight?'日 K 收盘 · 已固定':reference?'待当日走势':'走势待补充')+'</span>')+'<span class="market-origin '+(cached?'cached-origin':'')+'">'+esc(m.source||'待接入')+(cached?' · 缓存':'')+(link?' ↗':'')+'</span><span class="market-time numeric">'+esc(m.overnight?(m.collectedAt?'采集 '+formatStamp(m.collectedAt):'待源确认'):(us?'北京 ':'')+(unavailable?m.time:m.asOf?formatStamp(m.asOf):m.time))+'</span></'+tag+'>';
  }).join('')||emptyHTML('该分类暂无留存报价','这一天尚未接入该市场，没有使用其他日期的数据补齐。');
 }
 function renderMustReads(){
  const picked=[...state.news].sort((a,b)=>a.rank-b.rank).slice(0,3);
- $('#mustReads').innerHTML=picked.length?picked.map((n,i)=>'<a class="must-card" href="'+esc(n.sourceUrl)+'" target="_blank" rel="noopener noreferrer"><span class="must-number">0'+(i+1)+'</span><span><span class="must-meta"><span class="must-category">'+esc(n.source)+'</span><span>·</span><span class="numeric">'+n.time+'</span></span><span class="must-title">'+esc(n.title)+'</span>'+(n.summary?'<span class="must-summary">'+esc(n.summary)+'</span>':'')+'<span class="must-detail">'+(state.edition==='report'?'全日重要度 ':'平台热度 ')+esc(n.score)+' · '+n.sourceCount+' 个来源'+icon('external')+'</span></span></a>').join(''):emptyHTML('当日暂无已采集标题','历史归档从服务首次采集后开始积累。');
+ $('#mustReads').innerHTML=picked.length?picked.map((n,i)=>'<a class="must-card '+(n.summary?'has-summary':'')+'" href="'+esc(n.sourceUrl)+'" target="_blank" rel="noopener noreferrer"><span class="must-number">0'+(i+1)+'</span><span><span class="must-meta"><span class="must-category">'+esc(n.source)+'</span><span>·</span><span class="numeric">'+n.time+'</span></span><span class="must-title">'+esc(n.title)+'</span>'+(n.summary?'<span class="must-summary">'+esc(n.summary)+'</span>':'')+'<span class="must-detail">'+(state.edition==='report'?'全日重要度 ':'平台热度 ')+esc(n.score)+' · '+n.sourceCount+' 个来源'+icon('external')+'</span></span></a>').join(''):emptyHTML('当日暂无已采集标题','历史归档从服务首次采集后开始积累。');
 }
 function renderSnapshot(){
- const s=state.snapshot;renderMarkets();
+ const s=state.snapshot,observations=marketObservations(s);renderMarkets();
  $('#marketStrip').classList.remove('stale-data');$('#reviewColumn').classList.remove('stale-data');
  const context=marketContext(s,state.date);$('#chartSubtitle').textContent='上证指数 · '+s.date.replaceAll('-','.')+' · '+(s.demo?'演示数据':context.label);
  $('#chartSourceLink').innerHTML=marketAnchor(s.sourceLinks?.price?.url,'图表来源');
@@ -200,11 +209,11 @@ function renderSnapshot(){
  marketDataNotice('sentimentDataStatus',$('#sentimentSource'),['breadth'],Boolean(breadth?.complete));
  $('#limitUp').textContent=sent.limitUp??'—';$('#limitDown').textContent=sent.limitDown??'—';
  const stats=$$('.limit-stats b');stats[2].textContent=sent.height===null?'—':sent.height+' 板';stats[3].textContent=sent.brokenRate===null?'—':sent.brokenRate+'%';
- $('#regimeTag').textContent=s.recap.regime;$('#recapHeadline').textContent=s.recap.summary;renderRecap();
- $('.levels').innerHTML=s.demo?'<span>演示观察</span><span>支撑 <b>3,400</b></span><span>压力 <b>3,450</b></span>':'<span>复盘状态</span><span>事实记录已更新 · 定性结论与关键位待确认</span>';
+ $('#regimeTag').textContent=observations.regime;$('#recapHeadline').textContent=observations.summary;renderRecap();
+ $('.levels').innerHTML=s.demo?'<span>演示观察</span><span>支撑 <b>3,400</b></span><span>压力 <b>3,450</b></span>':'<span>方法</span><span>'+esc(observations.method||'等待当日有效样本')+'</span>';
  requestAnimationFrame(()=>{renderPriceChart();renderSectorChart();});
 }
-function renderRecap(){if(!state.snapshot)return;$('#recapContent').innerHTML=state.snapshot.recap.paragraphs.map(p=>`<div class="recap-point"><h4>${esc(p.title)}</h4><p>${esc(state.reading==='brief'?p.brief:p.full)}</p></div>`).join('');}
+function renderRecap(){if(!state.snapshot)return;$('#recapContent').innerHTML=marketObservations(state.snapshot).paragraphs.map(p=>`<div class="recap-point"><h4>${esc(p.title)}</h4><p>${esc(state.reading==='brief'?p.brief:p.full)}</p>${p.evidence?'<small class="recap-evidence">'+esc(p.evidence)+'</small>':''}</div>`).join('');}
 function groupFor(n){return n.time>='15:00'?'盘后 · 收盘跟踪':n.time>='13:00'?'尾盘 · 午后交易':n.time>='11:30'?'午间 · 消息梳理':n.time>='09:30'?'早盘 · 市场交易':'盘前 · 今日前瞻';}
 function filteredNews(){
  const q=state.query.trim().toLowerCase();
@@ -224,8 +233,11 @@ function renderNews(reset=true){
  $('#rankingStats').textContent='财经候选 '+(state.newsMeta?.financeCandidates||0)+' 条 · 去重后取前 20';
  const canvas=$('#newsCanvas');
  if(!items.length){virtualRows=[];canvas.style.height='auto';canvas.innerHTML=emptyHTML(state.favoritesOnly?'当前条件下没有收藏':'没有匹配的标题',state.news.length?'可清除筛选或尝试其他关键词。':'此日期尚无采集记录，归档从首次采集开始。','<button class="primary-button" data-action="resetFilters">重置筛选</button>');return;}
+ // 先按视口实际宽度测量，随后虚拟渲染；长标题、摘要或字号变化不会挤压下一条。
+ const measure=document.createElement('div');measure.className='news-measure';measure.style.width=$('#newsViewport').clientWidth+'px';measure.setAttribute('aria-hidden','true');measure.innerHTML=items.map(newsHTML).join('');document.body.append(measure);
+ const heights=[...measure.children].map(el=>Math.ceil(el.getBoundingClientRect().height));measure.remove();
  virtualRows=[];let top=0,lastGroup=null;
- for(const n of items){const group=state.sort==='heat'?(state.edition==='report'?'全日重要财经新闻 TOP 20':'平台热度 TOP 20'):groupFor(n);if(group!==lastGroup){virtualRows.push({type:'group',group,top,height:38});top+=38;lastGroup=group;}const height=n.summary?232:142;virtualRows.push({type:'news',news:n,top,height});top+=height;}
+ for(const [i,n] of items.entries()){const group=state.sort==='heat'?null:groupFor(n);if(group&&group!==lastGroup){virtualRows.push({type:'group',group,top,height:32});top+=32;lastGroup=group;}const height=heights[i];virtualRows.push({type:'news',news:n,top,height});top+=height;}
  virtualTotal=top;canvas.style.height=top+'px';canvas.style.position='relative';
  if(reset)$('#newsViewport').scrollTop=0;renderVirtualRows();
 }
@@ -321,7 +333,10 @@ function renderPriceChart(force=false){
   if(!window.echarts||(scenario==='chart-error'&&!force))throw Error('图表不可用');
   const el=$('#priceChart');if(priceChart){priceChart.dispose();priceChart=null;}el.innerHTML='';priceChart=echarts.init(el,null,{renderer:'canvas'});
   const s=state.snapshot,p=palette(),candles=state.chartMode==='candles',data=candles?s.candles:s.intraday;
-  if(candles&&data.length)$('#chartSubtitle').textContent='上证日 K · 截至 '+(data.at(-1).tradeDate||data.at(-1).date)+' · 历史交易日序列';
+  const reference=candles?null:intradayReference(s),extent=candles?{}:intradayExtent(data,reference);
+  $('#chartSubtitle').textContent=candles&&data.length?'上证日 K · 截至 '+(data.at(-1).tradeDate||data.at(-1).date)+' · 历史交易日序列':'上证分时 · '+s.date+' · '+(reference?'昨收 '+reference.value.toFixed(2)+' 为 0%':'缺少昨收基准，显示点位');
+  $('#chartScaleNote').textContent=candles?'价格轴为指数点位':reference?'纵轴：相对昨收涨跌幅 · 上下对称 · 最小 ±1%':'纵轴：指数点位 · 昨收基准未取得';
+  $('#chartScaleNote').title=reference?reference.source:'';
   if(!data.length){priceChart.dispose();priceChart=null;el.innerHTML=emptyHTML('暂无当日走势',marketContext(s,state.date).label+'；数据产生并采集后会自动显示。');return;}
   const labels=data.map(d=>candles?d.date:d.time),values=data.map(d=>candles?d.values:d.value);
   const width=el.clientWidth, small=width<450;
@@ -329,30 +344,32 @@ function renderPriceChart(force=false){
   const eventMarks=candles?[]:s.events.map((e,i)=>({name:e.name,coord:[e.time,s.intraday.find(d=>d.time===e.time)?.value],value:String(i+1),symbol:'circle',symbolSize:17,itemStyle:{color:p.surface,borderColor:p.accent,borderWidth:1.5},label:{color:p.accent,fontSize:8,fontWeight:600},eventIndex:i}));
   priceChart.setOption({animationDuration:450,textStyle:{fontFamily:'"Segoe UI","Microsoft YaHei",sans-serif'},grid:[{left:small?44:48,right:22,top:12,height:'57%'},{left:small?44:48,right:22,top:'74%',height:'14%'}],
    tooltip:{trigger:'axis',axisPointer:{type:'cross',link:[{xAxisIndex:'all'}],crossStyle:{color:p.muted}},backgroundColor:p.surface,borderColor:p.line,textStyle:{color:p.ink,fontSize:11},confine:true,formatter:items=>{
-    const idx=items[0]?.dataIndex;if(idx===undefined)return '';const d=data[idx];return candles?`${esc(d.date)}<br>开 ${d.values[0]}　收 ${d.values[1]}<br>低 ${d.values[2]}　高 ${d.values[3]}<br>成交额 ${d.volume} 亿`:`<b>${esc(d.time)}</b><br>上证指数　${d.value.toFixed(2)}<br>成交额　${d.volume} 亿<br><span style="font-size:9px">${s.demo?'演示数据':'东方财富'} · 北京时间</span>`;
+    const idx=items[0]?.dataIndex;if(idx===undefined)return '';const d=data[idx];return candles?`${esc(d.date)}<br>开 ${d.values[0]}　收 ${d.values[1]}<br>低 ${d.values[2]}　高 ${d.values[3]}<br>成交额 ${d.volume} 亿`:`<b>${esc(d.time)}</b><br>上证指数　${d.value.toFixed(2)}${reference?' · '+signed((d.value/reference.value-1)*100)+'%':''}<br>成交额　${d.volume} 亿<br><span style="font-size:9px">${s.demo?'演示数据':'东方财富'} · 北京时间</span>`;
    }},axisPointer:{link:[{xAxisIndex:'all'}],label:{backgroundColor:p.accent}},
+   visualMap:!candles&&reference?{show:false,min:extent.min,max:extent.max,seriesIndex:0,dimension:1,pieces:[{min:extent.min,lt:reference.value,color:p.green},{gte:reference.value,max:extent.max,color:p.red}]}:undefined,
    xAxis:[{...commonAxis,type:'category',data:labels,boundaryGap:candles,axisLabel:{show:false},splitLine:{show:false}},{...commonAxis,type:'category',gridIndex:1,data:labels,boundaryGap:candles,axisLabel:{color:p.muted,fontSize:8,fontFamily:'Consolas',interval:candles?'auto':(i)=>[0,Math.floor(data.length/4),Math.floor(data.length/2),Math.floor(data.length*3/4),data.length-1].includes(i)}}],
-   yAxis:[{...commonAxis,type:'value',scale:true,splitNumber:3,splitLine:{lineStyle:{color:p.line,type:'dashed'}},axisLabel:{color:p.muted,fontSize:8,fontFamily:'Consolas',formatter:v=>v.toFixed(0)}},{...commonAxis,type:'value',gridIndex:1,splitNumber:1,splitLine:{show:false},axisLabel:{show:false},name:'成交额',nameTextStyle:{color:p.muted,fontSize:7},nameLocation:'end',nameGap:7}],
-   series:[candles?{type:'candlestick',data:values,itemStyle:{color:p.red,color0:p.green,borderColor:p.red,borderColor0:p.green},barMaxWidth:12}:{type:'line',data:values,smooth:.18,symbol:'none',lineStyle:{color:p.red,width:1.8},areaStyle:{color:new echarts.graphic.LinearGradient(0,0,0,1,[{offset:0,color:p.red+'25'},{offset:1,color:p.red+'00'}])},markPoint:{data:eventMarks},markLine:{silent:true,symbol:'none',label:{show:false},lineStyle:{color:p.muted,opacity:.4,type:'dotted'},data:[{type:'average'}]}},
+   yAxis:[{...commonAxis,type:'value',scale:true,splitNumber:4,...extent,splitLine:{lineStyle:{color:p.line,type:'dashed'}},axisLabel:{color:p.muted,fontSize:8,fontFamily:'Consolas',formatter:v=>reference?signed((v/reference.value-1)*100,1)+'%':v.toFixed(0)}},{...commonAxis,type:'value',gridIndex:1,splitNumber:1,splitLine:{show:false},axisLabel:{show:false},name:'成交额',nameTextStyle:{color:p.muted,fontSize:7},nameLocation:'end',nameGap:7}],
+   series:[candles?{type:'candlestick',data:values,itemStyle:{color:p.red,color0:p.green,borderColor:p.red,borderColor0:p.green},barMaxWidth:12}:{type:'line',data:values,smooth:false,symbol:'none',lineStyle:{...(reference?{}:{color:p.ink}),width:1.8},areaStyle:{color:p.accent+'09'},markPoint:{data:eventMarks},markLine:{silent:true,symbol:'none',label:{show:Boolean(reference),formatter:'昨收',position:'insideEndTop',fontSize:9,color:p.ink},lineStyle:{color:p.ink,opacity:.65,type:'dashed'},data:reference?[{yAxis:reference.value}]:[]}},
     {type:'bar',xAxisIndex:1,yAxisIndex:1,data:data.map((d,i)=>({value:d.volume,itemStyle:{color:(candles?d.values[1]>=d.values[0]:i===0||d.value>=data[i-1].value)?p.red+'99':p.green+'99'}})),barMaxWidth:candles?12:7}]
   });
   priceChart.on('click',event=>{if(event.componentType==='markPoint'&&event.data?.eventIndex!==undefined)selectEvent(event.data.eventIndex);});
- }catch(error){priceChart?.dispose();priceChart=null;chartError($('#priceChart'),'retryPrice');}
+ }catch(error){console.warn('分时图渲染失败',error);priceChart?.dispose();priceChart=null;chartError($('#priceChart'),'retryPrice');}
 }
 function renderSectorChart(force=false){
  if(!state.snapshot)return;
  $('#sectorChart').classList.remove('stale-data');marketDataNotice('sectorDataStatus',$('#sectorPanel .sector-subtitle'),['sectors'],Boolean(state.snapshot.sectors?.length));
  renderFlows();$('#flowList').classList.toggle('hidden',state.sectorView!=='flows');$('#sectorChart').classList.toggle('hidden',state.sectorView==='flows');
- $('#sectorCaption').textContent=state.sectorView==='flows'?'已采集行业样本 · 主力净流入 / 流出 · 亿元':'行业样本 · 面积：成交额 · 颜色：涨跌幅';
+ $('#sectorCaption').textContent=state.sectorView==='flows'?'已采集行业样本 · 主力净流入 / 流出 · 亿元':'行业样本 · 面积：成交额 · 对称色阶 ±5%';
  $('#sectorSourceLink').innerHTML=marketAnchor(state.snapshot.sourceLinks?.[state.sectorView==='flows'?'flows':'sectors']?.url,'数据来源');
  $('#clearSector').classList.toggle('hidden',!state.sector);$('#sectorLinkHint').innerHTML=icon('link')+(state.sector?`已联动 ${esc(state.sector)} · 左侧显示关联资讯`:'点击板块，追踪消息来源');
+ const dark=document.documentElement.dataset.theme==='dark';$('.heat-legend').style.setProperty('--heat-gradient',`linear-gradient(90deg,${heatColor(-5,{dark}).background},${heatColor(0,{dark}).background},${heatColor(5,{dark}).background})`);
  if(state.sectorView==='flows')return;
  if(!state.snapshot.sectors.length){sectorChart?.dispose();sectorChart=null;$('#sectorChart').innerHTML=emptyHTML('暂无当日板块数据','当日报价产生后自动同步，不使用上一交易日板块冒充今日行情。');return;}
  try{
   if(!window.echarts)throw Error('图表不可用');
   if(sectorChart){sectorChart.dispose();sectorChart=null;}$('#sectorChart').innerHTML='';sectorChart=echarts.init($('#sectorChart'),null,{renderer:'canvas'});
   const p=palette();const selected=state.selectedNews?state.news.find(n=>n.id===state.selectedNews)?.sectors||[]:[];
-  sectorChart.setOption({animationDuration:400,tooltip:{backgroundColor:p.surface,borderColor:p.line,textStyle:{color:p.ink,fontSize:11},formatter:x=>`${esc(x.name)}<br>涨跌幅 ${signed(x.data.change)}%<br>成交额 ${x.value} 亿元<br>主力净流入 ${signed(x.data.flow,1)} 亿元<br><span style="font-size:9px">点击筛选标题 · 东方财富</span>`},series:[{type:'treemap',roam:false,nodeClick:false,breadcrumb:{show:false},width:'100%',height:'100%',top:0,left:0,sort:'desc',visibleMin:0,leafDepth:1,label:{show:true,formatter:x=>`${x.name}\n${signed(x.data.change)}%`,fontSize:11,lineHeight:20,color:'#fff'},upperLabel:{show:false},itemStyle:{borderColor:p.surface,borderWidth:2,gapWidth:2,borderRadius:3},emphasis:{itemStyle:{borderColor:p.accent,borderWidth:3},label:{fontWeight:'bold'}},data:state.snapshot.sectors.slice(0,14).map(s=>{const highlight=state.sector===s.name||selected.includes(s.name);return {...s,itemStyle:{color:s.change>0?(s.change>2?'#ce6c72':s.change>1?'#d58689':'#dba6a8'):(s.change< -1?'#5b9e8b':'#7eb39f'),opacity:(state.sector||selected.length)&&!highlight?0.45:1,borderColor:highlight?p.accent:p.surface,borderWidth:highlight?3:2},label:{fontWeight:highlight?700:400}};})}]});
+  sectorChart.setOption({animationDuration:400,tooltip:{backgroundColor:p.surface,borderColor:p.line,textStyle:{color:p.ink,fontSize:11},formatter:x=>`${esc(x.name)}<br>涨跌幅 ${signed(x.data.change)}%<br>成交额 ${x.value} 亿元<br>主力净流入 ${signed(x.data.flow,1)} 亿元<br><span style="font-size:9px">点击筛选标题 · 东方财富</span>`},series:[{type:'treemap',roam:false,nodeClick:false,breadcrumb:{show:false},width:'100%',height:'100%',top:0,left:0,sort:'desc',visibleMin:0,leafDepth:1,label:{show:true,formatter:x=>`${x.name}\n${signed(x.data.change)}%`,fontSize:11,lineHeight:20,color:'#fff'},upperLabel:{show:false},itemStyle:{borderColor:p.surface,borderWidth:2,gapWidth:2,borderRadius:3},emphasis:{itemStyle:{borderColor:p.accent,borderWidth:3},label:{fontWeight:'bold'}},data:state.snapshot.sectors.slice(0,14).map(s=>{const highlight=state.sector===s.name||selected.includes(s.name),tone=heatColor(s.change,{dark:document.documentElement.dataset.theme==='dark'});return {...s,itemStyle:{color:tone.background,borderColor:highlight?p.accent:p.surface,borderWidth:highlight?4:2},label:{color:tone.text,fontWeight:highlight?700:500}};})}]});
   sectorChart.on('click',e=>{if(e.name)selectSector(e.name);});
  }catch{sectorChart?.dispose();sectorChart=null;chartError($('#sectorChart'),'retrySector');}
 }
@@ -394,13 +411,18 @@ function setView(view){
  requestAnimationFrame(()=>{priceChart?.resize();sectorChart?.resize();renderVirtualRows();});
 }
 function resetFilters(){state.query='';state.category='全部';state.important=false;state.sector=null;state.favoritesOnly=false;state.selectedNews=null;$('#search').value='';$('#importantOnly').checked=false;$$('[data-category]').forEach(b=>b.classList.toggle('active',b.dataset.category==='全部'));renderNews();renderSectorChart();}
+function showMarketDates(){
+ const overview=state.edition==='report'?(state.report?.marketOverview||state.snapshot):state.snapshot;
+ const examples=(overview?.markets||[]).filter(m=>usQuoteContext(m)?.date).map(m=>{const us=usQuoteContext(m);return '<tr><td>'+esc(m.name)+'</td><td>美东 '+esc(us.date)+(us.time?' '+esc(us.time):'')+'<br>'+esc(us.phase)+'<br>'+(m.overnight?'来源日 K · 采集 '+formatStamp(m.collectedAt):'北京 '+formatStamp(m.asOf))+'</td></tr>';}).join('');
+ dialog('日期与隔夜口径','<span class="regime-tag">A 股日期 + 美股隔夜</span><h2>'+esc(state.date)+' 绑定哪一天？</h2><p>日报和历史日档以所选 A 股日期为主键，美股固定保存此前最近已完成的美股交易日日 K 收盘。周末和常规休市日顺延；目标交易日缺数时显示待确认，不用更早日期替代。</p><p>例如 2026-11-09 是周一，11-08 为周日，因此绑定美东 11-06 收盘；11-10 绑定美东 11-09 收盘。三大指数校验齐备后独立锁定，不再被当晚美股盘中价或后续修订覆盖。建站日起的旧日档只补齐这一隔夜字段，新闻名次与 A 股价格保持原样。</p><h3>实时版单独展示当晚报价</h3><p>只有今天的实时版展示最新美股盘中报价，保留美东日期与北京时间。切到日报或历史日档时，显示已锁定的隔夜收盘；实时价格不写入日档。</p><p>美国常规交易为美东 09:30–16:00：夏令时对应北京 21:30—次日 04:00，冬令时对应北京 22:30—次日 05:00。日 K 只提供交易日，不虚构精确收盘时间；页面另列实际采集时间。节假日按常规休市规则识别，异常休市或来源缺数保持待确认。</p><table class="source-table"><thead><tr><th>本页美股</th><th>绑定交易日 / 原报价时间</th></tr></thead><tbody>'+examples+'</tbody></table>');
+}
 function showSources(){
  const sources=state.newsMeta?.sources||[],market=state.snapshot?.sources||[];
- dialog('数据来源与排序说明','<span class="regime-tag">标题 + 来源摘要</span><h2>信息回到出处。</h2><p>平台展示并保存来源提供的独立短摘要（目前财联社与东方财富有可用字段），不抓取或存储新闻正文。摘要会标注提供来源；来源没有摘要字段时只显示标题和原文链接。点击标题或来源直接跳转原站。</p><h3>采集状态 · '+(staticMode?'5 分钟计划触发':'5 分钟更新')+'</h3><table class="source-table"><thead><tr><th>来源</th><th>状态 / 最近成功</th></tr></thead><tbody>'+sources.map(s=>'<tr><td><a target="_blank" rel="noopener noreferrer" href="'+esc(s.home)+'">'+esc(s.name)+'</a></td><td>'+esc(s.status==='ok'?'可用 · '+s.count+' 条标题':s.status==='empty'?'暂无标题':'暂不可用')+'<br><span class="numeric">'+formatStamp(s.lastSuccessAt)+'</span></td></tr>').join('')+'</tbody></table><h3>'+(state.edition==='report'?'全日重要财经新闻 TOP 20':'平台热度 TOP 20')+'</h3><p>'+esc(state.newsMeta?.ranking?.description||'跨站覆盖、源内互动分位、时效与来源重点标记综合排序。')+'</p><p>排序只覆盖已采集候选。只返回正文、没有独立标题或需要付费的条目会跳过；各站阅读量不直接相加。近似标题归并后保留多个出处链接。</p><h3>盘面数据</h3><p>腾讯财经提供细分指数与商品报价，东方财富提供分时、日 K、行业资金、涨跌停池、全 A 股行情及中国 10 年国债日度收益率。涨跌家数覆盖沪深京 A 股当日有效成交样本，剔除停牌、缺报价及非当日数据；赚钱效应为日涨跌幅中位数，市场温度为上涨家数占比。每个交易日首份完整盘后样本留存，积累 250 日后才显示历史分位。报价可能延迟，页面标注真实采集时间。国债涨跌以百分点 pp 计，日度日期不冒充实时。日报市场概览保留各市场当日最后留存报价，与固定的 A 股收盘盘面分别保存。</p><table class="source-table"><tbody>'+market.map(s=>'<tr><td>'+esc(s.name)+'</td><td>'+esc(s.status||'—')+' · '+formatStamp(s.lastSuccessAt||s.asOf)+'</td></tr>').join('')+'</tbody></table><p class="demo-note">盘面事实不等于已定稿复盘。暂未自动生成主线因果、支撑或压力位。'+(staticMode?'云端按计划采集，个人电脑关机不影响；任务可能延迟。':'服务运行期间持续采集，关闭本地服务后停止。')+'接口失败时保留最后成功记录。</p>');
+ dialog('数据来源与排序说明','<span class="regime-tag">标题 + 来源摘要</span><h2>信息回到出处。</h2><p>平台展示并保存来源提供的独立短摘要（目前财联社与东方财富有可用字段），不抓取或存储新闻正文。摘要会标注提供来源；来源没有摘要字段时只显示标题和原文链接。点击标题或来源直接跳转原站。</p><h3>采集状态 · '+(staticMode?'5 分钟计划触发':'5 分钟更新')+'</h3><table class="source-table"><thead><tr><th>来源</th><th>状态 / 最近成功</th></tr></thead><tbody>'+sources.map(s=>'<tr><td><a target="_blank" rel="noopener noreferrer" href="'+esc(s.home)+'">'+esc(s.name)+'</a></td><td>'+esc(s.status==='ok'?'可用 · '+s.count+' 条标题':s.status==='empty'?'暂无标题':'暂不可用')+'<br><span class="numeric">'+formatStamp(s.lastSuccessAt)+'</span></td></tr>').join('')+'</tbody></table><h3>'+(state.edition==='report'?'全日重要财经新闻 TOP 20':'平台热度 TOP 20')+'</h3><p>'+esc(state.newsMeta?.ranking?.description||'跨站覆盖、源内互动分位、时效与来源重点标记综合排序。')+'</p><p>排序只覆盖已采集候选。只返回正文、没有独立标题或需要付费的条目会跳过；各站阅读量不直接相加。近似标题归并后保留多个出处链接。</p><h3>盘面数据</h3><p>腾讯财经提供细分指数与商品报价，东方财富提供分时、日 K、行业资金、涨跌停池、全 A 股行情及中国 10 年国债日度收益率。涨跌家数覆盖沪深京 A 股当日有效成交样本，剔除停牌、缺报价及非当日数据；赚钱效应为日涨跌幅中位数，市场温度为上涨家数占比。每个交易日首份完整盘后样本留存，积累 250 日后才显示历史分位。报价可能延迟，页面标注真实采集时间。国债涨跌以百分点 pp 计，日度日期不冒充实时。日报市场概览的美股固定绑定此前最近已完成交易日收盘，其他市场标注各自来源日期与时间；与固定的 A 股收盘盘面分别保存。</p><table class="source-table"><tbody>'+market.map(s=>'<tr><td>'+esc(s.name)+'</td><td>'+esc(s.status||'—')+' · '+formatStamp(s.lastSuccessAt||s.asOf)+'</td></tr>').join('')+'</tbody></table><p class="demo-note">盘面事实不等于已定稿复盘。暂未自动生成主线因果、支撑或压力位。'+(staticMode?'云端按计划采集，个人电脑关机不影响；任务可能延迟。':'服务运行期间持续采集，关闭本地服务后停止。')+'接口失败时保留最后成功记录。</p>');
 }
 function exportRecap(){
- if(!state.snapshot)return;const s=state.snapshot;
- const text=`# 观市 · ${s.date} 盘面记录\n\n> ${s.demo?'演示数据':'公开接口事实采样，复盘待确认'}。采样：${s.asOf}；时区：北京时间。\n\n## ${s.recap.regime} · ${s.recap.summary}\n\n${s.recap.paragraphs.map(p=>`### ${p.title}\n\n${p.full}`).join('\n\n')}\n\n仅供展示与学习，不构成投资建议。\n`;
+ if(!state.snapshot)return;const s={...state.snapshot,recap:marketObservations(state.snapshot)};
+ const text=`# 观市 · ${s.date} 盘面记录\n\n> ${s.demo?'演示数据':'公开接口事实采样与规则观察'}。采样：${s.asOf}；时区：北京时间。\n\n## ${s.recap.regime} · ${s.recap.summary}\n\n${s.recap.paragraphs.map(p=>`### ${p.title}\n\n${p.full}${p.evidence?"\n\n"+p.evidence:""}`).join('\n\n')}\n\n仅供展示与学习，不构成投资建议。\n`;
  const url=URL.createObjectURL(new Blob([text],{type:'text/markdown;charset=utf-8'})),a=document.createElement('a');a.href=url;a.download=`观市-${s.date}-收盘复盘.md`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);toast('复盘已导出');
 }
 document.addEventListener('click',e=>{
@@ -421,6 +443,7 @@ document.addEventListener('click',e=>{
  const clear=e.target.closest('[data-clear]');if(clear){if(clear.dataset.clear==='sector'){state.sector=null;state.selectedNews=null;renderSectorChart();}if(clear.dataset.clear==='query'){state.query='';$('#search').value='';}if(clear.dataset.clear==='favorites')state.favoritesOnly=false;renderNews();return;}
  const action=e.target.closest('[data-action]')?.dataset.action;
  if(action==='runtime')showRuntime();
+ if(action==='marketDates')showMarketDates();
  if(action==='closeDialog')$('#detailDialog').close();if(action==='sources')showSources();if(action==='latest')loadDate(currentDate);if(action==='resetFilters')resetFilters();if(action==='retryPrice')renderPriceChart(true);if(action==='retrySector')renderSectorChart(true);
  if(action==='favorites'){state.favoritesOnly=!state.favoritesOnly;setView('news');renderNews();$('#newsPanel').scrollIntoView({behavior:'smooth'});toast(state.favoritesOnly?'正在查看当前日期的收藏资讯':'已退出收藏筛选');}
 });
@@ -445,6 +468,8 @@ function updateThemeIcon(){const dark=document.documentElement.dataset.theme==='
 $('#detailDialog').addEventListener('click',e=>{if(e.target===$('#detailDialog')){const r=e.target.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right)$('#detailDialog').close();}});
 $('#limitDetails').addEventListener('click',()=>{const s=state.snapshot;if(!s)return;dialog('涨停池 · 行业分布','<span class="regime-tag">东方财富涨停池</span><h2>从数量，看到结构。</h2><p>涨停 '+(s.sentiment.limitUp??'—')+' 家，跌停 '+(s.sentiment.limitDown??'—')+' 家，最高连板 '+(s.sentiment.height??'—')+' 板，炸板率 '+(s.sentiment.brokenRate??'—')+'%。</p><table class="source-table"><thead><tr><th>行业</th><th>池内家数</th></tr></thead><tbody>'+(s.limitThemes||[]).map(t=>'<tr><td>'+esc(t.name)+'</td><td>'+t.count+'</td></tr>').join('')+'</tbody></table><p class="demo-note">分类取自数据源行业字段，未推断涨停原因。炸板率 = 炸板池家数 /（涨停池家数 + 炸板池家数）。接口池内统计可能延迟。</p>');});
 const resizeObserver=new ResizeObserver(()=>{if(priceChart&&!priceChart.isDisposed())priceChart.resize();if(sectorChart&&!sectorChart.isDisposed())sectorChart.resize();});resizeObserver.observe($('#reviewColumn'));
+let newsWidth=0;const newsResizeObserver=new ResizeObserver(entries=>{const width=entries[0].contentRect.width;if(Math.abs(width-newsWidth)>1){newsWidth=width;requestAnimationFrame(()=>renderNews(false));}else requestAnimationFrame(renderVirtualRows);});newsResizeObserver.observe($('#newsViewport'));
+document.fonts?.ready.then(()=>renderNews(false));
 window.addEventListener('online',()=>{pollPublished().then(connectStream)});window.addEventListener('offline',()=>{stream?.close();setNewsDegraded(true);setConnection('离线 · 保留快照',true);});
 window.addEventListener('pagehide',()=>stream?.close());
 try{for(const k of Object.keys(localStorage))if(/^guanshi-(news|snapshot)-/.test(k))localStorage.removeItem(k);}catch{}
@@ -455,6 +480,7 @@ async function pollPublished(){
   await Promise.allSettled([refreshRuntime(),refreshCatalogue()]);
   if(state.paused)return;
   if(followToday&&state.date!==currentDate&&!demoMode){await loadDate(currentDate);return;}
+  if(state.date<currentDate)return;
   if(state.edition==='report'){await refreshReport();return;}
   if(state.date===currentDate)await Promise.allSettled([refreshNews({silent:true}),refreshMarket()]);
  }finally{lastPageSyncAt=new Date().toISOString();pollBusy=false;renderSyncStatus();}

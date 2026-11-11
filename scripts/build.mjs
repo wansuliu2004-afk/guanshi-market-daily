@@ -2,18 +2,20 @@ import {mkdir,readFile,writeFile,cp} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 import {AVAILABLE_DATES,DEMO_DATE,getSnapshot} from '../lib/data.mjs';
-import {chinaDate} from '../lib/collector.mjs';
+import {chinaDate,DATA_DIR,jsonFile} from '../lib/collector.mjs';
 import {DailyArchive} from '../lib/archive.mjs';
 import {DailyReports} from '../lib/reports.mjs';
+import {marketObservations} from '../public/market-observations.js';
+import {normalizeMarketSnapshot} from '../public/market-context.js';
 export const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const escape=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export function renderHTML(template,snapshot,{demoMode=false,availableDates=[],date=chinaDate(),catalogue=null,staticMode=false,basePath='/'}={}){
- const s=snapshot||{date,recap:{paragraphs:[],summary:'暂无盘面记录'}};
- const json=JSON.stringify({snapshot,appVersion:"1.7.2",availableDates:demoMode?AVAILABLE_DATES:availableDates,demoDate:DEMO_DATE,currentDate:chinaDate(),demoMode,catalogue,staticMode}).replaceAll('<','\\u003c');
- return template.replace('src="/app.js"','src="/app.js?v=1.7.2"').replace('href="/styles.css"','href="/styles.css?v=1.7.2"').replace(/\b(href|src)="\/(?!\/)/g,(_,attr)=>`${attr}="${basePath}`).replace('<title>观市 · 财经日报</title>',`<title>${s.date} 财经日报 · 观市</title>`)
+ const s=snapshot?{...snapshot,recap:marketObservations(normalizeMarketSnapshot(snapshot))}:{date,recap:{paragraphs:[],summary:'暂无盘面记录'}};
+ const json=JSON.stringify({snapshot,appVersion:"1.8.0",availableDates:demoMode?AVAILABLE_DATES:availableDates,demoDate:DEMO_DATE,currentDate:chinaDate(),demoMode,catalogue,staticMode}).replaceAll('<','\\u003c');
+ return template.replace('src="/app.js"','src="/app.js?v=1.8.0"').replace('href="/styles.css"','href="/styles.css?v=1.8.0"').replace(/\b(href|src)="\/(?!\/)/g,(_,attr)=>`${attr}="${basePath}`).replace('<title>观市 · 财经日报</title>',`<title>${s.date} 财经日报 · 观市</title>`)
  .replace('<div id="recapContent" class="recap-content"></div>',`<div id="recapContent" class="recap-content">${snapshot?s.recap.paragraphs.map(p=>`<div class="recap-point"><h4>${escape(p.title)}</h4><p>${escape(p.brief)}</p></div>`).join(''):''}</div>`)
  .replace('<!--BOOTSTRAP-->',`<script id="bootstrap" type="application/json">${json}</script>`)
- .replace('<!--STATIC_RECAP-->',snapshot?`<article class="static-recap"><h2>${s.date} ${demoMode?'收盘复盘 · 演示数据':'盘面事实 · 待复盘确认'}</h2><p>${escape(s.recap.summary)}</p>${s.recap.paragraphs.map(p=>`<h3>${escape(p.title)}</h3><p>${escape(p.brief)}</p>`).join('')}</article>`:'<p>所选日期暂无盘面快照。</p>');
+ .replace('<!--STATIC_RECAP-->',snapshot?`<article class="static-recap"><h2>${s.date} ${demoMode?'收盘复盘 · 演示数据':'盘面规则观察'}</h2><p>${escape(s.recap.summary)}</p>${s.recap.paragraphs.map(p=>`<h3>${escape(p.title)}</h3><p>${escape(p.brief)}</p>`).join('')}</article>`:'<p>所选日期暂无盘面快照。</p>');
 }
 export async function build({staticMode=false,basePath='/',outputDir=path.join(root,'dist'),runtime=null}={}){
  if(!/^\/(?:[A-Za-z0-9_.-]+\/)*$/.test(basePath))throw Error('BASE_PATH 必须是 / 或 /仓库名/，仅限字母、数字、下划线、连字符和点');
@@ -22,7 +24,7 @@ export async function build({staticMode=false,basePath='/',outputDir=path.join(r
  const template=await readFile(path.join(root,'public/index.html'),'utf8');
  await mkdir(outputDir,{recursive:true});
  await cp(path.join(root,'public'),outputDir,{recursive:true});
- const archive=new DailyArchive();await archive.init();const catalogue=await archive.catalogue();
+ const archive=new DailyArchive();await archive.init();await archive.applyOvernightBindings();const catalogue=await archive.catalogue();
  const reports=new DailyReports();await reports.refreshAll();
  for(const entry of catalogue.entries){const report=await reports.get(entry.date);entry.reportStatus=report?.status||null;entry.hasClose=Boolean(report?.close);entry.dailyNewsCount=report?.news?.items?.length||0;}
  const today=chinaDate(),latest=(await archive.get(today))?.snapshot||null;
@@ -40,6 +42,7 @@ export async function build({staticMode=false,basePath='/',outputDir=path.join(r
   if(!runtime)throw Error('静态发布需要提供定时采集状态');
   await writeJSON(folderFor('feed/catalogue.json'),catalogue);
   await writeJSON(folderFor('feed/runtime.json'),{...runtime,site:archive.site});
+  const live=await jsonFile(path.join(DATA_DIR,'market-latest.json'));await writeJSON(folderFor('feed/market-live.json'),live?.date===today?live:null);
   await writeFile(folderFor('.nojekyll'),'');
   // GitHub Pages 无服务端路由：404 页面仍加载交互界面，由查询日期显示空状态。
   await writeFile(folderFor('404.html'),renderHTML(template,null,{date:today,availableDates:actualDates,catalogue,...options}));
