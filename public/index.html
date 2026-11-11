@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="观市财经信息聚合：多源新闻标题、来源短摘要与原文入口、市场行情、板块资金和按日保存的盘面记录。">
-  <meta name="theme-color" content="#f6f7f9"><title>观市 · 财经日报</title>
+  <meta name="theme-color" content="#f3f5f8"><title>观市 · 财经日报</title>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/styles.css">
   <script>try{document.documentElement.dataset.theme=localStorage.getItem('guanshi-theme')||'light'}catch{}</script>
   <script defer src="/vendor/echarts.min.js"></script><script type="module" src="/app.js"></script>
@@ -19,7 +19,7 @@
     <button class="rail-item" data-view="review" aria-label="收盘复盘" title="收盘复盘"><i data-icon="chart"></i><span>复盘</span></button>
     <button class="rail-item" data-action="favorites" aria-label="我的收藏" title="我的收藏"><i data-icon="bookmark"></i><span>收藏</span></button>
   </nav>
-  <div class="rail-bottom"><button class="rail-item" data-action="sources" title="数据与说明" aria-label="数据与说明"><i data-icon="info"></i><span>说明</span></button><span class="rail-version">v 1.8</span></div>
+  <div class="rail-bottom"><button class="rail-item" data-action="sources" title="数据与说明" aria-label="数据与说明"><i data-icon="info"></i><span>说明</span></button><span class="rail-version">v 1.8.1</span></div>
 </aside>
 <div class="shell">
   <header class="global-bar">
@@ -33,14 +33,14 @@
   <div class="status-bar" aria-live="polite"><span><i class="status-dot"></i><span id="connectionText">正在加载标题聚合</span><span class="status-separator">/</span><span id="newsStamp" class="numeric">采集时间 —</span></span><span><i data-icon="lock"></i><span id="snapshotStamp">盘面采样 · 待确认</span><span class="timezone">北京时间 UTC+8</span></span></div>
   <main id="main">
     <section class="page-heading">
-      <div><div class="eyebrow" id="editionLabel">DAILY MARKET BRIEF · 每日市场简报</div><h1>把握脉络，<span>看清市场。</span></h1><p>从一条消息，到一日盘面。让市场的每一步，都有迹可循。</p></div>
+      <div><div class="eyebrow" id="editionLabel">DAILY MARKET BRIEF · 每日市场简报</div><h1>市场总览<span>新闻与盘面，一目了然</span></h1></div>
       <div class="date-area"><div class="date-control"><button class="icon-button small" id="prevDate" aria-label="上一个有记录的日期"><i data-icon="chevronLeft"></i></button><label><i data-icon="calendar"></i><input id="datePicker" type="date" value="2026-11-09" aria-label="选择历史日期"></label><button class="icon-button small" id="nextDate" aria-label="下一个有记录的日期"><i data-icon="chevronRight"></i></button></div><span class="date-caption" id="dateCaption">按来源时间显示</span><div class="date-shortcuts"><button id="archiveToggle" class="text-button" aria-expanded="false" aria-controls="archiveDates"><i data-icon="calendar"></i>已有记录</button><button id="backToday" class="text-button">回到今天</button></div></div>
     </section>
     <section class="archive-toolbar" aria-label="历史归档与自动更新状态"><span id="archiveSummary"><i data-icon="calendar"></i>正在读取建站记录</span><section class="edition-picker" aria-label="选择实时追踪或每日收盘报"><button class="edition-option active" data-edition="live" aria-pressed="true"><span class="edition-icon"><i data-icon="radio"></i></span><span><strong>实时追踪</strong><small>最新新闻热榜 · 各市场最新报价</small></span><span class="edition-check"><i data-icon="checkCircle"></i></span></button><button class="edition-option" data-edition="report" aria-pressed="false"><span class="edition-icon"><i data-icon="file"></i></span><span><strong>每日收盘报</strong><small>全日重要新闻 20 条 · A 股收盘盘面</small></span><span class="edition-check"><i data-icon="checkCircle"></i></span></button></section><button class="runtime-status" id="runtimeStatus" data-action="runtime"><i class="tiny-dot"></i><span>自动更新状态加载中</span><i data-icon="info"></i></button></section>
     <section id="editionNotice" class="edition-notice" aria-live="polite"></section>
     <section id="archiveDates" class="archive-dates hidden" aria-label="已有历史记录"><div class="archive-title"><strong>按日回看</strong><span>保留建站后已采集的记录；中断采集的日期不会补造数据。</span></div><div id="archiveDateList" class="archive-date-list"></div></section>
     <section class="market-section" aria-labelledby="marketTitle">
-      <div class="section-minihead"><h2 id="marketTitle"><span class="section-tick"></span>市场速览</h2><div id="marketTabs" class="text-tabs" role="group" aria-label="市场分类"><button class="active" data-market="全部">全部市场</button><button data-market="A股">A 股</button><button data-market="港股">港股</button><button data-market="美股">美股</button><button data-market="亚太">亚太</button><button data-market="商品">商品</button><button data-market="汇率">汇率</button><button data-market="利率">利率</button></div><span class="market-hint">左右滑动查看更多 <i data-icon="arrowRight"></i></span></div>
+      <div class="section-minihead"><h2 id="marketTitle"><span class="section-tick"></span>市场速览</h2><div id="marketTabs" class="text-tabs" role="group" aria-label="市场分类"><button class="active" data-market="全部">全部市场</button><button data-market="A股">A 股</button><button data-market="港股">港股</button><button data-market="美股">美股</button><button data-market="亚太">亚太</button><button data-market="商品">商品</button><button data-market="汇率">汇率</button><button data-market="利率">利率</button></div><span class="market-hint">左右滑动查看更多 <i data-icon="arrowRight"></i></span><button class="market-rows-toggle" id="marketRowsToggle" aria-expanded="false" aria-controls="marketStrip">双行展开 <i data-icon="grid"></i></button></div>
       <div class="market-scope"><span id="marketScope"></span><span class="market-scope-tools"><button class="text-button" data-action="marketDates">各市场日期口径 <i data-icon="info"></i></button><span id="marketQuoteStamp" class="numeric"></span></span></div><p id="marketSessionNotice" class="session-notice hidden" role="status"></p><div id="marketStrip" class="market-strip" tabindex="0" aria-label="市场指数卡片，可左右滚动"></div>
     </section>
     <section class="must-section" aria-labelledby="mustTitle"><div class="section-minihead"><h2 id="mustTitle"><i data-icon="zap"></i>今日必读<span class="tiny-badge">3</span></h2><span class="muted small-text">平台热度前 3 · 点击跳转原文</span><button class="text-button push-right" id="allImportant">查看前 20 <i data-icon="arrowRight"></i></button></div><div id="mustReads" class="must-grid"></div></section>

@@ -11,8 +11,8 @@ export const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'
 const escape=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export function renderHTML(template,snapshot,{demoMode=false,availableDates=[],date=chinaDate(),catalogue=null,staticMode=false,basePath='/'}={}){
  const s=snapshot?{...snapshot,recap:marketObservations(normalizeMarketSnapshot(snapshot))}:{date,recap:{paragraphs:[],summary:'暂无盘面记录'}};
- const json=JSON.stringify({snapshot,appVersion:"1.8.0",availableDates:demoMode?AVAILABLE_DATES:availableDates,demoDate:DEMO_DATE,currentDate:chinaDate(),demoMode,catalogue,staticMode}).replaceAll('<','\\u003c');
- return template.replace('src="/app.js"','src="/app.js?v=1.8.0"').replace('href="/styles.css"','href="/styles.css?v=1.8.0"').replace(/\b(href|src)="\/(?!\/)/g,(_,attr)=>`${attr}="${basePath}`).replace('<title>观市 · 财经日报</title>',`<title>${s.date} 财经日报 · 观市</title>`)
+ const json=JSON.stringify({snapshot,appVersion:"1.8.1",availableDates:demoMode?AVAILABLE_DATES:availableDates,demoDate:DEMO_DATE,currentDate:chinaDate(),demoMode,catalogue,staticMode}).replaceAll('<','\\u003c');
+ return template.replace('src="/app.js"','src="/app.js?v=1.8.1"').replace('href="/styles.css"','href="/styles.css?v=1.8.1"').replace(/\b(href|src)="\/(?!\/)/g,(_,attr)=>`${attr}="${basePath}`).replace('<title>观市 · 财经日报</title>',`<title>${s.date} 财经日报 · 观市</title>`)
  .replace('<div id="recapContent" class="recap-content"></div>',`<div id="recapContent" class="recap-content">${snapshot?s.recap.paragraphs.map(p=>`<div class="recap-point"><h4>${escape(p.title)}</h4><p>${escape(p.brief)}</p></div>`).join(''):''}</div>`)
  .replace('<!--BOOTSTRAP-->',`<script id="bootstrap" type="application/json">${json}</script>`)
  .replace('<!--STATIC_RECAP-->',snapshot?`<article class="static-recap"><h2>${s.date} ${demoMode?'收盘复盘 · 演示数据':'盘面规则观察'}</h2><p>${escape(s.recap.summary)}</p>${s.recap.paragraphs.map(p=>`<h3>${escape(p.title)}</h3><p>${escape(p.brief)}</p>`).join('')}</article>`:'<p>所选日期暂无盘面快照。</p>');
