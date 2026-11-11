@@ -1,7 +1,457 @@
 {
   "date": "2026-11-11",
-  "asOf": "2026-11-11T15:18:12.706Z",
+  "asOf": "2026-11-12T11:29:34.047Z",
   "records": [
+    {
+      "id": "eastmoney-a6c35a13a8e882331119",
+      "title": "美股半导体板块夜盘持续走强 费城半导体指数涨6.1% 闪迪涨超15%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928790161.html",
+      "summary": "美股半导体板块夜盘涨势进一步扩大，存储芯片、光通信板块表现尤为活跃。费城半导体指数涨6.12%，细分赛道中，存储芯片与光通信领涨全场。闪迪狂飙超15.4%，Lumentum大涨超14.1%，美光科技涨超12.3%，Coherent涨超12.2%，希捷科技与SK海力士双双涨超10…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:56:18.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.495Z",
+      "attention": 23,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-896f4941a0aaa8ad2016",
+      "title": "美股半导体板块盘中持续走强 费城半导体指数涨6.1% 闪迪涨超15%",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2532002",
+      "summary": "【美股半导体板块持续走强 费城半导体指数涨6.1% 闪迪涨超15%】财联社11月11日电，美股半导体板块涨势进一步扩大，存储芯片、光通信板块表现尤为活跃。费城半导体指数涨6.12%，细分赛道中，存储芯片与光通信领涨全场。闪迪狂飙超15.4%，Lumentum大涨超14.1%，美…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-11T15:55:20.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.356Z",
+      "attention": 521887,
+      "emphasis": 0.65
+    },
+    {
+      "id": "wallstreet-61af9eb770001851db7b",
+      "title": "德国经济顾问认为中期选举后美国加征关税的风险将加大",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3198531",
+      "publishedAt": "2026-11-11T15:53:46.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.748Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-893d107e8abade31d7b8",
+      "title": "闪迪股价大涨逾15%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928787923.html",
+      "summary": "闪迪股价持续走高，涨幅扩大至15.7%，报995.01美元/股。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:53:26.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.495Z",
+      "attention": 8,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-a6db86f1452f1edeb260",
+      "title": "埃尼首席执行官会见英国能源大臣 承诺在英国投资约110亿英镑",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928787521.html",
+      "publishedAt": "2026-11-11T15:49:13.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.495Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-8ee7c0e0bb64dd5e013c",
+      "title": "中国驻美大使：推动中美建设性战略稳定关系行稳致远",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3198530",
+      "publishedAt": "2026-11-11T15:49:12.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.748Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-05a23a4e95e0dfccd39e",
+      "title": "Marsh称美联储应放松对承保AI贷款的银行监管",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3198529",
+      "publishedAt": "2026-11-11T15:47:02.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.748Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-bc1b845d1122c0b7a27d",
+      "title": "纳斯达克100指数上涨2.1%触及盘中高点",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928784094.html",
+      "publishedAt": "2026-11-11T15:44:04.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.495Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-19a3d468184b36296f00",
+      "title": "报告显示中德企业合作向研发和生产制造领域延伸",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3198527",
+      "publishedAt": "2026-11-11T15:43:57.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.748Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-a30b5738f7cb6612ade7",
+      "title": "豪声电子：拟1200万元转让村镇银行5%股权",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928784290.html",
+      "summary": "豪声电子公告，拟将所持嘉善联合村镇银行5%股权（1000万股）转让给杭州联合农村商业银行，定价1.20元/股，合计1200万元。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:43:23.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.495Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-13243c47421dca954978",
+      "title": "鼎智科技：公司已建立微米级全流程检测体系",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928784734.html",
+      "summary": "鼎智科技发布投资者关系活动记录表，高精度精密丝杠方面，公司生产及加工设备包括国产、进口设备，进一步形成从设备到工艺的自主配套能力。精度检测环节，公司已建立微米级全流程检测体系，量产产品精度与良品率持续稳定提升，可满足下游高端客户对一致性和可靠性的要求。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:43:20.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.495Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-37a5bfced4dd61289c77",
+      "title": "迅安科技：已推出面向手持激光焊接、激光切割、激光清洗及自动化激光焊接等多种应用场景的激光防护面罩",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928785147.html",
+      "summary": "迅安科技发布投资者关系活动记录表，作为专业的个人防护装备（PPE）制造商，公司持续深耕智能化、数字化防护技术，不断拓展产品应用领域。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:43:16.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.496Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-92bb55f6511c5b0ca38a",
+      "title": "三协电机：“电机+减速机+编码器”的一体化模组正处于核心技术集成验证、小批量试产的关键推进阶段",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928785464.html",
+      "summary": "三协电机发布投资者关系活动记录表，公司已明确将“电机+减速机+编码器”一体化模组作为核心战略方向，三协电机“电机+减速机+编码器”的一体化模组正处于核心技术集成验证、小批量试产的关键推进阶段，尚未实现大规模商业化量产，相关业务收入占比仍处于极低水平。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:43:13.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.496Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-0447644a4bc182aec093",
+      "title": "迪尔化工：102.42万股将于11月16日解禁",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928784425.html",
+      "summary": "迪尔化工公告，本次股票解除限售数量总额为1,024,184股，占公司总股本0.60%，可交易时间为2026年11月16日。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:43:09.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.496Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-4e61e6d0c0cc23a19da7",
+      "title": "天元重工：聘任陈杰、王睿为副总经理",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928784365.html",
+      "summary": "天元重工公告，公司于2026年11月10日召开董事会，审议通过聘任陈杰为分管营销工作的副总经理；聘任王睿为分管生产工作的副总经理。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:43:06.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.496Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-1e10fcc02efdb42018bb",
+      "title": "百瑞吉：功能性护肤品业务收入占比持续提升",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928784913.html",
+      "summary": "百瑞吉发布投资者关系活动记录表，公司同时布局含透明质酸衍生物的功能性护肤品业务，收入占比持续提升。当前，功能性护肤品的电商业务处于发展期，需要投入较多推广费用以建立销售渠道、提升品牌知名度。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:43:03.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.496Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-4f3935d83c4e053d1eab",
+      "title": "锐翔智能：在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2531991",
+      "summary": "财联社11月11日电，锐翔智能发布投资者关系活动记录表，公司已将光模块相关自动化设备定位为公司核心的业务战略方向之一。截至目前，公司在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单。公司前期所披露的有关已接到索尔思公司首条光模块自动化组装设备生产线（包括精密…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-11T15:42:59.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.357Z",
+      "attention": 471245,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-9e0887f6facf773ae443",
+      "title": "锐翔智能：在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928784642.html",
+      "summary": "锐翔智能发布投资者关系活动记录表，公司已将光模块相关自动化设备定位为公司核心的业务战略方向之一。截至目前，公司在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:42:59.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.496Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-f1014a7e2f203106e521",
+      "title": "亚马逊云科技将在智利推出首个云基础设施区域 投资超过40亿美元",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928784161.html",
+      "summary": "亚马逊云科技（AWS）将在智利推出首个云基础设施区域，投资超过40亿美元。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:42:59.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.496Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-271f30de4a330f8ea7a3",
+      "title": "野村现预计美联储今年12月和明年3月各加息一次 因通胀高于预期",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2531988",
+      "summary": "财联社11月11日电，野村经济学家Aichi Amemiya、Jeremy Schwartz和Ruchir Sharma在11月10日的一份报告中写道，在美国通胀数据高于预期后，该行目前预计美联储除12月加息外，还将在明年3月再次加息。他们表示：“我们目前预计12月和明年3月还…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-11T15:36:27.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.357Z",
+      "attention": 501494,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-dc67da7b2811b5a46e52",
+      "title": "野村现预计美联储今年12月和明年3月各加息一次 因通胀高于预期",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611113928782755.html",
+      "summary": "野村经济学家AichiAmemiya、JeremySchwartz和RuchirSharma在11月10日的一份报告中写道，在美国通胀数据高于预期后，该行目前预计美联储除12月加息外，还将在明年3月再次加息。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:36:27.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.497Z",
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-b5dac46755d33bf1ef8d",
+      "title": "行情显示：比特币涨至74080美元 过去24小时内涨0.6%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928782526.html",
+      "publishedAt": "2026-11-11T15:35:31.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.497Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-81972f154c39838eb9ea",
+      "title": "美联储就纽约联储行长威廉姆斯2027年还是2028年离职展开辩论",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611113928782380.html",
+      "publishedAt": "2026-11-11T15:34:59.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.497Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-f7ac604d00a69748015c",
+      "title": "原美联储副主席：敦促美国民主党为首次购房者推出1000美元首付方案",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3198525",
+      "publishedAt": "2026-11-11T15:33:01.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.748Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-959c4a52c9368afd225c",
+      "title": "美股半导体板块夜盘强势拉升 费城半导体指数涨5% 美光、闪迪涨超11%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928777024.html",
+      "summary": "费城半导体指数涨幅扩大至5%，报10500.83点。美股半导体板块夜盘涨势进一步扩大，存储芯片、光通信及半导体设备股表现活跃。存储芯片及光通信概念股表现最为亮眼。其中，闪迪大涨超14.7%，Lumentum涨超12.6%，美光科技涨超11.2%，Coherent涨超11%，希捷…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:29:14.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.497Z",
+      "attention": 23,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-7e4e74bd9ba74a4871a2",
+      "title": "美股半导体板块夜盘强势拉升 费城半导体指数涨5% 美光、闪迪涨超11%",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2531983",
+      "summary": "财联社11月11日电，费城半导体指数涨幅扩大至5%，报10500.83点。美股半导体板块夜盘涨势进一步扩大，存储芯片、光通信及半导体设备股表现活跃。存储芯片及光通信概念股表现最为亮眼。其中，闪迪大涨超14.7%，Lumentum涨超12.6%，美光科技涨超11.2%，Coher…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-11T15:28:36.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.357Z",
+      "attention": 510757,
+      "emphasis": 0.65
+    },
+    {
+      "id": "cls-a68b26ca86072848c6e9",
+      "title": "美股云服务商、存储板块持续走强",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2531982",
+      "summary": "财联社11月11日电，美股云服务商、存储板块持续走强，CoreWeave涨幅扩大至20%，NEBIUS涨超15%，闪迪涨超13%，美光科技涨超10%，SK海力士涨超9%。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-11T15:27:08.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.357Z",
+      "attention": 497814,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-16959c7f7ac70133f81b",
+      "title": "美股云服务商、存储板块持续走强",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928777333.html",
+      "summary": "美股云服务商、存储板块持续走强，CoreWeave涨幅扩大至20%，NEBIUS涨超15%，闪迪涨超13%，美光科技涨超10%，SK海力士涨超9%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:27:08.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.497Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-da2a02acee75417b6b97",
+      "title": "SOFR期权交易对冲12月美联储加息50个基点的可能性",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3198523",
+      "publishedAt": "2026-11-11T15:24:26.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.749Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-28008b7f7a9f1aa179a5",
+      "title": "国际原油期货拉升 美油布油均涨超3%",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2531981",
+      "summary": "财联社11月11日电，布伦特原油期货涨幅扩大至3.3%，报94.6美元/桶。WTI原油期货涨幅扩大至3%，报88.685美元/桶。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-11T15:24:02.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:27.357Z",
+      "attention": 500422,
+      "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-8720e230f66cbdd51650",
+      "title": "国际原油期货拉升 美油布油均涨超3%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928775253.html",
+      "summary": "布伦特原油期货涨幅扩大至3.3%，报94.6美元/桶。WTI原油期货涨幅扩大至3%，报88.685美元/桶。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:24:02.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.497Z",
+      "attention": 5,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-f04f3adcbe7aac7236cf",
+      "title": "微软股价在上一交易日收跌2.2%后再跌2.2% 此前Anthropic推出了Office工具",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928775019.html",
+      "publishedAt": "2026-11-11T15:23:03.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.497Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-b2d8bf7640766c833164",
+      "title": "CoreWeave涨幅扩大至20% 该公司CEO在三季报强劲之际重申AI计算需求",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928773782.html",
+      "publishedAt": "2026-11-11T15:19:53.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.498Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-d7fe2108009e09231a2c",
+      "title": "WTI原油期货涨幅扩大至2% 报87.851美元/桶",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928771845.html",
+      "publishedAt": "2026-11-11T15:16:58.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.498Z",
+      "attention": 1,
+      "emphasis": 0
+    },
     {
       "id": "cls-a79bd73c22676bed4742",
       "title": "美元升至2025年5月以来最高 美联储加息押注升温",
@@ -13,7 +463,21 @@
       "publishedAt": "2026-11-11T15:16:44.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:13.975Z",
-      "attention": 4719,
+      "attention": 512171,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-42bc8f70681e6ca189c3",
+      "title": "美元升至2025年5月以来最高 美联储加息押注升温",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611113928772219.html",
+      "summary": "随着交易员为美联储下月恢复加息做准备，美元升至18个月高点，延续过去两个月来的强劲涨势。美元指数周三一度上涨0.4%，触及2025年5月以来最高水平，美元兑所有主要货币均走高。美元涨势周二进一步受到提振，当时美联储官员发表鹰派言论，同时数据显示消费者价格连续第三个月涨幅高于预期…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T15:16:44.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T16:06:29.498Z",
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -27,7 +491,7 @@
       "publishedAt": "2026-11-11T15:03:29.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:14.331Z",
-      "attention": 4,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -41,7 +505,7 @@
       "publishedAt": "2026-11-11T15:03:16.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:13.976Z",
-      "attention": 15697,
+      "attention": 521680,
       "emphasis": 0.65
     },
     {
@@ -105,7 +569,7 @@
       "publishedAt": "2026-11-11T15:01:08.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:13.976Z",
-      "attention": 14560,
+      "attention": 498318,
       "emphasis": 0
     },
     {
@@ -117,7 +581,7 @@
       "publishedAt": "2026-11-11T15:00:27.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:14.331Z",
-      "attention": 1,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -169,7 +633,7 @@
       "publishedAt": "2026-11-11T14:56:48.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:14.332Z",
-      "attention": 5,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -235,7 +699,7 @@
       "publishedAt": "2026-11-11T14:50:30.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:14.332Z",
-      "attention": 1,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -249,7 +713,7 @@
       "publishedAt": "2026-11-11T14:49:56.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:14.332Z",
-      "attention": 4,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -341,7 +805,21 @@
       "publishedAt": "2026-11-11T14:45:42.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:14.333Z",
-      "attention": 0,
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-218308c68c78bb3a0f13",
+      "title": "意大利约6300所公立学校收到炸弹威胁邮件",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928755452.html",
+      "summary": "意大利教育部长朱塞佩·瓦尔迪塔拉11日表示，截至目前，意大利全国7476所公立学校中，约有6300所收到炸弹威胁邮件。瓦尔迪塔拉说，私立学校及成人教育中心未收到相关邮件。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T14:45:07.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T21:00:54.818Z",
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -369,7 +847,7 @@
       "publishedAt": "2026-11-11T14:43:06.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:14.333Z",
-      "attention": 17,
+      "attention": 22,
       "emphasis": 0
     },
     {
@@ -447,7 +925,7 @@
       "publishedAt": "2026-11-11T14:31:30.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:14.333Z",
-      "attention": 20,
+      "attention": 22,
       "emphasis": 0
     },
     {
@@ -499,7 +977,7 @@
       "publishedAt": "2026-11-11T14:29:28.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T15:18:14.334Z",
-      "attention": 8,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -615,7 +1093,7 @@
       "publishedAt": "2026-11-11T14:25:00.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T14:32:50.539Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -643,6 +1121,20 @@
       "emphasis": 0
     },
     {
+      "id": "eastmoney-3a468afec6dc7828a155",
+      "title": "中土埃就加强高质量碳信用发起国际合作倡议",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611113928737794.html",
+      "summary": "11日，在土耳其安塔利亚举行的《联合国气候变化框架公约》第三十一次缔约方大会（COP31）期间，中国与COP31主席国土耳其、COP32主席国埃塞俄比亚联合发起《关于加强高质量碳信用国际合作的倡议》（以下简称《倡议》），呼吁加强高质量碳信用国际合作，推动全球碳信用市场可持续发展。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-11T14:19:08.000Z",
+      "date": "2026-11-11",
+      "observedAt": "2026-11-11T21:00:54.819Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
       "id": "eastmoney-cb4359080c7d8f73f8a5",
       "title": "北京力争建成具身智能机器人产业创新高地",
       "source": "东方财富",
@@ -653,7 +1145,7 @@
       "publishedAt": "2026-11-11T14:18:49.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T14:32:50.539Z",
-      "attention": 16,
+      "attention": 21,
       "emphasis": 0
     },
     {
@@ -674,12 +1166,12 @@
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611113928737333.html",
-      "summary": "近日，有投资者在互动平台向德明利提问：公司现在有人型机器人用内存吗？11月11日晚，德明利回应称，公司产品主要包括固态硬盘、嵌入式存储、内存条及移动存储等，已广泛应用于数据中心、手机、车载电子、平板、安防监控等多元应用场景，暂未涉及人形机器人领域。",
+      "summary": "近日，有投资者在互动平台向德明利提问：公司现在有人形机器人用内存吗？11月11日晚，德明利回应称，公司产品主要包括固态硬盘、嵌入式存储、内存条及移动存储等，已广泛应用于数据中心、手机、车载电子、平板、安防监控等多元应用场景，暂未涉及人形机器人领域。",
       "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-11T14:17:21.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T14:32:50.539Z",
-      "attention": 7,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -927,7 +1419,7 @@
       "publishedAt": "2026-11-11T13:50:29.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T14:32:50.540Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -953,7 +1445,7 @@
       "publishedAt": "2026-11-11T13:50:00.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T14:32:50.541Z",
-      "attention": 8,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -1043,7 +1535,7 @@
       "publishedAt": "2026-11-11T13:44:43.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T14:32:50.541Z",
-      "attention": 22,
+      "attention": 27,
       "emphasis": 0
     },
     {
@@ -1245,7 +1737,7 @@
       "publishedAt": "2026-11-11T13:16:57.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.916Z",
-      "attention": 11,
+      "attention": 14,
       "emphasis": 0
     },
     {
@@ -1259,7 +1751,7 @@
       "publishedAt": "2026-11-11T13:16:46.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.916Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -1285,7 +1777,7 @@
       "publishedAt": "2026-11-11T13:15:58.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.916Z",
-      "attention": 9,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -1313,7 +1805,7 @@
       "publishedAt": "2026-11-11T13:15:16.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.916Z",
-      "attention": 8,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -1513,7 +2005,7 @@
       "publishedAt": "2026-11-11T13:01:07.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.917Z",
-      "attention": 10,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -1553,7 +2045,7 @@
       "publishedAt": "2026-11-11T12:59:19.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.917Z",
-      "attention": 124,
+      "attention": 138,
       "emphasis": 0
     },
     {
@@ -1671,7 +2163,7 @@
       "publishedAt": "2026-11-11T12:50:30.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.918Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -1763,7 +2255,7 @@
       "publishedAt": "2026-11-11T12:37:17.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.918Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -1777,7 +2269,7 @@
       "publishedAt": "2026-11-11T12:36:49.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.918Z",
-      "attention": 5,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -1817,7 +2309,7 @@
       "publishedAt": "2026-11-11T12:35:07.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.919Z",
-      "attention": 5,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -1831,7 +2323,7 @@
       "publishedAt": "2026-11-11T12:35:07.000Z",
       "date": "2026-11-11",
       "observedAt": "2026-11-11T13:26:42.919Z",
-      "attention": 105,
+      "attention": 107,
       "emphasis": 0
     },
     {
@@ -17382,9 +17874,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-11T15:18:12.706Z",
-      "lastSuccessAt": "2026-11-11T15:18:12.706Z",
-      "count": 13,
+      "checkedAt": "2026-11-12T11:29:34.047Z",
+      "lastSuccessAt": "2026-11-12T11:29:34.047Z",
+      "count": 9,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -17393,8 +17885,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-11T15:18:12.706Z",
-      "lastSuccessAt": "2026-11-11T15:18:12.706Z",
+      "checkedAt": "2026-11-12T11:29:34.047Z",
+      "lastSuccessAt": "2026-11-12T11:29:34.047Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -17404,9 +17896,9 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-11T15:18:12.706Z",
-      "lastSuccessAt": "2026-11-11T15:18:12.706Z",
-      "count": 60,
+      "checkedAt": "2026-11-12T11:29:34.047Z",
+      "lastSuccessAt": "2026-11-12T11:29:34.047Z",
+      "count": 57,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -17415,8 +17907,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-11T15:18:12.706Z",
-      "lastSuccessAt": "2026-11-11T15:18:12.706Z",
+      "checkedAt": "2026-11-12T11:29:34.047Z",
+      "lastSuccessAt": "2026-11-12T11:29:34.047Z",
       "count": 2,
       "message": "提取标题、可用来源摘要及原文链接"
     }

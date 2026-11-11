@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "cutoffAt": "2026-11-11T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-10T16:32:40.046Z",
-  "lastSavedAt": "2026-11-11T15:18:22.721Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-11T16:57:30.912Z",
+  "sealedAt": "2026-11-11T16:06:25.991Z",
   "news": {
     "items": [
       {
@@ -33,17 +33,123 @@
           }
         ],
         "sourceCount": 3,
-        "score": 86,
+        "score": 85,
         "signals": {
           "coverage": 35,
-          "engagement": 27.8,
-          "recency": 16.7,
+          "engagement": 27.7,
+          "recency": 15.7,
           "emphasis": 6.5
         },
         "category": "公司",
         "sectors": [],
         "rank": 1,
         "importance": "重磅"
+      },
+      {
+        "id": "topic-d9c03f7b0bb7420243d4",
+        "title": "美股半导体板块盘中持续走强 费城半导体指数涨6.1% 闪迪涨超15%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2532002",
+        "summary": "美股半导体板块夜盘涨势进一步扩大，存储芯片、光通信板块表现尤为活跃。费城半导体指数涨6.12%，细分赛道中，存储芯片与光通信领涨全场。闪迪狂飙超15.4%，Lumentum大涨超14.1%，美光科技涨超12.3%，Coherent涨超12.2%，希捷科技与SK海力士双双涨超10…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-11T15:55:20.000Z",
+        "date": "2026-11-11",
+        "time": "23:55",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2532002"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928790161.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 78.6,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.8,
+          "recency": 24.9,
+          "emphasis": 6.5
+        },
+        "category": "海外",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 2,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-b99cf0bbd845e09df524",
+        "title": "美股半导体板块夜盘强势拉升 费城半导体指数涨5% 美光、闪迪涨超11%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531983",
+        "summary": "费城半导体指数涨幅扩大至5%，报10500.83点。美股半导体板块夜盘涨势进一步扩大，存储芯片、光通信及半导体设备股表现活跃。存储芯片及光通信概念股表现最为亮眼。其中，闪迪大涨超14.7%，Lumentum涨超12.6%，美光科技涨超11.2%，Coherent涨超11%，希捷…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-11T15:28:36.000Z",
+        "date": "2026-11-11",
+        "time": "23:28",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531983"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928777024.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 77.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.3,
+          "recency": 24,
+          "emphasis": 6.5
+        },
+        "category": "海外",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 3,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-8c5e926adb63b0354e11",
+        "title": "国际原油期货拉升 美油布油均涨超3%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531981",
+        "summary": "财联社11月11日电，布伦特原油期货涨幅扩大至3.3%，报94.6美元/桶。WTI原油期货涨幅扩大至3%，报88.685美元/桶。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T15:24:02.000Z",
+        "date": "2026-11-11",
+        "time": "23:24",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531981"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928775253.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 76.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.9,
+          "recency": 23.8,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 4,
+        "importance": "关注"
       },
       {
         "id": "topic-b192a1ac9fb7bbd8180a",
@@ -67,96 +173,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 75.2,
+        "score": 74.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 27.8,
-          "recency": 23.4,
+          "engagement": 28,
+          "recency": 22.1,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "半导体"
         ],
-        "rank": 2,
-        "importance": "重磅"
-      },
-      {
-        "id": "topic-1be3525e07a58dd3b439",
-        "title": "江苏首部人工智能专项地方性法规在苏州出台",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2531213",
-        "summary": "财联社11月11日电，今天（11月11日）上午，2026江苏人工智能创新发展大会暨第二届人工智能OPC大会上介绍，《苏州市人工智能产业发展和应用促进条例》（简称《条例》）将于12月1日起正式施行。这是江苏省首部人工智能专项地方性法规，也是全国首部地级市人工智能地方性法规。在要素…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-11T04:53:04.000Z",
-        "date": "2026-11-11",
-        "time": "12:53",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531213"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611113928272950.html"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3198115"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 73.8,
-        "signals": {
-          "coverage": 35,
-          "engagement": 28.3,
-          "recency": 10.5,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "人工智能"
-        ],
-        "rank": 3,
-        "importance": "重磅"
-      },
-      {
-        "id": "topic-e11e986433fad871be6e",
-        "title": "财政部：全链条依法重拳惩治财务报表和审计违法违规行为",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3198232",
-        "summary": "财联社11月11日电，财政部会计司司长林启云在财政部新闻发布会上表示，“十五五”时期将更加注重法治与监督，财会监督体系是重要抓手。一方面把尺子打准，系统推进会计准则等标准，加快完善注册会计师行业配套制度；另一方面把规矩守严，建设协同高效的会计监督体系，全链条依法重拳惩治财务报表…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-11T07:21:05.000Z",
-        "date": "2026-11-11",
-        "time": "15:21",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3198232"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531435"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611113928369748.html"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 73.2,
-        "signals": {
-          "coverage": 35,
-          "engagement": 25.3,
-          "recency": 12.9,
-          "emphasis": 0
-        },
-        "category": "政策",
-        "sectors": [],
-        "rank": 4,
+        "rank": 5,
         "importance": "关注"
       },
       {
@@ -185,18 +213,96 @@
           }
         ],
         "sourceCount": 3,
-        "score": 72.6,
+        "score": 72,
         "signals": {
           "coverage": 35,
-          "engagement": 27.6,
-          "recency": 10,
+          "engagement": 27.5,
+          "recency": 9.4,
           "emphasis": 0
         },
         "category": "宏观",
         "sectors": [
           "银行"
         ],
-        "rank": 5,
+        "rank": 6,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-1be3525e07a58dd3b439",
+        "title": "江苏首部人工智能专项地方性法规在苏州出台",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531213",
+        "summary": "财联社11月11日电，今天（11月11日）上午，2026江苏人工智能创新发展大会暨第二届人工智能OPC大会上介绍，《苏州市人工智能产业发展和应用促进条例》（简称《条例》）将于12月1日起正式施行。这是江苏省首部人工智能专项地方性法规，也是全国首部地级市人工智能地方性法规。在要素…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T04:53:04.000Z",
+        "date": "2026-11-11",
+        "time": "12:53",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531213"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928272950.html"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198115"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 71.7,
+        "signals": {
+          "coverage": 35,
+          "engagement": 26.8,
+          "recency": 9.9,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 7,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-e11e986433fad871be6e",
+        "title": "财政部：全链条依法重拳惩治财务报表和审计违法违规行为",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198232",
+        "summary": "财联社11月11日电，财政部会计司司长林启云在财政部新闻发布会上表示，“十五五”时期将更加注重法治与监督，财会监督体系是重要抓手。一方面把尺子打准，系统推进会计准则等标准，加快完善注册会计师行业配套制度；另一方面把规矩守严，建设协同高效的会计监督体系，全链条依法重拳惩治财务报表…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T07:21:05.000Z",
+        "date": "2026-11-11",
+        "time": "15:21",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198232"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531435"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928369748.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 71.1,
+        "signals": {
+          "coverage": 35,
+          "engagement": 23.9,
+          "recency": 12.2,
+          "emphasis": 0
+        },
+        "category": "政策",
+        "sectors": [],
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -221,11 +327,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 72.4,
+        "score": 71,
         "signals": {
           "coverage": 17.5,
           "engagement": 25,
-          "recency": 23.4,
+          "recency": 22.1,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -233,8 +339,144 @@
           "半导体",
           "人工智能"
         ],
-        "rank": 6,
+        "rank": 9,
         "importance": "关注"
+      },
+      {
+        "id": "topic-fd52be16fa38417a941a",
+        "title": "野村现预计美联储今年12月和明年3月各加息一次 因通胀高于预期",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531988",
+        "summary": "财联社11月11日电，野村经济学家Aichi Amemiya、Jeremy Schwartz和Ruchir Sharma在11月10日的一份报告中写道，在美国通胀数据高于预期后，该行目前预计美联储除12月加息外，还将在明年3月再次加息。他们表示：“我们目前预计12月和明年3月还…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T15:36:27.000Z",
+        "date": "2026-11-11",
+        "time": "23:36",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531988"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://forex.eastmoney.com/a/202611113928782755.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 70.8,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.1,
+          "recency": 24.2,
+          "emphasis": 0
+        },
+        "category": "宏观",
+        "sectors": [],
+        "rank": 10,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-8116d2ed95b3aeb29249",
+        "title": "美元升至2025年5月以来最高 美联储加息押注升温",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531977",
+        "summary": "财联社11月11日电，随着交易员为美联储下月恢复加息做准备，美元升至18个月高点，延续过去两个月来的强劲涨势。美元指数周三一度上涨0.4%，触及2025年5月以来最高水平，美元兑所有主要货币均走高。美元涨势周二进一步受到提振，当时美联储官员发表鹰派言论，同时数据显示消费者价格连…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T15:16:44.000Z",
+        "date": "2026-11-11",
+        "time": "23:16",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531977"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://forex.eastmoney.com/a/202611113928772219.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 70.6,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.5,
+          "recency": 23.5,
+          "emphasis": 0
+        },
+        "category": "海外",
+        "sectors": [],
+        "rank": 11,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-bf6c4de15f8585bb753d",
+        "title": "锐翔智能：在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531991",
+        "summary": "财联社11月11日电，锐翔智能发布投资者关系活动记录表，公司已将光模块相关自动化设备定位为公司核心的业务战略方向之一。截至目前，公司在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单。公司前期所披露的有关已接到索尔思公司首条光模块自动化组装设备生产线（包括精密…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T15:42:59.000Z",
+        "date": "2026-11-11",
+        "time": "23:42",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531991"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928784642.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 70.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.4,
+          "recency": 24.4,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-942dfb0330e9acd4acaf",
+        "title": "美股云服务商、存储板块持续走强",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2531982",
+        "summary": "财联社11月11日电，美股云服务商、存储板块持续走强，CoreWeave涨幅扩大至20%，NEBIUS涨超15%，闪迪涨超13%，美光科技涨超10%，SK海力士涨超9%。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T15:27:08.000Z",
+        "date": "2026-11-11",
+        "time": "23:27",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531982"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928777333.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 70,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.6,
+          "recency": 23.9,
+          "emphasis": 0
+        },
+        "category": "海外",
+        "sectors": [],
+        "rank": 13,
+        "importance": "一般"
       },
       {
         "id": "topic-937a7011a364092878f5",
@@ -258,57 +500,19 @@
           }
         ],
         "sourceCount": 2,
-        "score": 70.9,
+        "score": 69.9,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.6,
-          "recency": 17.3,
+          "recency": 16.3,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 7,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-1ea7f89f3e0db3ff888f",
-        "title": "报道：印度政府禁止出口未分类的电池废物和废碎料",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3198273",
-        "summary": "财联社11月11日电，印度政府周二宣布，立即禁止出口不含铅、镉或汞的原电池、电池和蓄电池的未分类废物及废碎料。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-11T08:15:30.000Z",
-        "date": "2026-11-11",
-        "time": "16:15",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3198273"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531524"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611113928424561.html"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 70.8,
-        "signals": {
-          "coverage": 35,
-          "engagement": 15.4,
-          "recency": 14,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 8,
-        "importance": "关注"
+        "rank": 14,
+        "importance": "一般"
       },
       {
         "id": "topic-106ca0db7ddecb5690ce",
@@ -332,17 +536,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 70.1,
+        "score": 69.2,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.8,
-          "recency": 16.3,
+          "recency": 15.4,
           "emphasis": 6.5
         },
         "category": "政策",
         "sectors": [],
-        "rank": 9,
-        "importance": "关注"
+        "rank": 15,
+        "importance": "一般"
       },
       {
         "id": "topic-4e4e328670ca32824889",
@@ -370,17 +574,55 @@
           }
         ],
         "sourceCount": 3,
-        "score": 69.5,
+        "score": 69.2,
         "signals": {
           "coverage": 35,
           "engagement": 28.3,
-          "recency": 6.3,
+          "recency": 5.9,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 10,
-        "importance": "关注"
+        "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-1ea7f89f3e0db3ff888f",
+        "title": "报道：印度政府禁止出口未分类的电池废物和废碎料",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198273",
+        "summary": "财联社11月11日电，印度政府周二宣布，立即禁止出口不含铅、镉或汞的原电池、电池和蓄电池的未分类废物及废碎料。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-11T08:15:30.000Z",
+        "date": "2026-11-11",
+        "time": "16:15",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198273"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2531524"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611113928424561.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 69.1,
+        "signals": {
+          "coverage": 35,
+          "engagement": 14.4,
+          "recency": 13.2,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 17,
+        "importance": "一般"
       },
       {
         "id": "topic-f09db5f1a5c1c2ff47a0",
@@ -408,16 +650,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 69.4,
+        "score": 68.8,
         "signals": {
           "coverage": 35,
-          "engagement": 25.5,
-          "recency": 8.9,
+          "engagement": 25.4,
+          "recency": 8.4,
           "emphasis": 0
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 11,
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -442,16 +684,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 68.4,
+        "score": 67.6,
         "signals": {
           "coverage": 17.5,
           "engagement": 28.8,
-          "recency": 15.7,
+          "recency": 14.8,
           "emphasis": 6.5
         },
         "category": "海外",
         "sectors": [],
-        "rank": 12,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -476,267 +718,26 @@
           }
         ],
         "sourceCount": 2,
-        "score": 68.3,
+        "score": 67.4,
         "signals": {
           "coverage": 17.5,
           "engagement": 28.1,
-          "recency": 16.2,
+          "recency": 15.3,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 13,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-b1ee1c868235a84e32c2",
-        "title": "8天4板上海电影：AI视频相关业务尚处于前期投入阶段 营收占比不足0.5%",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2531714",
-        "summary": "财联社11月11日电，上海电影(601595.SH)发布风险提示公告，公司关注到市场将公司列为AI视频概念股，目前公司生产经营未发生重大变化，公司的主营业务为电影宣发、院线经营及IP全链路开发，AI视频相关业务尚处于前期投入阶段，业务规模较小，截至10月末，相关业务营收占比不足…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-11T10:19:46.000Z",
-        "date": "2026-11-11",
-        "time": "18:19",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531714"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611113928518436.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 67.1,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 26.6,
-          "recency": 16.5,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [
-          "人工智能",
-          "传媒"
-        ],
-        "rank": 14,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-545ddf31c66cd87b64a2",
-        "title": "锚定新一代智能制造与能源装备 上海加快打造三个千亿级产业集聚区",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2531919",
-        "summary": "财联社11月11日电，上海市新一代智能制造与能源装备重点工作推进会2026年11月11日召开。会上，市经济信息化委智能制造推进处解读《上海市加快发展新一代智能制造行动方案》、《上海能源装备产业创新发展三年行动方案（2027-2029年）》两项政策，锚定新一代智能制造“54321…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-11T13:16:57.000Z",
-        "date": "2026-11-11",
-        "time": "21:16",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531919"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611113928665544.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 64.5,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 25.9,
-          "recency": 21.1,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 15,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-43859526a8b8d13761d8",
-        "title": "Anthropic IPO认购需求超额数倍 拟通过IPO及私募融资最高904亿美元",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2531917",
-        "summary": "财联社11月11日电，Anthropic大型IPO据悉获数倍超额认购。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-11T13:15:16.000Z",
-        "date": "2026-11-11",
-        "time": "21:15",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531917"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611113928663617.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 62.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 24.3,
-          "recency": 21.1,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 16,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-82f70eb70b220019b553",
-        "title": "洛阳钼业：取得不超18亿元股票回购专项贷款承诺函",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2531715",
-        "summary": "财联社11月11日电，洛阳钼业(603993.SH)公告称，公司近日取得招商银行上海分行出具的《贷款承诺函》，贷款额度最高不超过18亿元，贷款期限36个月，专项用于回购公司A股股票。此前公司董事会审议通过回购方案，拟以集中竞价方式回购A股股份，回购资金总额为10亿元至20亿元，…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-11T10:19:55.000Z",
-        "date": "2026-11-11",
-        "time": "18:19",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531715"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://bank.eastmoney.com/a/202611113928518720.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 61.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 27.3,
-          "recency": 16.5,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-50a704d51d925fde2829",
-        "title": "CPO概念持续走高 新易盛等多股涨超10%",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2531142",
-        "summary": "CPO概念盘中持续反弹，新易盛、太辰光、致尚科技均涨超10%，中际旭创涨超9%，收复500元关口，A+H股总市值重返6000亿上方，此前剑桥科技、青山纸业涨停，源杰科技、东山精密、联讯仪器、天孚通信均涨超7%。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-11T03:20:38.000Z",
-        "date": "2026-11-11",
-        "time": "11:20",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531142"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611113928254145.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 61.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 28.1,
-          "recency": 9.2,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-a795eda66ec8a2935798",
-        "title": "报告：预计今年化石燃料排放微降 清洁能源增速不足",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611113928584961.html",
-        "summary": "国际组织“全球碳计划”的最新报告预计，2026年全球使用化石燃料带来的二氧化碳排放量将同比下降0.4%，至382亿吨。此外，清洁能源发展速度仍不足以支撑碳排放持续下降。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-11T12:07:59.000Z",
-        "date": "2026-11-11",
-        "time": "20:07",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611113928584961.html"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531823"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 61,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 24.3,
-          "recency": 19.2,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-9b450d32265849bcdec6",
-        "title": "国家能源局：增强能源安全韧性和抗风险能力 大力推动新型电网建设",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611113928514074.html",
-        "summary": "国家能源局党组理论学习中心组11月10日召开学习（扩大）会议，会议要求，一是胸怀“国之大者”，紧扣实现新时代新征程党的使命任务，始终站在全局和战略的高度谋划和推进能源工作。二是坚持问题导向，准确把握国际国内形势任务挑战，增强能源安全韧性和抗风险能力。三是坚持守正创新，加快发展能…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-11T10:14:53.000Z",
-        "date": "2026-11-11",
-        "time": "18:14",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611113928514074.html"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2531704"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 59.4,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 25.5,
-          "recency": 16.4,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-11T15:18:12.706Z",
-    "collectedAt": "2026-11-11T15:18:12.706Z",
-    "latestPublishedAt": "2026-11-11T15:16:44.000Z",
-    "totalCandidates": 1286,
-    "financeCandidates": 793,
+    "asOf": "2026-11-11T16:57:25.168Z",
+    "collectedAt": "2026-11-11T16:57:25.168Z",
+    "latestPublishedAt": "2026-11-11T15:56:18.000Z",
+    "totalCandidates": 1321,
+    "financeCandidates": 821,
     "sources": [
       {
         "id": "cls",
@@ -744,9 +745,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-11T15:18:12.706Z",
-        "lastSuccessAt": "2026-11-11T15:18:12.706Z",
-        "count": 13,
+        "checkedAt": "2026-11-11T16:57:25.168Z",
+        "lastSuccessAt": "2026-11-11T16:57:25.168Z",
+        "count": 8,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -755,8 +756,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-11T15:18:12.706Z",
-        "lastSuccessAt": "2026-11-11T15:18:12.706Z",
+        "checkedAt": "2026-11-11T16:57:25.168Z",
+        "lastSuccessAt": "2026-11-11T16:57:25.168Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -766,9 +767,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-11T15:18:12.706Z",
-        "lastSuccessAt": "2026-11-11T15:18:12.706Z",
-        "count": 60,
+        "checkedAt": "2026-11-11T16:57:25.168Z",
+        "lastSuccessAt": "2026-11-11T16:57:25.168Z",
+        "count": 58,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -777,8 +778,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-11T15:18:12.706Z",
-        "lastSuccessAt": "2026-11-11T15:18:12.706Z",
+        "checkedAt": "2026-11-11T16:57:25.168Z",
+        "lastSuccessAt": "2026-11-11T16:57:25.168Z",
         "count": 2,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -796,7 +797,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-11",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-11T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-11",
@@ -4446,5 +4448,12 @@
       "status": "locked",
       "lockedAt": "2026-11-11T06:58:53.089Z"
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-11T16:00:00.000Z",
+    "completedAt": "2026-11-11T16:57:30.912Z",
+    "newsCollectedAt": "2026-11-11T16:57:25.168Z",
+    "marketCollectedAt": "2026-11-11T15:18:12.761Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }
