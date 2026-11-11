@@ -7,6 +7,7 @@ import {Collector,chinaDate,INTERVAL_MS} from './lib/collector.mjs';
 import {MarketCollector} from './lib/markets.mjs';
 import {DailyArchive} from './lib/archive.mjs';
 import {DailyReports} from './lib/reports.mjs';
+import {completePreviousDay} from './lib/day-boundary.mjs';
 
 const collector=new Collector(),markets=new MarketCollector(),archive=new DailyArchive();
 const reports=new DailyReports();
@@ -46,6 +47,7 @@ async function runCycle(){
    await Promise.allSettled([collector.refresh(),markets.refresh()]);
    const today=chinaDate();
    await archive.capture(today,{news:await collector.payload(today),snapshot:await markets.get(today)});
+   await completePreviousDay(archive,collector);
    await reports.refreshAll();
    for(const date of await allDates())await saveStatic(date);
    runtime.lastCycleAt=new Date().toISOString();runtime.state='running';

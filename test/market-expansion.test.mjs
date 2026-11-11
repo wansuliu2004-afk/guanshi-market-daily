@@ -53,7 +53,7 @@ test('日报从同日归档补齐全市场，封存后不变更收盘价格或�
  const original={date,finalizedAt:'2026-11-11T00:00:00Z',news:{items:[{id:'first',score:90,rank:1}]},close:{capturedAt:stamp,snapshot:{markets:[{id:'sh',value:'99'}],sentiment:{up:null},sources:[]}}};
  await atomic(path.join(directory,'site.json'),{startedDate:date});await atomic(path.join(directory,'archive',date+'.json'),{snapshot});await atomic(path.join(directory,'reports',date+'.json'),original);
  const reports=new DailyReports({directory,clock:()=>new Date('2026-11-11T01:00:00Z')});await reports.refreshAll();const saved=await reports.get(date);
- assert.equal(saved.marketOverview.markets.length,3);assert.equal(saved.marketOverview.markets[1].group,'港股');assert.equal(saved.marketOverview.markets[2].group,'利率');assert.deepEqual(saved.news,original.news);assert.deepEqual(saved.close.snapshot.markets,original.close.snapshot.markets);assert.equal(saved.close.snapshot.sentiment.up,1);
+ assert.equal(saved.marketOverview.markets.length,3);assert.equal(saved.marketOverview.markets[1].group,'港股');assert.equal(saved.marketOverview.markets[2].group,'利率');assert.deepEqual(saved.news,{...original.news,cutoffAt:"2026-11-10T16:00:00.000Z"});assert.deepEqual(saved.close.snapshot.markets,original.close.snapshot.markets);assert.equal(saved.close.snapshot.sentiment.up,1);
  await atomic(path.join(directory,'archive',date+'.json'),{snapshot:{...snapshot,markets:[]}});await reports.refreshAll();assert.deepEqual(await reports.get(date),saved);
  assert.equal(marketOverview({...snapshot,date:'2026-11-11'},date),null);
 });
@@ -63,6 +63,6 @@ test('当日概览可补充海外报价，收盘锁定；跨日后概览也固�
  await atomic(path.join(directory,'site.json'),{startedDate:date});await atomic(path.join(directory,'archive',date+'.json'),{snapshot});
  let now=new Date(stamp);const reports=new DailyReports({directory,clock:()=>now});await reports.refreshAll();const first=await reports.get(date);assert.equal(first.close.snapshot.markets.length,4);
  snapshot.markets.at(-1).value='210';await atomic(path.join(directory,'archive',date+'.json'),{snapshot});await reports.refreshAll();const next=await reports.get(date);assert.deepEqual(next.close,first.close);assert.equal(next.marketOverview.markets.at(-1).value,'210');
- now=new Date('2026-11-11T01:00:00Z');await reports.refreshAll();const final=await reports.get(date);assert(final.finalizedAt);
+ now=new Date('2026-11-11T01:00:00Z');await atomic(path.join(directory,'archive',date+'.json'),{snapshot,dayEnd:{completedAt:now.toISOString()}});await reports.refreshAll();const final=await reports.get(date);assert(final.finalizedAt);
  snapshot.markets.at(-1).value='220';await atomic(path.join(directory,'archive',date+'.json'),{snapshot});await reports.refreshAll();assert.deepEqual(await reports.get(date),final);
 });

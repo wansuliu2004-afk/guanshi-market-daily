@@ -4,7 +4,7 @@ export const staticMode=boot.staticMode===true;
 export const siteRoot=new URL('./',import.meta.url);
 export const todayInChina=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 export async function dataFetch(route,options={}){
- if(!staticMode)return fetch(route,options);
+ if(!staticMode)return fetch(route,{...options,signal:options.signal||AbortSignal.timeout(16000),cache:'no-store'});
  const request=new URL(route,location.origin),date=request.searchParams.get('date')||todayInChina();
  let file;
  if(request.pathname==='/api/dates')file='feed/catalogue.json';
@@ -15,7 +15,8 @@ export async function dataFetch(route,options={}){
   if(['/api/news','/api/news/refresh'].includes(request.pathname))file=`daily/${date}/news.json`;
  }
  if(!file)throw Error('不支持的静态数据请求');
- const response=await fetch(new URL(file,siteRoot),{signal:options.signal,cache:'no-store'});
+ const url=new URL(file,siteRoot);url.searchParams.set('_t',String(Date.now()));
+ const response=await fetch(url,{signal:options.signal||AbortSignal.timeout(16000),cache:'no-store'});
  if(response.status===404&&request.pathname.startsWith('/api/news'))return new Response(JSON.stringify({date,items:[],asOf:null,sources:[],mode:'aggregate'}),{headers:{'Content-Type':'application/json'}});
  return response;
 }

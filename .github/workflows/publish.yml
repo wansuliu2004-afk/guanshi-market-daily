@@ -5,8 +5,8 @@ on:
   push:
     branches: [main]
   schedule:
-    # UTC，避开每小时整点；北京时间为每小时 :17 / :47。
-    - cron: '17,47 * * * *'
+    # GitHub 定时可能延迟/跳过；提高触发密度，不将计划时刻当成实际采集时间。
+    - cron: '2-57/5 * * * *'
 
 permissions:
   contents: read
