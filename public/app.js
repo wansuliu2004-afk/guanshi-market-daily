@@ -1,5 +1,5 @@
-import {dataFetch,staticMode,siteRoot,todayInChina} from './data-client.js?v=1.7.0';
-import {marketContext,normalizeMarketSnapshot,chinaDateOf,isAShare} from './market-context.js?v=1.7.0';
+import {dataFetch,staticMode,siteRoot,todayInChina} from './data-client.js?v=1.7.1';
+import {marketContext,normalizeMarketSnapshot,chinaDateOf,isAShare} from './market-context.js?v=1.7.1';
 const $=(s,scope=document)=>scope.querySelector(s);
 const $$=(s,scope=document)=>[...scope.querySelectorAll(s)];
 const icons={
@@ -108,6 +108,10 @@ async function loadDate(date,{initial=false}={}){
  if(!/^\d{4}-\d{2}-\d{2}$/.test(date)||Number.isNaN(Date.parse(date)))return;
  const version=++loadVersion;stream?.close();state.date=date;state.report=null;state.selectedNews=null;state.sector=null;state.stale=false;state.snapshotStale=false;
  followToday=date===currentDate;
+ // 切换日期即撤下旧日内容，网络请求期间也不能把昨日报价放在今日日期下。
+ state.snapshot=null;state.news=[];state.newsMeta=null;state.newsAsOf=null;
+ $('#reviewColumn').classList.add('hidden');$('#workspace').classList.add('no-market');$('#marketSessionNotice').classList.add('hidden');$('#marketQuoteStamp').textContent='';
+ $('#marketStrip').innerHTML=emptyHTML('正在获取所选日期行情',date+' · 不沿用其他日期的报价');$('#mustReads').innerHTML='';updateStamps();
  $('#workspace').classList.remove('hidden');$('#emptyDay').classList.add('hidden');$$('.market-data-status').forEach(note=>note.remove());virtualRows=[];setNewsDegraded(false);skeleton();
  const url=new URL(location.href);url.pathname=siteRoot.pathname;url.searchParams.set('date',date);url.searchParams.set('edition',state.edition);if(demoMode)url.searchParams.set('mode','demo');history.replaceState({},'',url);
  $('#datePicker').value=date;document.title=`${date} 财经日报 · 观市`;
