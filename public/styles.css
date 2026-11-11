@@ -17,6 +17,8 @@
 .news-item.has-summary{height:232px}
 .market-data-status{margin:0 16px 10px;padding:7px 10px;border-left:2px solid #bd9551;border-radius:3px;background:#fbf5e9;color:#956e2c;font-size:10px;line-height:1.8;overflow-wrap:anywhere}
 .market-section>.market-data-status{margin-left:0;margin-right:0}
+.market-origin.cached-origin{color:#a47a35}
+[data-theme=dark] .market-origin.cached-origin{color:#d4b774}
 [data-theme=dark] .market-data-status{background:#3b362a;color:#d4b774;border-color:#ad8d48}
 .news-item.has-summary:before{bottom:0}
 .news-item .summary{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;white-space:normal;overflow:hidden;text-overflow:clip;line-height:1.65}

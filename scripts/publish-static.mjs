@@ -27,7 +27,7 @@ await reports.refreshAll();
 const sources=[...collector.status,...(markets.latest?.sources||[])],errors=results.filter(r=>r.status==='rejected').map(r=>String(r.reason.message));
 const now=new Date().toISOString(),previous=await jsonFile(path.join(DATA_DIR,'cloud-runtime.json'));
 const nextRun=new Date(now);nextRun.setUTCSeconds(0,0);nextRun.setUTCMinutes(Math.floor(nextRun.getUTCMinutes()/5)*5+2);if(nextRun<=new Date(now))nextRun.setUTCMinutes(nextRun.getUTCMinutes()+5);
-const runtime={appVersion:'1.7.1',mode:'scheduled-static',intervalSeconds:300,state:errors.length||sources.some(s=>s.status==='error')?'degraded':'running',
+const runtime={appVersion:'1.7.2',mode:'scheduled-static',intervalSeconds:300,state:errors.length||sources.some(s=>s.status==='error')?'degraded':'running',
  lastCycleAt:skipCollection?previous?.lastCycleAt||null:now,
  publishedAt:now,nextRunAt:nextRun.toISOString(),
  message:'GitHub Actions 云端每 5 分钟计划触发；平台可能延迟或跳过。网页每 30 秒自动检查新发布数据，延迟会明确提示，无需手动刷新。',

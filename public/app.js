@@ -1,5 +1,6 @@
-import {dataFetch,staticMode,siteRoot,todayInChina} from './data-client.js?v=1.7.1';
-import {marketContext,normalizeMarketSnapshot,chinaDateOf,isAShare} from './market-context.js?v=1.7.1';
+import {dataFetch,staticMode,siteRoot,todayInChina} from './data-client.js?v=1.7.2';
+import {marketContext,normalizeMarketSnapshot,chinaDateOf,isAShare} from './market-context.js?v=1.7.2';
+import {marketOverviewHealth,marketQuoteSource} from './market-health.js?v=1.7.2';
 const $=(s,scope=document)=>scope.querySelector(s);
 const $$=(s,scope=document)=>[...scope.querySelectorAll(s)];
 const icons={
@@ -149,9 +150,14 @@ function renderMarkets(){
  if(!overview){$('#marketQuoteStamp').textContent='';$('#marketSessionNotice').classList.add('hidden');$('#marketStrip').innerHTML=emptyHTML('所选日期暂无行情归档',state.report?.closeMessage||'新闻聚合仍可独立浏览。');return;}
  const context=marketContext(state.snapshot||overview,state.date),notice=$('#marketSessionNotice');
  notice.textContent=state.edition==='report'&&!state.report?.close?'今日收盘尚未形成。A 股今日栏位等待当日数据，上一交易日价格不作为今日收盘。':!context.hasTodayQuote?context.label+'。'+(context.message||''):'';notice.classList.toggle('hidden',!notice.textContent);
- marketDataNotice('marketDataStatus',$('#marketStrip'),['quotes','extra','trends','bond'],overview.markets.some(m=>m.value&&m.value!=='—'),overview);
  const group=m=>m.group||(m.category==='A股'?'A股':['hk','hktech'].includes(m.id)?'港股':['sp','nas','dji'].includes(m.id)?'美股':m.id==='nk'?'亚太':m.id==='fx'?'汇率':m.id==='bond'?'利率':['oil','gold','copper'].includes(m.id)?'商品':m.category);
  const markets=overview.markets.filter(m=>state.market==='全部'||group(m)===state.market);
+ const warnings=marketOverviewHealth(overview,markets).map(({source,kind,cached,missing})=>[
+  cached.length?cached.join('、')+'：'+kind+'沿用上次成功数据'+successStamp(source):'',
+  missing.length?missing.join('、')+'：'+kind+'暂无可用数据':''
+ ].filter(Boolean).join('；'));
+ const pageWarning=state.snapshotStale?'页面连接异常 · 显示已载入报价，请核对卡片时间':'';
+ setMarketNotice('marketDataStatus',$('#marketStrip'),[...warnings,pageWarning].filter(Boolean).join('；')+(warnings.length?retryNotice():''));
  $('#marketQuoteStamp').textContent='概览采集 '+formatStamp(overview.collectedAt)+' · 北京时间';
  $('#marketStrip').innerHTML=markets.map(original=>{
   const reference=isAShare(original)&&chinaDateOf(original.asOf)!==state.date;
@@ -159,8 +165,9 @@ function renderMarkets(){
   const trend=m.trend||[],min=Math.min(...trend),range=Math.max(...trend)-min||1;
   const points=trend.map((v,i)=>((i/Math.max(1,trend.length-1))*70).toFixed(1)+','+(26-(v-min)/range*23).toFixed(1)).join(' ');
   const unavailable=m.status==='unavailable'||!m.value||m.value==='—',hasChange=Number.isFinite(m.change),color=!unavailable&&hasChange?changeClass(m.change):'muted',link=safeMarketURL(m.sourceUrl);
+  const cached=!unavailable&&overview.sources?.some(s=>s.id===marketQuoteSource(m)&&s.status==='error');
   const tag=link?'a':'article',linkAttrs=link?' href="'+esc(link)+'" target="_blank" rel="noopener noreferrer" aria-label="查看 '+esc(m.name)+' 来源：'+esc(m.source)+'"':'';
-  return '<'+tag+linkAttrs+' class="market-card '+(m.id==='sh'?'selected ':'')+(unavailable?'stale-data':'')+'" title="'+esc(m.name+' · '+(m.source||'待接入')+' · '+(m.asOf||m.time))+'"><div class="market-name">'+esc(m.name)+'<small>'+esc(m.code)+'</small></div><span class="quote-context '+(reference?'reference-quote':'')+'">'+esc(m.quoteLabel||(reference?'上一交易日参考 · '+chinaDateOf(m.asOf):m.frequency==='daily'?'日度数据':'报价日期 '+(chinaDateOf(m.asOf)||'未知')))+'</span><strong class="market-value numeric '+color+'">'+esc(m.value)+'</strong><div class="market-bottom"><span class="market-change numeric '+color+'">'+(unavailable?'等待当日数据':hasChange?signed(m.change,m.id==='bond'?4:2)+(m.id==='bond'?' pp':'%'):'涨跌暂无')+'</span></div>'+(trend.length>1?'<svg class="spark '+color+'" viewBox="0 0 72 30" aria-hidden="true"><polyline points="'+points+'" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>':'<span class="trend-unavailable">'+(m.demo?'演示':m.id==='bond'?'较上期 · 百分点':reference?'待当日走势':'走势待补充')+'</span>')+'<span class="market-origin">'+esc(m.source||'待接入')+(link?' ↗':'')+'</span><span class="market-time numeric">'+esc(unavailable?m.time:m.asOf?formatStamp(m.asOf):m.time)+'</span></'+tag+'>';
+  return '<'+tag+linkAttrs+' class="market-card '+(m.id==='sh'?'selected ':'')+(unavailable?'stale-data':'')+'" title="'+esc(m.name+' · '+(m.source||'待接入')+(cached?' · 沿用上次成功报价':'')+' · '+(m.asOf||m.time))+'"><div class="market-name">'+esc(m.name)+'<small>'+esc(m.code)+'</small></div><span class="quote-context '+(reference?'reference-quote':'')+'">'+esc(m.quoteLabel||(reference?'上一交易日参考 · '+chinaDateOf(m.asOf):m.frequency==='daily'?'日度数据':'报价日期 '+(chinaDateOf(m.asOf)||'未知')))+'</span><strong class="market-value numeric '+color+'">'+esc(m.value)+'</strong><div class="market-bottom"><span class="market-change numeric '+color+'">'+(unavailable?'等待当日数据':hasChange?signed(m.change,m.id==='bond'?4:2)+(m.id==='bond'?' pp':'%'):'涨跌暂无')+'</span></div>'+(trend.length>1?'<svg class="spark '+color+'" viewBox="0 0 72 30" aria-hidden="true"><polyline points="'+points+'" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>':'<span class="trend-unavailable">'+(m.demo?'演示':m.id==='bond'?'较上期 · 百分点':reference?'待当日走势':'走势待补充')+'</span>')+'<span class="market-origin '+(cached?'cached-origin':'')+'">'+esc(m.source||'待接入')+(cached?' · 缓存':'')+(link?' ↗':'')+'</span><span class="market-time numeric">'+esc(unavailable?m.time:m.asOf?formatStamp(m.asOf):m.time)+'</span></'+tag+'>';
  }).join('')||emptyHTML('该分类暂无留存报价','这一天尚未接入该市场，没有使用其他日期的数据补齐。');
 }
 function renderMustReads(){
@@ -291,11 +298,16 @@ async function refreshMarket(){
  const version=loadVersion;
  try{const r=await dataFetch('/api/snapshot?date='+state.date,{signal:AbortSignal.timeout(16000)});if(!r.ok)throw Error('盘面暂不可用');const s=await r.json();if(!s||version!==loadVersion)return;state.snapshot=normalizeMarketSnapshot(s);state.snapshotStale=false;$('#reviewColumn').classList.remove('hidden');renderSnapshot();updateStamps();}catch{if(version!==loadVersion)return;state.snapshotStale=true;if(state.snapshot)renderSnapshot();}
 }
+function successStamp(source){return source.lastSuccessAt?' · 上次成功采集 '+formatStamp(source.lastSuccessAt)+'（北京时间）':'';}
+function retryNotice(){return state.date===currentDate?' · 云端后续采集将自动重试':' · 历史归档保留当时采集状态';}
+function setMarketNotice(id,anchor,message){
+ let note=$('#'+id);if(!note){note=document.createElement('p');note.id=id;note.className='market-data-status';note.setAttribute('role','status');anchor.before(note);}
+ note.textContent=message;note.classList.toggle('hidden',!message);
+}
 function marketDataNotice(id,anchor,sourceIds,hasData,snapshot=state.snapshot){
  const failed=(snapshot?.sources||[]).filter(source=>sourceIds.includes(source.id)&&source.status==='error');
- let note=$('#'+id);if(!note){note=document.createElement('p');note.id=id;note.className='market-data-status';note.setAttribute('role','status');anchor.before(note);}
- const message=failed.length?failed.map(source=>source.name+'暂不可用 · '+(hasData?'使用上次成功数据':'暂无可用数据')+(source.lastSuccessAt?' · 上次成功采集 '+formatStamp(source.lastSuccessAt)+'（北京时间）':' · 尚无成功采集记录')).join('；'):state.snapshotStale?'连接异常 · '+(hasData?'使用缓存数据，请核对原行情时间':'暂无可用数据'):'';
- note.textContent=message;note.classList.toggle('hidden',!message);
+ const message=failed.length?failed.map(source=>source.name+'本轮采集未成功 · '+(hasData?'沿用上次成功数据'+successStamp(source):'暂无可用数据')+retryNotice()).join('；'):state.snapshotStale?'页面连接异常 · '+(hasData?'使用缓存数据，请核对原行情时间':'暂无可用数据'):'';
+ setMarketNotice(id,anchor,message);
 }
 function chartError(container,retryAction){
  container.innerHTML=emptyHTML('图表暂时不可用','其他信息仍可正常浏览；页面自动同步时会重试此图表。',`<button class="primary-button" data-action="${retryAction}">重试图表</button>`);
