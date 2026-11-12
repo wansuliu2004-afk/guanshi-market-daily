@@ -5,9 +5,9 @@
     "home": "https://www.cls.cn/telegraph",
     "kind": "快讯",
     "status": "ok",
-    "checkedAt": "2026-11-12T15:29:26.133Z",
-    "lastSuccessAt": "2026-11-12T15:29:26.133Z",
-    "count": 13,
+    "checkedAt": "2026-11-13T15:15:48.359Z",
+    "lastSuccessAt": "2026-11-13T15:15:48.359Z",
+    "count": 12,
     "message": "提取标题、可用来源摘要及原文链接"
   },
   {
@@ -16,8 +16,8 @@
     "home": "https://kuaixun.eastmoney.com/",
     "kind": "快讯",
     "status": "ok",
-    "checkedAt": "2026-11-12T15:29:26.133Z",
-    "lastSuccessAt": "2026-11-12T15:29:26.133Z",
+    "checkedAt": "2026-11-13T15:15:48.359Z",
+    "lastSuccessAt": "2026-11-13T15:15:48.359Z",
     "count": 100,
     "message": "提取标题、可用来源摘要及原文链接"
   },
@@ -27,9 +27,9 @@
     "home": "https://wallstreetcn.com/live/global",
     "kind": "快讯",
     "status": "ok",
-    "checkedAt": "2026-11-12T15:29:26.133Z",
-    "lastSuccessAt": "2026-11-12T15:29:26.133Z",
-    "count": 55,
+    "checkedAt": "2026-11-13T15:15:48.359Z",
+    "lastSuccessAt": "2026-11-13T15:15:48.359Z",
+    "count": 59,
     "message": "提取标题、可用来源摘要及原文链接"
   },
   {
@@ -37,10 +37,10 @@
     "name": "央视新闻联播",
     "home": "https://tv.cctv.com/lm/xwlb/",
     "kind": "权威发布",
-    "status": "empty",
-    "checkedAt": "2026-11-12T15:29:26.133Z",
-    "lastSuccessAt": "2026-11-12T15:29:26.133Z",
-    "count": 0,
-    "message": "暂无带独立标题的可用条目"
+    "status": "ok",
+    "checkedAt": "2026-11-13T15:15:48.359Z",
+    "lastSuccessAt": "2026-11-13T15:15:48.359Z",
+    "count": 2,
+    "message": "提取标题、可用来源摘要及原文链接"
   }
 ]

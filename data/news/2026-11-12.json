@@ -1,7 +1,135 @@
 {
   "date": "2026-11-12",
-  "asOf": "2026-11-12T15:29:26.133Z",
+  "asOf": "2026-11-12T22:52:36.890Z",
   "records": [
+    {
+      "id": "eastmoney-324b91cc96e2968891e8",
+      "title": "据Vanda Research数据：散户在开盘后半小时内净买入价值1.11亿美元的英伟达股票 创下该股有记录以来最大的开盘买盘",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611123930020922.html",
+      "publishedAt": "2026-11-12T15:57:03.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:11.632Z",
+      "attention": 40,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-624f50272f56e6e5b5d5",
+      "title": "机构：散户30分钟内抄底英伟达逾1亿美元股票",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199220",
+      "publishedAt": "2026-11-12T15:56:23.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:12.705Z",
+      "attention": 0,
+      "emphasis": 0.65
+    },
+    {
+      "id": "wallstreet-7bb170df59db0aa12ce6",
+      "title": "黄仁勋出局后，英伟达对Anthropic的百亿美元IPO认购承诺受到聚焦",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199219",
+      "publishedAt": "2026-11-12T15:54:13.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:12.705Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-38f61159d59473a50ff3",
+      "title": "美国特使威特科夫表示：在与普京会面后 双方已商定举行新一轮会谈",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://global.eastmoney.com/a/202611123930018938.html",
+      "summary": "美国特使威特科夫表示，在与普京会面后，双方已商定举行新一轮会谈。美国特使库什纳称，与普京的会谈“实质且详细”。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-12T15:53:40.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:11.632Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-1983266599e7e0f40f8f",
+      "title": "美联储理事巴尔表示：目前没有看到AI对美国劳动力市场产生重大影响 尽管它可能是年轻劳动者和一些岗位招聘低迷的部分原因",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611123930018063.html",
+      "publishedAt": "2026-11-12T15:47:32.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:11.632Z",
+      "attention": 8,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-e3af134d0adfdc13752b",
+      "title": "Needham将英伟达的目标价从300美元下调至200美元",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611123930014921.html",
+      "publishedAt": "2026-11-12T15:37:59.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:11.632Z",
+      "attention": 13,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-81fc39235a815fb013ec",
+      "title": "特朗普建议库克接替黄仁勋担任英伟达CEO，说：只有他能替代",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199212",
+      "publishedAt": "2026-11-12T15:31:03.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:12.705Z",
+      "attention": 3,
+      "emphasis": 0.65
+    },
+    {
+      "id": "cls-5ac99a4f087c3d0b5ba2",
+      "title": "美国总统特朗普：建议蒂姆·库克接替黄仁勋担任英伟达首席执行官",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2533168",
+      "summary": "【美国总统特朗普：库克应接替黄仁勋担任英伟达首席执行官】财联社11月12日电，美国总统特朗普表示，库克应接替黄仁勋担任英伟达首席执行官。他表示，“英伟达首席执行官黄仁勋表现出色，但他现已辞职，唯一能接替他的人选只有苹果的苹果执行董事长库克。”",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-12T15:30:15.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:11.202Z",
+      "attention": 498628,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-27e6f140bd877caaecd9",
+      "title": "美国总统特朗普：建议蒂姆·库克接替黄仁勋担任英伟达首席执行官",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611123930011674.html",
+      "summary": "美国总统特朗普表示，库克应接替黄仁勋担任英伟达首席执行官。他表示，“英伟达首席执行官黄仁勋表现出色，但他现已辞职，唯一能接替他的人选只有苹果的执行董事长库克。”",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-12T15:30:15.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:11.632Z",
+      "attention": 179,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-b0ca58688c7c1febdd43",
+      "title": "纳斯达克中国金龙指数跌幅扩大 现跌3%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611123930010943.html",
+      "summary": "纳斯达克中国金龙指数跌幅扩大，现跌3%，最新报5480.27点。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-12T15:29:14.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:11.632Z",
+      "attention": 18,
+      "emphasis": 0
+    },
     {
       "id": "cls-2ac1e412b758608cf5f5",
       "title": "英伟达股价收窄跌幅至5%以内 总市值重新触及4万亿美元",
@@ -13,8 +141,22 @@
       "publishedAt": "2026-11-12T15:26:27.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.021Z",
-      "attention": 6662,
+      "attention": 516546,
       "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-80eab94ef09c61becf49",
+      "title": "英伟达股价收窄跌幅至5%以内 总市值重新触及4万亿美元",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611123930010524.html",
+      "summary": "抄底资金涌入，英伟达股价收窄跌幅至4.5%左右，报165.880美元/股，总市值报4.00万亿美元；此前一度大跌14%，市值蒸发近6000亿美元。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-12T15:26:27.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T16:30:11.633Z",
+      "attention": 8,
+      "emphasis": 0
     },
     {
       "id": "cls-338526958f876d3bb2d8",
@@ -27,7 +169,7 @@
       "publishedAt": "2026-11-12T15:22:36.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.022Z",
-      "attention": 10769,
+      "attention": 487701,
       "emphasis": 0
     },
     {
@@ -53,7 +195,7 @@
       "publishedAt": "2026-11-12T15:16:52.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.927Z",
-      "attention": 0,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -91,7 +233,7 @@
       "publishedAt": "2026-11-12T15:09:58.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.927Z",
-      "attention": 13,
+      "attention": 18,
       "emphasis": 0
     },
     {
@@ -105,7 +247,7 @@
       "publishedAt": "2026-11-12T15:09:27.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.928Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -119,7 +261,7 @@
       "publishedAt": "2026-11-12T15:02:33.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.022Z",
-      "attention": 12925,
+      "attention": 496992,
       "emphasis": 0
     },
     {
@@ -133,7 +275,7 @@
       "publishedAt": "2026-11-12T15:02:33.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.928Z",
-      "attention": 19,
+      "attention": 41,
       "emphasis": 0
     },
     {
@@ -171,7 +313,7 @@
       "publishedAt": "2026-11-12T15:01:39.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.022Z",
-      "attention": 11868,
+      "attention": 484910,
       "emphasis": 0
     },
     {
@@ -211,7 +353,7 @@
       "publishedAt": "2026-11-12T15:00:53.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.022Z",
-      "attention": 17074,
+      "attention": 506115,
       "emphasis": 0
     },
     {
@@ -225,7 +367,7 @@
       "publishedAt": "2026-11-12T15:00:53.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.928Z",
-      "attention": 3,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -265,7 +407,7 @@
       "publishedAt": "2026-11-12T14:58:35.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.928Z",
-      "attention": 3,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -293,7 +435,7 @@
       "publishedAt": "2026-11-12T14:57:58.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.928Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -307,7 +449,7 @@
       "publishedAt": "2026-11-12T14:57:11.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.929Z",
-      "attention": 4,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -363,7 +505,7 @@
       "publishedAt": "2026-11-12T14:54:01.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.929Z",
-      "attention": 7,
+      "attention": 15,
       "emphasis": 0
     },
     {
@@ -389,7 +531,7 @@
       "publishedAt": "2026-11-12T14:46:09.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.929Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -429,7 +571,7 @@
       "publishedAt": "2026-11-12T14:37:30.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.929Z",
-      "attention": 24,
+      "attention": 26,
       "emphasis": 0
     },
     {
@@ -457,7 +599,7 @@
       "publishedAt": "2026-11-12T14:36:19.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.929Z",
-      "attention": 8,
+      "attention": 9,
       "emphasis": 0
     },
     {
@@ -469,7 +611,7 @@
       "publishedAt": "2026-11-12T14:35:32.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.930Z",
-      "attention": 23,
+      "attention": 26,
       "emphasis": 0
     },
     {
@@ -481,7 +623,7 @@
       "publishedAt": "2026-11-12T14:33:38.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T15:29:27.930Z",
-      "attention": 7,
+      "attention": 9,
       "emphasis": 0
     },
     {
@@ -577,7 +719,7 @@
       "publishedAt": "2026-11-12T14:24:18.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T14:35:19.834Z",
-      "attention": 31,
+      "attention": 34,
       "emphasis": 0
     },
     {
@@ -655,7 +797,7 @@
       "publishedAt": "2026-11-12T14:07:15.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T14:35:19.834Z",
-      "attention": 9,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -719,7 +861,7 @@
       "publishedAt": "2026-11-12T14:02:12.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T14:35:19.834Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -813,7 +955,7 @@
       "publishedAt": "2026-11-12T13:55:13.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T14:35:19.834Z",
-      "attention": 49,
+      "attention": 50,
       "emphasis": 0
     },
     {
@@ -827,7 +969,7 @@
       "publishedAt": "2026-11-12T13:55:07.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T14:35:19.835Z",
-      "attention": 20,
+      "attention": 21,
       "emphasis": 0
     },
     {
@@ -909,7 +1051,7 @@
       "publishedAt": "2026-11-12T13:53:11.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T14:35:19.835Z",
-      "attention": 9,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -985,7 +1127,7 @@
       "publishedAt": "2026-11-12T13:49:31.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T14:35:19.835Z",
-      "attention": 229,
+      "attention": 230,
       "emphasis": 0
     },
     {
@@ -1013,7 +1155,7 @@
       "publishedAt": "2026-11-12T13:46:05.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T14:35:19.835Z",
-      "attention": 30,
+      "attention": 35,
       "emphasis": 0
     },
     {
@@ -1046,7 +1188,7 @@
     },
     {
       "id": "wallstreet-d5da8b65894b39c259b7",
-      "title": "美联储哈马克：通胀正朝着错误的方向发展，需要转向限制性政策立场",
+      "title": "美联储哈马克：需进一步加息以压制通胀",
       "source": "华尔街见闻",
       "sourceId": "wallstreet",
       "sourceUrl": "https://wallstreetcn.com/articles/3785828",
@@ -1205,7 +1347,7 @@
       "publishedAt": "2026-11-12T13:30:35.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T13:40:10.655Z",
-      "attention": 172,
+      "attention": 179,
       "emphasis": 0
     },
     {
@@ -1261,7 +1403,7 @@
       "publishedAt": "2026-11-12T13:23:00.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T13:40:10.656Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -1397,7 +1539,7 @@
       "publishedAt": "2026-11-12T13:12:22.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T13:40:10.656Z",
-      "attention": 522,
+      "attention": 573,
       "emphasis": 0
     },
     {
@@ -1451,7 +1593,7 @@
       "publishedAt": "2026-11-12T13:09:11.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T13:40:10.657Z",
-      "attention": 85,
+      "attention": 86,
       "emphasis": 0
     },
     {
@@ -1463,6 +1605,18 @@
       "publishedAt": "2026-11-12T13:08:13.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T13:40:11.560Z",
+      "attention": 0,
+      "emphasis": 0.65
+    },
+    {
+      "id": "wallstreet-8fde743b6f923f22cf82",
+      "title": "Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价盘前跌逾14% | 财报见闻",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/articles/3785826",
+      "publishedAt": "2026-11-12T13:07:55.000Z",
+      "date": "2026-11-12",
+      "observedAt": "2026-11-12T15:29:28.759Z",
       "attention": 0,
       "emphasis": 0.65
     },
@@ -1517,7 +1671,7 @@
       "publishedAt": "2026-11-12T13:03:00.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T13:40:10.657Z",
-      "attention": 6,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -1595,7 +1749,7 @@
       "publishedAt": "2026-11-12T12:58:17.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T13:40:10.657Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -1673,7 +1827,7 @@
       "publishedAt": "2026-11-12T12:42:32.000Z",
       "date": "2026-11-12",
       "observedAt": "2026-11-12T13:40:10.658Z",
-      "attention": 17,
+      "attention": 18,
       "emphasis": 0
     },
     {
@@ -2055,18 +2209,6 @@
       "observedAt": "2026-11-12T12:24:14.197Z",
       "attention": 0,
       "emphasis": 0
-    },
-    {
-      "id": "wallstreet-8fde743b6f923f22cf82",
-      "title": "Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价盘前跌逾14% | 财报见闻",
-      "source": "华尔街见闻",
-      "sourceId": "wallstreet",
-      "sourceUrl": "https://wallstreetcn.com/articles/3785826",
-      "publishedAt": "2026-11-12T12:12:39.000Z",
-      "date": "2026-11-12",
-      "observedAt": "2026-11-12T15:29:28.759Z",
-      "attention": 0,
-      "emphasis": 0.65
     },
     {
       "id": "cls-41cbb18b30cb4811c6d2",
@@ -17248,9 +17390,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-12T15:29:26.133Z",
-      "lastSuccessAt": "2026-11-12T15:29:26.133Z",
-      "count": 13,
+      "checkedAt": "2026-11-12T22:52:36.890Z",
+      "lastSuccessAt": "2026-11-12T22:52:36.890Z",
+      "count": 10,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -17259,8 +17401,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-12T15:29:26.133Z",
-      "lastSuccessAt": "2026-11-12T15:29:26.133Z",
+      "checkedAt": "2026-11-12T22:52:36.890Z",
+      "lastSuccessAt": "2026-11-12T22:52:36.890Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -17270,9 +17412,9 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-12T15:29:26.133Z",
-      "lastSuccessAt": "2026-11-12T15:29:26.133Z",
-      "count": 55,
+      "checkedAt": "2026-11-12T22:52:36.890Z",
+      "lastSuccessAt": "2026-11-12T22:52:36.890Z",
+      "count": 44,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -17281,8 +17423,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "empty",
-      "checkedAt": "2026-11-12T15:29:26.133Z",
-      "lastSuccessAt": "2026-11-12T15:29:26.133Z",
+      "checkedAt": "2026-11-12T22:52:36.890Z",
+      "lastSuccessAt": "2026-11-12T22:52:36.890Z",
       "count": 0,
       "message": "暂无带独立标题的可用条目"
     }

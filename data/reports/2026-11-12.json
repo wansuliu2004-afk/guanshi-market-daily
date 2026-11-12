@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-12",
   "cutoffAt": "2026-11-12T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-12T16:30:14.417Z",
   "createdAt": "2026-11-11T16:06:32.063Z",
-  "updatedAt": "2026-11-12T15:29:41.182Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-12T16:30:14.424Z",
+  "finalizedAt": "2026-11-12T16:30:14.424Z",
+  "status": "final",
   "news": {
     "date": "2026-11-12",
     "cutoffAt": "2026-11-12T16:00:00.000Z",
@@ -79,7 +79,7 @@
         "score": 87.8,
         "signals": {
           "coverage": 35,
-          "engagement": 24.5,
+          "engagement": 24.6,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 12
@@ -269,47 +269,6 @@
         "importance": "关注"
       },
       {
-        "id": "topic-afe002cdc04bc3f1cdbd",
-        "title": "商务部：中欧医疗器械专场贸易对接会达成100余项合作意向",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3198947",
-        "summary": "财联社11月12日电，商务部新闻发言人何亚东在例行新闻发布会上表示，日前举办的中欧医疗器械专场贸易对接会是中欧贸易投资磋商机制第二次例会一项重要的成果共识。商务部会同财政部、国家卫健委等部门组织了160多家国内的医疗机构和企业参与市场化采购，欧方组织了40多家医疗器械企业参会，…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-12T07:19:48.000Z",
-        "date": "2026-11-12",
-        "time": "15:19",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3198947"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2532633"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611123929448691.html"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 70.2,
-        "signals": {
-          "coverage": 35,
-          "engagement": 23.2,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 12
-        },
-        "category": "行业",
-        "sectors": [
-          "医药生物"
-        ],
-        "rank": 8,
-        "importance": "关注"
-      },
-      {
         "id": "topic-1067dbd7bcd564d5e321",
         "title": "中芯国际：预计四季度收入环比增长4%-6%，毛利率指引为26%-28%",
         "source": "华尔街见闻",
@@ -343,6 +302,47 @@
         "sectors": [
           "银行"
         ],
+        "rank": 8,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-afe002cdc04bc3f1cdbd",
+        "title": "商务部：中欧医疗器械专场贸易对接会达成100余项合作意向",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3198947",
+        "summary": "财联社11月12日电，商务部新闻发言人何亚东在例行新闻发布会上表示，日前举办的中欧医疗器械专场贸易对接会是中欧贸易投资磋商机制第二次例会一项重要的成果共识。商务部会同财政部、国家卫健委等部门组织了160多家国内的医疗机构和企业参与市场化采购，欧方组织了40多家医疗器械企业参会，…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-12T07:19:48.000Z",
+        "date": "2026-11-12",
+        "time": "15:19",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3198947"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2532633"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611123929448691.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 69.7,
+        "signals": {
+          "coverage": 35,
+          "engagement": 22.7,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 12
+        },
+        "category": "行业",
+        "sectors": [
+          "医药生物"
+        ],
         "rank": 9,
         "importance": "关注"
       },
@@ -372,10 +372,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 68.3,
+        "score": 68.2,
         "signals": {
           "coverage": 35,
-          "engagement": 18.3,
+          "engagement": 18.2,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
@@ -407,7 +407,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 64.3,
+        "score": 64.2,
         "signals": {
           "coverage": 17.5,
           "engagement": 23,
@@ -420,6 +420,43 @@
           "半导体"
         ],
         "rank": 11,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-b7c5a4e9f07ff1e4294f",
+        "title": "英伟达股价收窄跌幅至5%以内 总市值重新触及4万亿美元",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2533166",
+        "summary": "财联社11月12日电，抄底资金涌入，英伟达股价收窄跌幅至4.5%左右，报165.880美元/股，总市值报4.00万亿美元；此前一度大跌14%，市值蒸发近6000亿美元。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-12T15:26:27.000Z",
+        "date": "2026-11-12",
+        "time": "23:26",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2533166"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611123930010524.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 61.6,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.8,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 12,
         "importance": "一般"
       },
       {
@@ -447,14 +484,14 @@
         "score": 61.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.5,
+          "engagement": 24.6,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 12,
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -489,7 +526,7 @@
         },
         "category": "海外",
         "sectors": [],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -528,7 +565,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -553,7 +590,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.8,
+        "score": 60.9,
         "signals": {
           "coverage": 17.5,
           "engagement": 24.1,
@@ -563,7 +600,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 15,
+        "rank": 16,
         "importance": "一般"
       },
       {
@@ -588,17 +625,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.3,
+        "score": 59.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.6,
+          "engagement": 23.1,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "公司",
         "sectors": [],
-        "rank": 16,
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -623,54 +660,15 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.2,
+        "score": 59.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.4,
+          "engagement": 22.9,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
-        "sectors": [],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-55b0f47e419b653028c1",
-        "title": "贝莱德的Brazier称英国央行或进一步加息三或四次",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2532914",
-        "summary": "财联社11月12日电，贝莱德全球投资及投资组合解决方案主管Alex Brazier表示，英国央行可能会按目前市场定价所反映的那样额外实施三至四次加息。他表示，在上周加息25个基点、将基准利率提高至4%后，英国央行最快12月再次加息是“有可能的”。Brazier表示：“经济增长仍…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-12T10:28:32.000Z",
-        "date": "2026-11-12",
-        "time": "18:28",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2532914"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://forex.eastmoney.com/a/202611123929734725.html"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3199064"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 59.7,
-        "signals": {
-          "coverage": 35,
-          "engagement": 9.7,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 15
-        },
-        "category": "政策",
         "sectors": [],
         "rank": 18,
         "importance": "一般"
@@ -700,7 +698,7 @@
         "score": 59.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.5,
+          "engagement": 22.6,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -734,10 +732,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 59.3,
+        "score": 59.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 13.6,
+          "engagement": 13.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 12
@@ -748,11 +746,11 @@
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-12T15:29:26.133Z",
-    "collectedAt": "2026-11-12T15:29:26.133Z",
-    "latestPublishedAt": "2026-11-12T15:26:27.000Z",
-    "totalCandidates": 1274,
-    "financeCandidates": 805,
+    "asOf": "2026-11-12T16:30:09.525Z",
+    "collectedAt": "2026-11-12T16:30:09.525Z",
+    "latestPublishedAt": "2026-11-12T15:57:03.000Z",
+    "totalCandidates": 1285,
+    "financeCandidates": 811,
     "sources": [
       {
         "id": "cls",
@@ -760,9 +758,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-12T15:29:26.133Z",
-        "lastSuccessAt": "2026-11-12T15:29:26.133Z",
-        "count": 13,
+        "checkedAt": "2026-11-12T16:30:09.525Z",
+        "lastSuccessAt": "2026-11-12T16:30:09.525Z",
+        "count": 7,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -771,8 +769,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-12T15:29:26.133Z",
-        "lastSuccessAt": "2026-11-12T15:29:26.133Z",
+        "checkedAt": "2026-11-12T16:30:09.525Z",
+        "lastSuccessAt": "2026-11-12T16:30:09.525Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -782,9 +780,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-12T15:29:26.133Z",
-        "lastSuccessAt": "2026-11-12T15:29:26.133Z",
-        "count": 55,
+        "checkedAt": "2026-11-12T16:30:09.525Z",
+        "lastSuccessAt": "2026-11-12T16:30:09.525Z",
+        "count": 49,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -793,8 +791,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "empty",
-        "checkedAt": "2026-11-12T15:29:26.133Z",
-        "lastSuccessAt": "2026-11-12T15:29:26.133Z",
+        "checkedAt": "2026-11-12T16:30:09.525Z",
+        "lastSuccessAt": "2026-11-12T16:30:09.525Z",
         "count": 0,
         "message": "暂无带独立标题的可用条目"
       }
@@ -810,8 +808,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-12T16:30:14.424Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-11T16:06:29.495Z"
