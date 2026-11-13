@@ -1,7 +1,299 @@
 {
   "date": "2026-11-13",
-  "asOf": "2026-11-13T15:15:48.359Z",
+  "asOf": "2026-11-14T11:38:21.689Z",
   "records": [
+    {
+      "id": "wallstreet-b62255039118b4f83139",
+      "title": "贝森特与美联储官员Goolsbee就能源冲击对通胀的影响存在分歧",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199905",
+      "publishedAt": "2026-11-13T15:59:33.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:32.273Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-cf4fa737c4b74f742e8b",
+      "title": "现货白银日内跌幅扩大至2% 报49.04美元/盎司",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611133931053973.html",
+      "publishedAt": "2026-11-13T15:55:39.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.398Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-0b3001b815524b0d0403",
+      "title": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611133931052739.html",
+      "publishedAt": "2026-11-13T15:54:30.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.398Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-c16518147ae7918754cf",
+      "title": "Anthropic表示：Claude.ai、Claude API与Claude Code的错误率已处于正常水平 公司将继续进行监控",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611133931052910.html",
+      "publishedAt": "2026-11-13T15:53:18.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.398Z",
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-749f6b7709011e792f75",
+      "title": "美军中央司令部否认在巴林雷达遭伊朗袭击",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611133931051498.html",
+      "summary": "当地时间11月13日，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-13T15:49:18.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.399Z",
+      "attention": 4,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-494e8fa3d17b9146acb9",
+      "title": "美军中央司令部否认在巴林雷达遭伊朗袭击",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2534272",
+      "summary": "财联社11月13日电，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”巴林方面对美伊双方说法均无回应。伊朗伊斯兰革命卫队13日早些时候宣布袭击并摧毁巴林境…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-13T15:48:39.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:30.010Z",
+      "attention": 487416,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-2ebbca805063558ad254",
+      "title": "微软称服务恢复取得令人鼓舞的进展",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611133931050495.html",
+      "publishedAt": "2026-11-13T15:45:45.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.399Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-50de30654b1f22045072",
+      "title": "美联储官员柯林斯表示：数据显示通胀过高 且范围正在扩大",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611133931050568.html",
+      "summary": "美联储官员柯林斯表示，数据显示通胀过高，且范围正在扩大；谨慎调整政策是恰当的。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-13T15:45:28.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.399Z",
+      "attention": 6,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-c6c11bc8026701a6c1b0",
+      "title": "经过艰难的预算谈判，德国2027年将迎来接近创纪录的新增借款",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199896",
+      "publishedAt": "2026-11-13T15:41:29.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:32.273Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-010e8b12b79425250a96",
+      "title": "美联储Collins：很快需要加息",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199895",
+      "publishedAt": "2026-11-13T15:40:10.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:32.273Z",
+      "attention": 0,
+      "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-3c1712898b67b019465b",
+      "title": "美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611133931048087.html",
+      "summary": "美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美光科技跌5.37%，台…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-13T15:38:56.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.399Z",
+      "attention": 26,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-8434012b97841adbc8b0",
+      "title": "美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2534268",
+      "summary": "财联社11月13日电，美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-13T15:38:09.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:30.010Z",
+      "attention": 495001,
+      "emphasis": 0.65
+    },
+    {
+      "id": "wallstreet-be1289b1a1bc35cc68b8",
+      "title": "华强北爆款上新：AI陪伴玩具销量飙涨150%",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199892",
+      "publishedAt": "2026-11-13T15:35:08.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:32.273Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-ddf72fd0641da061adab",
+      "title": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611133931046920.html",
+      "publishedAt": "2026-11-13T15:34:12.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.399Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-63ea714200eee432fb2d",
+      "title": "美国至上周EIA天然气库存增加610亿立方英尺",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://futures.eastmoney.com/a/202611133931046320.html",
+      "summary": "美国至上周EIA天然气库存增加610亿立方英尺，预期660亿立方英尺，前值770亿立方英尺。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-13T15:30:46.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.399Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-5dd8177d673ee2504d60",
+      "title": "纳斯达克综合指数向下跌破25000点 最新报24918.71点",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://global.eastmoney.com/a/202611133931044913.html",
+      "summary": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-13T15:25:27.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.400Z",
+      "attention": 8,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-d2c845103f6b5bfacb60",
+      "title": "机构：油价已基本消化战争溢价，即便达成协议，布伦特仍有望维持90美元以上",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199888",
+      "publishedAt": "2026-11-13T15:25:05.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:32.274Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-edd36f2d729b9d28db21",
+      "title": "美国达拉斯联储主席：美联储更明确区分两种市场操作",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199886",
+      "publishedAt": "2026-11-13T15:23:05.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:32.274Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-472a0b427f0812f6cdbe",
+      "title": "LME伦铜跌幅扩大 现跌1%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://futures.eastmoney.com/a/202611133931044051.html",
+      "summary": "LME伦铜跌幅扩大，现跌1%，最新报13450.89美元/吨。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-13T15:22:02.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.400Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-2c1f1c55d633e2dcf420",
+      "title": "巴西央行行长：收益率曲线溢价取决于国家信誉",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199904",
+      "publishedAt": "2026-11-13T15:21:55.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:32.274Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-972260353b58e2e23866",
+      "title": "沃伦炮轰通用汽车200亿美元回购计划",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199884",
+      "publishedAt": "2026-11-13T15:19:00.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T18:25:40.966Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-4e8f155c5c74faf5a4e7",
+      "title": "泽连斯基称乌军使用“星盾”再遭限速",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199883",
+      "publishedAt": "2026-11-13T15:17:34.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:32.274Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-ef33969175354076984f",
+      "title": "标普500指数跌幅扩大至1.1% 纳斯达克综合指数跌1.62%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://stock.eastmoney.com/a/202611133931041170.html",
+      "publishedAt": "2026-11-13T15:15:28.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.400Z",
+      "attention": 4,
+      "emphasis": 0
+    },
     {
       "id": "wallstreet-799e11e236bf146b173b",
       "title": "日本未来五年防卫预算或增至60万亿日元",
@@ -27,6 +319,20 @@
       "observedAt": "2026-11-13T15:15:49.488Z",
       "attention": 4287,
       "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-424ac73117cd0793fa30",
+      "title": "英伟达股价跌幅扩大至3.3%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611133931040925.html",
+      "summary": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-13T15:12:02.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:03:04.400Z",
+      "attention": 6,
+      "emphasis": 0
     },
     {
       "id": "wallstreet-e1e5e356d9bbae1b3610",
@@ -65,7 +371,7 @@
       "publishedAt": "2026-11-13T15:08:34.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T15:15:49.771Z",
-      "attention": 0,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -93,7 +399,7 @@
       "publishedAt": "2026-11-13T15:05:45.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T15:15:49.771Z",
-      "attention": 3,
+      "attention": 16,
       "emphasis": 0
     },
     {
@@ -109,6 +415,18 @@
       "emphasis": 0
     },
     {
+      "id": "wallstreet-1f59be561a0759109465",
+      "title": "内盘期货夜市多数收涨，燃油涨3%，焦煤涨1.4%，焦炭涨1.3%，烧碱跌约2.1%",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3199873",
+      "publishedAt": "2026-11-13T15:01:15.000Z",
+      "date": "2026-11-13",
+      "observedAt": "2026-11-13T16:52:32.274Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
       "id": "eastmoney-3691c61a29e9959b5b75",
       "title": "Anthropic称：Claude.AI和Claude API正在恢复",
       "source": "东方财富",
@@ -119,7 +437,7 @@
       "publishedAt": "2026-11-13T14:58:35.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T15:15:49.771Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -133,7 +451,7 @@
       "publishedAt": "2026-11-13T14:53:32.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T15:15:49.771Z",
-      "attention": 3,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -161,7 +479,7 @@
       "publishedAt": "2026-11-13T14:46:36.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T15:15:49.771Z",
-      "attention": 3,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -257,7 +575,7 @@
       "publishedAt": "2026-11-13T14:34:14.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T15:15:49.772Z",
-      "attention": 5,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -297,7 +615,7 @@
       "publishedAt": "2026-11-13T14:31:05.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T15:15:49.772Z",
-      "attention": 7,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -363,7 +681,7 @@
       "publishedAt": "2026-11-13T14:26:00.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T14:30:04.060Z",
-      "attention": 1,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -417,7 +735,7 @@
       "publishedAt": "2026-11-13T14:18:16.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T14:30:04.061Z",
-      "attention": 10,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -515,7 +833,7 @@
       "publishedAt": "2026-11-13T14:05:37.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T14:30:04.062Z",
-      "attention": 25,
+      "attention": 26,
       "emphasis": 0
     },
     {
@@ -600,7 +918,7 @@
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611133930983124.html",
-      "summary": "2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
+      "summary": "据外交部网站消息，2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
       "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-13T14:01:19.000Z",
       "date": "2026-11-13",
@@ -619,7 +937,7 @@
       "publishedAt": "2026-11-13T14:01:15.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T14:30:04.062Z",
-      "attention": 9,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -659,7 +977,7 @@
       "publishedAt": "2026-11-13T13:55:11.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T14:30:04.062Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -791,7 +1109,7 @@
       "publishedAt": "2026-11-13T13:41:16.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T14:30:04.063Z",
-      "attention": 10,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -829,7 +1147,7 @@
       "publishedAt": "2026-11-13T13:40:00.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T14:30:04.063Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -885,7 +1203,7 @@
       "publishedAt": "2026-11-13T13:35:33.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T14:30:04.064Z",
-      "attention": 81,
+      "attention": 87,
       "emphasis": 0
     },
     {
@@ -911,7 +1229,7 @@
       "publishedAt": "2026-11-13T13:33:10.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T14:30:04.064Z",
-      "attention": 10,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -1033,7 +1351,7 @@
       "publishedAt": "2026-11-13T13:30:15.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.003Z",
-      "attention": 267,
+      "attention": 310,
       "emphasis": 0
     },
     {
@@ -1075,7 +1393,7 @@
       "publishedAt": "2026-11-13T13:24:06.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.003Z",
-      "attention": 9,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -1199,7 +1517,7 @@
       "publishedAt": "2026-11-13T13:17:13.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.003Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -1291,7 +1609,7 @@
       "publishedAt": "2026-11-13T13:08:04.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.004Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -1333,7 +1651,7 @@
       "publishedAt": "2026-11-13T13:07:09.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.004Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -1359,7 +1677,7 @@
       "publishedAt": "2026-11-13T13:04:00.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.004Z",
-      "attention": 16,
+      "attention": 17,
       "emphasis": 0
     },
     {
@@ -1399,7 +1717,7 @@
       "publishedAt": "2026-11-13T13:01:30.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.004Z",
-      "attention": 13,
+      "attention": 14,
       "emphasis": 0
     },
     {
@@ -1467,7 +1785,7 @@
       "publishedAt": "2026-11-13T12:58:07.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.004Z",
-      "attention": 10,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -1523,7 +1841,7 @@
       "publishedAt": "2026-11-13T12:46:58.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.005Z",
-      "attention": 3,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -1603,7 +1921,7 @@
       "publishedAt": "2026-11-13T12:36:00.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.005Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -1645,7 +1963,7 @@
       "publishedAt": "2026-11-13T12:33:19.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.005Z",
-      "attention": 3,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -1781,7 +2099,7 @@
       "publishedAt": "2026-11-13T12:17:10.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T13:36:15.005Z",
-      "attention": 24,
+      "attention": 28,
       "emphasis": 0
     },
     {
@@ -1809,7 +2127,7 @@
       "publishedAt": "2026-11-13T12:16:03.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T12:24:08.985Z",
-      "attention": 9,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -1969,7 +2287,7 @@
       "publishedAt": "2026-11-13T12:00:38.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T12:24:08.985Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -2051,7 +2369,7 @@
       "publishedAt": "2026-11-13T11:56:34.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T12:24:08.986Z",
-      "attention": 15,
+      "attention": 16,
       "emphasis": 0
     },
     {
@@ -2295,7 +2613,7 @@
       "publishedAt": "2026-11-13T11:37:23.000Z",
       "date": "2026-11-13",
       "observedAt": "2026-11-13T12:24:08.986Z",
-      "attention": 8,
+      "attention": 9,
       "emphasis": 0
     },
     {
@@ -17706,9 +18024,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-13T15:15:48.359Z",
-      "lastSuccessAt": "2026-11-13T15:15:48.359Z",
-      "count": 12,
+      "checkedAt": "2026-11-14T11:38:21.689Z",
+      "lastSuccessAt": "2026-11-14T11:38:21.689Z",
+      "count": 14,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -17717,8 +18035,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-13T15:15:48.359Z",
-      "lastSuccessAt": "2026-11-13T15:15:48.359Z",
+      "checkedAt": "2026-11-14T11:38:21.689Z",
+      "lastSuccessAt": "2026-11-14T11:38:21.689Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -17728,9 +18046,9 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-13T15:15:48.359Z",
-      "lastSuccessAt": "2026-11-13T15:15:48.359Z",
-      "count": 59,
+      "checkedAt": "2026-11-14T11:38:21.689Z",
+      "lastSuccessAt": "2026-11-14T11:38:21.689Z",
+      "count": 64,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -17739,8 +18057,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-13T15:15:48.359Z",
-      "lastSuccessAt": "2026-11-13T15:15:48.359Z",
+      "checkedAt": "2026-11-14T11:38:21.689Z",
+      "lastSuccessAt": "2026-11-14T11:38:21.689Z",
       "count": 2,
       "message": "提取标题、可用来源摘要及原文链接"
     }
