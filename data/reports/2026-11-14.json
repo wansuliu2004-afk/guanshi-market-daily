@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-14",
   "cutoffAt": "2026-11-14T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-14T16:23:42.877Z",
   "createdAt": "2026-11-13T16:03:13.756Z",
-  "updatedAt": "2026-11-14T15:49:21.971Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-14T16:23:42.886Z",
+  "finalizedAt": "2026-11-14T16:23:42.886Z",
+  "status": "final",
   "news": {
     "date": "2026-11-14",
     "cutoffAt": "2026-11-14T16:00:00.000Z",
@@ -40,7 +40,7 @@
         "score": 87.9,
         "signals": {
           "coverage": 35,
-          "engagement": 24.6,
+          "engagement": 24.7,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 12
@@ -76,7 +76,7 @@
           }
         ],
         "sourceCount": 3,
-        "score": 84.7,
+        "score": 84.8,
         "signals": {
           "coverage": 35,
           "engagement": 21.5,
@@ -191,10 +191,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 64.1,
+        "score": 64,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.9,
+          "engagement": 22.7,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 7.5
@@ -302,10 +302,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 59.5,
+        "score": 59.1,
         "signals": {
           "coverage": 35,
-          "engagement": 12.5,
+          "engagement": 12.1,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
@@ -341,10 +341,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 57,
+        "score": 57.1,
         "signals": {
           "coverage": 35,
-          "engagement": 19,
+          "engagement": 19.1,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -382,10 +382,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 54.4,
+        "score": 54.5,
         "signals": {
           "coverage": 35,
-          "engagement": 4.4,
+          "engagement": 4.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
@@ -421,10 +421,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 51.4,
+        "score": 50.9,
         "signals": {
           "coverage": 35,
-          "engagement": 13.4,
+          "engagement": 12.9,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -466,43 +466,6 @@
         "importance": "一般"
       },
       {
-        "id": "topic-281449e8588fa0abf3c8",
-        "title": "中信建投：预计2027年实际利率进一步上行空间有限 金价有望震荡上行",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534563",
-        "summary": "财联社11月14日电，中信建投发布黄金2027年投资展望称，2026年压制金价的核心矛盾来自实际利率上行，展望2027年，实际利率进一步上行空间有限，叠加本轮加息预期已被市场充分定价，同时全球央行持续购金将在金价回调阶段形成承接、构筑底部支撑，预期2027年金价有望震荡上行。风…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-14T14:37:28.000Z",
-        "date": "2026-11-14",
-        "time": "22:37",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534563"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611143931376928.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 50.5,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 21,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 12
-        },
-        "category": "宏观",
-        "sectors": [
-          "银行"
-        ],
-        "rank": 13,
-        "importance": "一般"
-      },
-      {
         "id": "topic-11fa86ae68bb6c913dcd",
         "title": "证监会主席吴清在首届中国资本市场学术年会开幕式上致辞",
         "source": "财联社",
@@ -530,6 +493,43 @@
         },
         "category": "政策",
         "sectors": [],
+        "rank": 13,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-281449e8588fa0abf3c8",
+        "title": "中信建投：预计2027年实际利率进一步上行空间有限 金价有望震荡上行",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534563",
+        "summary": "财联社11月14日电，中信建投发布黄金2027年投资展望称，2026年压制金价的核心矛盾来自实际利率上行，展望2027年，实际利率进一步上行空间有限，叠加本轮加息预期已被市场充分定价，同时全球央行持续购金将在金价回调阶段形成承接、构筑底部支撑，预期2027年金价有望震荡上行。风…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-14T14:37:28.000Z",
+        "date": "2026-11-14",
+        "time": "22:37",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534563"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611143931376928.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 50.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 20.6,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 12
+        },
+        "category": "宏观",
+        "sectors": [
+          "银行"
+        ],
         "rank": 14,
         "importance": "一般"
       },
@@ -559,10 +559,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 50.1,
+        "score": 49.6,
         "signals": {
           "coverage": 35,
-          "engagement": 12.1,
+          "engagement": 11.6,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -610,43 +610,6 @@
         "importance": "一般"
       },
       {
-        "id": "topic-9633e9b2e33bd2851d22",
-        "title": "再创新高 51个一类创新药进入新版国家医保药品目录",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534407",
-        "summary": "财联社11月14日电，国家医疗保障局、人力资源社会保障部今天（14日）发布《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》（2026年），这是国家医保局成立以来开展的第9次国家基本医保药品目录调整，本次调整共新增107种药品，其中51个为1类创新…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-14T02:43:56.000Z",
-        "date": "2026-11-14",
-        "time": "10:43",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534407"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200083"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 47,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 10.3,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "行业",
-        "sectors": [
-          "医药生物"
-        ],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
         "id": "topic-57fde5140fad129c0807",
         "title": "英国央行首席经济学家：明年或需进一步加息 伊朗冲突结束可能性极低",
         "source": "财联社",
@@ -668,16 +631,53 @@
           }
         ],
         "sourceCount": 2,
-        "score": 46.9,
+        "score": 46.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 14.4,
+          "engagement": 14.3,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
         },
         "category": "政策",
         "sectors": [],
+        "rank": 17,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-9633e9b2e33bd2851d22",
+        "title": "再创新高 51个一类创新药进入新版国家医保药品目录",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534407",
+        "summary": "财联社11月14日电，国家医疗保障局、人力资源社会保障部今天（14日）发布《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》（2026年），这是国家医保局成立以来开展的第9次国家基本医保药品目录调整，本次调整共新增107种药品，其中51个为1类创新…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-14T02:43:56.000Z",
+        "date": "2026-11-14",
+        "time": "10:43",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534407"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200083"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 46.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 9.4,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "行业",
+        "sectors": [
+          "医药生物"
+        ],
         "rank": 18,
         "importance": "一般"
       },
@@ -756,11 +756,11 @@
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-14T15:49:11.337Z",
-    "collectedAt": "2026-11-14T15:49:11.337Z",
-    "latestPublishedAt": "2026-11-14T15:45:38.000Z",
-    "totalCandidates": 564,
-    "financeCandidates": 248,
+    "asOf": "2026-11-14T16:23:37.222Z",
+    "collectedAt": "2026-11-14T16:23:37.222Z",
+    "latestPublishedAt": "2026-11-14T15:52:45.000Z",
+    "totalCandidates": 569,
+    "financeCandidates": 249,
     "sources": [
       {
         "id": "cls",
@@ -768,9 +768,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-14T15:49:11.337Z",
-        "lastSuccessAt": "2026-11-14T15:49:11.337Z",
-        "count": 13,
+        "checkedAt": "2026-11-14T16:23:37.222Z",
+        "lastSuccessAt": "2026-11-14T16:23:37.222Z",
+        "count": 14,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -779,8 +779,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-14T15:49:11.337Z",
-        "lastSuccessAt": "2026-11-14T15:49:11.337Z",
+        "checkedAt": "2026-11-14T16:23:37.222Z",
+        "lastSuccessAt": "2026-11-14T16:23:37.222Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -790,8 +790,8 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-14T15:49:11.337Z",
-        "lastSuccessAt": "2026-11-14T15:49:11.337Z",
+        "checkedAt": "2026-11-14T16:23:37.222Z",
+        "lastSuccessAt": "2026-11-14T16:23:37.222Z",
         "count": 69,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -801,8 +801,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-14T15:49:11.337Z",
-        "lastSuccessAt": "2026-11-14T15:49:11.337Z",
+        "checkedAt": "2026-11-14T16:23:37.222Z",
+        "lastSuccessAt": "2026-11-14T16:23:37.222Z",
         "count": 2,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -818,8 +818,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-14T16:23:42.886Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-13T16:52:30.009Z"

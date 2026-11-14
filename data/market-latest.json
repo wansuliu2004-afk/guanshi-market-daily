@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "demo": false,
   "status": "awaiting-data",
   "version": "live",
   "previousClose": 3655.83,
   "asOf": "2026-11-13T08:14:27.000Z",
-  "collectedAt": "2026-11-14T15:49:11.368Z",
+  "collectedAt": "2026-11-15T15:36:40.238Z",
   "timezone": "Asia/Shanghai",
   "markets": [
     {
@@ -132,7 +132,7 @@
       "rawValue": 7561.67,
       "previousClose": 7592.4,
       "change": -0.4,
-      "time": "05:43:19",
+      "time": "11-14 05:43:19",
       "asOf": "2026-11-13T21:43:19.000Z",
       "sourceLocalTime": "2026-11-13 16:43:19",
       "exchangeTimezone": "America/New_York",
@@ -158,7 +158,7 @@
       "rawValue": 25136.27,
       "previousClose": 25366.09,
       "change": -0.91,
-      "time": "06:15:59",
+      "time": "11-14 06:15:59",
       "asOf": "2026-11-13T22:15:59.000Z",
       "sourceLocalTime": "2026-11-13 17:15:59",
       "exchangeTimezone": "America/New_York",
@@ -322,7 +322,7 @@
       "rawValue": 52347.55,
       "previousClose": 52297.09,
       "change": 0.1,
-      "time": "05:43:26",
+      "time": "11-14 05:43:26",
       "asOf": "2026-11-13T21:43:26.000Z",
       "sourceLocalTime": "2026-11-13 16:43:26",
       "exchangeTimezone": "America/New_York",
@@ -904,37 +904,39 @@
       "id": "quotes",
       "name": "腾讯财经",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T15:49:11.368Z"
+      "lastSuccessAt": "2026-11-15T15:36:40.238Z"
     },
     {
       "id": "trends",
       "name": "腾讯财经分钟线",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T15:49:11.368Z"
+      "lastSuccessAt": "2026-11-15T15:36:40.238Z"
     },
     {
       "id": "extra",
       "name": "东方财富跨市场",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T15:49:11.368Z"
+      "lastSuccessAt": "2026-11-15T15:36:40.238Z"
     },
     {
       "id": "intraday",
       "name": "东方财富分时",
-      "status": "ok",
-      "lastSuccessAt": "2026-11-14T15:49:11.368Z"
+      "status": "error",
+      "lastSuccessAt": "2026-11-15T15:01:24.266Z",
+      "message": "fetch failed"
     },
     {
       "id": "candles",
       "name": "东方财富日 K",
-      "status": "ok",
-      "lastSuccessAt": "2026-11-14T15:49:11.368Z"
+      "status": "error",
+      "lastSuccessAt": "2026-11-15T15:01:24.266Z",
+      "message": "fetch failed"
     },
     {
       "id": "sectors",
       "name": "东方财富板块",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T15:49:11.368Z"
+      "lastSuccessAt": "2026-11-15T15:36:40.238Z"
     },
     {
       "id": "up",
@@ -961,7 +963,7 @@
       "id": "bond",
       "name": "东方财富国债收益率",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T15:49:11.368Z"
+      "lastSuccessAt": "2026-11-15T15:36:40.238Z"
     },
     {
       "id": "breadth",
@@ -996,8 +998,8 @@
     "paragraphs": [
       {
         "title": "今日盘面",
-        "brief": "周末 · 暂无当日交易数据。仅有 2026-11-13 报价，属于上一交易日参考，不代表 2026-11-14 行情。",
-        "full": "周末 · 暂无当日交易数据。仅有 2026-11-13 报价，属于上一交易日参考，不代表 2026-11-14 行情。"
+        "brief": "周末 · 暂无当日交易数据。仅有 2026-11-13 报价，属于上一交易日参考，不代表 2026-11-15 行情。",
+        "full": "周末 · 暂无当日交易数据。仅有 2026-11-13 报价，属于上一交易日参考，不代表 2026-11-15 行情。"
       },
       {
         "title": "板块观察",
@@ -1016,7 +1018,7 @@
     "label": "周末 · 暂无当日交易数据",
     "hasTodayQuote": false,
     "quoteDate": "2026-11-13",
-    "message": "仅有 2026-11-13 报价，属于上一交易日参考，不代表 2026-11-14 行情。"
+    "message": "仅有 2026-11-13 报价，属于上一交易日参考，不代表 2026-11-15 行情。"
   },
   "sourceLinks": {
     "price": {

@@ -1,7 +1,35 @@
 {
   "date": "2026-11-14",
-  "asOf": "2026-11-14T15:49:11.337Z",
+  "asOf": "2026-11-15T15:36:40.116Z",
   "records": [
+    {
+      "id": "cls-5c4615816f1ab99059db",
+      "title": "SpaceX：星舰飞船仍有望返回发射场",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2534567",
+      "summary": "财联社11月14日电，SpaceX发布“星舰”第十五次试飞最新进展：星舰正在轨道上滑行，目前状态良好，仍有望于今天返回发射场。发射台和塔架系统已准备就绪，可执行捕获操作。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-14T15:52:45.000Z",
+      "date": "2026-11-14",
+      "observedAt": "2026-11-14T16:23:38.115Z",
+      "attention": 625370,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-f87a2a06dec4f42e2f10",
+      "title": "SpaceX：星舰飞船仍有望返回发射场",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611143931381517.html",
+      "summary": "SpaceX发布“星舰”第十五次试飞最新进展：星舰正在轨道上滑行，目前状态良好，仍有望于今天返回发射场。发射台和塔架系统已准备就绪，可执行捕获操作。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-14T15:52:45.000Z",
+      "date": "2026-11-14",
+      "observedAt": "2026-11-14T16:23:40.333Z",
+      "attention": 6,
+      "emphasis": 0
+    },
     {
       "id": "cls-9b22190e84a1be2e9880",
       "title": "特斯拉Cybercab个人购车设使用限制 且暂禁商业用途",
@@ -13,7 +41,49 @@
       "publishedAt": "2026-11-14T15:45:38.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:49:12.381Z",
-      "attention": 4370,
+      "attention": 598877,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-5f16509444ec021a3bf0",
+      "title": "特斯拉Cybercab个人购车设使用限制 且暂禁商业用途",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611143931381266.html",
+      "summary": "特斯拉向部分客户开放个人版Cybercab预订之际，媒体研究该车型的购车及订阅条款后总结称：除29990美元车价外，车主还须维持目前每月299美元的自动驾驶订阅，否则车辆无法运行；车辆仅能在特斯拉支持的地理围栏范围内使用，公司保留调整运营区域的权利；未经特斯拉书面授权或通过产品…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-14T15:45:38.000Z",
+      "date": "2026-11-14",
+      "observedAt": "2026-11-14T16:23:40.333Z",
+      "attention": 7,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-ec6286a37961721e939b",
+      "title": "暗盘白银跌破44美元/盎司 日内跌幅达2%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611143931381388.html",
+      "summary": "11月14日，暗盘白银跌破44美元/盎司，日内跌幅达2%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-14T15:44:24.000Z",
+      "date": "2026-11-14",
+      "observedAt": "2026-11-14T16:23:40.333Z",
+      "attention": 7,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-4f9f4d6e978f2ce22ac6",
+      "title": "暗盘金价（人民币）日内跌超1%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611143931381451.html",
+      "summary": "11月14日，暗盘金价（人民币）日内跌超1%，现报819.7901元/克。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-14T15:44:19.000Z",
+      "date": "2026-11-14",
+      "observedAt": "2026-11-14T16:23:40.333Z",
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -27,7 +97,7 @@
       "publishedAt": "2026-11-14T15:32:52.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:49:17.551Z",
-      "attention": 13,
+      "attention": 24,
       "emphasis": 0
     },
     {
@@ -41,7 +111,7 @@
       "publishedAt": "2026-11-14T15:15:25.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:49:17.551Z",
-      "attention": 1,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -55,7 +125,7 @@
       "publishedAt": "2026-11-14T15:15:03.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:49:12.381Z",
-      "attention": 20299,
+      "attention": 654637,
       "emphasis": 0
     },
     {
@@ -69,7 +139,21 @@
       "publishedAt": "2026-11-14T15:05:55.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:13:20.457Z",
-      "attention": 1,
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-5bc1e75a6573a80fdf3e",
+      "title": "三个维度 解锁深圳的开放密码",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611143931379966.html",
+      "summary": "11月18日至19日，亚太经合组织第三十三次领导人非正式会议将在中国深圳举行。今年是中国第三次担任APEC东道主，为什么这次会议的主办城市选择了深圳？深圳有何不同？一起去三个地方找答案。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-14T15:05:19.000Z",
+      "date": "2026-11-14",
+      "observedAt": "2026-11-14T17:30:35.021Z",
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -83,7 +167,7 @@
       "publishedAt": "2026-11-14T14:50:24.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:13:20.457Z",
-      "attention": 1,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -97,7 +181,7 @@
       "publishedAt": "2026-11-14T14:37:28.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:13:18.146Z",
-      "attention": 35076,
+      "attention": 617234,
       "emphasis": 0
     },
     {
@@ -111,7 +195,7 @@
       "publishedAt": "2026-11-14T14:37:28.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:13:20.457Z",
-      "attention": 15,
+      "attention": 17,
       "emphasis": 0
     },
     {
@@ -125,7 +209,7 @@
       "publishedAt": "2026-11-14T14:32:53.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:13:20.457Z",
-      "attention": 22,
+      "attention": 29,
       "emphasis": 0
     },
     {
@@ -139,7 +223,7 @@
       "publishedAt": "2026-11-14T14:32:05.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:13:18.146Z",
-      "attention": 32186,
+      "attention": 607442,
       "emphasis": 0
     },
     {
@@ -153,7 +237,7 @@
       "publishedAt": "2026-11-14T14:32:05.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T15:13:20.457Z",
-      "attention": 11,
+      "attention": 22,
       "emphasis": 0
     },
     {
@@ -181,7 +265,7 @@
       "publishedAt": "2026-11-14T14:20:56.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T14:31:00.520Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -195,7 +279,7 @@
       "publishedAt": "2026-11-14T14:20:10.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T14:30:56.576Z",
-      "attention": 37220,
+      "attention": 609019,
       "emphasis": 0
     },
     {
@@ -223,7 +307,7 @@
       "publishedAt": "2026-11-14T14:18:00.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T14:31:00.520Z",
-      "attention": 13,
+      "attention": 14,
       "emphasis": 0
     },
     {
@@ -237,7 +321,7 @@
       "publishedAt": "2026-11-14T14:14:50.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T14:31:00.520Z",
-      "attention": 3,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -251,7 +335,7 @@
       "publishedAt": "2026-11-14T14:12:43.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T14:31:00.520Z",
-      "attention": 3,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -275,7 +359,7 @@
       "publishedAt": "2026-11-14T14:00:43.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T14:31:00.521Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -301,7 +385,19 @@
       "publishedAt": "2026-11-14T13:59:24.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T14:30:56.576Z",
-      "attention": 6704,
+      "attention": 83381,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-31ef6a7f5e24a8db2559",
+      "title": "报道：Valor对SpaceX和马斯克的AI初创公司xAI具有更高敞口的联合投资工具",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200209",
+      "publishedAt": "2026-11-14T13:44:44.000Z",
+      "date": "2026-11-14",
+      "observedAt": "2026-11-15T15:01:26.586Z",
+      "attention": 0,
       "emphasis": 0
     },
     {
@@ -381,7 +477,7 @@
       "publishedAt": "2026-11-14T13:22:15.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:55:00.779Z",
-      "attention": 3,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -395,7 +491,7 @@
       "publishedAt": "2026-11-14T13:20:02.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:55:00.780Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -409,7 +505,7 @@
       "publishedAt": "2026-11-14T13:18:36.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:55:00.780Z",
-      "attention": 29,
+      "attention": 31,
       "emphasis": 0
     },
     {
@@ -435,7 +531,7 @@
       "publishedAt": "2026-11-14T13:14:30.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T14:30:56.576Z",
-      "attention": 68025,
+      "attention": 577035,
       "emphasis": 0
     },
     {
@@ -473,7 +569,7 @@
       "publishedAt": "2026-11-14T12:56:54.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T14:30:56.576Z",
-      "attention": 20568,
+      "attention": 155386,
       "emphasis": 0
     },
     {
@@ -487,7 +583,7 @@
       "publishedAt": "2026-11-14T12:55:57.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:08:15.183Z",
-      "attention": 85835,
+      "attention": 577951,
       "emphasis": 0
     },
     {
@@ -501,12 +597,12 @@
       "publishedAt": "2026-11-14T12:53:57.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:08:15.183Z",
-      "attention": 90042,
+      "attention": 565436,
       "emphasis": 0
     },
     {
       "id": "eastmoney-7f004692a2165a6cce3c",
-      "title": "意大利表示支持德国加入下一代战斗机项目",
+      "title": "意大利称支持德国加入下一代战斗机项目",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611143931366854.html",
@@ -515,7 +611,7 @@
       "publishedAt": "2026-11-14T12:53:57.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:08:17.423Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -541,7 +637,7 @@
       "publishedAt": "2026-11-14T12:47:19.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:08:15.184Z",
-      "attention": 113297,
+      "attention": 599228,
       "emphasis": 0
     },
     {
@@ -555,7 +651,7 @@
       "publishedAt": "2026-11-14T12:47:19.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:08:17.424Z",
-      "attention": 19,
+      "attention": 21,
       "emphasis": 0
     },
     {
@@ -581,7 +677,7 @@
       "publishedAt": "2026-11-14T12:42:00.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:08:17.424Z",
-      "attention": 6,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -595,7 +691,7 @@
       "publishedAt": "2026-11-14T12:36:49.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:08:15.184Z",
-      "attention": 140683,
+      "attention": 576407,
       "emphasis": 0
     },
     {
@@ -637,7 +733,7 @@
       "publishedAt": "2026-11-14T12:26:20.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:08:17.424Z",
-      "attention": 5,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -665,7 +761,7 @@
       "publishedAt": "2026-11-14T12:20:10.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T13:08:17.424Z",
-      "attention": 5,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -731,7 +827,7 @@
       "publishedAt": "2026-11-14T12:00:32.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T12:16:11.202Z",
-      "attention": 7,
+      "attention": 9,
       "emphasis": 0
     },
     {
@@ -855,7 +951,7 @@
       "publishedAt": "2026-11-14T11:34:51.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T12:16:11.203Z",
-      "attention": 14,
+      "attention": 17,
       "emphasis": 0
     },
     {
@@ -883,7 +979,7 @@
       "publishedAt": "2026-11-14T11:30:44.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T11:38:23.386Z",
-      "attention": 4,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -977,7 +1073,7 @@
       "publishedAt": "2026-11-14T11:07:14.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T11:38:23.386Z",
-      "attention": 15,
+      "attention": 16,
       "emphasis": 0
     },
     {
@@ -1005,7 +1101,7 @@
       "publishedAt": "2026-11-14T11:06:50.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T11:38:23.386Z",
-      "attention": 23,
+      "attention": 25,
       "emphasis": 0
     },
     {
@@ -1111,7 +1207,7 @@
       "publishedAt": "2026-11-14T10:23:35.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T11:04:02.068Z",
-      "attention": 13,
+      "attention": 15,
       "emphasis": 0
     },
     {
@@ -1201,7 +1297,7 @@
       "publishedAt": "2026-11-14T10:14:01.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T10:23:46.949Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -1281,7 +1377,7 @@
       "publishedAt": "2026-11-14T09:48:31.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T10:23:47.218Z",
-      "attention": 10,
+      "attention": 12,
       "emphasis": 0.65
     },
     {
@@ -1337,7 +1433,7 @@
       "publishedAt": "2026-11-14T09:28:30.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T09:43:15.269Z",
-      "attention": 39,
+      "attention": 40,
       "emphasis": 0
     },
     {
@@ -1527,7 +1623,7 @@
       "publishedAt": "2026-11-14T09:01:00.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T09:43:15.270Z",
-      "attention": 4,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -1785,7 +1881,7 @@
       "publishedAt": "2026-11-14T07:48:00.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T08:16:10.108Z",
-      "attention": 79,
+      "attention": 80,
       "emphasis": 0
     },
     {
@@ -1813,7 +1909,7 @@
       "publishedAt": "2026-11-14T07:38:05.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T08:16:10.109Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -1841,7 +1937,7 @@
       "publishedAt": "2026-11-14T07:28:00.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T08:16:10.109Z",
-      "attention": 161,
+      "attention": 169,
       "emphasis": 0
     },
     {
@@ -1909,7 +2005,7 @@
       "publishedAt": "2026-11-14T07:19:15.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T08:16:10.109Z",
-      "attention": 33,
+      "attention": 35,
       "emphasis": 0
     },
     {
@@ -2047,7 +2143,7 @@
       "publishedAt": "2026-11-14T06:54:41.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T07:17:58.749Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0.65
     },
     {
@@ -2061,7 +2157,7 @@
       "publishedAt": "2026-11-14T06:51:51.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T07:17:57.928Z",
-      "attention": 255,
+      "attention": 263,
       "emphasis": 0
     },
     {
@@ -2839,7 +2935,7 @@
       "publishedAt": "2026-11-14T04:14:51.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T04:38:45.309Z",
-      "attention": 9,
+      "attention": 22,
       "emphasis": 0.65
     },
     {
@@ -3149,7 +3245,7 @@
       "publishedAt": "2026-11-14T03:53:47.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T04:38:45.309Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0.65
     },
     {
@@ -3555,7 +3651,7 @@
       "publishedAt": "2026-11-14T03:04:37.000Z",
       "date": "2026-11-14",
       "observedAt": "2026-11-14T03:09:09.808Z",
-      "attention": 7,
+      "attention": 8,
       "emphasis": 0.65
     },
     {
@@ -7588,9 +7684,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-14T15:49:11.337Z",
-      "lastSuccessAt": "2026-11-14T15:49:11.337Z",
-      "count": 13,
+      "checkedAt": "2026-11-15T15:36:40.116Z",
+      "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+      "count": 15,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -7599,8 +7695,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-14T15:49:11.337Z",
-      "lastSuccessAt": "2026-11-14T15:49:11.337Z",
+      "checkedAt": "2026-11-15T15:36:40.116Z",
+      "lastSuccessAt": "2026-11-15T15:36:40.116Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -7610,9 +7706,9 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-14T15:49:11.337Z",
-      "lastSuccessAt": "2026-11-14T15:49:11.337Z",
-      "count": 69,
+      "checkedAt": "2026-11-15T15:36:40.116Z",
+      "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+      "count": 89,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -7621,9 +7717,9 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-14T15:49:11.337Z",
-      "lastSuccessAt": "2026-11-14T15:49:11.337Z",
-      "count": 2,
+      "checkedAt": "2026-11-15T15:36:40.116Z",
+      "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+      "count": 1,
       "message": "提取标题、可用来源摘要及原文链接"
     }
   ]
