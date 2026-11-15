@@ -1,10 +1,10 @@
 {
   "date": "2026-11-15",
   "cutoffAt": "2026-11-15T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-14T16:23:42.757Z",
-  "lastSavedAt": "2026-11-15T15:36:50.171Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-15T16:15:24.495Z",
+  "sealedAt": "2026-11-15T16:15:20.411Z",
   "news": {
     "items": [
       {
@@ -33,11 +33,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 76.6,
+        "score": 76.4,
         "signals": {
           "coverage": 35,
-          "engagement": 26.4,
-          "recency": 8.7,
+          "engagement": 26.5,
+          "recency": 8.4,
           "emphasis": 6.5
         },
         "category": "宏观",
@@ -71,11 +71,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 74.6,
+        "score": 74.3,
         "signals": {
           "coverage": 35,
-          "engagement": 29.1,
-          "recency": 10.5,
+          "engagement": 29.2,
+          "recency": 10.1,
           "emphasis": 0
         },
         "category": "行业",
@@ -109,11 +109,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 73.6,
+        "score": 73,
         "signals": {
           "coverage": 35,
-          "engagement": 21.2,
-          "recency": 17.5,
+          "engagement": 21.1,
+          "recency": 16.9,
           "emphasis": 0
         },
         "category": "行业",
@@ -149,11 +149,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 71.4,
+        "score": 70.9,
         "signals": {
           "coverage": 35,
-          "engagement": 18.5,
-          "recency": 17.9,
+          "engagement": 18.6,
+          "recency": 17.3,
           "emphasis": 0
         },
         "category": "行业",
@@ -189,11 +189,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 65.9,
+        "score": 65.8,
         "signals": {
           "coverage": 35,
-          "engagement": 23.6,
-          "recency": 7.2,
+          "engagement": 23.8,
+          "recency": 7,
           "emphasis": 0
         },
         "category": "行业",
@@ -223,11 +223,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63.9,
+        "score": 63.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 26.9,
-          "recency": 13,
+          "engagement": 27,
+          "recency": 12.6,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -257,11 +257,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63.5,
+        "score": 63,
         "signals": {
           "coverage": 17.5,
-          "engagement": 26,
-          "recency": 20,
+          "engagement": 26.2,
+          "recency": 19.3,
           "emphasis": 0
         },
         "category": "行业",
@@ -291,11 +291,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 61.8,
+        "score": 61.6,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.1,
-          "recency": 8.7,
+          "recency": 8.4,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -325,11 +325,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.1,
+        "score": 59.9,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.8,
-          "recency": 14.3,
+          "engagement": 22.1,
+          "recency": 13.8,
           "emphasis": 6.5
         },
         "category": "公司",
@@ -338,276 +338,38 @@
         "importance": "关注"
       },
       {
-        "id": "topic-903c9cc7766632e49f88",
-        "title": "两股冷空气接连来袭 局地降幅超12℃",
+        "id": "topic-f31fb484c8f03f6c1b59",
+        "title": "天津正式供热 清洁能源占比达98.6%",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534605",
-        "summary": "财联社11月15日电，今天（11月15日）至18日，两股冷空气接连影响我国，中东部大部地区气温累计下降6至10℃，局地降幅将超12℃。降温过后，气温将大面积刷新今年下半年来新低，北方气温低点在17日前后，南方则在18日前后。除了降温，大范围雨雪也来袭，北方局地有暴雪，南方以降雨…",
+        "sourceUrl": "https://www.cls.cn/detail/2534786",
+        "summary": "财联社11月15日电，记者从天津市城市管理委员会了解到，11月15日天津正式供热，集中供热面积6.29亿平方米。今年天津供暖季清洁能源占比达到98.6%。",
         "summarySource": "财联社",
-        "publishedAt": "2026-11-15T00:33:50.000Z",
+        "publishedAt": "2026-11-15T15:42:45.000Z",
         "date": "2026-11-15",
-        "time": "08:33",
+        "time": "23:42",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534605"
+            "url": "https://www.cls.cn/detail/2534786"
           },
           {
             "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611153931392383.html"
+            "url": "http://finance.eastmoney.com/a/202611153931521845.html"
           }
         ],
         "sourceCount": 2,
-        "score": 52.8,
+        "score": 55.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 28.2,
-          "recency": 7.1,
+          "engagement": 13.2,
+          "recency": 24.4,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
         "rank": 10,
         "importance": "关注"
-      },
-      {
-        "id": "topic-45f25b4de0fccea45a54",
-        "title": "中国贸促会副会长李庆霜：美国参会企业占外方经济体20%",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200159",
-        "summary": "财联社11月15日电，今日，2026年APEC工商界活动专题新闻发布会在深圳举办。中国贸促会副会长李庆霜表示，本届APEC工商领导人峰会有四大特色：主题鲜明、议程前沿、议程丰富、领袖云集。她透露，本次峰会吸引了至少115家世界500强企业代表参会，美方参会企业在外方经济体中居首…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-15T03:12:57.000Z",
-        "date": "2026-11-15",
-        "time": "11:12",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200159"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534631"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 51.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 25.5,
-          "recency": 8.9,
-          "emphasis": 0
-        },
-        "category": "宏观",
-        "sectors": [],
-        "rank": 11,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-558cfb7795392addf433",
-        "title": "2025年医保目录国谈药品采购金额数量双增长",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534717",
-        "summary": "财联社11月15日电，《全国医保信息平台药品采购年度报告（2026）》11月14日在江苏苏州发布。报告显示，从2018年医保目录启动动态调整以来，截至2024年国谈药品累计达到530种。对比2024年数据，84.2%国谈药品在2025年实现采购金额、采购数量双增长。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-15T10:17:50.000Z",
-        "date": "2026-11-15",
-        "time": "18:17",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534717"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200191"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 50.8,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 17.3,
-          "recency": 16.1,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "医药生物"
-        ],
-        "rank": 12,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-1a6c23ba2b2d6660778e",
-        "title": "恒瑞医药：多款药品纳入国家医保目录",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534674",
-        "summary": "财联社11月15日电，恒瑞医药(600276.SH)公告称，公司部分产品纳入国家医保目录。泽美妥司他片、鲁兹诺雷钠片、恒格列净瑞格列汀二甲双胍缓释片(II)首次纳入；注射用瑞康曲妥珠单抗新增适应症纳入；羟乙磺酸达尔西利片续约并新增适应症；另有脯氨酸恒格列净片等7款药品续约成功。…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-15T08:03:43.000Z",
-        "date": "2026-11-15",
-        "time": "16:03",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534674"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611153931450993.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 49.4,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 18.5,
-          "recency": 13.3,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "医药生物"
-        ],
-        "rank": 13,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-6ba69340019696b5c741",
-        "title": "世界首颗全集成一步求解矩阵方程模拟计算芯片问世",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200197",
-        "publishedAt": "2026-11-15T12:22:35.000Z",
-        "date": "2026-11-15",
-        "time": "20:22",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200197"
-          }
-        ],
-        "sourceCount": 1,
-        "score": 45.6,
-        "signals": {
-          "coverage": 0,
-          "engagement": 26.5,
-          "recency": 19.1,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "半导体"
-        ],
-        "rank": 14,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-1889455528cf8849c23d",
-        "title": "美军中央司令部：已护航超17亿桶原油通过霍尔木兹海峡",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200145",
-        "summary": "当地时间14日，美军中央司令部称，在美方的保护下，海湾地区的合作伙伴已通过霍尔木兹海峡运输超过17亿桶原油。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-15T00:36:33.000Z",
-        "date": "2026-11-15",
-        "time": "08:36",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200145"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611153931389450.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 44.5,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 19.9,
-          "recency": 7.2,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 15,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-c2635efedd2763bcc472",
-        "title": "复星医药：多款药品新纳入国家医保目录",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534667",
-        "summary": "财联社11月15日电，复星医药(600196.SH)公告称，根据2026年国家医保目录，公司及控股子公司多款产品获首次纳入、备注信息调整或转入常规目录管理。其中斯鲁利单抗注射液获首次纳入，枸橼酸伏维西利胶囊和芦沃美替尼片新增支付适应症，抗人T细胞兔免疫球蛋白放宽支付限定。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-15T07:53:59.000Z",
-        "date": "2026-11-15",
-        "time": "15:53",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534667"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611153931425422.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 43.4,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 12.7,
-          "recency": 13.1,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "医药生物"
-        ],
-        "rank": 16,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-6822b5ef5f7599d9cedf",
-        "title": "AI应用爆发！主线切换还是资金轮动？基金经理最新解读",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611153931476671.html",
-        "summary": "基金经理普遍认为，近期AI应用板块爆发本质上是资金从交易拥挤的算力硬件向低位、有产业催化的应用端进行的高低切换与结构性轮动，而非彻底的主线切换；当前板块整体处于商业化早期至验证期，呈现显著的结构性分化——AI短剧、端侧AI、AI办公等少数方向已跑通变现闭环，进入收入可验证阶段，…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-15T12:40:35.000Z",
-        "date": "2026-11-15",
-        "time": "20:40",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611153931476671.html"
-          }
-        ],
-        "sourceCount": 1,
-        "score": 43,
-        "signals": {
-          "coverage": 0,
-          "engagement": 23.4,
-          "recency": 19.6,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "人工智能"
-        ],
-        "rank": 17,
-        "importance": "一般"
       },
       {
         "id": "topic-b2b22ef9f93d638054ff",
@@ -631,46 +393,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 42.4,
+        "score": 53.9,
         "signals": {
           "coverage": 17.5,
-          "engagement": 4.5,
-          "recency": 20.3,
+          "engagement": 16.8,
+          "recency": 19.7,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-fef612c340caf95ac0a0",
-        "title": "荷兰法庭设最高3亿欧元罚金 *ST闻泰：不接受任何强制出售安世股权安排",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611153931506842.html",
-        "summary": "ST闻泰（600745.SH）与安世半导体相关方的控制权争议有了新动向，荷兰阿姆斯特丹上诉法院企业法庭对前期*ST闻泰两家境外子公司提交的追加临时措施申请作出裁决。*ST闻泰表示，不认可本次裁定，将在法定期限内提起上诉。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-15T14:33:47.000Z",
-        "date": "2026-11-15",
-        "time": "22:33",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611153931506842.html"
-          }
-        ],
-        "sourceCount": 1,
-        "score": 42.3,
-        "signals": {
-          "coverage": 0,
-          "engagement": 19.4,
-          "recency": 22.9,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 19,
+        "rank": 11,
         "importance": "一般"
       },
       {
@@ -695,24 +427,286 @@
           }
         ],
         "sourceCount": 2,
-        "score": 42.1,
+        "score": 52.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 2.7,
-          "recency": 21.9,
+          "engagement": 14.1,
+          "recency": 21.2,
           "emphasis": 0
         },
         "category": "宏观",
+        "sectors": [],
+        "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-903c9cc7766632e49f88",
+        "title": "两股冷空气接连来袭 局地降幅超12℃",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534605",
+        "summary": "财联社11月15日电，今天（11月15日）至18日，两股冷空气接连影响我国，中东部大部地区气温累计下降6至10℃，局地降幅将超12℃。降温过后，气温将大面积刷新今年下半年来新低，北方气温低点在17日前后，南方则在18日前后。除了降温，大范围雨雪也来袭，北方局地有暴雪，南方以降雨…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T00:33:50.000Z",
+        "date": "2026-11-15",
+        "time": "08:33",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534605"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611153931392383.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 52.6,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.2,
+          "recency": 6.9,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 13,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-45f25b4de0fccea45a54",
+        "title": "中国贸促会副会长李庆霜：美国参会企业占外方经济体20%",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200159",
+        "summary": "财联社11月15日电，今日，2026年APEC工商界活动专题新闻发布会在深圳举办。中国贸促会副会长李庆霜表示，本届APEC工商领导人峰会有四大特色：主题鲜明、议程前沿、议程丰富、领袖云集。她透露，本次峰会吸引了至少115家世界500强企业代表参会，美方参会企业在外方经济体中居首…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T03:12:57.000Z",
+        "date": "2026-11-15",
+        "time": "11:12",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200159"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534631"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 51.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 25.6,
+          "recency": 8.6,
+          "emphasis": 0
+        },
+        "category": "宏观",
+        "sectors": [],
+        "rank": 14,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-1a6c23ba2b2d6660778e",
+        "title": "恒瑞医药：多款药品纳入国家医保目录",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534674",
+        "summary": "财联社11月15日电，恒瑞医药(600276.SH)公告称，公司部分产品纳入国家医保目录。泽美妥司他片、鲁兹诺雷钠片、恒格列净瑞格列汀二甲双胍缓释片(II)首次纳入；注射用瑞康曲妥珠单抗新增适应症纳入；羟乙磺酸达尔西利片续约并新增适应症；另有脯氨酸恒格列净片等7款药品续约成功。…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T08:03:43.000Z",
+        "date": "2026-11-15",
+        "time": "16:03",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534674"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611153931450993.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 49,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 18.6,
+          "recency": 12.9,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "医药生物"
+        ],
+        "rank": 15,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-558cfb7795392addf433",
+        "title": "2025年医保目录国谈药品采购金额数量双增长",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534717",
+        "summary": "财联社11月15日电，《全国医保信息平台药品采购年度报告（2026）》11月14日在江苏苏州发布。报告显示，从2018年医保目录启动动态调整以来，截至2024年国谈药品累计达到530种。对比2024年数据，84.2%国谈药品在2025年实现采购金额、采购数量双增长。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T10:17:50.000Z",
+        "date": "2026-11-15",
+        "time": "18:17",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534717"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200191"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 48,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 15,
+          "recency": 15.5,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "医药生物"
+        ],
+        "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-4d192dd3b8677e588972",
+        "title": "下周资本市场大事提醒：APEC领导人非正式会议将举行，英伟达迎财报日大考，Anthropic冲击IPO，中概股龙头集中披露业绩",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534765",
+        "summary": "1、11月16日，国家统计局将公布10月社会消费品零售总额、工业增加值、固定资产投资等经济数据。同日，国家统计局公布70城住宅销售价格月度报告。 2、11月18日至19日，APEC第三十三次领导人非正式会议将在深圳举行。其中，APEC工商领导人峰会将于11月17日至18日在深圳…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T13:35:59.000Z",
+        "date": "2026-11-15",
+        "time": "21:35",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534765"
+          }
+        ],
+        "sourceCount": 1,
+        "score": 47.3,
+        "signals": {
+          "coverage": 0,
+          "engagement": 20.3,
+          "recency": 20.5,
+          "emphasis": 6.5
+        },
+        "category": "公司",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 17,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-6ba69340019696b5c741",
+        "title": "世界首颗全集成一步求解矩阵方程模拟计算芯片问世",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200197",
+        "publishedAt": "2026-11-15T12:22:35.000Z",
+        "date": "2026-11-15",
+        "time": "20:22",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200197"
+          }
+        ],
+        "sourceCount": 1,
+        "score": 45,
+        "signals": {
+          "coverage": 0,
+          "engagement": 26.5,
+          "recency": 18.5,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 18,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-fef612c340caf95ac0a0",
+        "title": "荷兰法庭设最高3亿欧元罚金 *ST闻泰：不接受任何强制出售安世股权安排",
+        "source": "东方财富",
+        "sourceId": "eastmoney",
+        "sourceUrl": "http://finance.eastmoney.com/a/202611153931506842.html",
+        "summary": "ST闻泰（600745.SH）与安世半导体相关方的控制权争议有了新动向，荷兰阿姆斯特丹上诉法院企业法庭对前期*ST闻泰两家境外子公司提交的追加临时措施申请作出裁决。*ST闻泰表示，不认可本次裁定，将在法定期限内提起上诉。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-15T14:33:47.000Z",
+        "date": "2026-11-15",
+        "time": "22:33",
+        "relatedSources": [
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611153931506842.html"
+          }
+        ],
+        "sourceCount": 1,
+        "score": 44.6,
+        "signals": {
+          "coverage": 0,
+          "engagement": 22.4,
+          "recency": 22.2,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 19,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-28242832fefba25f1ef5",
+        "title": "3连板金辰股份：相关报道事项与公司和SINGULUS SOLAR GmbH无关",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534753",
+        "summary": "【3连板金辰股份：股票交易风险提示 市盈率高于行业平均水平】财联社11月15日电，金辰股份(603396.SH)公告称，公司股票于2026年11月10日至12日连续3个交易日收盘价格涨幅偏离值累计超20%，11月13日再次涨停，短期波动较大，可能存在市场情绪过热、非理性炒作风险…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T13:02:55.000Z",
+        "date": "2026-11-15",
+        "time": "21:02",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534753"
+          }
+        ],
+        "sourceCount": 1,
+        "score": 44.6,
+        "signals": {
+          "coverage": 0,
+          "engagement": 18.5,
+          "recency": 19.5,
+          "emphasis": 6.5
+        },
+        "category": "公司",
         "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-15T15:36:40.116Z",
-    "collectedAt": "2026-11-15T15:36:40.116Z",
-    "latestPublishedAt": "2026-11-15T15:32:35.000Z",
-    "totalCandidates": 287,
-    "financeCandidates": 119,
+    "asOf": "2026-11-15T16:15:20.414Z",
+    "collectedAt": "2026-11-15T16:15:20.414Z",
+    "latestPublishedAt": "2026-11-15T15:57:12.000Z",
+    "totalCandidates": 293,
+    "financeCandidates": 123,
     "sources": [
       {
         "id": "cls",
@@ -720,8 +714,8 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-15T15:36:40.116Z",
-        "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+        "checkedAt": "2026-11-15T16:15:20.414Z",
+        "lastSuccessAt": "2026-11-15T16:15:20.414Z",
         "count": 15,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -731,8 +725,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-15T15:36:40.116Z",
-        "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+        "checkedAt": "2026-11-15T16:15:20.414Z",
+        "lastSuccessAt": "2026-11-15T16:15:20.414Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -742,8 +736,8 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-15T15:36:40.116Z",
-        "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+        "checkedAt": "2026-11-15T16:15:20.414Z",
+        "lastSuccessAt": "2026-11-15T16:15:20.414Z",
         "count": 89,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -753,8 +747,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-15T15:36:40.116Z",
-        "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+        "checkedAt": "2026-11-15T16:15:20.414Z",
+        "lastSuccessAt": "2026-11-15T16:15:20.414Z",
         "count": 1,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -772,7 +766,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-15",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-15T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-15",
@@ -1809,5 +1804,12 @@
       "status": "waiting",
       "lockedAt": null
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-15T16:00:00.000Z",
+    "completedAt": "2026-11-15T16:15:24.495Z",
+    "newsCollectedAt": "2026-11-15T16:15:20.414Z",
+    "marketCollectedAt": "2026-11-15T15:36:40.238Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }

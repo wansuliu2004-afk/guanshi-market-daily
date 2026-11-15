@@ -1,7 +1,89 @@
 {
   "date": "2026-11-15",
-  "asOf": "2026-11-15T15:36:40.116Z",
+  "asOf": "2026-11-16T11:47:42.087Z",
   "records": [
+    {
+      "id": "eastmoney-d1eaaf68256afb5cc8e8",
+      "title": "俄外长：欧盟不考虑俄利益“绝对行不通”",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611153931523755.html",
+      "summary": "据俄罗斯媒体15日报道，俄外长拉夫罗夫日前表示，欧盟在解决乌克兰问题方案上如不考虑俄利益，将“绝对行不通”。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-15T15:57:12.000Z",
+      "date": "2026-11-15",
+      "observedAt": "2026-11-15T16:15:21.929Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-1f5847488389d3da056f",
+      "title": "法国周末示威活动中超过400人被拘捕",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200231",
+      "publishedAt": "2026-11-15T15:47:00.000Z",
+      "date": "2026-11-15",
+      "observedAt": "2026-11-15T22:23:13.385Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-5b36eeb264873e884e74",
+      "title": "法国周末示威活动中超过400人被拘捕",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611153931522193.html",
+      "summary": "当地时间11月15日，法国内政部和巴黎检察院公布的最新数据显示，在14日举行的全国性示威活动中，共有404人被警方拘捕，其中在巴黎被拘捕的人员为134人。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-15T15:46:19.000Z",
+      "date": "2026-11-15",
+      "observedAt": "2026-11-15T16:15:21.929Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-93b98dfce8ce785d31c0",
+      "title": "天津正式供热 清洁能源占比达98.6%",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2534786",
+      "summary": "财联社11月15日电，记者从天津市城市管理委员会了解到，11月15日天津正式供热，集中供热面积6.29亿平方米。今年天津供暖季清洁能源占比达到98.6%。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-15T15:42:45.000Z",
+      "date": "2026-11-15",
+      "observedAt": "2026-11-15T16:15:21.355Z",
+      "attention": 643951,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-747c8978fa8fc1376a9c",
+      "title": "天津正式供热 清洁能源占比达98.6%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611153931521845.html",
+      "summary": "记者从天津市城市管理委员会了解到，11月15日天津正式供热，集中供热面积6.29亿平方米。今年天津供暖季清洁能源占比达到98.6%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-15T15:42:45.000Z",
+      "date": "2026-11-15",
+      "observedAt": "2026-11-15T16:15:21.929Z",
+      "attention": 5,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-fdc21405fb06ee4e8a65",
+      "title": "100多家A级旅游景区被摘牌或降级",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611153931520813.html",
+      "summary": "不久前，多地文旅主管部门陆续公布A级旅游景区复核结果，一批景区被取消等级、降级或限期整改。据不完全统计，截至2026年9月，至少22个省份的100多家A级旅游景区被摘牌或降级。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-15T15:39:20.000Z",
+      "date": "2026-11-15",
+      "observedAt": "2026-11-15T16:15:21.929Z",
+      "attention": 1,
+      "emphasis": 0
+    },
     {
       "id": "eastmoney-5b2dd9d146d8b9b7e06b",
       "title": "单季盈利修复尚待观察 集泰股份接受调研详解公司经营情况",
@@ -27,7 +109,7 @@
       "publishedAt": "2026-11-15T15:22:05.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:36:42.054Z",
-      "attention": 8879,
+      "attention": 579266,
       "emphasis": 0
     },
     {
@@ -67,7 +149,7 @@
       "publishedAt": "2026-11-15T15:17:16.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:36:42.719Z",
-      "attention": 4,
+      "attention": 18,
       "emphasis": 0
     },
     {
@@ -84,14 +166,14 @@
     },
     {
       "id": "wallstreet-37c35b44af468afd7d8a",
-      "title": "黄仁勋去职后，贝森特称英伟达需要“剧烈重组”",
+      "title": "黄仁勋去职后，贝森特称英伟达需要“重大重组”",
       "source": "华尔街见闻",
       "sourceId": "wallstreet",
       "sourceUrl": "https://wallstreetcn.com/livenews/3200212",
       "publishedAt": "2026-11-15T15:07:54.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:36:42.302Z",
-      "attention": 1,
+      "attention": 4,
       "emphasis": 0.65
     },
     {
@@ -105,7 +187,7 @@
       "publishedAt": "2026-11-15T15:02:10.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:36:42.719Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -117,7 +199,7 @@
       "publishedAt": "2026-11-15T15:01:57.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:36:42.719Z",
-      "attention": 4,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -129,7 +211,7 @@
       "publishedAt": "2026-11-15T14:51:29.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.877Z",
-      "attention": 1,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -141,7 +223,7 @@
       "publishedAt": "2026-11-15T14:42:29.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.877Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -183,7 +265,7 @@
       "publishedAt": "2026-11-15T14:33:47.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.878Z",
-      "attention": 13,
+      "attention": 49,
       "emphasis": 0
     },
     {
@@ -195,7 +277,7 @@
       "publishedAt": "2026-11-15T14:33:05.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.594Z",
-      "attention": 5693,
+      "attention": 110449,
       "emphasis": 0
     },
     {
@@ -209,7 +291,7 @@
       "publishedAt": "2026-11-15T14:32:23.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.595Z",
-      "attention": 30100,
+      "attention": 558370,
       "emphasis": 0
     },
     {
@@ -223,7 +305,7 @@
       "publishedAt": "2026-11-15T14:29:22.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.596Z",
-      "attention": 33878,
+      "attention": 532648,
       "emphasis": 0
     },
     {
@@ -237,7 +319,7 @@
       "publishedAt": "2026-11-15T14:29:22.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.878Z",
-      "attention": 1,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -251,7 +333,7 @@
       "publishedAt": "2026-11-15T14:27:21.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.878Z",
-      "attention": 4,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -265,21 +347,21 @@
       "publishedAt": "2026-11-15T14:24:01.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.878Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0
     },
     {
       "id": "eastmoney-ab38d9d03adff8b305c9",
-      "title": "十大券商一周策略",
+      "title": "十大券商策略：市场仍处反弹格局中 把握国产替代窗口",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611153931504966.html",
-      "summary": "家券商发布A股策略，对市场节奏判断存在分歧：中信证券提示小微盘或开启缓慢出清；其余机构分别认为市场处于筑底、反弹延续或震荡修复阶段。各家给出不同配置方向，涵盖国产算力、半导体、红利资产、黄金、农业、医药等板块。",
+      "summary": "中信证券：小微盘缓慢的出清过程可能刚刚开始；招商证券：先守后攻，静待花开；中信建投：进二退一，把握年底修复；中国银河证券：市场向下的风险已经有所收敛；申万宏源：反弹窗口仍在延续。",
       "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-15T14:21:51.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.879Z",
-      "attention": 7,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -291,7 +373,7 @@
       "publishedAt": "2026-11-15T14:21:32.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.596Z",
-      "attention": 5952,
+      "attention": 77098,
       "emphasis": 0
     },
     {
@@ -305,7 +387,7 @@
       "publishedAt": "2026-11-15T14:17:11.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.879Z",
-      "attention": 10,
+      "attention": 19,
       "emphasis": 0
     },
     {
@@ -319,7 +401,7 @@
       "publishedAt": "2026-11-15T14:14:10.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T14:22:54.470Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -331,7 +413,7 @@
       "publishedAt": "2026-11-15T14:05:38.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T15:01:25.596Z",
-      "attention": 8499,
+      "attention": 106836,
       "emphasis": 0
     },
     {
@@ -371,7 +453,7 @@
       "publishedAt": "2026-11-15T13:57:47.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T14:22:54.463Z",
-      "attention": 44112,
+      "attention": 553788,
       "emphasis": 0
     },
     {
@@ -385,7 +467,7 @@
       "publishedAt": "2026-11-15T13:46:52.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T14:22:54.470Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -415,6 +497,20 @@
       "emphasis": 0
     },
     {
+      "id": "eastmoney-89989f4667e42fd1f924",
+      "title": "下周资本市场大事提醒",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611153931493211.html",
+      "summary": "1、11月16日，国家统计局将公布10月社会消费品零售总额、工业增加值、固定资产投资等经济数据。同日，国家统计局公布70城住宅销售价格月度报告。2、11月18日至19日，APEC第三十三次领导人非正式会议将在深圳举行。3、阿里、腾讯、拼多多、京东、百度、网易等中概互联头牌集中发…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-15T13:36:20.000Z",
+      "date": "2026-11-15",
+      "observedAt": "2026-11-15T16:15:21.932Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
       "id": "cls-ca46982cddf298ceea65",
       "title": "下周资本市场大事提醒：APEC领导人非正式会议将举行，英伟达迎财报日大考，Anthropic冲击IPO，中概股龙头集中披露业绩",
       "source": "财联社",
@@ -425,7 +521,7 @@
       "publishedAt": "2026-11-15T13:35:59.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T14:22:54.463Z",
-      "attention": 80703,
+      "attention": 624423,
       "emphasis": 0.65
     },
     {
@@ -439,16 +535,16 @@
       "publishedAt": "2026-11-15T13:33:27.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T14:22:54.471Z",
-      "attention": 10,
+      "attention": 11,
       "emphasis": 0
     },
     {
       "id": "eastmoney-bf061fd01c861c8729b1",
-      "title": "3连板金辰股份：股票交易风险提示 市盈率高于行业平均水平",
+      "title": "3连板金辰股份：相关报道事项与公司和SINGULUS SOLAR GmbH无关",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611153931486430.html",
-      "summary": "金辰股份(603396.SH)公告称，公司股票于2026年11月10日至12日连续3个交易日收盘价格涨幅偏离值累计超20%，11月13日再次涨停，短期波动较大，可能存在市场情绪过热、非理性炒作风险。截至11月13日，公司滚动市盈率95.60倍，高于行业平均水平65.76倍。",
+      "summary": "公司关注到近期市场存在关于SINGULUS TECHNOLOGIES AG的相关报道，截至目前，相关报道事项与公司和SINGULUS SOLAR GmbH无关，公司与SINGULUS TECHNOLOGIES AG及 SINGULUS SOLAR GmbH暂无实质性业务往来，不…",
       "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-15T13:31:52.000Z",
       "date": "2026-11-15",
@@ -467,7 +563,7 @@
       "publishedAt": "2026-11-15T13:31:24.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T13:35:35.591Z",
-      "attention": 56056,
+      "attention": 546310,
       "emphasis": 0
     },
     {
@@ -493,7 +589,7 @@
       "publishedAt": "2026-11-15T13:21:02.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T13:35:35.591Z",
-      "attention": 54902,
+      "attention": 532122,
       "emphasis": 0
     },
     {
@@ -507,7 +603,7 @@
       "publishedAt": "2026-11-15T13:20:46.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T13:35:35.979Z",
-      "attention": 12,
+      "attention": 14,
       "emphasis": 0
     },
     {
@@ -521,7 +617,7 @@
       "publishedAt": "2026-11-15T13:19:21.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T13:35:35.591Z",
-      "attention": 62249,
+      "attention": 561537,
       "emphasis": 0
     },
     {
@@ -559,7 +655,7 @@
       "publishedAt": "2026-11-15T13:05:13.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T13:35:35.592Z",
-      "attention": 67897,
+      "attention": 530794,
       "emphasis": 0
     },
     {
@@ -573,7 +669,7 @@
       "publishedAt": "2026-11-15T13:02:55.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T13:35:35.592Z",
-      "attention": 69014,
+      "attention": 548716,
       "emphasis": 0.65
     },
     {
@@ -601,7 +697,7 @@
       "publishedAt": "2026-11-15T12:54:54.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T13:35:35.979Z",
-      "attention": 70,
+      "attention": 72,
       "emphasis": 0
     },
     {
@@ -627,7 +723,7 @@
       "publishedAt": "2026-11-15T12:40:35.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T13:35:35.979Z",
-      "attention": 27,
+      "attention": 32,
       "emphasis": 0
     },
     {
@@ -785,7 +881,7 @@
       "publishedAt": "2026-11-15T11:53:01.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T12:00:18.638Z",
-      "attention": 318,
+      "attention": 355,
       "emphasis": 0
     },
     {
@@ -917,7 +1013,7 @@
       "publishedAt": "2026-11-15T11:14:34.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T12:00:18.638Z",
-      "attention": 13,
+      "attention": 14,
       "emphasis": 0
     },
     {
@@ -971,7 +1067,7 @@
       "publishedAt": "2026-11-15T10:49:28.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T11:22:36.316Z",
-      "attention": 19,
+      "attention": 22,
       "emphasis": 0
     },
     {
@@ -1013,7 +1109,7 @@
       "publishedAt": "2026-11-15T10:41:06.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T10:46:25.859Z",
-      "attention": 31,
+      "attention": 33,
       "emphasis": 0
     },
     {
@@ -1027,7 +1123,7 @@
       "publishedAt": "2026-11-15T10:40:14.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T10:46:25.859Z",
-      "attention": 770,
+      "attention": 897,
       "emphasis": 0
     },
     {
@@ -1201,7 +1297,7 @@
       "publishedAt": "2026-11-15T09:14:00.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T09:20:57.912Z",
-      "attention": 16,
+      "attention": 17,
       "emphasis": 0
     },
     {
@@ -1309,7 +1405,7 @@
       "publishedAt": "2026-11-15T08:45:52.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T09:20:57.912Z",
-      "attention": 4,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -1683,7 +1779,7 @@
       "publishedAt": "2026-11-15T07:47:09.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T08:34:42.527Z",
-      "attention": 91,
+      "attention": 97,
       "emphasis": 0
     },
     {
@@ -1697,7 +1793,7 @@
       "publishedAt": "2026-11-15T07:42:53.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T07:51:05.815Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -1849,7 +1945,7 @@
       "publishedAt": "2026-11-15T07:00:13.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T07:51:05.816Z",
-      "attention": 954,
+      "attention": 1012,
       "emphasis": 0
     },
     {
@@ -1863,7 +1959,7 @@
       "publishedAt": "2026-11-15T06:58:26.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T07:51:05.816Z",
-      "attention": 125,
+      "attention": 132,
       "emphasis": 0
     },
     {
@@ -1973,7 +2069,7 @@
       "publishedAt": "2026-11-15T05:48:47.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T05:56:43.547Z",
-      "attention": 29,
+      "attention": 30,
       "emphasis": 0
     },
     {
@@ -2071,7 +2167,7 @@
       "publishedAt": "2026-11-15T05:04:01.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T06:47:30.705Z",
-      "attention": 45,
+      "attention": 49,
       "emphasis": 0
     },
     {
@@ -2549,7 +2645,7 @@
       "publishedAt": "2026-11-15T02:07:02.000Z",
       "date": "2026-11-15",
       "observedAt": "2026-11-15T02:32:18.114Z",
-      "attention": 254,
+      "attention": 255,
       "emphasis": 0
     },
     {
@@ -3917,11 +4013,11 @@
       "name": "财联社",
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
-      "status": "ok",
-      "checkedAt": "2026-11-15T15:36:40.116Z",
-      "lastSuccessAt": "2026-11-15T15:36:40.116Z",
-      "count": 15,
-      "message": "提取标题、可用来源摘要及原文链接"
+      "status": "error",
+      "checkedAt": "2026-11-16T11:47:42.087Z",
+      "lastSuccessAt": "2026-11-16T10:36:23.044Z",
+      "count": 0,
+      "message": "fetch failed"
     },
     {
       "id": "eastmoney",
@@ -3929,8 +4025,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-15T15:36:40.116Z",
-      "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+      "checkedAt": "2026-11-16T11:47:42.087Z",
+      "lastSuccessAt": "2026-11-16T11:47:42.087Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -3940,9 +4036,9 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-15T15:36:40.116Z",
-      "lastSuccessAt": "2026-11-15T15:36:40.116Z",
-      "count": 89,
+      "checkedAt": "2026-11-16T11:47:42.087Z",
+      "lastSuccessAt": "2026-11-16T11:47:42.087Z",
+      "count": 72,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -3951,8 +4047,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-15T15:36:40.116Z",
-      "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+      "checkedAt": "2026-11-16T11:47:42.087Z",
+      "lastSuccessAt": "2026-11-16T11:47:42.087Z",
       "count": 1,
       "message": "提取标题、可用来源摘要及原文链接"
     }

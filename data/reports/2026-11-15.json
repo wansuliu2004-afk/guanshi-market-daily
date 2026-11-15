@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-15",
   "cutoffAt": "2026-11-15T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-15T16:15:24.495Z",
   "createdAt": "2026-11-14T16:23:42.886Z",
-  "updatedAt": "2026-11-15T15:36:50.400Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-15T16:15:24.505Z",
+  "finalizedAt": "2026-11-15T16:15:24.505Z",
+  "status": "final",
   "news": {
     "date": "2026-11-15",
     "cutoffAt": "2026-11-15T16:00:00.000Z",
@@ -37,10 +37,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 85.2,
+        "score": 85.3,
         "signals": {
           "coverage": 35,
-          "engagement": 22,
+          "engagement": 22.1,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 12
@@ -114,7 +114,7 @@
         "score": 61,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.2,
+          "engagement": 24.3,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -146,10 +146,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 59.2,
+        "score": 59.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.4,
+          "engagement": 22.5,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -185,10 +185,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 57.7,
+        "score": 57.9,
         "signals": {
           "coverage": 35,
-          "engagement": 19.7,
+          "engagement": 19.9,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -261,10 +261,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 54.9,
+        "score": 55.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 18.2,
+          "engagement": 18.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -300,10 +300,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 53.4,
+        "score": 53.5,
         "signals": {
           "coverage": 35,
-          "engagement": 15.4,
+          "engagement": 15.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -337,10 +337,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 50.7,
+        "score": 50.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.2,
+          "engagement": 21.3,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
@@ -407,10 +407,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 42.2,
+        "score": 42.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.7,
+          "engagement": 21.8,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -456,36 +456,71 @@
         "importance": "一般"
       },
       {
-        "id": "topic-da8b05c4ed0a2d27f8c7",
-        "title": "*ST闻泰：荷兰企业法庭裁定公司准许并容忍安世半导体及管理人接洽市场主体、撤回部分中国境内诉讼诉求 公司将上诉",
+        "id": "topic-160a6e0802f0e05e24c2",
+        "title": "中国贸促会：将组织更多中国企业赴APEC经济体考察交流 把亚太企业供需对接做深做实",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200205",
+        "summary": "财联社11月15日电，中国贸促会国际合作部部长、APEC工商咨询理事会中国候任代表吴蒙11月15日在2026年APEC工商界活动专题新闻发布会上表示，中国贸促会将进一步发挥联通政企、融通内外、畅通供需优势，织密服务企业网、扩大国际朋友圈，促进亚太工商界务实合作，为发展亚太更紧密…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T14:00:33.000Z",
+        "date": "2026-11-15",
+        "time": "22:00",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200205"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534769"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 41.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 11.8,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 12
+        },
+        "category": "宏观",
+        "sectors": [],
+        "rank": 13,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-4d192dd3b8677e588972",
+        "title": "下周资本市场大事提醒：APEC领导人非正式会议将举行，英伟达迎财报日大考，Anthropic冲击IPO，中概股龙头集中披露业绩",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534710",
-        "summary": "【*ST闻泰：荷兰企业法庭裁定公司尊重管理人职责、撤回部分中国境内诉讼诉求 公司将上诉】财联社11月15日电，*ST闻泰(600745.SH)公告称，公司境外子公司安世境外前期向荷兰阿姆斯特丹上诉法院企业法庭提交追加临时措施申请，企业法庭于2026年11月11日作出裁定，责令公…",
+        "sourceUrl": "https://www.cls.cn/detail/2534765",
+        "summary": "1、11月16日，国家统计局将公布10月社会消费品零售总额、工业增加值、固定资产投资等经济数据。同日，国家统计局公布70城住宅销售价格月度报告。 2、11月18日至19日，APEC第三十三次领导人非正式会议将在深圳举行。其中，APEC工商领导人峰会将于11月17日至18日在深圳…",
         "summarySource": "财联社",
-        "publishedAt": "2026-11-15T09:56:49.000Z",
+        "publishedAt": "2026-11-15T13:35:59.000Z",
         "date": "2026-11-15",
-        "time": "17:56",
+        "time": "21:35",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534710"
+            "url": "https://www.cls.cn/detail/2534765"
           }
         ],
         "sourceCount": 1,
-        "score": 37.4,
+        "score": 36.2,
         "signals": {
           "coverage": 0,
-          "engagement": 13.6,
+          "engagement": 16.9,
           "recency": 0,
           "emphasis": 16.3,
-          "impact": 7.5
+          "impact": 3
         },
         "category": "公司",
         "sectors": [
-          "半导体"
+          "人工智能"
         ],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -510,10 +545,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 35.9,
+        "score": 36,
         "signals": {
           "coverage": 17.5,
-          "engagement": 15.4,
+          "engagement": 15.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -522,7 +557,73 @@
         "sectors": [
           "医药生物"
         ],
-        "rank": 14,
+        "rank": 15,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-28242832fefba25f1ef5",
+        "title": "3连板金辰股份：相关报道事项与公司和SINGULUS SOLAR GmbH无关",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534753",
+        "summary": "【3连板金辰股份：股票交易风险提示 市盈率高于行业平均水平】财联社11月15日电，金辰股份(603396.SH)公告称，公司股票于2026年11月10日至12日连续3个交易日收盘价格涨幅偏离值累计超20%，11月13日再次涨停，短期波动较大，可能存在市场情绪过热、非理性炒作风险…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T13:02:55.000Z",
+        "date": "2026-11-15",
+        "time": "21:02",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534753"
+          }
+        ],
+        "sourceCount": 1,
+        "score": 34.7,
+        "signals": {
+          "coverage": 0,
+          "engagement": 15.4,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "公司",
+        "sectors": [],
+        "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-b2b22ef9f93d638054ff",
+        "title": "国泰海通资管澄清网传不实信息：从未曾以私募基金作为交易对手开展交易",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200201",
+        "summary": "财联社11月15日电，网络近日流传有关“某机构资金委托某公司投顾管理、与私募基金开展协议式回购并发生回购违约”等传言。对此，国泰海通资管11月14日发布公告澄清称，该网传内容与上海国泰海通证券资产管理有限公司无关，网传业务并非国泰海通资管开展。国泰海通资管长期以来禁止与私募基金…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T13:07:44.000Z",
+        "date": "2026-11-15",
+        "time": "21:07",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200201"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534754"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 34.5,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 14,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 3
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -543,17 +644,50 @@
           }
         ],
         "sourceCount": 1,
-        "score": 35.2,
+        "score": 34,
         "signals": {
           "coverage": 0,
-          "engagement": 15.9,
+          "engagement": 14.7,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "公司",
         "sectors": [],
-        "rank": 15,
+        "rank": 18,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-da8b05c4ed0a2d27f8c7",
+        "title": "*ST闻泰：荷兰企业法庭裁定公司准许并容忍安世半导体及管理人接洽市场主体、撤回部分中国境内诉讼诉求 公司将上诉",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534710",
+        "summary": "【*ST闻泰：荷兰企业法庭裁定公司尊重管理人职责、撤回部分中国境内诉讼诉求 公司将上诉】财联社11月15日电，*ST闻泰(600745.SH)公告称，公司境外子公司安世境外前期向荷兰阿姆斯特丹上诉法院企业法庭提交追加临时措施申请，企业法庭于2026年11月11日作出裁定，责令公…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-15T09:56:49.000Z",
+        "date": "2026-11-15",
+        "time": "17:56",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534710"
+          }
+        ],
+        "sourceCount": 1,
+        "score": 34,
+        "signals": {
+          "coverage": 0,
+          "engagement": 10.3,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 7.5
+        },
+        "category": "公司",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -578,10 +712,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 34.9,
+        "score": 33,
         "signals": {
           "coverage": 17.5,
-          "engagement": 14.4,
+          "engagement": 12.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -590,153 +724,15 @@
         "sectors": [
           "医药生物"
         ],
-        "rank": 16,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-160a6e0802f0e05e24c2",
-        "title": "中国贸促会：将组织更多中国企业赴APEC经济体考察交流 把亚太企业供需对接做深做实",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200205",
-        "summary": "财联社11月15日电，中国贸促会国际合作部部长、APEC工商咨询理事会中国候任代表吴蒙11月15日在2026年APEC工商界活动专题新闻发布会上表示，中国贸促会将进一步发挥联通政企、融通内外、畅通供需优势，织密服务企业网、扩大国际朋友圈，促进亚太工商界务实合作，为发展亚太更紧密…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-15T14:00:33.000Z",
-        "date": "2026-11-15",
-        "time": "22:00",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200205"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534769"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 31.8,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 2.3,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 12
-        },
-        "category": "宏观",
-        "sectors": [],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-c2635efedd2763bcc472",
-        "title": "复星医药：多款药品新纳入国家医保目录",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534667",
-        "summary": "财联社11月15日电，复星医药(600196.SH)公告称，根据2026年国家医保目录，公司及控股子公司多款产品获首次纳入、备注信息调整或转入常规目录管理。其中斯鲁利单抗注射液获首次纳入，枸橼酸伏维西利胶囊和芦沃美替尼片新增支付适应症，抗人T细胞兔免疫球蛋白放宽支付限定。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-15T07:53:59.000Z",
-        "date": "2026-11-15",
-        "time": "15:53",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534667"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611153931425422.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 31.1,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 10.6,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 3
-        },
-        "category": "行业",
-        "sectors": [
-          "医药生物"
-        ],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-aa97925488886e3675f6",
-        "title": "叙利亚大马士革农村省发生汽车炸弹爆炸致2死1伤",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611153931382992.html",
-        "summary": "叙利亚国家通讯社14日援引叙安全部队消息说，叙利亚大马士革农村省杰拉马纳区发生汽车炸弹爆炸，造成包括一名女孩在内的两人死亡，另有一人受伤。安全部队已在现场设立警戒封锁并展开调查。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-14T19:00:39.000Z",
-        "date": "2026-11-15",
-        "time": "03:00",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611153931382992.html"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534578"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 30.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 9.8,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 3
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-2c1876b51f3a2fccff13",
-        "title": "美称已护航超17亿桶原油过霍尔木兹",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534628",
-        "summary": "财联社11月15日电，美军中央司令部当地时间11月14日称，在美方的保护下，海湾地区的合作伙伴已通过霍尔木兹海峡运输超过17亿桶原油。伊朗方面尚未对此说法作出回应。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-15T02:40:57.000Z",
-        "date": "2026-11-15",
-        "time": "10:40",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534628"
-          }
-        ],
-        "sourceCount": 1,
-        "score": 30.2,
-        "signals": {
-          "coverage": 0,
-          "engagement": 22.7,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 7.5
-        },
-        "category": "行业",
-        "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-15T15:36:40.116Z",
-    "collectedAt": "2026-11-15T15:36:40.116Z",
-    "latestPublishedAt": "2026-11-15T15:32:35.000Z",
-    "totalCandidates": 287,
-    "financeCandidates": 119,
+    "asOf": "2026-11-15T16:15:20.414Z",
+    "collectedAt": "2026-11-15T16:15:20.414Z",
+    "latestPublishedAt": "2026-11-15T15:57:12.000Z",
+    "totalCandidates": 293,
+    "financeCandidates": 123,
     "sources": [
       {
         "id": "cls",
@@ -744,8 +740,8 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-15T15:36:40.116Z",
-        "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+        "checkedAt": "2026-11-15T16:15:20.414Z",
+        "lastSuccessAt": "2026-11-15T16:15:20.414Z",
         "count": 15,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -755,8 +751,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-15T15:36:40.116Z",
-        "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+        "checkedAt": "2026-11-15T16:15:20.414Z",
+        "lastSuccessAt": "2026-11-15T16:15:20.414Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -766,8 +762,8 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-15T15:36:40.116Z",
-        "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+        "checkedAt": "2026-11-15T16:15:20.414Z",
+        "lastSuccessAt": "2026-11-15T16:15:20.414Z",
         "count": 89,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -777,8 +773,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-15T15:36:40.116Z",
-        "lastSuccessAt": "2026-11-15T15:36:40.116Z",
+        "checkedAt": "2026-11-15T16:15:20.414Z",
+        "lastSuccessAt": "2026-11-15T16:15:20.414Z",
         "count": 1,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -794,8 +790,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-15T16:15:24.505Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-14T16:23:38.115Z"
