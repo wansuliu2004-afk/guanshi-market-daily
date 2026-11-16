@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-16",
   "cutoffAt": "2026-11-16T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-16T17:21:16.115Z",
   "createdAt": "2026-11-15T16:15:24.505Z",
-  "updatedAt": "2026-11-16T14:12:27.414Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-16T17:21:16.123Z",
+  "finalizedAt": "2026-11-16T17:21:16.123Z",
+  "status": "final",
   "news": {
     "date": "2026-11-16",
     "cutoffAt": "2026-11-16T16:00:00.000Z",
@@ -37,10 +37,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 84.4,
+        "score": 83.6,
         "signals": {
           "coverage": 35,
-          "engagement": 21.2,
+          "engagement": 20.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 12
@@ -48,6 +48,45 @@
         "category": "行业",
         "sectors": [],
         "rank": 1,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-d469d43a4bc527789bfb",
+        "title": "消息人士称360市场负责人被带走调查",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200737",
+        "summary": "财联社11月16日电，有消息人士确认，360副总裁、市场部负责人卜思南上周被警方带走调查。截至发稿，360方面暂未回应。今年8月，360集团宣布，为推进“安全+AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-16T15:01:45.000Z",
+        "date": "2026-11-16",
+        "time": "23:01",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200737"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2535958"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163932149053.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 78.9,
+        "signals": {
+          "coverage": 35,
+          "engagement": 24.7,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 2,
         "importance": "重磅"
       },
       {
@@ -72,7 +111,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 73.5,
+        "score": 73.6,
         "signals": {
           "coverage": 17.5,
           "engagement": 24.8,
@@ -82,7 +121,7 @@
         },
         "category": "政策",
         "sectors": [],
-        "rank": 2,
+        "rank": 3,
         "importance": "重磅"
       },
       {
@@ -111,18 +150,18 @@
           }
         ],
         "sourceCount": 3,
-        "score": 69.9,
+        "score": 70,
         "signals": {
           "coverage": 35,
-          "engagement": 22.9,
+          "engagement": 23,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "政策",
         "sectors": [],
-        "rank": 3,
-        "importance": "重磅"
+        "rank": 4,
+        "importance": "关注"
       },
       {
         "id": "topic-4650edca553f910fa57d",
@@ -146,7 +185,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 69.8,
+        "score": 69.9,
         "signals": {
           "coverage": 17.5,
           "engagement": 24.1,
@@ -156,79 +195,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 4,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-8c7751b5d7e78e63fa1b",
-        "title": "国家统计局：10月一二三线城市商品住宅销售价格同比降幅继续收窄",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200305",
-        "summary": "【国家统计局：10月一二三线城市商品住宅销售价格同比降幅继续收窄】财联社11月16日电，国家统计局数据显示，10月份，一线城市新建商品住宅销售价格同比下降0.1%，降幅比上月收窄0.4个百分点。其中，北京、广州和深圳分别下降2.6%、0.4%和0.2%，上海上涨2.7%。二、三…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-16T01:32:36.000Z",
-        "date": "2026-11-16",
-        "time": "09:32",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200305"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534938"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 66.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 20.5,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 12
-        },
-        "category": "行业",
-        "sectors": [],
         "rank": 5,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-60c49f83ad70a23c6f34",
-        "title": "外交部：各方应携手促进人工智能发展和治理 不应当搞封闭排他小圈子",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200496",
-        "summary": "有记者问：据报道，美国和9个国家共同签署了有关人工智能的相关宣言。请问中方认为这是否会影响接下来的中美元首会晤？毛宁表示，中方一贯认为人工智能是全人类的共同财富，在这个领域不应当以意识形态划线或者是搞封闭排他的小圈子，各方应当携手促进人工智能的发展和治理，推动人工智能服务全人类…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-16T07:28:59.000Z",
-        "date": "2026-11-16",
-        "time": "15:28",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200496"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931765565.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 65.8,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 24.5,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 7.5
-        },
-        "category": "行业",
-        "sectors": [
-          "人工智能"
-        ],
-        "rank": 6,
         "importance": "关注"
       },
       {
@@ -253,10 +220,47 @@
           }
         ],
         "sourceCount": 2,
-        "score": 65.8,
+        "score": 66,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.6,
+          "engagement": 24.7,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 7.5
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 6,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-60c49f83ad70a23c6f34",
+        "title": "外交部：各方应携手促进人工智能发展和治理 不应当搞封闭排他小圈子",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200496",
+        "summary": "有记者问：据报道，美国和9个国家共同签署了有关人工智能的相关宣言。请问中方认为这是否会影响接下来的中美元首会晤？毛宁表示，中方一贯认为人工智能是全人类的共同财富，在这个领域不应当以意识形态划线或者是搞封闭排他的小圈子，各方应当携手促进人工智能的发展和治理，推动人工智能服务全人类…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-16T07:28:59.000Z",
+        "date": "2026-11-16",
+        "time": "15:28",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200496"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163931765565.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 65.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.5,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 7.5
@@ -293,7 +297,7 @@
         "score": 65.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.4,
+          "engagement": 24.3,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 7.5
@@ -303,6 +307,82 @@
           "银行"
         ],
         "rank": 8,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-8c7751b5d7e78e63fa1b",
+        "title": "国家统计局：10月一二三线城市商品住宅销售价格同比降幅继续收窄",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200305",
+        "summary": "【国家统计局：10月一二三线城市商品住宅销售价格同比降幅继续收窄】财联社11月16日电，国家统计局数据显示，10月份，一线城市新建商品住宅销售价格同比下降0.1%，降幅比上月收窄0.4个百分点。其中，北京、广州和深圳分别下降2.6%、0.4%和0.2%，上海上涨2.7%。二、三…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-16T01:32:36.000Z",
+        "date": "2026-11-16",
+        "time": "09:32",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200305"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534938"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 65.5,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 19.8,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 12
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 9,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-cb15015e4c198af85c56",
+        "title": "SAP完成对AI初创公司TechWolf的收购 将其技术整合至SuccessFactors",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200741",
+        "summary": "财联社11月16日电，SAP宣布已完成对比利时AI工作智能平台提供商TechWolf的收购。TechWolf的专有“工作上下文图谱”（Context Graph）将成为SAP智能体查询工作及技能规划、人才管理相关信息的基础层，并整合至SAP SuccessFactors产品组合…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-16T15:13:12.000Z",
+        "date": "2026-11-16",
+        "time": "23:13",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200741"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2535962"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163932162481.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 62.1,
+        "signals": {
+          "coverage": 35,
+          "engagement": 24.1,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 3
+        },
+        "category": "公司",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 10,
         "importance": "关注"
       },
       {
@@ -327,7 +407,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 61.5,
+        "score": 61.4,
         "signals": {
           "coverage": 17.5,
           "engagement": 24.7,
@@ -337,8 +417,8 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 9,
-        "importance": "关注"
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-2787bb6bbbdb744293b2",
@@ -366,18 +446,18 @@
           }
         ],
         "sourceCount": 3,
-        "score": 59.6,
+        "score": 59.3,
         "signals": {
           "coverage": 35,
-          "engagement": 9.6,
+          "engagement": 9.3,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
         },
         "category": "政策",
         "sectors": [],
-        "rank": 10,
-        "importance": "关注"
+        "rank": 12,
+        "importance": "一般"
       },
       {
         "id": "topic-97695919715fe0150bd7",
@@ -405,17 +485,17 @@
           }
         ],
         "sourceCount": 3,
-        "score": 55.6,
+        "score": 55,
         "signals": {
           "coverage": 35,
-          "engagement": 17.6,
+          "engagement": 17,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 11,
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -440,10 +520,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 54.9,
+        "score": 55,
         "signals": {
           "coverage": 17.5,
-          "engagement": 6.2,
+          "engagement": 6.3,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 15
@@ -453,42 +533,7 @@
           "人工智能",
           "银行"
         ],
-        "rank": 12,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-4b31501fe095633d40c1",
-        "title": "国家统计局：10月规上工业原油产量1845万吨 同比增长2.3%",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534986",
-        "summary": "财联社11月16日电，国家统计局数据显示，10月份，规上工业原油产量1845万吨，同比增长2.3%，增速比9月份加快0.1个百分点；日均产量59.5万吨。1—10月份，规上工业原油产量18304万吨，同比增长1.1%。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-16T02:03:45.000Z",
-        "date": "2026-11-16",
-        "time": "10:03",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534986"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931609435.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 53.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 24.4,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 12
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -513,17 +558,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 53.6,
+        "score": 53.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 16.9,
+          "engagement": 16.7,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -548,17 +593,52 @@
           }
         ],
         "sourceCount": 2,
-        "score": 53.6,
+        "score": 53.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 16.9,
+          "engagement": 16.7,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "公司",
         "sectors": [],
-        "rank": 15,
+        "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-4b31501fe095633d40c1",
+        "title": "国家统计局：10月规上工业原油产量1845万吨 同比增长2.3%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2534986",
+        "summary": "财联社11月16日电，国家统计局数据显示，10月份，规上工业原油产量1845万吨，同比增长2.3%，增速比9月份加快0.1个百分点；日均产量59.5万吨。1—10月份，规上工业原油产量18304万吨，同比增长1.1%。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-16T02:03:45.000Z",
+        "date": "2026-11-16",
+        "time": "10:03",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2534986"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163931609435.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 53,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 23.5,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 12
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -583,17 +663,52 @@
           }
         ],
         "sourceCount": 2,
-        "score": 53.5,
+        "score": 52.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24,
+          "engagement": 23.1,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "行业",
         "sectors": [],
-        "rank": 16,
+        "rank": 18,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-686058ae97ec5184d8d4",
+        "title": "国家统计局：实现全年预期目标有支撑，也有条件",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200405",
+        "summary": "11月16日，国家统计局新闻发言人、国民经济综合统计司副司长王冠华在国新办新闻发布会上表示，中国经济平稳运行的态势没有改变。工业增加值服务业生产指数的增速1—10月份与1—9月份持平，社会消费品零售总额的增速小幅回落0.1个百分点，货物进出口增速加快1.2个百分点，供需两端指标…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-16T04:14:35.000Z",
+        "date": "2026-11-16",
+        "time": "12:14",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200405"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163931663949.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 52.5,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 23,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 12
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -618,130 +733,25 @@
           }
         ],
         "sourceCount": 2,
-        "score": 53.2,
+        "score": 52.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.7,
+          "engagement": 22.8,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "行业",
-        "sectors": [],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-ef79ea2e5da2441c64b6",
-        "title": "国家统计局：10月规上工业原油加工量5830万吨 同比下降8.1%",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534992",
-        "summary": "财联社11月16日电，国家统计局数据显示，10月份，规上工业原油加工量5830万吨，同比下降8.1%，降幅比9月份收窄0.3个百分点；日均加工量188.1万吨。1—10月份，规上工业原油加工量57190万吨，同比下降6.9%。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-16T02:05:05.000Z",
-        "date": "2026-11-16",
-        "time": "10:05",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534992"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931609527.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 52.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 23.4,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 12
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-d0a6b202af99322225da",
-        "title": "国家统计局：10月规上工业天然气产量222亿立方米 同比增长0.8%",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534990",
-        "summary": "财联社11月16日电，国家统计局数据显示，10月份，规上工业天然气产量222亿立方米，同比增长0.8%，9月份为下降1.0%；日均产量7.2亿立方米。1—10月份，规上工业天然气产量2181亿立方米，同比增长0.9%。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-16T02:04:25.000Z",
-        "date": "2026-11-16",
-        "time": "10:04",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534990"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931609380.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 52.6,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 23.1,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 12
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-d915725a5e1222d831cb",
-        "title": "高位人气股大面积下挫 锋龙股份等多股跌停",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2534950",
-        "summary": "财联社11月16日电，早盘大批高位人气股下挫，锋龙股份、大东方、青岛食品、百洋股份、东方环宇、闽发铝业跌停，襄阳轴承、亚玛顿、鲁阳节能、日出东方等跌幅靠前。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-16T01:40:45.000Z",
-        "date": "2026-11-16",
-        "time": "09:40",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534950"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931594033.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 52.5,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 15.7,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "公司",
         "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-16T14:12:16.149Z",
-    "collectedAt": "2026-11-16T14:12:16.149Z",
-    "latestPublishedAt": "2026-11-16T14:11:19.000Z",
-    "totalCandidates": 997,
-    "financeCandidates": 699,
+    "asOf": "2026-11-16T17:21:10.640Z",
+    "collectedAt": "2026-11-16T17:21:10.640Z",
+    "latestPublishedAt": "2026-11-16T15:58:48.000Z",
+    "totalCandidates": 1064,
+    "financeCandidates": 733,
     "sources": [
       {
         "id": "cls",
@@ -749,8 +759,8 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-16T14:12:16.149Z",
-        "lastSuccessAt": "2026-11-16T14:12:16.149Z",
+        "checkedAt": "2026-11-16T17:21:10.640Z",
+        "lastSuccessAt": "2026-11-16T17:21:10.640Z",
         "count": 11,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -760,8 +770,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-16T14:12:16.149Z",
-        "lastSuccessAt": "2026-11-16T14:12:16.149Z",
+        "checkedAt": "2026-11-16T17:21:10.640Z",
+        "lastSuccessAt": "2026-11-16T17:21:10.640Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -771,9 +781,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-16T14:12:16.149Z",
-        "lastSuccessAt": "2026-11-16T14:12:16.149Z",
-        "count": 68,
+        "checkedAt": "2026-11-16T17:21:10.640Z",
+        "lastSuccessAt": "2026-11-16T17:21:10.640Z",
+        "count": 50,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -782,8 +792,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-16T14:12:16.149Z",
-        "lastSuccessAt": "2026-11-16T14:12:16.149Z",
+        "checkedAt": "2026-11-16T17:21:10.640Z",
+        "lastSuccessAt": "2026-11-16T17:21:10.640Z",
         "count": 2,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -799,8 +809,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-16T17:21:16.123Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-15T16:15:21.355Z"

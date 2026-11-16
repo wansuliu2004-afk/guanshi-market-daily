@@ -1,7 +1,841 @@
 {
   "date": "2026-11-16",
-  "asOf": "2026-11-16T14:12:16.149Z",
+  "asOf": "2026-11-17T11:27:28.343Z",
   "records": [
+    {
+      "id": "eastmoney-7963ecc6d89965d087d6",
+      "title": "据报道 OpenAI曾探讨以50多亿美元收购一家解码AI“思维”方式的初创公司",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932193936.html",
+      "publishedAt": "2026-11-16T15:58:48.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-09e0cf60f7abf8200304",
+      "title": "美股三大指数下跌 纳指跌1.5% 芯片股集体下挫",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932124582.html",
+      "summary": "美东时间周一，美股三大指数集体下跌，截至发稿，道指跌0.47%，纳指跌1.51%，标普500指数跌0.95%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:58:14.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 215,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-49041910a34b2e031310",
+      "title": "欧元兑美元自2025年以来首次跌破1.10",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611163932192450.html",
+      "publishedAt": "2026-11-16T15:57:08.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-64c59db13314698ed608",
+      "title": "罗伯特・帕丁森成为新一任007",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2535971",
+      "summary": "财联社11月16日电，“詹姆斯·邦德”官方帐号发文，宣布英国演员罗伯特・帕丁森将接棒丹尼尔・克雷格，成为影史第七位詹姆斯・邦德。罗伯特・帕丁森1986年生于伦敦，早年凭借电影《哈利・波特与火焰杯》“塞德里克·迪戈里”走入大众视野，后因《暮光之城》系列“爱德华”成为全球知名演员。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-16T15:52:34.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:11.309Z",
+      "attention": 512521,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-4f76e21325536945baaa",
+      "title": "英伟达贡献以色列半壁增长，经济表现超预期",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200749",
+      "publishedAt": "2026-11-16T15:48:40.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.087Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-7e3ba63e3fb421e059bd",
+      "title": "金价 创年内新低",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611163932187529.html",
+      "summary": "伦敦现货黄金价格16日盘中一度跌超1%，下探至每盎司3830美元附近，跌至2025年10月以来新低；纽商所12月交割的黄金期货价格16日盘中一度跌至每盎司3840美元附近，日内跌幅同样超1%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:40:00.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-e3c7b1ffc8731e78d518",
+      "title": "俄称下轮俄美乌三方会谈仍在阿布扎比举行 时间待定",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2535968",
+      "summary": "财联社11月16日电，俄罗斯总统助理乌沙科夫称，下一轮乌克兰问题俄美乌三方会谈将继续在阿布扎比举行，时间待定。乌沙科夫称，当俄方收到欧洲关于乌克兰问题调解的建设性建议时，欧盟参与会谈的问题才会提上日程。为期两天的俄美乌三方会谈本月11日在阿布扎比结束，各方就大规模交换被俘人员达…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-16T15:34:22.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:11.309Z",
+      "attention": 505279,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-8657ab44e5126f2c7a0c",
+      "title": "伊朗称多艘油轮在霍尔木兹海峡触雷",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200745",
+      "publishedAt": "2026-11-16T15:31:25.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.087Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-5f00370362ec8f122354",
+      "title": "专家说金价跌了别着急抄底",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200744",
+      "publishedAt": "2026-11-16T15:31:07.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.087Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-4cae335ec62391c9ef39",
+      "title": "伊朗称多艘油轮在霍尔木兹海峡触雷",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2535967",
+      "summary": "财联社11月16日电，伊朗伊斯兰革命卫队和伊朗海军11月16日称，多艘油轮在霍尔木兹海峡触雷。伊朗方面强调，“关闭导航系统且未经伊朗授权擅自进入限制区域或不安全海域，会使违规船只面临严重风险。”",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-16T15:30:56.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:11.309Z",
+      "attention": 495881,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-fef57601f9f1c4b7f850",
+      "title": "伊朗称多艘油轮在霍尔木兹海峡触雷",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932179638.html",
+      "summary": "伊朗伊斯兰革命卫队和伊朗海军11月16日称，多艘油轮在霍尔木兹海峡触雷。伊朗方面强调，“关闭导航系统且未经伊朗授权擅自进入限制区域或不安全海域，会使违规船只面临严重风险。”",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:30:56.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 32,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-18b5c5a1a92e48172e54",
+      "title": "港交所推出离岸人民币债券指数",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://bond.eastmoney.com/a/202611163932179929.html",
+      "summary": "香港交易及结算所有限公司（港交所）16日正式推出港交所离岸人民币债券（点心债）指数。这是港交所首个冠名固定收益指数，也是香港首个追踪在港发行点心债的基准指数。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:27:55.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-1787c5bb933b4bd7e61c",
+      "title": "布伦特原油期货跌幅扩大至3%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932175440.html",
+      "summary": "布伦特原油期货跌幅扩大至3%，报92.969美元/桶。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:25:09.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-dd30505c0f004676f155",
+      "title": "俄称下轮俄美乌三方会谈仍在阿布扎比举行 时间待定",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://global.eastmoney.com/a/202611163932176446.html",
+      "summary": "当地时间16日，俄罗斯总统助理乌沙科夫称，下一轮乌克兰问题俄美乌三方会谈将继续在阿布扎比举行，时间待定。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:24:23.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-3dbb16346863c8d11e87",
+      "title": "现货白银日内跌幅扩大至4% 报46.71美元/盎司",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932169980.html",
+      "publishedAt": "2026-11-16T15:22:03.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-9a0b88a4e43a65529fbe",
+      "title": "埃克森美孚已在圭亚那Uaru项目启动生产 该国石油装机产能随之升至110万桶/日",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932168970.html",
+      "publishedAt": "2026-11-16T15:20:26.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-f3816f28e1531a5c1e5f",
+      "title": "SAP完成对AI初创公司TechWolf的收购 将其技术整合至SuccessFactors",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200741",
+      "publishedAt": "2026-11-16T15:13:12.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.087Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-1458df7e5a1f1e013422",
+      "title": "SAP完成对AI初创公司TechWolf的收购 将其技术整合至SuccessFactors",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2535962",
+      "summary": "财联社11月16日电，SAP宣布已完成对比利时AI工作智能平台提供商TechWolf的收购。TechWolf的专有“工作上下文图谱”（Context Graph）将成为SAP智能体查询工作及技能规划、人才管理相关信息的基础层，并整合至SAP SuccessFactors产品组合…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-16T15:11:16.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:11.309Z",
+      "attention": 469056,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-660a678f19d2d5c1d963",
+      "title": "SAP完成对AI初创公司TechWolf的收购 将其技术整合至SuccessFactors",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932162481.html",
+      "summary": "SAP宣布已完成对比利时AI工作智能平台提供商TechWolf的收购。TechWolf的专有“工作上下文图谱”（ContextGraph）将成为SAP智能体查询工作及技能规划、人才管理相关信息的基础层，并整合至SAPSuccessFactors产品组合。SAP表示，该技术能够提…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:11:16.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-2100d221796b23d06c3f",
+      "title": "德国糖业协会（WVZ）：德国2026/27榨季精制糖产量预计为331.6万吨 较上榨季的442.1万吨有所下降",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://global.eastmoney.com/a/202611163932162219.html",
+      "summary": "德国糖业协会（WVZ）表示，德国2026/27榨季精制糖产量预计为331.6万吨，较上榨季的442.1万吨有所下降。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:10:26.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-bec0759c1a14ca6d598f",
+      "title": "美国罗素2000指数跌幅扩大至1%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://stock.eastmoney.com/a/202611163932162037.html",
+      "publishedAt": "2026-11-16T15:09:54.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-072b847f46e16a3e7877",
+      "title": "燃油夜盘收跌约4%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://futures.eastmoney.com/a/202611163932159164.html",
+      "summary": "燃油夜盘收跌约4%，合成橡胶跌3.1%，焦炭跌2.4%，铁矿石跌1.4%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:05:29.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-5a71eb382c3915b9265e",
+      "title": "纳斯达克100指数跌幅扩大至2%",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2535959",
+      "summary": "财联社11月16日电，美股跌幅扩大，纳斯达克100指数跌幅扩大至2%，道琼斯指数跌0.54%，标普500指数跌1.19%，纳斯达克综合指数跌1.82%。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-16T15:03:41.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:11.309Z",
+      "attention": 481288,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-220291c61a55ebd5d756",
+      "title": "纳斯达克100指数跌幅扩大至2%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://global.eastmoney.com/a/202611163932158089.html",
+      "summary": "美股跌幅扩大，纳斯达克100指数跌幅扩大至2%，道琼斯指数跌0.54%，标普500指数跌1.19%，纳斯达克综合指数跌1.82%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:03:41.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-1ca437a2760e8d94acc7",
+      "title": "消息人士称360市场负责人被带走调查",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2535958",
+      "summary": "财联社11月16日电，有消息人士确认，360副总裁、市场部负责人卜思南上周被警方带走调查。截至发稿，360方面暂未回应。今年8月，360集团宣布，为推进“安全+AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-16T15:02:46.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:11.309Z",
+      "attention": 518646,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-0c7970fe888c14c46fb7",
+      "title": "麦克勒姆将于2027年6月卸任加拿大央行行长",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611163932156239.html",
+      "publishedAt": "2026-11-16T15:02:04.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.648Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-bea6b599a08e90b74c7d",
+      "title": "生态环境部发布11月下半月全国空气质量预报会商结果",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932158322.html",
+      "summary": "据生态环境部消息，11月16日，中国环境监测总站联合中央气象台、大气污染防治攻关联合中心，东北、华南、西南、西北、长三角区域空气质量预测预报中心和北京市生态环境监测中心，开展11月下半月（11月16日—30日）全国空气质量预报会商。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:02:00.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-2c15f30399f783be0872",
+      "title": "消息人士称360市场负责人被带走调查",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200737",
+      "publishedAt": "2026-11-16T15:01:45.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.087Z",
+      "attention": 1,
+      "emphasis": 0.65
+    },
+    {
+      "id": "wallstreet-1ad4d9f21e793686bcde",
+      "title": "麦克勒姆将于2027年6月卸任加拿大央行行长",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200736",
+      "publishedAt": "2026-11-16T15:01:25.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.087Z",
+      "attention": 0,
+      "emphasis": 0.65
+    },
+    {
+      "id": "wallstreet-96c7752446a61173f7cb",
+      "title": "内盘期货夜市普遍收跌，燃油跌4%",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200735",
+      "publishedAt": "2026-11-16T15:00:57.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.087Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-739ba118efc6cfb6d840",
+      "title": "现货白银向下跌破47美元/盎司 日内下跌3.51%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932154965.html",
+      "publishedAt": "2026-11-16T15:00:51.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-7e0065b079d04dec0e3e",
+      "title": "国内部分商品期货夜盘收盘 主力合约几乎全线下跌",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://futures.eastmoney.com/a/202611163932149694.html",
+      "summary": "截至23:00，国内部分商品期货夜盘收盘，主力合约几乎全线下跌。跌幅方面，燃油跌超4%，丁二烯胶跌超3%，纯苯、丙烯、聚丙烯、甲醇、焦炭等跌超2%，PTA、对二甲苯、热卷、20号胶、焦煤等跌超1%；涨幅方面，纸浆小幅上涨。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:00:37.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 10,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-1a2a7577617744627397",
+      "title": "台积电股价跌幅扩大至5% 总市值跌破2万亿美元",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2535954",
+      "summary": "财联社11月16日电，台积电股价跌幅扩大至5.25%，报377.805美元/股，总市值报1.96万亿美元。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-16T15:00:27.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:11.309Z",
+      "attention": 479475,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-023fa9ece941d468ceed",
+      "title": "台积电股价跌幅扩大至5% 总市值跌破2万亿美元",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932155110.html",
+      "summary": "台积电股价跌幅扩大至5.25%，报377.805美元/股，总市值报1.96万亿美元。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T15:00:27.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-3c9a69308cd1b1f1c25b",
+      "title": "印度与泰国讨论了UPI互联与本币结算",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611163932154570.html",
+      "publishedAt": "2026-11-16T14:59:38.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-fec7a00415e159c9166d",
+      "title": "特朗普：不介意黄仁勋重掌英伟达",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932157044.html",
+      "summary": "11月16日，美国总统特朗普表示，不介意黄仁勋重新出任英伟达首席执行官，并称很多人希望黄仁勋回归，“这当然不是一个坏主意”。特朗普还表示，黄仁勋“吸取了深刻教训”。此前，美国财政部长贝森特曾呼吁英伟达进行“大幅调整”，并通过外部招聘寻找新任领导人。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:58:55.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 115,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-f2f2e42a2aa09909f5a2",
+      "title": "沙特国王下令调整沙特主导的多国联军指挥官",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932146731.html",
+      "summary": "据沙特方面16日消息，根据沙特阿拉伯国王萨勒曼当天发布的国王令，沙特武装部队总参谋长法耶兹·本·哈米德·鲁韦利在履行现职的同时，代行沙特主导的多国联军指挥官一职。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:57:53.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-c09b1c560e5a99eac2d1",
+      "title": "消息人士称360市场负责人被带走调查",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932149053.html",
+      "summary": "11月16日，有消息人士向第一财经确认，360副总裁、市场部负责人卜思南上周被警方带走调查。截至发稿，360方面暂未回应。今年8月，360集团宣布，为推进“安全+AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:57:49.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 14,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-2156673ba01bf0f517f2",
+      "title": "炙龙控股：股票继续暂停买卖",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932149523.html",
+      "summary": "炙龙控股（08493.HK）公告，公司接获联交所函件，创业板上市委员会决定取消公司的上市地位，因公司未能履行所有复牌指引且股份一直暂停买卖。公司拟向创业板上市复核委员会申请复核该决定。股份将继续暂停买卖，直至另行通知。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:56:00.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-e64d2a7563e12a054364",
+      "title": "巴克莱将标普500指数2027年底的目标位从8800点下调至8700点",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932145858.html",
+      "publishedAt": "2026-11-16T14:50:24.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-445f5cf1d583e176422c",
+      "title": "Anthropic将漏洞披露窗口期缩短至30天",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200731",
+      "publishedAt": "2026-11-16T14:50:03.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.087Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-611b9480b7f42acf1b36",
+      "title": "沙特国王下令调整沙特主导的多国联军指挥官",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200729",
+      "publishedAt": "2026-11-16T14:49:08.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-927ffdc1e9eb124aec75",
+      "title": "大摩因利率高企与经济放缓下调巴西股票评级",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200728",
+      "publishedAt": "2026-11-16T14:48:49.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-2d1ba810c5f0f97e77ad",
+      "title": "中概股贝壳、小鹏涨6%，华住涨9%，万国数据跌15%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932145720.html",
+      "publishedAt": "2026-11-16T14:48:29.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-492ef52cabeec61a80ce",
+      "title": "用GLP-1减肥针伤视力甚至会失明？专家回应：偶发罕见病例、未证实因果关系",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200726",
+      "publishedAt": "2026-11-16T14:44:55.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-8a5314dab0cfd98bd6a3",
+      "title": "特朗普：黄仁勋没有危害国家安全",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200725",
+      "publishedAt": "2026-11-16T14:43:23.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 1,
+      "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-3de3f5162cf0edcf94f1",
+      "title": "本轮巴以冲突已致加沙地带74702人死亡",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932136977.html",
+      "summary": "据央视新闻，当地时间16日，加沙地带卫生部门发布声明称，在过去24小时内，加沙地带各医院共接收了3名死者和7名伤员。声明表示，自去年10月11日停火协议生效以来，加沙地带累计新增死亡人数已达1650人，另有5975人受伤；此外，救援人员在废墟中累计寻获850具遇难者遗体。自20…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:43:14.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-ba9a9208a4717f88e818",
+      "title": "本轮巴以冲突已致加沙地带74702人死亡",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200724",
+      "publishedAt": "2026-11-16T14:42:07.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-fc24ab8521f9025fce1f",
+      "title": "美国总统特朗普表示不考虑更换商务部长卢特尼克",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932136612.html",
+      "publishedAt": "2026-11-16T14:41:54.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-6ed8c923de5c6bc2c0d0",
+      "title": "美股加密货币概念股走低 Coinbase跌超5%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932136442.html",
+      "summary": "美股加密货币概念股走低，IREN跌超8%，Strategy跌超6%，Coinbase跌超5%，Circle跌超4%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:40:56.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-c8a72b7554b9117818b9",
+      "title": "OPPO Reno17系列正式发布，价格3599元起",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200722",
+      "publishedAt": "2026-11-16T14:40:01.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-031d36f50c832285ce23",
+      "title": "爱奇艺跌幅扩大至15% 公司第三季度每份美国存托股亏损19美分 预计每股亏损16美分",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932133555.html",
+      "publishedAt": "2026-11-16T14:36:23.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 9,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-2673e21f535279968232",
+      "title": "亚洲物流航运及空运会议在港举行 聚焦全球供应链转型",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200718",
+      "publishedAt": "2026-11-16T14:35:37.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-2eec74678e8f90e7f5aa",
+      "title": "光通信板块盘初走低",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932132293.html",
+      "summary": "光通信板块盘初走低，Lumentum、Coherent跌超8%，迈威尔跌超6%，康宁跌超5%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:35:31.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 8,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-8de6a86e302230db052a",
+      "title": "美股AI云服务公司走弱 甲骨文跌超3%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932133091.html",
+      "summary": "美股AI云服务公司走弱，NEBIUS、AppliedOptoelectronics跌超8%，CoreWeave跌超5%，甲骨文跌超3%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:34:54.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-eef607177883ba2e7508",
+      "title": "费城半导体指数跌幅扩大至5% 报9637点",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://global.eastmoney.com/a/202611163932128146.html",
+      "publishedAt": "2026-11-16T14:31:52.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.649Z",
+      "attention": 7,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-eacfc31f37f78831a644",
+      "title": "美股开盘：纳斯达克100股指期货跌1.6%，费城半导体指数跌4.7%",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200715",
+      "publishedAt": "2026-11-16T14:31:12.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
+      "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-9428f7617a879cb04c7d",
+      "title": "美股纳指低开1.2% 芯片股集体下挫",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932124688.html",
+      "summary": "美股三大指数集体低开，纳指跌1.24%，道指跌0.16%，标普500指数跌0.81%。芯片股集体下挫，闪迪、应用材料、Cerebras跌超6%，希捷科技、西部数据、ARM、AMD跌超5%，英特尔、台积电、博通跌超4%，英伟达跌2%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:31:07.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.650Z",
+      "attention": 12,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-58fc60e5f698e6a62cc6",
+      "title": "雷诺：正考虑在未来两年内为其法国工厂招聘1650名蓝领工人",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932126323.html",
+      "summary": "雷诺确认，正考虑在未来两年内为其法国工厂招聘1650名蓝领工人；该公司工业总监还表示，雷诺计划在生产相关的间接岗位再招聘250人。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:27:20.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.650Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-55908ef7f18e8c7b35e1",
+      "title": "振华重工：将不再开展PPP等无关多元业务",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932121148.html",
+      "summary": "振华重工在与机构进行现场座谈交流时表示，目前，公司PPP项目主要是在江浙地区，均为存量业务。未来，公司将坚守主责主业，不再开展PPP等无关多元业务。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:25:00.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.650Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-c3ed46efe1c086382c03",
+      "title": "全球储能联盟倡议在COP31发布，将推动为储能灵活调节能力“定价”",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200710",
+      "publishedAt": "2026-11-16T14:22:25.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-4fda0380fd5da1a5f30c",
+      "title": "布伦特原油期货跌幅扩大至2%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932113255.html",
+      "summary": "布伦特原油期货跌幅扩大至2%，报93.905美元/桶。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:19:10.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.650Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-8923e9a5553ca2fc351b",
+      "title": "OpenAI据悉曾考虑以超50亿美元收购初创公司Goodfire",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932111831.html",
+      "summary": "据报道，OpenAI曾考虑以超过50亿美元的价格收购Goodfire。Goodfire是一家由Anthropic支持的初创公司，其技术旨在解读AI模型的“思维”机制。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:16:37.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.650Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-35579b9947cf21a53293",
+      "title": "美国纽约联储：随着外汇市场从测试阶段迈向实际应用，AI带来的技术变革存在潜在风险",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200708",
+      "publishedAt": "2026-11-16T14:13:18.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
+      "emphasis": 0
+    },
     {
       "id": "cls-59eeacfa6a5b407d91f6",
       "title": "迈威尔与Penguin Solutions合作开发AI数据中心内存扩展技术",
@@ -17,6 +851,20 @@
       "emphasis": 0
     },
     {
+      "id": "eastmoney-ea579baf433b563abbd4",
+      "title": "迈威尔与Penguin Solutions合作开发AI数据中心内存扩展技术",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932110688.html",
+      "summary": "Marvell与Penguin Solutions宣布达成战略合作，共同开发面向AI数据中心的内存扩展技术。双方计划将Marvell Structera X内存扩展控制器集成至Penguin SMART CXL扩展卡，使数据中心能够通过PCIe 5.0和CXL 2.0接口，将退…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:11:19.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.650Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
       "id": "cls-99b4949d9dbf60a07109",
       "title": "戴尔推出面向企业AI的Agentic Data Gateway",
       "source": "财联社",
@@ -28,6 +876,32 @@
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:16.957Z",
       "attention": 9901,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-0abae626f4ee10b65b5a",
+      "title": "戴尔推出面向企业AI的Agentic Data Gateway",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611163932106748.html",
+      "summary": "戴尔宣布，其AI数据平台的升级将从12月起可用；PowerScale已获得英伟达认证存储验证；Exascale产品组合扩展至面向机架级AI的液冷存储；同时推出面向企业AI的Agentic Data Gateway，并公布与英伟达合作的戴尔AI工厂的最新进展。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-16T14:09:46.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.650Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-f57605d6bdea0e807feb",
+      "title": "美国银行CEO：部分交易正被推迟至2027年",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3200707",
+      "publishedAt": "2026-11-16T14:09:14.000Z",
+      "date": "2026-11-16",
+      "observedAt": "2026-11-16T16:12:13.088Z",
+      "attention": 0,
       "emphasis": 0
     },
     {
@@ -55,7 +929,7 @@
       "publishedAt": "2026-11-16T14:07:09.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.870Z",
-      "attention": 0,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -69,7 +943,7 @@
       "publishedAt": "2026-11-16T14:06:23.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.870Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -81,7 +955,7 @@
       "publishedAt": "2026-11-16T14:05:30.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.871Z",
-      "attention": 0,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -109,7 +983,7 @@
       "publishedAt": "2026-11-16T14:04:54.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.871Z",
-      "attention": 0,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -161,7 +1035,7 @@
       "publishedAt": "2026-11-16T13:59:14.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.871Z",
-      "attention": 1,
+      "attention": 21,
       "emphasis": 0
     },
     {
@@ -215,7 +1089,7 @@
       "publishedAt": "2026-11-16T13:49:50.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.871Z",
-      "attention": 160,
+      "attention": 404,
       "emphasis": 0
     },
     {
@@ -253,7 +1127,7 @@
       "publishedAt": "2026-11-16T13:42:52.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.871Z",
-      "attention": 10,
+      "attention": 17,
       "emphasis": 0
     },
     {
@@ -279,7 +1153,7 @@
       "publishedAt": "2026-11-16T13:39:02.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.872Z",
-      "attention": 7,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -347,7 +1221,7 @@
       "publishedAt": "2026-11-16T13:31:56.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.872Z",
-      "attention": 2,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -375,7 +1249,7 @@
       "publishedAt": "2026-11-16T13:31:00.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.872Z",
-      "attention": 25,
+      "attention": 28,
       "emphasis": 0
     },
     {
@@ -401,7 +1275,7 @@
       "publishedAt": "2026-11-16T13:29:00.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.872Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -427,7 +1301,7 @@
       "publishedAt": "2026-11-16T13:26:48.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.872Z",
-      "attention": 5,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -441,7 +1315,7 @@
       "publishedAt": "2026-11-16T13:24:27.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.872Z",
-      "attention": 27,
+      "attention": 31,
       "emphasis": 0
     },
     {
@@ -497,7 +1371,7 @@
       "publishedAt": "2026-11-16T13:15:49.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.873Z",
-      "attention": 10,
+      "attention": 15,
       "emphasis": 0
     },
     {
@@ -511,7 +1385,7 @@
       "publishedAt": "2026-11-16T13:15:48.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.873Z",
-      "attention": 4,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -525,7 +1399,7 @@
       "publishedAt": "2026-11-16T13:15:37.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.873Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -551,7 +1425,7 @@
       "publishedAt": "2026-11-16T13:13:48.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.873Z",
-      "attention": 15,
+      "attention": 17,
       "emphasis": 0
     },
     {
@@ -565,7 +1439,7 @@
       "publishedAt": "2026-11-16T13:13:00.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.873Z",
-      "attention": 4,
+      "attention": 9,
       "emphasis": 0
     },
     {
@@ -579,7 +1453,7 @@
       "publishedAt": "2026-11-16T13:10:57.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.873Z",
-      "attention": 1,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -605,7 +1479,7 @@
       "publishedAt": "2026-11-16T13:06:00.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.873Z",
-      "attention": 161,
+      "attention": 266,
       "emphasis": 0
     },
     {
@@ -647,7 +1521,7 @@
       "publishedAt": "2026-11-16T13:02:04.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.874Z",
-      "attention": 3,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -661,7 +1535,7 @@
       "publishedAt": "2026-11-16T13:00:05.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.874Z",
-      "attention": 4,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -795,7 +1669,7 @@
       "publishedAt": "2026-11-16T12:32:17.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.875Z",
-      "attention": 7,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -821,7 +1695,7 @@
       "publishedAt": "2026-11-16T12:25:42.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.875Z",
-      "attention": 7,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -835,7 +1709,7 @@
       "publishedAt": "2026-11-16T12:24:42.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.875Z",
-      "attention": 53,
+      "attention": 56,
       "emphasis": 0
     },
     {
@@ -863,7 +1737,7 @@
       "publishedAt": "2026-11-16T12:23:00.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.875Z",
-      "attention": 7,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -889,7 +1763,7 @@
       "publishedAt": "2026-11-16T12:21:36.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.875Z",
-      "attention": 10,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -943,7 +1817,7 @@
       "publishedAt": "2026-11-16T12:18:47.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.876Z",
-      "attention": 4,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -995,7 +1869,7 @@
       "publishedAt": "2026-11-16T12:07:01.000Z",
       "date": "2026-11-16",
       "observedAt": "2026-11-16T14:12:17.876Z",
-      "attention": 243,
+      "attention": 276,
       "emphasis": 0
     },
     {
@@ -13528,9 +14402,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-16T14:12:16.149Z",
-      "lastSuccessAt": "2026-11-16T14:12:16.149Z",
-      "count": 11,
+      "checkedAt": "2026-11-17T11:27:28.343Z",
+      "lastSuccessAt": "2026-11-17T11:27:28.343Z",
+      "count": 9,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -13539,8 +14413,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-16T14:12:16.149Z",
-      "lastSuccessAt": "2026-11-16T14:12:16.149Z",
+      "checkedAt": "2026-11-17T11:27:28.343Z",
+      "lastSuccessAt": "2026-11-17T11:27:28.343Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -13550,9 +14424,9 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-16T14:12:16.149Z",
-      "lastSuccessAt": "2026-11-16T14:12:16.149Z",
-      "count": 68,
+      "checkedAt": "2026-11-17T11:27:28.343Z",
+      "lastSuccessAt": "2026-11-17T11:27:28.343Z",
+      "count": 54,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -13561,8 +14435,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-16T14:12:16.149Z",
-      "lastSuccessAt": "2026-11-16T14:12:16.149Z",
+      "checkedAt": "2026-11-17T11:27:28.343Z",
+      "lastSuccessAt": "2026-11-17T11:27:28.343Z",
       "count": 2,
       "message": "提取标题、可用来源摘要及原文链接"
     }

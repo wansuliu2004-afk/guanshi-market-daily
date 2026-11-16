@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "up": 1326,
+  "down": 4119,
+  "flat": 128,
+  "moneyEffect": -1.31,
+  "temperature": 23.8,
+  "sampleCount": 5573,
+  "totalListed": 5930,
+  "excludedCount": 357,
+  "complete": true,
+  "asOf": "2026-11-17T07:44:33.000Z",
+  "oldestQuoteAt": "2026-11-17T07:32:38.000Z",
+  "collectedAt": "2026-11-17T07:44:39.952Z",
+  "collectionStartedAt": "2026-11-17T07:44:27.536Z",
+  "isCloseSample": true,
+  "source": {
+    "name": "东方财富 · 全 A 股行情",
+    "url": "https://quote.eastmoney.com/center/gridlist.html#hs_a_board"
+  },
+  "scope": "沪深京 A 股当日有成交且报价有效的股票；剔除停牌、无有效报价与非当日行情",
+  "method": "日涨跌幅中位数；市场温度 = 上涨家数 / 有效成交家数 × 100",
+  "finalizedAt": "2026-11-17T07:44:39.952Z"
+}

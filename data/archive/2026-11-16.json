@@ -1,12 +1,90 @@
 {
   "date": "2026-11-16",
   "cutoffAt": "2026-11-16T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-15T16:15:24.445Z",
-  "lastSavedAt": "2026-11-16T14:12:26.323Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-16T17:21:16.115Z",
+  "sealedAt": "2026-11-16T16:12:10.173Z",
   "news": {
     "items": [
+      {
+        "id": "topic-d469d43a4bc527789bfb",
+        "title": "消息人士称360市场负责人被带走调查",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200737",
+        "summary": "财联社11月16日电，有消息人士确认，360副总裁、市场部负责人卜思南上周被警方带走调查。截至发稿，360方面暂未回应。今年8月，360集团宣布，为推进“安全+AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-16T15:01:45.000Z",
+        "date": "2026-11-16",
+        "time": "23:01",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200737"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2535958"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163932149053.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 94.2,
+        "signals": {
+          "coverage": 35,
+          "engagement": 29.6,
+          "recency": 23.1,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 1,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-cb15015e4c198af85c56",
+        "title": "SAP完成对AI初创公司TechWolf的收购 将其技术整合至SuccessFactors",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200741",
+        "summary": "财联社11月16日电，SAP宣布已完成对比利时AI工作智能平台提供商TechWolf的收购。TechWolf的专有“工作上下文图谱”（Context Graph）将成为SAP智能体查询工作及技能规划、人才管理相关信息的基础层，并整合至SAP SuccessFactors产品组合…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-16T15:13:12.000Z",
+        "date": "2026-11-16",
+        "time": "23:13",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200741"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2535962"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163932162481.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 87.3,
+        "signals": {
+          "coverage": 35,
+          "engagement": 28.9,
+          "recency": 23.4,
+          "emphasis": 0
+        },
+        "category": "公司",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 2,
+        "importance": "重磅"
+      },
       {
         "id": "topic-732789951e909da526ef",
         "title": "A股算力产业链再回应“英伟达事件影响”：采购走合规渠道，不依赖特定人员",
@@ -29,18 +107,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 76.4,
+        "score": 73.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29.5,
-          "recency": 22.9,
+          "engagement": 29.7,
+          "recency": 19.7,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 1,
+        "rank": 3,
         "importance": "重磅"
       },
       {
@@ -69,17 +147,17 @@
           }
         ],
         "sourceCount": 3,
-        "score": 75.6,
+        "score": 73.4,
         "signals": {
           "coverage": 35,
-          "engagement": 25.4,
-          "recency": 8.7,
+          "engagement": 24.4,
+          "recency": 7.5,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
-        "rank": 2,
-        "importance": "重磅"
+        "rank": 4,
+        "importance": "关注"
       },
       {
         "id": "topic-8af6deb659491e3ad8c4",
@@ -103,17 +181,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 74.8,
+        "score": 71.9,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29.7,
-          "recency": 21.1,
+          "engagement": 29.8,
+          "recency": 18.1,
           "emphasis": 6.5
         },
         "category": "政策",
         "sectors": [],
-        "rank": 3,
-        "importance": "重磅"
+        "rank": 5,
+        "importance": "关注"
       },
       {
         "id": "topic-1e6e55a2c2fc0e03dd62",
@@ -141,16 +219,50 @@
           }
         ],
         "sourceCount": 3,
-        "score": 72.5,
+        "score": 71.3,
         "signals": {
           "coverage": 35,
-          "engagement": 27.5,
-          "recency": 10,
+          "engagement": 27.7,
+          "recency": 8.6,
           "emphasis": 0
         },
         "category": "政策",
         "sectors": [],
-        "rank": 4,
+        "rank": 6,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-39f13535eec91acd7894",
+        "title": "台积电股价跌幅扩大至5% 总市值跌破2万亿美元",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2535954",
+        "summary": "财联社11月16日电，台积电股价跌幅扩大至5.25%，报377.805美元/股，总市值报1.96万亿美元。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-16T15:00:27.000Z",
+        "date": "2026-11-16",
+        "time": "23:00",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2535954"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163932155110.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 69.8,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.3,
+          "recency": 23,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 7,
         "importance": "关注"
       },
       {
@@ -175,54 +287,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 67.7,
+        "score": 65.7,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.4,
-          "recency": 14.3,
+          "recency": 12.3,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 5,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-1c2cbbf7376b07d90654",
-        "title": "胜宏科技：拟向多家银行申请合计707亿元授信额度",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200655",
-        "summary": "胜宏科技(300476.SZ)公告称，公司董事会审议通过多项议案，包括回购公司股份、向马来西亚三级全资子公司增资，以及向浦发银行、平安银行、广发银行、农业银行、渤海银行、工商银行、建设银行、中国银行等多家银行申请合计707亿元综合授信额度。此外，会议还审议通过调整2026年A股…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-16T11:39:48.000Z",
-        "date": "2026-11-16",
-        "time": "19:39",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200655"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931971692.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 67.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 29.6,
-          "recency": 20.2,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "银行"
-        ],
-        "rank": 6,
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -247,17 +323,89 @@
           }
         ],
         "sourceCount": 2,
-        "score": 67.3,
+        "score": 65.4,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.6,
-          "recency": 13.6,
+          "recency": 11.7,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
-        "rank": 7,
+        "rank": 9,
         "importance": "关注"
+      },
+      {
+        "id": "topic-f66bcce362392b4a65f0",
+        "title": "OpenAI推出医疗团队计算机操作智能体 可跨系统处理医疗工作流程",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2535912",
+        "summary": "财联社11月16日电，OpenAI宣布推进面向医疗团队的计算机操作智能体（Computer-use agents），使AI能够通过点击、输入及跨应用操作，协助医疗机构处理临床和行政工作流程，包括医疗转诊、出院规划、保险预授权及患者随访等。相关能力目前已通过OpenAI API、…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-16T14:04:54.000Z",
+        "date": "2026-11-16",
+        "time": "22:04",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2535912"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163932103238.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 64.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 25.9,
+          "recency": 21.3,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "医药生物"
+        ],
+        "rank": 10,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-1c2cbbf7376b07d90654",
+        "title": "胜宏科技：拟向多家银行申请合计707亿元授信额度",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200655",
+        "summary": "胜宏科技(300476.SZ)公告称，公司董事会审议通过多项议案，包括回购公司股份、向马来西亚三级全资子公司增资，以及向浦发银行、平安银行、广发银行、农业银行、渤海银行、工商银行、建设银行、中国银行等多家银行申请合计707亿元综合授信额度。此外，会议还审议通过调整2026年A股…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-16T11:39:48.000Z",
+        "date": "2026-11-16",
+        "time": "19:39",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200655"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163931971692.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 64.4,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.5,
+          "recency": 17.4,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "银行"
+        ],
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-97695919715fe0150bd7",
@@ -285,17 +433,53 @@
           }
         ],
         "sourceCount": 3,
-        "score": 66,
+        "score": 63.9,
         "signals": {
           "coverage": 35,
-          "engagement": 21.2,
-          "recency": 9.9,
+          "engagement": 20.4,
+          "recency": 8.5,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 8,
-        "importance": "关注"
+        "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-ff7bd7988414ee4474c4",
+        "title": "午评：创业板指半日跌超2% 工商银行等多只银行股续创历史新高",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2535089",
+        "summary": "财联社11月16日电，市场早盘震荡调整，创业板指跌超2%。沪深两市半日成交额9006亿，较上个交易日缩量788亿。全市场超3500只个股下跌。盘面上，银行板块盘中逆势走强，工商银行、建设银行、南京银行、成都银行、杭州银行、江苏银行、青岛银行创历史新高；固态电池紫竹高科涨停，领湃…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-16T03:33:31.000Z",
+        "date": "2026-11-16",
+        "time": "11:33",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2535089"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://stock.eastmoney.com/a/202611163931654995.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 62.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.2,
+          "recency": 8.9,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [
+          "银行"
+        ],
+        "rank": 13,
+        "importance": "一般"
       },
       {
         "id": "topic-2787bb6bbbdb744293b2",
@@ -323,53 +507,85 @@
           }
         ],
         "sourceCount": 3,
-        "score": 64.7,
+        "score": 61.8,
         "signals": {
           "coverage": 35,
-          "engagement": 11.5,
-          "recency": 18.2,
+          "engagement": 11.1,
+          "recency": 15.7,
           "emphasis": 0
         },
         "category": "政策",
         "sectors": [],
-        "rank": 9,
-        "importance": "关注"
+        "rank": 14,
+        "importance": "一般"
       },
       {
-        "id": "topic-ff7bd7988414ee4474c4",
-        "title": "午评：创业板指半日跌超2% 工商银行等多只银行股续创历史新高",
+        "id": "topic-3df2e5dc807da7856b88",
+        "title": "AMD完成对World Labs的收购 李飞飞出任AMD执行副总裁兼首席科学家",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2535089",
-        "summary": "财联社11月16日电，市场早盘震荡调整，创业板指跌超2%。沪深两市半日成交额9006亿，较上个交易日缩量788亿。全市场超3500只个股下跌。盘面上，银行板块盘中逆势走强，工商银行、建设银行、南京银行、成都银行、杭州银行、江苏银行、青岛银行创历史新高；固态电池紫竹高科涨停，领湃…",
+        "sourceUrl": "https://www.cls.cn/detail/2535914",
+        "summary": "财联社11月16日电，AMD宣布已完成对World Labs的收购。World Labs由人工智能领域研究人员李飞飞联合创立，专注于开发能够创建和模拟交互式3D环境的AI模型，以及机器人学习和仿真技术。李飞飞将加入AMD，担任执行副总裁兼首席科学家，直接向AMD董事长兼CEO苏…",
         "summarySource": "财联社",
-        "publishedAt": "2026-11-16T03:33:31.000Z",
+        "publishedAt": "2026-11-16T14:07:09.000Z",
         "date": "2026-11-16",
-        "time": "11:33",
+        "time": "22:07",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2535089"
+            "url": "https://www.cls.cn/detail/2535914"
           },
           {
             "name": "东方财富",
-            "url": "http://stock.eastmoney.com/a/202611163931654995.html"
+            "url": "http://finance.eastmoney.com/a/202611163932103564.html"
           }
         ],
         "sourceCount": 2,
-        "score": 63.5,
+        "score": 61.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29.2,
-          "recency": 10.3,
+          "engagement": 22.3,
+          "recency": 21.4,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 15,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-4650edca553f910fa57d",
+        "title": "国家统计局：10月就业形势总体稳定，城镇调查失业率下降",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200337",
+        "summary": "国家统计局数据显示，1—10月份，全国城镇调查失业率平均值为5.2%，与上年同期持平。10月份，全国城镇调查失业率为5.1%，比上月下降0.1个百分点。本地户籍劳动力调查失业率为5.2%；外来户籍劳动力调查失业率为4.9%，其中外来农业户籍劳动力调查失业率为4.8%。31个大城…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-16T02:02:02.000Z",
+        "date": "2026-11-16",
+        "time": "10:02",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200337"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163931606424.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 60.8,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29,
+          "recency": 7.8,
           "emphasis": 6.5
         },
         "category": "行业",
-        "sectors": [
-          "银行"
-        ],
-        "rank": 10,
-        "importance": "关注"
+        "sectors": [],
+        "rank": 16,
+        "importance": "一般"
       },
       {
         "id": "topic-8ece4bd3d9a07f47af29",
@@ -393,16 +609,50 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63.1,
+        "score": 60.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 20.2,
-          "recency": 18.9,
+          "engagement": 20,
+          "recency": 16.3,
           "emphasis": 6.5
         },
         "category": "公司",
         "sectors": [],
-        "rank": 11,
+        "rank": 17,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-283367ba12914f503b41",
+        "title": "上海社保科创基金及上海社保优选项目基金签约仪式在沪举行",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3200688",
+        "summary": "上海发布消息，上海社保科创基金及上海社保优选项目基金签约仪式今天（11月16日）在沪举行。仪式上，社保基金会与中国工商银行、国泰海通、浦东新区、静安区、徐汇区、上海国际集团签署上海社保科创基金协议。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-16T13:28:57.000Z",
+        "date": "2026-11-16",
+        "time": "21:28",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3200688"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611163932066127.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 60.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 22.3,
+          "recency": 20.3,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -431,16 +681,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 63,
+        "score": 60.1,
         "signals": {
           "coverage": 35,
-          "engagement": 9.6,
-          "recency": 18.4,
+          "engagement": 9.3,
+          "recency": 15.8,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 12,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -465,251 +715,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 62.5,
+        "score": 60,
         "signals": {
           "coverage": 17.5,
-          "engagement": 27.7,
-          "recency": 17.3,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 13,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-4650edca553f910fa57d",
-        "title": "国家统计局：10月就业形势总体稳定，城镇调查失业率下降",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200337",
-        "summary": "国家统计局数据显示，1—10月份，全国城镇调查失业率平均值为5.2%，与上年同期持平。10月份，全国城镇调查失业率为5.1%，比上月下降0.1个百分点。本地户籍劳动力调查失业率为5.2%；外来户籍劳动力调查失业率为4.9%，其中外来农业户籍劳动力调查失业率为4.8%。31个大城…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-16T02:02:02.000Z",
-        "date": "2026-11-16",
-        "time": "10:02",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200337"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931606424.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 61.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 28.9,
-          "recency": 9.1,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 14,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-283367ba12914f503b41",
-        "title": "上海社保科创基金及上海社保优选项目基金签约仪式在沪举行",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200688",
-        "summary": "上海发布消息，上海社保科创基金及上海社保优选项目基金签约仪式今天（11月16日）在沪举行。仪式上，社保基金会与中国工商银行、国泰海通、浦东新区、静安区、徐汇区、上海国际集团签署上海社保科创基金协议。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-16T13:28:57.000Z",
-        "date": "2026-11-16",
-        "time": "21:28",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200688"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163932066127.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 61.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 20.2,
-          "recency": 23.5,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 15,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-cd90bac0c8e72400392b",
-        "title": "捷捷微电：全资子公司拟投资15亿元建设车规级高功率半导体器件芯片生产线项目",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611163931877061.html",
-        "summary": "【捷捷微电：拟投资15亿元建设车规级高功率半导体器件芯片生产线】捷捷微电(300623.SZ)公告称，公司全资子公司捷捷南通科技拟建设“车规级高功率半导体器件芯片(研发、试验)生产线建设项目”，总投资15亿元。项目主要产品为1200V、2300V、3300V车规级MOSFET高…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-16T09:39:27.000Z",
-        "date": "2026-11-16",
-        "time": "17:39",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931877061.html"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200575"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 58.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 23.7,
-          "recency": 17.1,
-          "emphasis": 0
-        },
-        "category": "公司",
-        "sectors": [
-          "半导体"
-        ],
-        "rank": 16,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-8c7751b5d7e78e63fa1b",
-        "title": "国家统计局：10月一二三线城市商品住宅销售价格同比降幅继续收窄",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200305",
-        "summary": "【国家统计局：10月一二三线城市商品住宅销售价格同比降幅继续收窄】财联社11月16日电，国家统计局数据显示，10月份，一线城市新建商品住宅销售价格同比下降0.1%，降幅比上月收窄0.4个百分点。其中，北京、广州和深圳分别下降2.6%、0.4%和0.2%，上海上涨2.7%。二、三…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-16T01:32:36.000Z",
-        "date": "2026-11-16",
-        "time": "09:32",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200305"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2534938"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 57.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 24.6,
-          "recency": 8.7,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-4c618f6da69341454881",
-        "title": "中海油服：拟109.28亿元投资建造六型59艘油田工作船",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611163931872615.html",
-        "summary": "中海油服(601808.SH)公告称，公司拟投资109.28亿元(含税)建造六型59艘油田工作船，包含46艘LNG动力平台供应船与13艘大马力常规动力三用工作船，主要服务于中国沿海海域。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-16T09:26:28.000Z",
-        "date": "2026-11-16",
-        "time": "17:26",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931872615.html"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200568"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 56.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 22.6,
-          "recency": 16.8,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-c0af463e4d1722ca0d04",
-        "title": "上周宽基ETF净流出404亿元 是近三个月首周净流出",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2535016",
-        "summary": "上周，宽基ETF由净流入转为净流出，是近三个月首次出现。Wind数据显示，上周股票ETF净流出404.02亿元，其中，宽基ETF净流出432.23亿元。中证1000ETF南方净流出最多，单周流出64.96亿元；中证500ETF南方也净流出63.41亿元，科创50ETF华夏净流出…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-16T02:27:18.000Z",
-        "date": "2026-11-16",
-        "time": "10:27",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2535016"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931622691.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 56.2,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 29.4,
-          "recency": 9.4,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-686058ae97ec5184d8d4",
-        "title": "国家统计局：实现全年预期目标有支撑，也有条件",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3200405",
-        "summary": "11月16日，国家统计局新闻发言人、国民经济综合统计司副司长王冠华在国新办新闻发布会上表示，中国经济平稳运行的态势没有改变。工业增加值服务业生产指数的增速1—10月份与1—9月份持平，社会消费品零售总额的增速小幅回落0.1个百分点，货物进出口增速加快1.2个百分点，供需两端指标…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-16T04:14:35.000Z",
-        "date": "2026-11-16",
-        "time": "12:14",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3200405"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611163931663949.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 55.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 27.5,
-          "recency": 10.9,
+          "engagement": 27.6,
+          "recency": 14.9,
           "emphasis": 0
         },
         "category": "行业",
@@ -718,11 +728,11 @@
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-16T14:12:16.149Z",
-    "collectedAt": "2026-11-16T14:12:16.149Z",
-    "latestPublishedAt": "2026-11-16T14:11:19.000Z",
-    "totalCandidates": 997,
-    "financeCandidates": 699,
+    "asOf": "2026-11-16T17:21:10.640Z",
+    "collectedAt": "2026-11-16T17:21:10.640Z",
+    "latestPublishedAt": "2026-11-16T15:58:48.000Z",
+    "totalCandidates": 1064,
+    "financeCandidates": 733,
     "sources": [
       {
         "id": "cls",
@@ -730,8 +740,8 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-16T14:12:16.149Z",
-        "lastSuccessAt": "2026-11-16T14:12:16.149Z",
+        "checkedAt": "2026-11-16T17:21:10.640Z",
+        "lastSuccessAt": "2026-11-16T17:21:10.640Z",
         "count": 11,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -741,8 +751,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-16T14:12:16.149Z",
-        "lastSuccessAt": "2026-11-16T14:12:16.149Z",
+        "checkedAt": "2026-11-16T17:21:10.640Z",
+        "lastSuccessAt": "2026-11-16T17:21:10.640Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -752,9 +762,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-16T14:12:16.149Z",
-        "lastSuccessAt": "2026-11-16T14:12:16.149Z",
-        "count": 68,
+        "checkedAt": "2026-11-16T17:21:10.640Z",
+        "lastSuccessAt": "2026-11-16T17:21:10.640Z",
+        "count": 50,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -763,8 +773,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-16T14:12:16.149Z",
-        "lastSuccessAt": "2026-11-16T14:12:16.149Z",
+        "checkedAt": "2026-11-16T17:21:10.640Z",
+        "lastSuccessAt": "2026-11-16T17:21:10.640Z",
         "count": 2,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -782,7 +792,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-16",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-16T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-16",
@@ -4321,5 +4332,12 @@
       "status": "locked",
       "lockedAt": "2026-11-15T16:15:24.253Z"
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-16T16:00:00.000Z",
+    "completedAt": "2026-11-16T17:21:16.115Z",
+    "newsCollectedAt": "2026-11-16T17:21:10.640Z",
+    "marketCollectedAt": "2026-11-16T14:12:16.200Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }
