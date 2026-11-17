@@ -1,12 +1,53 @@
 {
   "date": "2026-11-17",
   "cutoffAt": "2026-11-17T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-16T16:12:16.399Z",
-  "lastSavedAt": "2026-11-17T15:26:04.575Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-17T16:22:41.392Z",
+  "sealedAt": "2026-11-17T16:22:36.440Z",
   "news": {
     "items": [
+      {
+        "id": "topic-5bd59d2282cb467e77e3",
+        "title": "美国住宅建筑商信心降至14年新低，房贷利率高企打击购房需求",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3201386",
+        "summary": "财联社11月17日电，美国住宅建筑商的情绪本月进一步恶化，降至14年新低，高企的抵押贷款利率令潜在买家望而却步，迫使建筑商更加依赖代价高昂的促销激励措施。周二公布的数据显示，全美住宅建筑商协会(NAHB)和富国编制的整体市场指数11月下降4点，至25，为2012年4月以来最低。…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-17T15:01:06.000Z",
+        "date": "2026-11-17",
+        "time": "23:01",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3201386"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2537145"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611173933267584.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 95.1,
+        "signals": {
+          "coverage": 35,
+          "engagement": 29.6,
+          "recency": 24,
+          "emphasis": 6.5
+        },
+        "category": "宏观",
+        "sectors": [
+          "银行",
+          "房地产"
+        ],
+        "rank": 1,
+        "importance": "重磅"
+      },
       {
         "id": "topic-3c75f8b71457e232ad14",
         "title": "外交部回应美国政府调查涉英伟达芯片一事",
@@ -33,11 +74,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 83.8,
+        "score": 83.2,
         "signals": {
           "coverage": 35,
           "engagement": 29.5,
-          "recency": 12.8,
+          "recency": 12.2,
           "emphasis": 6.5
         },
         "category": "海外",
@@ -45,7 +86,7 @@
           "半导体",
           "人工智能"
         ],
-        "rank": 1,
+        "rank": 2,
         "importance": "重磅"
       },
       {
@@ -74,16 +115,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 82.4,
+        "score": 81.5,
         "signals": {
           "coverage": 35,
-          "engagement": 28.3,
-          "recency": 12.7,
+          "engagement": 27.9,
+          "recency": 12.1,
           "emphasis": 6.5
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 2,
+        "rank": 3,
         "importance": "重磅"
       },
       {
@@ -112,19 +153,19 @@
           }
         ],
         "sourceCount": 3,
-        "score": 81.3,
+        "score": 80.8,
         "signals": {
           "coverage": 35,
-          "engagement": 28.2,
-          "recency": 11.6,
+          "engagement": 28.3,
+          "recency": 11,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "半导体"
         ],
-        "rank": 3,
-        "importance": "重磅"
+        "rank": 4,
+        "importance": "关注"
       },
       {
         "id": "topic-0142e563490694d67268",
@@ -152,16 +193,52 @@
           }
         ],
         "sourceCount": 3,
-        "score": 80,
+        "score": 79.1,
         "signals": {
           "coverage": 35,
-          "engagement": 27.2,
-          "recency": 11.3,
+          "engagement": 26.8,
+          "recency": 10.8,
           "emphasis": 6.5
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 4,
+        "rank": 5,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-5ac5bdd6879421467e3a",
+        "title": "美股芯片股再度普跌：美光跌5.5% 台积电跌超4%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2537151",
+        "summary": "财联社11月17日电，美股AI硬件股多数下跌，费城半导体指数跌1.90%，英伟达跌3.13%，台积电跌4.06%，美光科技跌5.47%，SK海力士跌2.54%，AMD跌2.63%，英特尔跌3.71%，阿斯麦跌2.60%，闪迪跌5.32%，迈威尔科技跌1.29%。博通逆势涨0.1…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-17T15:44:10.000Z",
+        "date": "2026-11-17",
+        "time": "23:44",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2537151"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611173933275133.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 78.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.8,
+          "recency": 24.5,
+          "emphasis": 6.5
+        },
+        "category": "海外",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 6,
         "importance": "关注"
       },
       {
@@ -186,18 +263,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 76.1,
+        "score": 75.2,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.1,
-          "recency": 23.1,
+          "recency": 22,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 5,
+        "rank": 7,
         "importance": "关注"
       },
       {
@@ -222,18 +299,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 71.8,
+        "score": 71,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.3,
-          "recency": 18.6,
+          "recency": 17.7,
           "emphasis": 6.5
         },
         "category": "海外",
         "sectors": [
           "人工智能"
         ],
-        "rank": 6,
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -262,11 +339,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 71.2,
+        "score": 70.5,
         "signals": {
           "coverage": 35,
-          "engagement": 19.6,
-          "recency": 16.6,
+          "engagement": 19.7,
+          "recency": 15.8,
           "emphasis": 0
         },
         "category": "行业",
@@ -274,7 +351,7 @@
           "人工智能",
           "新能源"
         ],
-        "rank": 7,
+        "rank": 9,
         "importance": "关注"
       },
       {
@@ -303,18 +380,18 @@
           }
         ],
         "sourceCount": 3,
-        "score": 68.4,
+        "score": 67.7,
         "signals": {
           "coverage": 35,
-          "engagement": 25,
-          "recency": 8.4,
+          "engagement": 24.7,
+          "recency": 8,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "银行"
         ],
-        "rank": 8,
+        "rank": 10,
         "importance": "关注"
       },
       {
@@ -343,51 +420,17 @@
           }
         ],
         "sourceCount": 3,
-        "score": 67.4,
+        "score": 66.4,
         "signals": {
           "coverage": 35,
-          "engagement": 14.9,
-          "recency": 17.5,
+          "engagement": 14.7,
+          "recency": 16.7,
           "emphasis": 0
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 9,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-8295195bd1875fe196a6",
-        "title": "欧科亿：拟定增募资不超9.5亿元 用于AIPCB钻针用超细硬质合金棒材研发项目等",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2536899",
-        "summary": "财联社11月17日电，欧科亿(688308.SH)公告称，公司董事会审议通过2026年度向特定对象发行A股股票方案，拟募集资金总额不超过9.5亿元，扣除发行费用后用于数控刀具产业园产能提升及技术升级项目、年产1000万片高精密磨制刀片升级项目、AIPCB钻针用超细硬质合金棒材研…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-17T10:31:46.000Z",
-        "date": "2026-11-17",
-        "time": "18:31",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2536899"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611173932972282.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 65.4,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 24.8,
-          "recency": 16.6,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 10,
-        "importance": "关注"
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-e2aa9d9e897c4c747fc8",
@@ -415,16 +458,50 @@
           }
         ],
         "sourceCount": 3,
-        "score": 65.4,
+        "score": 64.9,
         "signals": {
           "coverage": 35,
-          "engagement": 13.9,
-          "recency": 16.5,
+          "engagement": 14.1,
+          "recency": 15.7,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 11,
+        "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-8295195bd1875fe196a6",
+        "title": "欧科亿：拟定增募资不超9.5亿元 用于AIPCB钻针用超细硬质合金棒材研发项目等",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2536899",
+        "summary": "财联社11月17日电，欧科亿(688308.SH)公告称，公司董事会审议通过2026年度向特定对象发行A股股票方案，拟募集资金总额不超过9.5亿元，扣除发行费用后用于数控刀具产业园产能提升及技术升级项目、年产1000万片高精密磨制刀片升级项目、AIPCB钻针用超细硬质合金棒材研…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-17T10:31:46.000Z",
+        "date": "2026-11-17",
+        "time": "18:31",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2536899"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611173932972282.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 64.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.9,
+          "recency": 15.8,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -449,16 +526,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 65.1,
+        "score": 64.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29.5,
-          "recency": 11.6,
+          "engagement": 29.3,
+          "recency": 11.1,
           "emphasis": 6.5
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 12,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -483,50 +560,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 64.5,
+        "score": 63.9,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.1,
-          "recency": 11.4,
+          "recency": 10.8,
           "emphasis": 6.5
         },
         "category": "政策",
         "sectors": [],
-        "rank": 13,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-65e9ff5f684b98e01292",
-        "title": "外交部：美方滥用出口管制措施 中方将坚决维护自身正当权益",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3201100",
-        "summary": "【外交部批美国经济胁迫】财联社11月17日电，外交部发言人郭嘉昆主持例行记者会。有记者提问，11月16日，美国商务部发布了限制远程获取先进半导体临时最终规则，以新加坡、泰国、马来西亚、印尼和巴西存在非法对华转移芯片高风险为由，要求向相关国家企业出口先进芯片时，申请美国出口许可证…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-17T07:21:09.000Z",
-        "date": "2026-11-17",
-        "time": "15:21",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3201100"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2536528"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 63.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 26.5,
-          "recency": 12.7,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -555,18 +598,52 @@
           }
         ],
         "sourceCount": 3,
-        "score": 63.2,
+        "score": 63,
         "signals": {
           "coverage": 35,
-          "engagement": 21.6,
-          "recency": 6.6,
+          "engagement": 21.7,
+          "recency": 6.3,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 15,
+        "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-65e9ff5f684b98e01292",
+        "title": "外交部：美方滥用出口管制措施 中方将坚决维护自身正当权益",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3201100",
+        "summary": "【外交部批美国经济胁迫】财联社11月17日电，外交部发言人郭嘉昆主持例行记者会。有记者提问，11月16日，美国商务部发布了限制远程获取先进半导体临时最终规则，以新加坡、泰国、马来西亚、印尼和巴西存在非法对华转移芯片高风险为由，要求向相关国家企业出口先进芯片时，申请美国出口许可证…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-17T07:21:09.000Z",
+        "date": "2026-11-17",
+        "time": "15:21",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3201100"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2536528"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 62.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 26.2,
+          "recency": 12.2,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -591,18 +668,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 62,
+        "score": 61.4,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.9,
-          "recency": 14.7,
+          "recency": 14,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "半导体"
         ],
-        "rank": 16,
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -631,18 +708,18 @@
           }
         ],
         "sourceCount": 3,
-        "score": 61.5,
+        "score": 61.4,
         "signals": {
           "coverage": 35,
-          "engagement": 13.9,
-          "recency": 6.1,
+          "engagement": 14.1,
+          "recency": 5.8,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "银行"
         ],
-        "rank": 17,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -667,85 +744,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 61.3,
+        "score": 60.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 27.9,
-          "recency": 15.9,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-509d6949bad5939fd603",
-        "title": "医疗服务价格“有升有降” 群众就医负担总体稳定",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611173932843688.html",
-        "summary": "记者从国家医保局获悉，2018年至2025年，全国医疗服务价格总水平累计上涨26.0%，年均涨幅约3.4%，低于同期居民人均可支配收入年均增速。医疗服务价格调整“有升有降”，检查检验类项目价格有所回落，技术劳务价值进一步凸显，在医保支付政策和药耗集采政策的协同作用下，群众就医负…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-17T07:35:10.000Z",
-        "date": "2026-11-17",
-        "time": "15:35",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611173932843688.html"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2536567"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3201107"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 60.9,
-        "signals": {
-          "coverage": 35,
-          "engagement": 12.9,
-          "recency": 13,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "医药生物"
-        ],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-82c729fba13238747ebb",
-        "title": "荣盛发展：股票收盘价首次低于1元 存在可能被终止上市风险",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2536984",
-        "summary": "财联社11月17日电，荣盛发展(002146.SZ)公告称，公司股票于2026年11月17日收盘价为0.90元/股，首次低于人民币1元。根据深交所相关规定，若公司股票连续二十个交易日收盘价均低于1元，深交所将终止其股票上市交易。公司表示，正积极与各方探讨债务风险化解路径，核心管…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-17T11:44:21.000Z",
-        "date": "2026-11-17",
-        "time": "19:44",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2536984"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611173933046130.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 59.6,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 23.7,
-          "recency": 18.4,
+          "engagement": 28,
+          "recency": 15.2,
           "emphasis": 0
         },
         "category": "行业",
@@ -754,11 +757,11 @@
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-17T15:25:35.738Z",
-    "collectedAt": "2026-11-17T15:25:35.738Z",
-    "latestPublishedAt": "2026-11-17T15:24:43.000Z",
-    "totalCandidates": 1202,
-    "financeCandidates": 763,
+    "asOf": "2026-11-17T16:22:36.446Z",
+    "collectedAt": "2026-11-17T16:22:36.446Z",
+    "latestPublishedAt": "2026-11-17T15:59:44.000Z",
+    "totalCandidates": 1240,
+    "financeCandidates": 786,
     "sources": [
       {
         "id": "cls",
@@ -766,9 +769,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-17T15:25:35.738Z",
-        "lastSuccessAt": "2026-11-17T15:25:35.738Z",
-        "count": 6,
+        "checkedAt": "2026-11-17T16:22:36.446Z",
+        "lastSuccessAt": "2026-11-17T16:22:36.446Z",
+        "count": 4,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -777,8 +780,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-17T15:25:35.738Z",
-        "lastSuccessAt": "2026-11-17T15:25:35.738Z",
+        "checkedAt": "2026-11-17T16:22:36.446Z",
+        "lastSuccessAt": "2026-11-17T16:22:36.446Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -788,9 +791,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-17T15:25:35.738Z",
-        "lastSuccessAt": "2026-11-17T15:25:35.738Z",
-        "count": 50,
+        "checkedAt": "2026-11-17T16:22:36.446Z",
+        "lastSuccessAt": "2026-11-17T16:22:36.446Z",
+        "count": 42,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -799,8 +802,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "empty",
-        "checkedAt": "2026-11-17T15:25:35.738Z",
-        "lastSuccessAt": "2026-11-17T15:25:35.738Z",
+        "checkedAt": "2026-11-17T16:22:36.446Z",
+        "lastSuccessAt": "2026-11-17T16:22:36.446Z",
         "count": 0,
         "message": "暂无带独立标题的可用条目"
       }
@@ -818,7 +821,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-17",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-17T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-17",
@@ -4379,5 +4383,12 @@
       "status": "locked",
       "lockedAt": "2026-11-16T22:23:37.051Z"
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-17T16:00:00.000Z",
+    "completedAt": "2026-11-17T16:22:41.392Z",
+    "newsCollectedAt": "2026-11-17T16:22:36.446Z",
+    "marketCollectedAt": "2026-11-17T15:25:35.771Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }
