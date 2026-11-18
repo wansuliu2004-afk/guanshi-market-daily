@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-18",
   "cutoffAt": "2026-11-18T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-18T16:29:43.484Z",
   "createdAt": "2026-11-17T16:22:41.401Z",
-  "updatedAt": "2026-11-18T15:29:52.291Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-18T16:29:43.498Z",
+  "finalizedAt": "2026-11-18T16:29:43.498Z",
+  "status": "final",
   "news": {
     "date": "2026-11-18",
     "cutoffAt": "2026-11-18T16:00:00.000Z",
@@ -76,10 +76,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 80.4,
+        "score": 79.9,
         "signals": {
           "coverage": 35,
-          "engagement": 17.2,
+          "engagement": 16.7,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 12
@@ -118,7 +118,7 @@
         "score": 76.6,
         "signals": {
           "coverage": 35,
-          "engagement": 22.3,
+          "engagement": 22.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -156,10 +156,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 73.7,
+        "score": 73.8,
         "signals": {
           "coverage": 35,
-          "engagement": 23.7,
+          "engagement": 23.8,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
@@ -195,10 +195,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 70.1,
+        "score": 70.2,
         "signals": {
           "coverage": 35,
-          "engagement": 23.1,
+          "engagement": 23.2,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
@@ -234,10 +234,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 70.1,
+        "score": 69.6,
         "signals": {
           "coverage": 35,
-          "engagement": 23.1,
+          "engagement": 22.6,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
@@ -273,10 +273,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 70,
+        "score": 69.4,
         "signals": {
           "coverage": 35,
-          "engagement": 20,
+          "engagement": 19.4,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
@@ -314,10 +314,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 67.5,
+        "score": 67.6,
         "signals": {
           "coverage": 35,
-          "engagement": 17.5,
+          "engagement": 17.6,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
@@ -439,6 +439,78 @@
         "importance": "一般"
       },
       {
+        "id": "topic-b24e65581e8f22dc1890",
+        "title": "近20家A股上市公司盘后披露回购或增持计划公告 中际旭创董事长提议以最高40亿元回购股份",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2538329",
+        "summary": "截至发稿，据财联社不完全统计，盘后包括中际旭创、海亮股份、麦格米特、金科股份、永兴材料、吉林敖东、苑东生物、泰嘉股份、利欧股份、恒坤新材、阳光股份、金沃股份、顶固集创、联域股份、三生国健、江海股份、重庆路桥、通化金马、东方材料在内的19家A股上市公司披露回购或增持计划公告。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-18T15:01:35.000Z",
+        "date": "2026-11-18",
+        "time": "23:01",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2538329"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611183934326840.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 61.4,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.6,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "公司",
+        "sectors": [],
+        "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-48280aa3776a1339e9b3",
+        "title": "算力硬件股持续走高 生益电子20cm涨停",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2537636",
+        "summary": "算力硬件股持续走高，生益电子20cm涨停，腾景科技涨超10%，四会富仕、鹏鼎控股、景旺电子、长芯博创、工业富联、太辰光均涨超5%。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-18T05:22:15.000Z",
+        "date": "2026-11-18",
+        "time": "13:22",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2537636"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611183933875565.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 60.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 19.4,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 7.5
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 13,
+        "importance": "一般"
+      },
+      {
         "id": "topic-e7c35ba8967163e97509",
         "title": "胜宏科技：取得股票回购专项贷款承诺函，额度不超过2.7亿元",
         "source": "华尔街见闻",
@@ -463,14 +535,125 @@
         "score": 60.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.9,
+          "engagement": 24,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 12,
+        "rank": 14,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-4e22f4352613e24b5d6c",
+        "title": "美股盘前AI硬件股普遍反弹：英伟达、台积电涨逾3% 光通信板块表现强势",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2538016",
+        "summary": "受英伟达财报及营收展望好于市场预期提振，美股盘前AI硬件股普遍走高。英伟达涨3.33%，台积电涨3.56%，博通涨2.27%，美光科技涨3.80%，SK海力士涨4.42%，AMD涨3.05%，英特尔涨2.05%，ARM涨3.60%，闪迪涨4.58%，西部数据涨3.52%，希捷科…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-18T09:26:57.000Z",
+        "date": "2026-11-18",
+        "time": "17:26",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2538016"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611183934045430.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 60.6,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 23.8,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "海外",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 15,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-9440918fb3cd4004624a",
+        "title": "英伟达业绩展望提振情绪 美股纳指高开0.7% AI产业链走高",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2538307",
+        "summary": "美股三大指数开盘涨跌不一，道琼斯指数跌0.37%，标普500指数涨0.25%，纳斯达克综合指数涨0.74%。英伟达业绩展望提振科技股情绪，AI产业链走高，存储板块方面，海力士、西部数据涨超2%，闪迪涨超1%；光通信公司方面，Coherent、Lumentum涨超2%；新型云服务…",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-18T14:31:15.000Z",
+        "date": "2026-11-18",
+        "time": "22:31",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2538307"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611183934303556.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 60.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 23.4,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "海外",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-87a03d1482dc6467c284",
+        "title": "英伟达预计第四季度营收1261亿至1339亿美元 高于市场预期",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2537257",
+        "summary": "财联社11月18日电，英伟达第三季度营收1158亿美元，环比增长20.3%，同比增长103.1%，预期1093.3亿美元。其中数据中心营收1076亿美元，环比增长21%，同比增长110%，预期1018.7亿美元。调整后毛利率74.9%。英伟达预计第四季度营收1261亿至1339…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-17T21:20:40.000Z",
+        "date": "2026-11-18",
+        "time": "05:20",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2537257"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611183933318736.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 60,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 23.2,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -499,199 +682,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 60.6,
+        "score": 60,
         "signals": {
           "coverage": 35,
-          "engagement": 22.6,
+          "engagement": 22,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
         },
         "category": "海外",
         "sectors": [],
-        "rank": 13,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-48280aa3776a1339e9b3",
-        "title": "算力硬件股持续走高 生益电子20cm涨停",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2537636",
-        "summary": "算力硬件股持续走高，生益电子20cm涨停，腾景科技涨超10%，四会富仕、鹏鼎控股、景旺电子、长芯博创、工业富联、太辰光均涨超5%。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-18T05:22:15.000Z",
-        "date": "2026-11-18",
-        "time": "13:22",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2537636"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611183933875565.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 60.6,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 19.3,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 7.5
-        },
-        "category": "行业",
-        "sectors": [
-          "人工智能"
-        ],
-        "rank": 14,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-b24e65581e8f22dc1890",
-        "title": "近20家A股上市公司盘后披露回购或增持计划公告 中际旭创董事长提议以最高40亿元回购股份",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2538329",
-        "summary": "截至发稿，据财联社不完全统计，盘后包括中际旭创、海亮股份、麦格米特、金科股份、永兴材料、吉林敖东、苑东生物、泰嘉股份、利欧股份、恒坤新材、阳光股份、金沃股份、顶固集创、联域股份、三生国健、江海股份、重庆路桥、通化金马、东方材料在内的19家A股上市公司披露回购或增持计划公告。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-18T15:01:35.000Z",
-        "date": "2026-11-18",
-        "time": "23:01",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2538329"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611183934326840.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 60.6,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 23.9,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "公司",
-        "sectors": [],
-        "rank": 15,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-4e22f4352613e24b5d6c",
-        "title": "美股盘前AI硬件股普遍反弹：英伟达、台积电涨逾3% 光通信板块表现强势",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2538016",
-        "summary": "受英伟达财报及营收展望好于市场预期提振，美股盘前AI硬件股普遍走高。英伟达涨3.33%，台积电涨3.56%，博通涨2.27%，美光科技涨3.80%，SK海力士涨4.42%，AMD涨3.05%，英特尔涨2.05%，ARM涨3.60%，闪迪涨4.58%，西部数据涨3.52%，希捷科…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-18T09:26:57.000Z",
-        "date": "2026-11-18",
-        "time": "17:26",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2538016"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611183934045430.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 60.5,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 23.8,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "海外",
-        "sectors": [
-          "人工智能"
-        ],
-        "rank": 16,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-9440918fb3cd4004624a",
-        "title": "英伟达业绩展望提振情绪 美股纳指高开0.7% AI产业链走高",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2538307",
-        "summary": "美股三大指数开盘涨跌不一，道琼斯指数跌0.37%，标普500指数涨0.25%，纳斯达克综合指数涨0.74%。英伟达业绩展望提振科技股情绪，AI产业链走高，存储板块方面，海力士、西部数据涨超2%，闪迪涨超1%；光通信公司方面，Coherent、Lumentum涨超2%；新型云服务…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-18T14:31:15.000Z",
-        "date": "2026-11-18",
-        "time": "22:31",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2538307"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611183934303556.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 60,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 23.3,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "海外",
-        "sectors": [
-          "人工智能"
-        ],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-87a03d1482dc6467c284",
-        "title": "英伟达预计第四季度营收1261亿至1339亿美元 高于市场预期",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2537257",
-        "summary": "财联社11月18日电，英伟达第三季度营收1158亿美元，环比增长20.3%，同比增长103.1%，预期1093.3亿美元。其中数据中心营收1076亿美元，环比增长21%，同比增长110%，预期1018.7亿美元。调整后毛利率74.9%。英伟达预计第四季度营收1261亿至1339…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-17T21:20:40.000Z",
-        "date": "2026-11-18",
-        "time": "05:20",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2537257"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611183933318736.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 59.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 23.2,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "行业",
-        "sectors": [
-          "人工智能"
-        ],
         "rank": 18,
         "importance": "一般"
       },
@@ -721,10 +721,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 58.5,
+        "score": 58.1,
         "signals": {
           "coverage": 35,
-          "engagement": 16,
+          "engagement": 15.6,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -758,10 +758,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 57.5,
+        "score": 57.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 20.8,
+          "engagement": 20.9,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -772,11 +772,11 @@
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-18T15:29:36.528Z",
-    "collectedAt": "2026-11-18T15:29:36.528Z",
-    "latestPublishedAt": "2026-11-18T15:23:18.000Z",
-    "totalCandidates": 1159,
-    "financeCandidates": 785,
+    "asOf": "2026-11-18T16:29:38.072Z",
+    "collectedAt": "2026-11-18T16:29:38.072Z",
+    "latestPublishedAt": "2026-11-18T15:56:57.000Z",
+    "totalCandidates": 1185,
+    "financeCandidates": 802,
     "sources": [
       {
         "id": "cls",
@@ -784,9 +784,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-18T15:29:36.528Z",
-        "lastSuccessAt": "2026-11-18T15:29:36.528Z",
-        "count": 7,
+        "checkedAt": "2026-11-18T16:29:38.072Z",
+        "lastSuccessAt": "2026-11-18T16:29:38.072Z",
+        "count": 8,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -795,8 +795,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-18T15:29:36.528Z",
-        "lastSuccessAt": "2026-11-18T15:29:36.528Z",
+        "checkedAt": "2026-11-18T16:29:38.072Z",
+        "lastSuccessAt": "2026-11-18T16:29:38.072Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -806,9 +806,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-18T15:29:36.528Z",
-        "lastSuccessAt": "2026-11-18T15:29:36.528Z",
-        "count": 45,
+        "checkedAt": "2026-11-18T16:29:38.072Z",
+        "lastSuccessAt": "2026-11-18T16:29:38.072Z",
+        "count": 37,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -817,8 +817,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "empty",
-        "checkedAt": "2026-11-18T15:29:36.528Z",
-        "lastSuccessAt": "2026-11-18T15:29:36.528Z",
+        "checkedAt": "2026-11-18T16:29:38.072Z",
+        "lastSuccessAt": "2026-11-18T16:29:38.072Z",
         "count": 0,
         "message": "暂无带独立标题的可用条目"
       }
@@ -834,8 +834,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-18T16:29:43.498Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-17T16:22:37.616Z"
