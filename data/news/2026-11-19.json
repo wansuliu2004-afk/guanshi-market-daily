@@ -1,7 +1,241 @@
 {
   "date": "2026-11-19",
-  "asOf": "2026-11-19T15:34:26.565Z",
+  "asOf": "2026-11-20T11:33:38.805Z",
   "records": [
+    {
+      "id": "wallstreet-f005c4cb97fe3839829c",
+      "title": "报道：中国铜市逼空催生交易机会，美国巨量铜库存开始流向中国",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3202692",
+      "publishedAt": "2026-11-19T15:56:59.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.881Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-c5ee52417f70e6dd098a",
+      "title": "AMD跌幅扩大至11% 至11月9日以来最低水平",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935416579.html",
+      "summary": "AMD跌幅扩大至11%，至11月9日以来最低水平。此前Hunterbrook表示做空该公司。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-19T15:53:56.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.898Z",
+      "attention": 4,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-9f953c09dc3371d1f29a",
+      "title": "美联储副主席杰斐逊表示：对改变通胀目标不感兴趣",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://forex.eastmoney.com/a/202611193935415918.html",
+      "publishedAt": "2026-11-19T15:52:08.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.898Z",
+      "attention": 12,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-ea959a20509166b23bb3",
+      "title": "Anthropic CEO称公司目前“很享受”与SpaceX的合作",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2539457",
+      "summary": "财联社11月19日电，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）表示，公司目前“很享受”与SpaceX的合作。他称，虽然无法确定未来会如何安排，但目前SpaceX提供的算力质量很高，公司也很享受双方的合作。此前市场曾猜测Anthropic可能缩减对…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-19T15:49:52.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:02.470Z",
+      "attention": 502340,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-8b3199db6539c38172a2",
+      "title": "Anthropic CEO称公司目前“很享受”与SpaceX的合作",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935415511.html",
+      "summary": "Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）表示，公司目前“很享受”与SpaceX的合作。他称，虽然无法确定未来会如何安排，但目前SpaceX提供的算力质量很高，公司也很享受双方的合作。此前市场曾猜测Anthropic可能缩减对SpaceX算力资源的使…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-19T15:49:52.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.898Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-50298c13bc05d8ba0f92",
+      "title": "人工智能公司Anthropic高管Rao表示：公司目前75%的算力资源分配给研发活动",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935414466.html",
+      "publishedAt": "2026-11-19T15:46:37.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.898Z",
+      "attention": 5,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-e709c6958620a223ccae",
+      "title": "美国参议院许可法案提案人寻求数据中心豁免",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3202686",
+      "publishedAt": "2026-11-19T15:45:34.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.881Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-a7139d1a38d270ca2263",
+      "title": "农大科技：累计回购83.8万股",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935412670.html",
+      "summary": "农大科技公告，截止2026年11月18日，公司通过回购股份专用证券账户以连续竞价方式回购公司股份838,402股，占公司总股本的1.10%，占预计回购数量上限的63.72%，最高成交价为29.11元/股，最低成交价为24.77元/股，已支付的总金额为21,586,590.68元…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-19T15:42:43.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.898Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-ebeda2402f1fcd0df300",
+      "title": "天罡股份：控股股东、实际控制人的一致行动人去世",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935412778.html",
+      "summary": "天罡股份公告，公司控股股东、实际控制人的一致行动人戚其荣近日因病逝世。戚其荣与公司控股股东、实际控制人、董事长、总经理付涛为母子关系，与实际控制人付成林为母子关系，系公司控股股东、实际控制人的一致行动人，未在公司担任董事或高级管理人员职务。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-19T15:41:42.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.898Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-07a2da77a878f87be6b9",
+      "title": "费城半导体指数回吐此前一度高达近5%的涨幅 现已转跌",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935412341.html",
+      "publishedAt": "2026-11-19T15:40:31.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.898Z",
+      "attention": 13,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-db88ac2a2538a5667095",
+      "title": "Anthropic敲响纳斯达克开市钟 创史上最大规模IPO纪录",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935412989.html",
+      "summary": "当地时间11月19日，Anthropic联合创始人兼首席执行官达里奥·阿莫代伊及联合创始人兼总裁丹妮拉·阿莫代伊在纽约纳斯达克敲响开市钟，标志着公司正式登陆纳斯达克，股票代码为ANT。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-19T15:40:11.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.899Z",
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-f28c81a1489509d6d43f",
+      "title": "AMD跌幅快速扩大至8% 此前Hunterbrook表示做空该公司",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://stock.eastmoney.com/a/202611193935412032.html",
+      "publishedAt": "2026-11-19T15:40:01.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.899Z",
+      "attention": 20,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-cc4d4848c788870de409",
+      "title": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935409571.html",
+      "summary": "纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-19T15:37:39.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.899Z",
+      "attention": 24,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-02d7dcdaa2a77b6ac1e8",
+      "title": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2539450",
+      "summary": "财联社11月19日电，纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-19T15:37:13.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:02.470Z",
+      "attention": 515763,
+      "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-36a35e093d3089c517e8",
+      "title": "奥美森：募投项目研发中心于2026年10月完成项目用地并证工作",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935409157.html",
+      "summary": "奥美森发布投资者关系活动记录表，募投项目金属管材数字化成型装备及其他订制类智能设备生产基地于2026年1月动工，2026年10月主体建筑封顶，预计2027年3月底竣工并逐步投入使用。募投项目研发中心于2026年10月完成项目用地并证工作，正在筹备报建。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-19T15:34:12.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.899Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-8791ffbab8b14c8cad22",
+      "title": "美国股市转跌，科技股涨势消退",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3202681",
+      "publishedAt": "2026-11-19T15:33:30.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.881Z",
+      "attention": 0,
+      "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-1bb0033b7fa09bc81605",
+      "title": "现货黄金日内跌幅扩大至1% 报3686.11美元/盎司",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935406926.html",
+      "publishedAt": "2026-11-19T15:30:59.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.899Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-2bdf3d2cfe9bdde3c6d9",
+      "title": "美国上周EIA天然气库存增加200亿立方英尺 预期增加270亿立方英尺 前值增加610亿立方英尺",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://futures.eastmoney.com/a/202611193935406670.html",
+      "publishedAt": "2026-11-19T15:30:34.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.899Z",
+      "attention": 0,
+      "emphasis": 0
+    },
     {
       "id": "cls-c5cd1d9102460f65708b",
       "title": "Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大",
@@ -13,7 +247,35 @@
       "publishedAt": "2026-11-19T15:29:55.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:27.694Z",
-      "attention": 8614,
+      "attention": 472931,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-ef59612ff9cd4132d6ef",
+      "title": "Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935406726.html",
+      "summary": "Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）为公司高达9000亿美元的AI投入承诺进行辩护。他表示，如果考虑公司资产负债表上的现金规模以及目前每年已实现的收入，这些承诺看起来就没有那么庞大。阿莫代伊还表示，公司在预测算力需求时，倾向于采取相对保守的估算…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-19T15:29:55.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.899Z",
+      "attention": 7,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-fb19c15cc3aaa09eebae",
+      "title": "方程豹钛9正式上市 比亚迪成全球首家率先实现折叠技术上车量产的车企",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611193935406887.html",
+      "summary": "11月19日晚，比亚迪方程豹钛9正式上市。钛9首搭比亚迪最新科技成果“折叠智舱”和“DMS超级混动全能平台”。钛9顶配版首搭量产比亚迪科技创新重大技术成果——折叠智舱，此技术是折叠方向盘在汽车领域的首次正式量产，也是比亚迪布局L3、L4智能驾驶的重大成果。比亚迪成为全球首家率先…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-19T15:29:00.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.899Z",
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -55,7 +317,7 @@
       "publishedAt": "2026-11-19T15:27:38.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.092Z",
-      "attention": 0,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -69,7 +331,7 @@
       "publishedAt": "2026-11-19T15:26:02.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.092Z",
-      "attention": 0,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -136,7 +398,7 @@
     },
     {
       "id": "eastmoney-f2ea21a4382597b8bc82",
-      "title": "标普500指数指数涨幅收窄",
+      "title": "标普500指数涨幅收窄",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://stock.eastmoney.com/a/202611193935400584.html",
@@ -145,7 +407,7 @@
       "publishedAt": "2026-11-19T15:18:47.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.093Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -157,7 +419,7 @@
       "publishedAt": "2026-11-19T15:17:53.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.093Z",
-      "attention": 5,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -223,7 +485,7 @@
       "publishedAt": "2026-11-19T15:12:10.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.094Z",
-      "attention": 1,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -237,7 +499,7 @@
       "publishedAt": "2026-11-19T15:08:42.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.094Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -263,7 +525,7 @@
       "publishedAt": "2026-11-19T15:07:10.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.094Z",
-      "attention": 0,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -287,7 +549,7 @@
       "publishedAt": "2026-11-19T15:06:23.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.094Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -299,6 +561,18 @@
       "publishedAt": "2026-11-19T15:05:30.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:30.320Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-f8580011c772fd5b18d2",
+      "title": "墨西哥央行：比索疲软不太可能推高通胀",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3202664",
+      "publishedAt": "2026-11-19T15:04:48.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.882Z",
       "attention": 0,
       "emphasis": 0
     },
@@ -337,7 +611,7 @@
       "publishedAt": "2026-11-19T15:02:14.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.095Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -365,7 +639,7 @@
       "publishedAt": "2026-11-19T15:01:01.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.095Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -379,7 +653,7 @@
       "publishedAt": "2026-11-19T15:00:43.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.095Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -417,7 +691,7 @@
       "publishedAt": "2026-11-19T14:55:08.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.095Z",
-      "attention": 9,
+      "attention": 16,
       "emphasis": 0
     },
     {
@@ -436,10 +710,12 @@
     },
     {
       "id": "eastmoney-a93aec60bcf14e14e13c",
-      "title": "SpaceX计划于周四发行至少320亿美元的人工智能芯片相关债务",
+      "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://bond.eastmoney.com/a/202611193935385230.html",
+      "summary": "马斯克旗下SpaceX据悉计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。知情人士称，这笔债务融资由三部分组成，期限约为四年至六年。高盛集团和阿波罗全球管理担任这笔交易的管理人。",
+      "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-19T14:53:45.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.095Z",
@@ -448,13 +724,25 @@
     },
     {
       "id": "wallstreet-6a4304253c2ff16fd032",
-      "title": "Anthropic今夜首秀：暗盘最高暴涨26%，估值冲击1.5万亿美元！",
+      "title": "史上最大IPO落地！Anthropic首秀开盘涨34%、市值突破2万亿",
       "source": "华尔街见闻",
       "sourceId": "wallstreet",
       "sourceUrl": "https://wallstreetcn.com/articles/3786269",
       "publishedAt": "2026-11-19T14:53:11.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:30.320Z",
+      "attention": 0,
+      "emphasis": 0.65
+    },
+    {
+      "id": "wallstreet-b7f571ffd95ef75793ac",
+      "title": "报道：SpaceX拟周四发行至少320亿美元AI芯片债务",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3202656",
+      "publishedAt": "2026-11-19T14:51:57.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.882Z",
       "attention": 0,
       "emphasis": 0.65
     },
@@ -483,7 +771,7 @@
       "publishedAt": "2026-11-19T14:51:35.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.095Z",
-      "attention": 9,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -645,7 +933,7 @@
       "publishedAt": "2026-11-19T14:45:07.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.096Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -697,7 +985,7 @@
       "publishedAt": "2026-11-19T14:41:47.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.096Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -747,7 +1035,7 @@
       "publishedAt": "2026-11-19T14:40:25.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.097Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -773,7 +1061,7 @@
       "publishedAt": "2026-11-19T14:37:13.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.097Z",
-      "attention": 38,
+      "attention": 52,
       "emphasis": 0
     },
     {
@@ -799,7 +1087,19 @@
       "publishedAt": "2026-11-19T14:36:12.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.097Z",
-      "attention": 7,
+      "attention": 8,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-27ca385cb8617de38f0d",
+      "title": "伊朗称霍尔木兹海峡问题解决前不谈核问题",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3202638",
+      "publishedAt": "2026-11-19T14:33:47.000Z",
+      "date": "2026-11-19",
+      "observedAt": "2026-11-19T16:38:03.884Z",
+      "attention": 0,
       "emphasis": 0
     },
     {
@@ -825,7 +1125,7 @@
       "publishedAt": "2026-11-19T14:33:11.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.097Z",
-      "attention": 11,
+      "attention": 14,
       "emphasis": 0
     },
     {
@@ -891,7 +1191,7 @@
       "publishedAt": "2026-11-19T14:30:49.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T14:37:56.523Z",
-      "attention": 9,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -919,7 +1219,7 @@
       "publishedAt": "2026-11-19T14:27:35.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T15:34:28.098Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -1039,7 +1339,7 @@
       "publishedAt": "2026-11-19T14:12:19.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T14:37:56.523Z",
-      "attention": 38,
+      "attention": 42,
       "emphasis": 0
     },
     {
@@ -1209,7 +1509,7 @@
       "publishedAt": "2026-11-19T14:04:08.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T14:37:56.524Z",
-      "attention": 19,
+      "attention": 20,
       "emphasis": 0
     },
     {
@@ -1249,7 +1549,7 @@
       "publishedAt": "2026-11-19T13:57:48.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T14:37:56.524Z",
-      "attention": 34,
+      "attention": 36,
       "emphasis": 0
     },
     {
@@ -1287,7 +1587,7 @@
       "publishedAt": "2026-11-19T13:50:00.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T14:37:56.524Z",
-      "attention": 4,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -1341,7 +1641,7 @@
       "publishedAt": "2026-11-19T13:46:00.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T14:37:56.524Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -1425,7 +1725,7 @@
       "publishedAt": "2026-11-19T13:30:42.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T13:45:03.692Z",
-      "attention": 184,
+      "attention": 192,
       "emphasis": 0
     },
     {
@@ -1533,7 +1833,7 @@
       "publishedAt": "2026-11-19T13:26:36.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T13:45:03.693Z",
-      "attention": 318,
+      "attention": 350,
       "emphasis": 0
     },
     {
@@ -1547,7 +1847,7 @@
       "publishedAt": "2026-11-19T13:26:00.000Z",
       "date": "2026-11-19",
       "observedAt": "2026-11-19T13:45:03.693Z",
-      "attention": 5,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -16203,11 +16503,11 @@
       "name": "财联社",
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
-      "status": "ok",
-      "checkedAt": "2026-11-19T15:34:26.565Z",
-      "lastSuccessAt": "2026-11-19T15:34:26.565Z",
-      "count": 6,
-      "message": "提取标题、可用来源摘要及原文链接"
+      "status": "error",
+      "checkedAt": "2026-11-20T11:33:38.805Z",
+      "lastSuccessAt": "2026-11-20T10:39:42.048Z",
+      "count": 0,
+      "message": "fetch failed"
     },
     {
       "id": "eastmoney",
@@ -16215,8 +16515,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-19T15:34:26.565Z",
-      "lastSuccessAt": "2026-11-19T15:34:26.565Z",
+      "checkedAt": "2026-11-20T11:33:38.805Z",
+      "lastSuccessAt": "2026-11-20T11:33:38.805Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -16226,9 +16526,9 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-19T15:34:26.565Z",
-      "lastSuccessAt": "2026-11-19T15:34:26.565Z",
-      "count": 53,
+      "checkedAt": "2026-11-20T11:33:38.805Z",
+      "lastSuccessAt": "2026-11-20T11:33:38.805Z",
+      "count": 60,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -16237,8 +16537,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-19T15:34:26.565Z",
-      "lastSuccessAt": "2026-11-19T15:34:26.565Z",
+      "checkedAt": "2026-11-20T11:33:38.805Z",
+      "lastSuccessAt": "2026-11-20T11:33:38.805Z",
       "count": 1,
       "message": "提取标题、可用来源摘要及原文链接"
     }

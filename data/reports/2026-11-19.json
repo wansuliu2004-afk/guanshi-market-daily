@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-19",
   "cutoffAt": "2026-11-19T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-19T16:38:07.786Z",
   "createdAt": "2026-11-18T16:29:43.498Z",
-  "updatedAt": "2026-11-19T15:34:42.812Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-19T16:38:07.800Z",
+  "finalizedAt": "2026-11-19T16:38:07.800Z",
+  "status": "final",
   "news": {
     "date": "2026-11-19",
     "cutoffAt": "2026-11-19T16:00:00.000Z",
@@ -40,7 +40,7 @@
         "score": 79,
         "signals": {
           "coverage": 35,
-          "engagement": 24.7,
+          "engagement": 24.8,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -74,7 +74,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 69.9,
+        "score": 70,
         "signals": {
           "coverage": 17.5,
           "engagement": 24.2,
@@ -113,10 +113,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 69.8,
+        "score": 69.4,
         "signals": {
           "coverage": 35,
-          "engagement": 15.6,
+          "engagement": 15.1,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -148,10 +148,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 67.2,
+        "score": 67,
         "signals": {
           "coverage": 17.5,
-          "engagement": 18.4,
+          "engagement": 18.2,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 15
@@ -186,10 +186,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 64.1,
+        "score": 63.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 15.4,
+          "engagement": 14.9,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 15
@@ -224,7 +224,7 @@
         "score": 62.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.6,
+          "engagement": 21.5,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 7.5
@@ -262,10 +262,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 62.8,
+        "score": 62.2,
         "signals": {
           "coverage": 35,
-          "engagement": 24.8,
+          "engagement": 24.2,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -346,6 +346,41 @@
         "importance": "关注"
       },
       {
+        "id": "topic-b050faedfe74b21086ec",
+        "title": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2539450",
+        "summary": "纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-19T15:37:13.000Z",
+        "date": "2026-11-19",
+        "time": "23:37",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2539450"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611193935409571.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 61.5,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.8,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 10,
+        "importance": "关注"
+      },
+      {
         "id": "topic-4c45162db62648f83038",
         "title": "阿里巴巴：2027财年第二季度营收2,715.2亿元 同比增长10%",
         "source": "财联社",
@@ -377,8 +412,8 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 10,
-        "importance": "关注"
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-9a53d92d379f3ffdb8d0",
@@ -402,7 +437,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 61.3,
+        "score": 61.4,
         "signals": {
           "coverage": 17.5,
           "engagement": 24.6,
@@ -412,7 +447,7 @@
         },
         "category": "海外",
         "sectors": [],
-        "rank": 11,
+        "rank": 12,
         "importance": "一般"
       },
       {
@@ -437,10 +472,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.7,
+        "score": 60.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24,
+          "engagement": 23.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -449,7 +484,7 @@
         "sectors": [
           "消费电子"
         ],
-        "rank": 12,
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -477,14 +512,14 @@
         "score": 59.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.8,
+          "engagement": 22.9,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -513,10 +548,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 59.6,
+        "score": 59.4,
         "signals": {
           "coverage": 35,
-          "engagement": 9.6,
+          "engagement": 9.4,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
@@ -525,7 +560,7 @@
         "sectors": [
           "有色金属"
         ],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -550,17 +585,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 58.3,
+        "score": 57.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.5,
+          "engagement": 21,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 15,
+        "rank": 16,
         "importance": "一般"
       },
       {
@@ -585,17 +620,52 @@
           }
         ],
         "sourceCount": 2,
-        "score": 57.7,
+        "score": 57.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 20.9,
+          "engagement": 20.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 16,
+        "rank": 17,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-f07f9989c157db24a451",
+        "title": "Anthropic IPO提振市场情绪 美股纳指高开1.6% 存储、光通信等板块上扬",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2539411",
+        "summary": "财联社11月18日电，美股三大指数开盘集体上涨，道琼斯指数涨0.44%，标普500指数涨0.98%，纳斯达克综合指数涨1.58%。Anthropic IPO提振市场情绪，AI产业链走高，存储板块方面，海力士、闪迪、美光科技涨超4%；光通信公司方面，Coherent涨超6%，Lu…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-19T14:31:03.000Z",
+        "date": "2026-11-19",
+        "time": "22:31",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2539411"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611193935363381.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 57.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 20.4,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "海外",
+        "sectors": [],
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -624,17 +694,17 @@
           }
         ],
         "sourceCount": 3,
-        "score": 57,
+        "score": 56.7,
         "signals": {
           "coverage": 35,
-          "engagement": 10,
+          "engagement": 9.7,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 17,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -663,97 +733,25 @@
           }
         ],
         "sourceCount": 3,
-        "score": 56.9,
+        "score": 56.3,
         "signals": {
           "coverage": 35,
-          "engagement": 18.9,
+          "engagement": 18.3,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-f07f9989c157db24a451",
-        "title": "Anthropic IPO提振市场情绪 美股纳指高开1.6% 存储、光通信等板块上扬",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2539411",
-        "summary": "财联社11月18日电，美股三大指数开盘集体上涨，道琼斯指数涨0.44%，标普500指数涨0.98%，纳斯达克综合指数涨1.58%。Anthropic IPO提振市场情绪，AI产业链走高，存储板块方面，海力士、闪迪、美光科技涨超4%；光通信公司方面，Coherent涨超6%，Lu…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-19T14:31:03.000Z",
-        "date": "2026-11-19",
-        "time": "22:31",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2539411"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611193935363381.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 56.8,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 20,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "海外",
-        "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-b40dde8ec617c30c83ce",
-        "title": "纳指收涨0.42% 芯片股表现分化",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2538414",
-        "summary": "美股三大股指收盘涨跌不一，道琼斯指数跌1.11%，标普500指数跌0.23%，纳斯达克综合指数涨0.42%。芯片股表现分化，英伟达跌近3%，美光科技跌1%，英特尔跌近1%；AMD涨超5%，博通涨超3%。权重科技股多数走高，亚马逊涨近4%，SpaceX涨超1%，特斯拉涨近1%，苹…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-18T21:01:09.000Z",
-        "date": "2026-11-19",
-        "time": "05:01",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2538414"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611193934389182.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 55.2,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 13.9,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 7.5
-        },
-        "category": "行业",
-        "sectors": [
-          "半导体"
-        ],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-19T15:34:26.565Z",
-    "collectedAt": "2026-11-19T15:34:26.565Z",
-    "latestPublishedAt": "2026-11-19T15:29:55.000Z",
-    "totalCandidates": 1196,
-    "financeCandidates": 779,
+    "asOf": "2026-11-19T16:38:01.189Z",
+    "collectedAt": "2026-11-19T16:38:01.189Z",
+    "latestPublishedAt": "2026-11-19T15:56:59.000Z",
+    "totalCandidates": 1219,
+    "financeCandidates": 798,
     "sources": [
       {
         "id": "cls",
@@ -761,9 +759,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-19T15:34:26.565Z",
-        "lastSuccessAt": "2026-11-19T15:34:26.565Z",
-        "count": 6,
+        "checkedAt": "2026-11-19T16:38:01.189Z",
+        "lastSuccessAt": "2026-11-19T16:38:01.189Z",
+        "count": 5,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -772,8 +770,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-19T15:34:26.565Z",
-        "lastSuccessAt": "2026-11-19T15:34:26.565Z",
+        "checkedAt": "2026-11-19T16:38:01.189Z",
+        "lastSuccessAt": "2026-11-19T16:38:01.189Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -783,9 +781,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-19T15:34:26.565Z",
-        "lastSuccessAt": "2026-11-19T15:34:26.565Z",
-        "count": 53,
+        "checkedAt": "2026-11-19T16:38:01.189Z",
+        "lastSuccessAt": "2026-11-19T16:38:01.189Z",
+        "count": 45,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -794,8 +792,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-19T15:34:26.565Z",
-        "lastSuccessAt": "2026-11-19T15:34:26.565Z",
+        "checkedAt": "2026-11-19T16:38:01.189Z",
+        "lastSuccessAt": "2026-11-19T16:38:01.189Z",
         "count": 1,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -811,8 +809,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-19T16:38:07.800Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-18T16:29:38.916Z"
