@@ -1,0 +1,1853 @@
+{
+  "date": "2026-11-21",
+  "cutoffAt": "2026-11-21T16:00:00.000Z",
+  "status": "collecting",
+  "firstSavedAt": "2026-11-20T16:28:43.073Z",
+  "lastSavedAt": "2026-11-21T15:23:36.882Z",
+  "sealedAt": null,
+  "news": {
+    "items": [
+      {
+        "id": "topic-9ef80b82a777205af739",
+        "title": "软银孙正义曾探讨以1万亿美元收购SK海力士",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203635",
+        "summary": "财联社11月21日电，据报道，软银CEO孙正义近期曾与华尔街机构接洽，探讨为可能以1万亿美元收购SK海力士融资。但软银发言人表示，孙正义已不再积极考虑该交易。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T02:35:17.000Z",
+        "date": "2026-11-21",
+        "time": "10:35",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203635"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540756"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936792075.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 79,
+        "signals": {
+          "coverage": 35,
+          "engagement": 28.9,
+          "recency": 8.6,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 1,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-e8f870b0d2f11a9c2c03",
+        "title": "沐曦股份曦云C系列GPU率先完成腾讯混元Hy4 Day 0适配",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203645",
+        "summary": "财联社11月21日电，据沐曦股份消息，11月20日，腾讯混元正式开源Hy4。沐曦股份旗下曦云C系列GPU率先完成Hy4的Day 0适配。目前，Hy4在曦云C系列GPU平台上实现高吞吐、低延迟的稳定运行，并在复杂任务与长序列场景下保持优异表现。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T05:38:12.000Z",
+        "date": "2026-11-21",
+        "time": "13:38",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203645"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540779"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936804748.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 72.5,
+        "signals": {
+          "coverage": 35,
+          "engagement": 26.4,
+          "recency": 11.1,
+          "emphasis": 0
+        },
+        "category": "公司",
+        "sectors": [],
+        "rank": 2,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-9c09e6d12227400dee9b",
+        "title": "重庆发布86项低空产业发展机会清单 总投资约289亿元",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203657",
+        "summary": "11月21日下午，重庆国际人才交流大会·超大城市低空综合治理产业人才发展大会在重庆举行。大会发布低空产业发展机会清单86项，预计总投资约289亿元。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-21T09:53:19.000Z",
+        "date": "2026-11-21",
+        "time": "17:53",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203657"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936829549.html"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540807"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 72.1,
+        "signals": {
+          "coverage": 35,
+          "engagement": 21.3,
+          "recency": 15.8,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 3,
+        "importance": "重磅"
+      },
+      {
+        "id": "topic-e5846ffb5971ceba6e65",
+        "title": "国家发展改革委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
+        "source": "东方财富",
+        "sourceId": "eastmoney",
+        "sourceUrl": "http://finance.eastmoney.com/a/202611213936798685.html",
+        "summary": "11月20日，国家发展改革委召开政府投资资金支付使用和项目储备工作视频会议，委党组成员、副主任岳修虎同志出席并讲话。会议通报了各地政府投资资金支付使用和重大项目储备工作情况，浙江、河南、广东、黑龙江、安徽、陕西等6省发展改革委负责同志作了交流发言。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-21T03:49:22.000Z",
+        "date": "2026-11-21",
+        "time": "11:49",
+        "relatedSources": [
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936798685.html"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540767"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203640"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 71.7,
+        "signals": {
+          "coverage": 35,
+          "engagement": 27.1,
+          "recency": 9.5,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 4,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-e96dcc118cff21729ee8",
+        "title": "阿根廷政府批准该国规模最大投资项目",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203642",
+        "summary": "财联社11月21日电，阿根廷政府20日宣布批准将一个液化天然气项目纳入大型投资激励计划。阿根廷经济部长路易斯·卡普托在社交媒体上说，这是该国历史上规模最大的投资项目，到2050年累计投资额将达约507亿美元。该项目由阿根廷、意大利和阿联酋的三家公司共同推进，计划于2027年至2…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T04:24:30.000Z",
+        "date": "2026-11-21",
+        "time": "12:24",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203642"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540772"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936798811.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 70.7,
+        "signals": {
+          "coverage": 35,
+          "engagement": 25.7,
+          "recency": 10,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 5,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-a13083c7347029f84a1c",
+        "title": "中信证券：预计全国性机制电价政策有望在2027年推出",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203643",
+        "summary": "财联社11月21日电，中信证券最新研报指出，随着沿海电价重回上涨，核电的周期性电价下降风险已经消除；火电容量电价推出后，核电面临结构性电价下降冲击，通过政策保障以应对该冲击极具必要性和可行性。考虑试点省市运行效果良好，中信证券预计全国性机制电价政策有望在2027年推出；2027…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T04:44:58.000Z",
+        "date": "2026-11-21",
+        "time": "12:44",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203643"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540774"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936803816.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 70.3,
+        "signals": {
+          "coverage": 35,
+          "engagement": 25,
+          "recency": 10.3,
+          "emphasis": 0
+        },
+        "category": "政策",
+        "sectors": [],
+        "rank": 6,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-d01a7973bf8a0997818c",
+        "title": "中国铜业100亿元小公募债申报获上交所受理",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203656",
+        "summary": "财联社11月21日电，上交所公司债券项目信息平台显示，中国铜业有限公司100亿元小公募债项目状态更新为“已受理”，受理日期为2026年11月20日。募集说明书申报稿显示，本次公司债券募集资金扣除发行费用后，拟用于生产性支出，具体包括偿还到期债务、补充流动资金、项目建设及运营、股…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T09:34:56.000Z",
+        "date": "2026-11-21",
+        "time": "17:34",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203656"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540796"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://bond.eastmoney.com/a/202611213936819887.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 66.1,
+        "signals": {
+          "coverage": 35,
+          "engagement": 15.7,
+          "recency": 15.4,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "有色金属"
+        ],
+        "rank": 7,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-021f1e1e7bb51656650c",
+        "title": "以军袭击加沙城一辆汽车 致3死多伤",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540844",
+        "summary": "财联社11月21日电，据巴勒斯坦方面当地时间21日消息，以色列军方战机当天中午袭击了加沙地带加沙城西南部的一辆汽车，造成3名巴勒斯坦人死亡、另有数人受伤。据目击者称，遭袭车辆当时正在向加沙城内的一处流离失所民众营地运送慈善组织提供的食物。以色列方面对此暂无回应。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T14:06:26.000Z",
+        "date": "2026-11-21",
+        "time": "22:06",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540844"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936851955.html"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203680"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 63.4,
+        "signals": {
+          "coverage": 35,
+          "engagement": 5.9,
+          "recency": 22.5,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 8,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-74c3fe3a7c34922a89d4",
+        "title": "人民日报：唱空中国经济者终会落空",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203638",
+        "summary": "今年以来，一些境外媒体和机构围绕中国经济频频发难。一会儿渲染所谓“通缩陷阱”，断言中国经济增长难以为继；一会儿炒作“中国冲击2.0”，声称中国制造威胁全球产业。说辞换了一茬又一茬，唯有悲观的结论像是提前写好了一般。可惜，中国经济的发展，从来不由这些唱空者说了算。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-21T03:21:32.000Z",
+        "date": "2026-11-21",
+        "time": "11:21",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203638"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936792690.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 62.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29,
+          "recency": 9.2,
+          "emphasis": 6.5
+        },
+        "category": "宏观",
+        "sectors": [],
+        "rank": 9,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-d84b8bd5fedaf9e7109f",
+        "title": "特朗普重申美国应拥有全球最低的利率",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540651",
+        "summary": "财联社11月21日电，特朗普称利率过高，因为有一个“政治化”的美联储。他重申美国应拥有全球最低的利率。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-20T17:32:38.000Z",
+        "date": "2026-11-21",
+        "time": "01:32",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540651"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://forex.eastmoney.com/a/202611213936554447.html"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203505"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 62.1,
+        "signals": {
+          "coverage": 35,
+          "engagement": 23.1,
+          "recency": 4,
+          "emphasis": 0
+        },
+        "category": "宏观",
+        "sectors": [
+          "银行"
+        ],
+        "rank": 10,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-fb2dbc33f25b042c8962",
+        "title": "特朗普批美联储利率太高 美联储主席陷两难",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540819",
+        "summary": "财联社11月21日电，当地时间20日，美国总统特朗普再度批评美联储，称当前利率水平过高，美联储的决策带有“政治属性”。不过，他说自己的这一表态并不是在责怪美联储主席凯文·沃什。分析认为，沃什由特朗普提名，如今正陷入现实两难，一方面，特朗普希望压低利率以提振市场、减轻偿债压力；另…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T10:48:34.000Z",
+        "date": "2026-11-21",
+        "time": "18:48",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540819"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://forex.eastmoney.com/a/202611213936832424.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 60.4,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 25.9,
+          "recency": 17.1,
+          "emphasis": 0
+        },
+        "category": "宏观",
+        "sectors": [
+          "银行"
+        ],
+        "rank": 11,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-b62c169c910e2e8b2341",
+        "title": "英伟达暴跌14% “AI交易”抛售加剧使得美股进入回调区间",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540690",
+        "summary": "【英伟达暴跌近14% “AI交易”抛售加剧使得美股进入回调区间】财联社11月21日电，美三大股指大幅收跌，道琼斯指数跌1.94%，标普500指数跌3.70%，纳斯达克综合指数跌5.28%。道指、标普500指数均较此前高点回撤10%，进入回调区间。“AI交易”遭遇大幅抛售，费城半…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-20T21:01:13.000Z",
+        "date": "2026-11-21",
+        "time": "05:01",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540690"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936574780.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 57.8,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.4,
+          "recency": 5.4,
+          "emphasis": 6.5
+        },
+        "category": "海外",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-bb7ee22a2fa5d5c1298a",
+        "title": "我国“5G+工业互联网”项目达2.7万个 已覆盖全部41个工业大类",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203631",
+        "summary": "财联社11月21日电，记者从工业和信息化部了解到，目前我国5G应用已融入全部97个国民经济大类，工业互联网已覆盖全部41个工业大类。目前，我国已经建成分类分级、特色鲜明的5G工厂1260家，培育超过360家具有一定影响力的工业互联网平台，重点平台工业设备联接数超1亿台（套）。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T01:46:48.000Z",
+        "date": "2026-11-21",
+        "time": "09:46",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203631"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540738"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936784875.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 57.3,
+        "signals": {
+          "coverage": 35,
+          "engagement": 14.3,
+          "recency": 8,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 13,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-a344381cdb77b9a62253",
+        "title": "亿纬锂能刘金成：锂电池消费税落地后会有相当一部分企业退出市场",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540770",
+        "summary": "在今日进行的第十一届动力电池应用国际峰会上，亿纬锂能董事长刘金成表示，锂电消费税落地后，会有相当一部分企业将退出市场。他援引统计数据称，在铅酸电池增收10%消费税后，行业内90%的铅酸企业退出。以此类推，三年之内，锂电池行业中相当一部分企业也将不得不退出市场，这也会给行业发展带…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T04:36:11.000Z",
+        "date": "2026-11-21",
+        "time": "12:36",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540770"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936804282.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 57,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.3,
+          "recency": 10.2,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "新能源",
+          "食品饮料"
+        ],
+        "rank": 14,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-055f9c86305ceff72c37",
+        "title": "标普500指数连续第7个交易日下跌 创2020年以来最长连跌纪录",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540695",
+        "summary": "财联社11月21日电，标普500指数连续第七个交易日下跌，创2020年以来最长连跌纪录。本周标普500指数重挫8.6%，道指下跌8.0%，纳斯达克指数暴跌10.0%。标普500指数和道指均创2025年4月以来最大单周跌幅。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-20T21:16:52.000Z",
+        "date": "2026-11-21",
+        "time": "05:16",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540695"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://global.eastmoney.com/a/202611213936579896.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 56.8,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 27.2,
+          "recency": 5.5,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 15,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-4e52c1771ed79d8c2c36",
+        "title": "赣锋锂电肖海燕：海外上游合规成本系统性上升 锂资源行业进入“政策定价”时代",
+        "source": "东方财富",
+        "sourceId": "eastmoney",
+        "sourceUrl": "http://finance.eastmoney.com/a/202611213936804134.html",
+        "summary": "在今日进行的第十一届动力电池应用国际峰会上，赣锋锂电总裁肖海燕表示，全球锂资源多元化分布，面对资源国“锁矿”的情形，行业已经进入“政策定价”时代，成本曲线受制于政策曲线。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-21T04:36:09.000Z",
+        "date": "2026-11-21",
+        "time": "12:36",
+        "relatedSources": [
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936804134.html"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540771"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 56.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.6,
+          "recency": 10.2,
+          "emphasis": 0
+        },
+        "category": "政策",
+        "sectors": [
+          "新能源"
+        ],
+        "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-4af04298011c4595b9b7",
+        "title": "Crowdstrike据悉洽购Zscaler 或缔造网络安全行业史上最大交易之一",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540698",
+        "summary": "财联社11月21日电，据知情人士透露，CrowdStrike正在洽谈收购Zscaler，这笔交易将成为网络安全行业史上规模最大的交易之一，并将缔造一家合计市值约2,650亿美元的公司。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-20T21:35:43.000Z",
+        "date": "2026-11-21",
+        "time": "05:35",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540698"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936583091.html"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203583"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 53.5,
+        "signals": {
+          "coverage": 35,
+          "engagement": 12.9,
+          "recency": 5.7,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 17,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-7dd6702115d3be97060f",
+        "title": "费城半导体指数跌幅扩大至8% 美光科技跌近12%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540637",
+        "summary": "费城半导体指数跌幅扩大至8%，报8664.69点。成分股方面，英伟达股价下跌6.58%，台积电股价下跌7.58%，博通股价下跌9.84%，超威半导体股价下跌10.74%，美光科技股价下跌11.9%，阿斯麦股价下跌5.17%。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-20T16:33:48.000Z",
+        "date": "2026-11-21",
+        "time": "00:33",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540637"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936543433.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 52.8,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 25.1,
+          "recency": 3.7,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 18,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-cdb1dfaecea4f33db495",
+        "title": "美新科技：子公司星曜宇航已启动4米级舱段生产",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540784",
+        "summary": "财联社11月21日电，美新科技在接待机构调研时表示，子公司四川星曜宇航航天科技有限公司成立于2026年2月，是一家专注于商业航天运载火箭全箭结构件的专业化企业。公司构建了火箭结构件集产品研发、工艺设计、精密加工、特种焊接、试验验证及批量交付于一体的全链条研制体系，可形成从设计输…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T05:46:27.000Z",
+        "date": "2026-11-21",
+        "time": "13:46",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540784"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936810316.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 52.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 23.6,
+          "recency": 11.2,
+          "emphasis": 0
+        },
+        "category": "公司",
+        "sectors": [],
+        "rank": 19,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-221383b2468a5e275609",
+        "title": "中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540788",
+        "summary": "财联社11月21日电，中信建投证券发布食品饮料2027年投资策略报告称，食饮选股新范式：优先选择自由现金流稳定、分红率与股息率可验证、位居行业龙头且格局稳定、管理层有明确的股东回报动作（回购注销、承诺分红）的公司；以“大盘红利底仓”（头部白酒、龙头乳企等高股息资产）承接确定性，…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T06:42:58.000Z",
+        "date": "2026-11-21",
+        "time": "14:42",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540788"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936816963.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 51.8,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 22.1,
+          "recency": 12.1,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "食品饮料"
+        ],
+        "rank": 20,
+        "importance": "一般"
+      }
+    ],
+    "asOf": "2026-11-21T15:23:26.706Z",
+    "collectedAt": "2026-11-21T15:23:26.706Z",
+    "latestPublishedAt": "2026-11-21T15:19:48.000Z",
+    "totalCandidates": 469,
+    "financeCandidates": 249,
+    "sources": [
+      {
+        "id": "cls",
+        "name": "财联社",
+        "home": "https://www.cls.cn/telegraph",
+        "kind": "快讯",
+        "status": "ok",
+        "checkedAt": "2026-11-21T15:23:26.706Z",
+        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "count": 20,
+        "message": "提取标题、可用来源摘要及原文链接"
+      },
+      {
+        "id": "eastmoney",
+        "name": "东方财富",
+        "home": "https://kuaixun.eastmoney.com/",
+        "kind": "快讯",
+        "status": "ok",
+        "checkedAt": "2026-11-21T15:23:26.706Z",
+        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "count": 100,
+        "message": "提取标题、可用来源摘要及原文链接"
+      },
+      {
+        "id": "wallstreet",
+        "name": "华尔街见闻",
+        "home": "https://wallstreetcn.com/live/global",
+        "kind": "快讯",
+        "status": "ok",
+        "checkedAt": "2026-11-21T15:23:26.706Z",
+        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "count": 64,
+        "message": "提取标题、可用来源摘要及原文链接"
+      },
+      {
+        "id": "cctv",
+        "name": "央视新闻联播",
+        "home": "https://tv.cctv.com/lm/xwlb/",
+        "kind": "权威发布",
+        "status": "ok",
+        "checkedAt": "2026-11-21T15:23:26.706Z",
+        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "count": 1,
+        "message": "提取标题、可用来源摘要及原文链接"
+      }
+    ],
+    "ranking": {
+      "name": "平台热度",
+      "description": "平台综合排序，非全网真实阅读量。先筛选财经相关标题，再跨来源近似去重；按跨站覆盖 35%、源内互动分位 30%、时效 25%、来源重点标记 10%计算。没有互动数据时该项计 0；排序只基于已采集到的候选。",
+      "weights": {
+        "coverage": 35,
+        "engagement": 30,
+        "recency": 25,
+        "emphasis": 10
+      }
+    },
+    "mode": "aggregate",
+    "demo": false,
+    "date": "2026-11-21",
+    "intervalSeconds": 300
+  },
+  "snapshot": {
+    "date": "2026-11-21",
+    "demo": false,
+    "status": "awaiting-data",
+    "version": "live",
+    "previousClose": 3577.62,
+    "asOf": "2026-11-20T08:14:27.000Z",
+    "collectedAt": "2026-11-21T15:23:26.750Z",
+    "timezone": "Asia/Shanghai",
+    "markets": [
+      {
+        "id": "sh",
+        "name": "上证指数",
+        "code": "000001.SH",
+        "category": "A股",
+        "value": "3,533.79",
+        "rawValue": 3533.79,
+        "previousClose": 3577.62,
+        "change": -1.23,
+        "time": "11-20 16:14:27",
+        "asOf": "2026-11-20T08:14:27.000Z",
+        "sourceLocalTime": "20261120161427",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": true,
+        "quoteLabel": "上一交易日参考 · 2026-11-20",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000001"
+      },
+      {
+        "id": "sz",
+        "name": "深证成指",
+        "code": "399001.SZ",
+        "category": "A股",
+        "value": "10,256.39",
+        "rawValue": 10256.39,
+        "previousClose": 10583.2,
+        "change": -3.09,
+        "time": "11-20 16:14:12",
+        "asOf": "2026-11-20T08:14:12.000Z",
+        "sourceLocalTime": "20261120161412",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": true,
+        "quoteLabel": "上一交易日参考 · 2026-11-20",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sz399001"
+      },
+      {
+        "id": "cy",
+        "name": "创业板指",
+        "code": "399006.SZ",
+        "category": "A股",
+        "value": "2,212.13",
+        "rawValue": 2212.13,
+        "previousClose": 2293.34,
+        "change": -3.54,
+        "time": "11-20 16:14:27",
+        "asOf": "2026-11-20T08:14:27.000Z",
+        "sourceLocalTime": "20261120161427",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": true,
+        "quoteLabel": "上一交易日参考 · 2026-11-20",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sz399006"
+      },
+      {
+        "id": "kc",
+        "name": "科创 50",
+        "code": "000688.SH",
+        "category": "A股",
+        "value": "1,231.09",
+        "rawValue": 1231.09,
+        "previousClose": 1270.78,
+        "change": -3.12,
+        "time": "11-20 16:14:09",
+        "asOf": "2026-11-20T08:14:09.000Z",
+        "sourceLocalTime": "20261120161409",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": true,
+        "quoteLabel": "上一交易日参考 · 2026-11-20",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000688"
+      },
+      {
+        "id": "hk",
+        "name": "恒生指数",
+        "code": "HSI · 延迟",
+        "category": "全球",
+        "value": "22,410.80",
+        "rawValue": 22410.8,
+        "previousClose": 22841.62,
+        "change": -1.89,
+        "time": "11-20 18:31:27",
+        "asOf": "2026-11-20T10:31:27.000Z",
+        "sourceLocalTime": "2026/11/20 18:31:27",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "delayed",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-20",
+        "group": "港股",
+        "sourceUrl": "https://gu.qq.com/hkHSI"
+      },
+      {
+        "id": "sp",
+        "name": "标普 500",
+        "code": "SPX",
+        "category": "全球",
+        "group": "美股",
+        "value": "—",
+        "rawValue": null,
+        "change": null,
+        "asOf": null,
+        "quoteDate": "2026-11-20",
+        "expectedTradeDate": "2026-11-20",
+        "overnight": true,
+        "status": "unavailable",
+        "frequency": "daily-close",
+        "time": "隔夜收盘待确认",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.INX",
+        "trend": []
+      },
+      {
+        "id": "nas",
+        "name": "纳斯达克",
+        "code": "IXIC",
+        "category": "全球",
+        "group": "美股",
+        "value": "—",
+        "rawValue": null,
+        "change": null,
+        "asOf": null,
+        "quoteDate": "2026-11-20",
+        "expectedTradeDate": "2026-11-20",
+        "overnight": true,
+        "status": "unavailable",
+        "frequency": "daily-close",
+        "time": "隔夜收盘待确认",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.IXIC",
+        "trend": []
+      },
+      {
+        "id": "hs300",
+        "name": "沪深 300",
+        "code": "000300.SH",
+        "category": "A股",
+        "value": "3,954.57",
+        "rawValue": 3954.57,
+        "previousClose": 3984.84,
+        "change": -0.76,
+        "time": "11-20 16:14:09",
+        "asOf": "2026-11-20T08:14:09.000Z",
+        "sourceLocalTime": "20261120161409",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": true,
+        "quoteLabel": "上一交易日参考 · 2026-11-20",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000300"
+      },
+      {
+        "id": "sz50",
+        "name": "上证 50",
+        "code": "000016.SH",
+        "category": "A股",
+        "value": "2,785.92",
+        "rawValue": 2785.92,
+        "previousClose": 2773.46,
+        "change": 0.45,
+        "time": "11-20 16:14:27",
+        "asOf": "2026-11-20T08:14:27.000Z",
+        "sourceLocalTime": "20261120161427",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": true,
+        "quoteLabel": "上一交易日参考 · 2026-11-20",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000016"
+      },
+      {
+        "id": "zz500",
+        "name": "中证 500",
+        "code": "000905.SH",
+        "category": "A股",
+        "value": "6,006.08",
+        "rawValue": 6006.08,
+        "previousClose": 6251.96,
+        "change": -3.93,
+        "time": "11-20 16:14:09",
+        "asOf": "2026-11-20T08:14:09.000Z",
+        "sourceLocalTime": "20261120161409",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": true,
+        "quoteLabel": "上一交易日参考 · 2026-11-20",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000905"
+      },
+      {
+        "id": "zz1000",
+        "name": "中证 1000",
+        "code": "000852.SH",
+        "category": "A股",
+        "value": "5,648.63",
+        "rawValue": 5648.63,
+        "previousClose": 5938.9,
+        "change": -4.89,
+        "time": "11-20 16:14:27",
+        "asOf": "2026-11-20T08:14:27.000Z",
+        "sourceLocalTime": "20261120161427",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": true,
+        "quoteLabel": "上一交易日参考 · 2026-11-20",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/sh000852"
+      },
+      {
+        "id": "bj50",
+        "name": "北证 50",
+        "code": "899050.BJ",
+        "category": "A股",
+        "value": "759.90",
+        "rawValue": 759.9,
+        "previousClose": 798.64,
+        "change": -4.85,
+        "time": "11-20 15:33:41",
+        "asOf": "2026-11-20T07:33:41.000Z",
+        "sourceLocalTime": "20261120153341",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": true,
+        "quoteLabel": "上一交易日参考 · 2026-11-20",
+        "group": "A股",
+        "sourceUrl": "https://gu.qq.com/bj899050"
+      },
+      {
+        "id": "hktech",
+        "name": "恒生科技",
+        "code": "HSTECH · 延迟",
+        "category": "全球",
+        "value": "3,511.14",
+        "rawValue": 3511.14,
+        "previousClose": 3649.14,
+        "change": -3.78,
+        "time": "11-20 16:08:54",
+        "asOf": "2026-11-20T08:08:54.000Z",
+        "sourceLocalTime": "2026/11/20 16:08:54",
+        "exchangeTimezone": "Asia/Shanghai",
+        "source": "腾讯财经",
+        "status": "delayed",
+        "trend": [],
+        "turnoverYuan": null,
+        "quoteDate": "2026-11-20",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-20",
+        "group": "港股",
+        "sourceUrl": "https://gu.qq.com/hkHSTECH"
+      },
+      {
+        "id": "dji",
+        "name": "道琼斯",
+        "code": "DJI",
+        "category": "全球",
+        "group": "美股",
+        "value": "—",
+        "rawValue": null,
+        "change": null,
+        "asOf": null,
+        "quoteDate": "2026-11-20",
+        "expectedTradeDate": "2026-11-20",
+        "overnight": true,
+        "status": "unavailable",
+        "frequency": "daily-close",
+        "time": "隔夜收盘待确认",
+        "source": "腾讯财经日 K",
+        "sourceUrl": "https://gu.qq.com/us.DJI",
+        "trend": []
+      },
+      {
+        "id": "oil",
+        "name": "布伦特原油",
+        "code": "USD / 桶 · 期货",
+        "category": "商品汇率",
+        "value": "92.59",
+        "rawValue": 92.59,
+        "change": 0.66,
+        "time": "07:00:00",
+        "asOf": "2026-11-20T23:00:00.000Z",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-21",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-21",
+        "group": "商品",
+        "sourceUrl": "https://gu.qq.com/hf_OIL"
+      },
+      {
+        "id": "gold",
+        "name": "纽约黄金",
+        "code": "USD / 盎司 · 期货",
+        "category": "商品汇率",
+        "value": "3,535.39",
+        "rawValue": 3535.39,
+        "change": -4.07,
+        "time": "05:59:57",
+        "asOf": "2026-11-20T21:59:57.000Z",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-21",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-21",
+        "group": "商品",
+        "sourceUrl": "https://gu.qq.com/hf_GC"
+      },
+      {
+        "id": "copper",
+        "name": "LME 铜",
+        "code": "USD / 吨",
+        "category": "商品汇率",
+        "value": "12,162.50",
+        "rawValue": 12162.5,
+        "change": -2.33,
+        "time": "03:27:34",
+        "asOf": "2026-11-20T19:27:34.000Z",
+        "source": "腾讯财经",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-21",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-21",
+        "group": "商品",
+        "sourceUrl": "https://gu.qq.com/hf_CAD"
+      },
+      {
+        "id": "nk",
+        "name": "日经 225",
+        "code": "N225",
+        "category": "全球",
+        "value": "56,436.65",
+        "change": -5.06,
+        "time": "14:30:00",
+        "asOf": "2026-11-20T06:30:00.000Z",
+        "source": "东方财富",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-20",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-20",
+        "group": "亚太",
+        "sourceUrl": "https://quote.eastmoney.com/gb/zsN225.html"
+      },
+      {
+        "id": "fx",
+        "name": "美元 / 离岸人民币",
+        "code": "USD / CNH",
+        "category": "商品汇率",
+        "value": "6.6752",
+        "change": -0.26,
+        "time": "05:59:00",
+        "asOf": "2026-11-20T21:59:00.000Z",
+        "source": "东方财富",
+        "status": "quoted",
+        "trend": [],
+        "quoteDate": "2026-11-21",
+        "reference": false,
+        "quoteLabel": "报价 · 2026-11-21",
+        "group": "汇率",
+        "sourceUrl": "https://quote.eastmoney.com/forex/USDCNH.html"
+      },
+      {
+        "id": "bond",
+        "name": "中国 10Y 国债",
+        "code": "到期收益率 · 日度",
+        "category": "商品汇率",
+        "value": "1.5803%",
+        "rawValue": 1.5803,
+        "change": 0.0048,
+        "time": "11-20 · 日度",
+        "asOf": null,
+        "quoteDate": "2026-11-20",
+        "frequency": "daily",
+        "source": "东方财富",
+        "status": "daily",
+        "trend": [],
+        "reference": false,
+        "quoteLabel": "日度 · 2026-11-20",
+        "group": "利率",
+        "sourceUrl": "https://data.eastmoney.com/cjsj/zmgzsyl.html"
+      }
+    ],
+    "intraday": [],
+    "candles": [
+      {
+        "date": "09-18",
+        "tradeDate": "2026-09-18",
+        "values": [
+          3891.96,
+          3911.87,
+          3888.5,
+          3919.67
+        ],
+        "volume": 9941.69
+      },
+      {
+        "date": "09-21",
+        "tradeDate": "2026-09-21",
+        "values": [
+          3920.27,
+          3949.91,
+          3918.13,
+          3950.94
+        ],
+        "volume": 9468.19
+      },
+      {
+        "date": "09-22",
+        "tradeDate": "2026-09-22",
+        "values": [
+          3963.81,
+          3952.13,
+          3945.42,
+          3967.68
+        ],
+        "volume": 10079.96
+      },
+      {
+        "date": "09-23",
+        "tradeDate": "2026-09-23",
+        "values": [
+          3951.37,
+          3936.52,
+          3934.46,
+          3951.52
+        ],
+        "volume": 8341.33
+      },
+      {
+        "date": "09-24",
+        "tradeDate": "2026-09-24",
+        "values": [
+          3925.32,
+          3888.37,
+          3888.37,
+          3930.5
+        ],
+        "volume": 7836.13
+      },
+      {
+        "date": "09-28",
+        "tradeDate": "2026-09-28",
+        "values": [
+          3878.41,
+          3823.62,
+          3806.67,
+          3878.41
+        ],
+        "volume": 8045.44
+      },
+      {
+        "date": "09-29",
+        "tradeDate": "2026-09-29",
+        "values": [
+          3816.15,
+          3830.45,
+          3810.81,
+          3843.84
+        ],
+        "volume": 6617.04
+      },
+      {
+        "date": "09-30",
+        "tradeDate": "2026-09-30",
+        "values": [
+          3839.25,
+          3842.19,
+          3833.09,
+          3851.22
+        ],
+        "volume": 6793.99
+      },
+      {
+        "date": "10-08",
+        "tradeDate": "2026-10-08",
+        "values": [
+          3838.98,
+          3811.9,
+          3795.37,
+          3864.12
+        ],
+        "volume": 8111.83
+      },
+      {
+        "date": "10-09",
+        "tradeDate": "2026-10-09",
+        "values": [
+          3804.09,
+          3813.79,
+          3754.14,
+          3824.71
+        ],
+        "volume": 8885.61
+      },
+      {
+        "date": "10-12",
+        "tradeDate": "2026-10-12",
+        "values": [
+          3806.98,
+          3797.24,
+          3791,
+          3828.22
+        ],
+        "volume": 7149.1
+      },
+      {
+        "date": "10-13",
+        "tradeDate": "2026-10-13",
+        "values": [
+          3760.8,
+          3800.86,
+          3741.53,
+          3822.11
+        ],
+        "volume": 7793.02
+      },
+      {
+        "date": "10-14",
+        "tradeDate": "2026-10-14",
+        "values": [
+          3790.63,
+          3767.23,
+          3761.96,
+          3811.81
+        ],
+        "volume": 6624.92
+      },
+      {
+        "date": "10-15",
+        "tradeDate": "2026-10-15",
+        "values": [
+          3710.7,
+          3707.48,
+          3674.82,
+          3724.56
+        ],
+        "volume": 7743.92
+      },
+      {
+        "date": "10-16",
+        "tradeDate": "2026-10-16",
+        "values": [
+          3723.8,
+          3716.28,
+          3681.28,
+          3750.77
+        ],
+        "volume": 7324.75
+      },
+      {
+        "date": "10-19",
+        "tradeDate": "2026-10-19",
+        "values": [
+          3694.12,
+          3730.92,
+          3692.29,
+          3743.8
+        ],
+        "volume": 6870.1
+      },
+      {
+        "date": "10-20",
+        "tradeDate": "2026-10-20",
+        "values": [
+          3718.44,
+          3735.37,
+          3702.44,
+          3740.07
+        ],
+        "volume": 6999.7
+      },
+      {
+        "date": "10-21",
+        "tradeDate": "2026-10-21",
+        "values": [
+          3740.57,
+          3713.03,
+          3703.12,
+          3743.08
+        ],
+        "volume": 6427.52
+      },
+      {
+        "date": "10-22",
+        "tradeDate": "2026-10-22",
+        "values": [
+          3714.48,
+          3658.03,
+          3649.86,
+          3714.48
+        ],
+        "volume": 7060.96
+      },
+      {
+        "date": "10-23",
+        "tradeDate": "2026-10-23",
+        "values": [
+          3623.57,
+          3690.48,
+          3574.27,
+          3691.4
+        ],
+        "volume": 8986.67
+      },
+      {
+        "date": "10-26",
+        "tradeDate": "2026-10-26",
+        "values": [
+          3671,
+          3697.52,
+          3664.82,
+          3699.01
+        ],
+        "volume": 7465.28
+      },
+      {
+        "date": "10-27",
+        "tradeDate": "2026-10-27",
+        "values": [
+          3698.44,
+          3648.3,
+          3648.3,
+          3708.2
+        ],
+        "volume": 6724.14
+      },
+      {
+        "date": "10-28",
+        "tradeDate": "2026-10-28",
+        "values": [
+          3676.92,
+          3681.47,
+          3652.37,
+          3684.49
+        ],
+        "volume": 7510.19
+      },
+      {
+        "date": "10-29",
+        "tradeDate": "2026-10-29",
+        "values": [
+          3676.77,
+          3651.43,
+          3645.26,
+          3678.46
+        ],
+        "volume": 7156.21
+      },
+      {
+        "date": "10-30",
+        "tradeDate": "2026-10-30",
+        "values": [
+          3605.65,
+          3599.02,
+          3595.26,
+          3660.21
+        ],
+        "volume": 7642.27
+      },
+      {
+        "date": "11-02",
+        "tradeDate": "2026-11-02",
+        "values": [
+          3614.31,
+          3638.03,
+          3594.77,
+          3648.13
+        ],
+        "volume": 8474.59
+      },
+      {
+        "date": "11-03",
+        "tradeDate": "2026-11-03",
+        "values": [
+          3624.58,
+          3608.1,
+          3580.38,
+          3624.58
+        ],
+        "volume": 8108.29
+      },
+      {
+        "date": "11-04",
+        "tradeDate": "2026-11-04",
+        "values": [
+          3605.39,
+          3686.17,
+          3590.8,
+          3686.17
+        ],
+        "volume": 9532.65
+      },
+      {
+        "date": "11-05",
+        "tradeDate": "2026-11-05",
+        "values": [
+          3646.57,
+          3689.91,
+          3646.57,
+          3701.59
+        ],
+        "volume": 9797.12
+      },
+      {
+        "date": "11-06",
+        "tradeDate": "2026-11-06",
+        "values": [
+          3612.15,
+          3649.18,
+          3610.2,
+          3660.49
+        ],
+        "volume": 7726.35
+      },
+      {
+        "date": "11-09",
+        "tradeDate": "2026-11-09",
+        "values": [
+          3659.02,
+          3660.79,
+          3653.05,
+          3679.09
+        ],
+        "volume": 6825.33
+      },
+      {
+        "date": "11-10",
+        "tradeDate": "2026-11-10",
+        "values": [
+          3682.04,
+          3663.72,
+          3660.72,
+          3683.73
+        ],
+        "volume": 6739.52
+      },
+      {
+        "date": "11-11",
+        "tradeDate": "2026-11-11",
+        "values": [
+          3655.66,
+          3680.64,
+          3650.31,
+          3689.65
+        ],
+        "volume": 7361.55
+      },
+      {
+        "date": "11-12",
+        "tradeDate": "2026-11-12",
+        "values": [
+          3673.06,
+          3655.83,
+          3647.44,
+          3699.58
+        ],
+        "volume": 8795.37
+      },
+      {
+        "date": "11-13",
+        "tradeDate": "2026-11-13",
+        "values": [
+          3658.72,
+          3634.35,
+          3623.84,
+          3669.44
+        ],
+        "volume": 7706.14
+      },
+      {
+        "date": "11-16",
+        "tradeDate": "2026-11-16",
+        "values": [
+          3611.54,
+          3602.57,
+          3586.57,
+          3623.12
+        ],
+        "volume": 7062.14
+      },
+      {
+        "date": "11-17",
+        "tradeDate": "2026-11-17",
+        "values": [
+          3585.67,
+          3584.58,
+          3565.59,
+          3604.98
+        ],
+        "volume": 6905.15
+      },
+      {
+        "date": "11-18",
+        "tradeDate": "2026-11-18",
+        "values": [
+          3596.55,
+          3587.83,
+          3560.45,
+          3596.55
+        ],
+        "volume": 6502.32
+      },
+      {
+        "date": "11-19",
+        "tradeDate": "2026-11-19",
+        "values": [
+          3583.12,
+          3577.62,
+          3547.94,
+          3584.28
+        ],
+        "volume": 6369.09
+      },
+      {
+        "date": "11-20",
+        "tradeDate": "2026-11-20",
+        "values": [
+          3527.3,
+          3533.79,
+          3500.83,
+          3538.27
+        ],
+        "volume": 7025.74
+      }
+    ],
+    "sectors": [],
+    "events": [],
+    "news": [],
+    "sources": [
+      {
+        "id": "quotes",
+        "name": "腾讯财经",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-21T15:23:26.750Z"
+      },
+      {
+        "id": "trends",
+        "name": "腾讯财经分钟线",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-21T15:23:26.750Z"
+      },
+      {
+        "id": "extra",
+        "name": "东方财富跨市场",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-21T15:23:26.750Z"
+      },
+      {
+        "id": "intraday",
+        "name": "东方财富分时",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-21T15:23:26.750Z"
+      },
+      {
+        "id": "candles",
+        "name": "东方财富日 K",
+        "status": "error",
+        "lastSuccessAt": "2026-11-21T13:51:36.877Z",
+        "message": "fetch failed"
+      },
+      {
+        "id": "sectors",
+        "name": "东方财富板块",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-21T15:23:26.750Z"
+      },
+      {
+        "id": "up",
+        "name": "东方财富涨停池",
+        "status": "error",
+        "lastSuccessAt": null,
+        "message": "当日涨跌停数据暂无"
+      },
+      {
+        "id": "down",
+        "name": "东方财富跌停池",
+        "status": "error",
+        "lastSuccessAt": null,
+        "message": "当日涨跌停数据暂无"
+      },
+      {
+        "id": "broken",
+        "name": "东方财富炸板池",
+        "status": "error",
+        "lastSuccessAt": null,
+        "message": "当日涨跌停数据暂无"
+      },
+      {
+        "id": "bond",
+        "name": "东方财富国债收益率",
+        "status": "ok",
+        "lastSuccessAt": "2026-11-21T15:23:26.750Z"
+      },
+      {
+        "id": "breadth",
+        "name": "东方财富全 A 股情绪",
+        "status": "error",
+        "lastSuccessAt": null,
+        "message": "HTTP 502"
+      },
+      {
+        "id": "overnight",
+        "name": "腾讯财经 · 隔夜日 K 收盘",
+        "status": "waiting",
+        "lastSuccessAt": null
+      }
+    ],
+    "limitThemes": [],
+    "sentiment": {
+      "up": null,
+      "down": null,
+      "flat": null,
+      "moneyEffect": null,
+      "temperature": null,
+      "percentile": null,
+      "breadth": null,
+      "limitUp": null,
+      "limitDown": null,
+      "height": null,
+      "brokenRate": null
+    },
+    "recap": {
+      "regime": "等待当日行情",
+      "summary": "周末 · 暂无当日交易数据",
+      "turnover": "—",
+      "turnoverDelta": "",
+      "mainline": null,
+      "support": null,
+      "resistance": null,
+      "paragraphs": [
+        {
+          "title": "今日盘面",
+          "brief": "周末 · 暂无当日交易数据。仅有 2026-11-20 报价，属于上一交易日参考，不代表 2026-11-21 行情。",
+          "full": "周末 · 暂无当日交易数据。仅有 2026-11-20 报价，属于上一交易日参考，不代表 2026-11-21 行情。"
+        },
+        {
+          "title": "板块观察",
+          "brief": "当日板块数据尚未产生时保持空白，报价到齐后自动显示。",
+          "full": "当日板块数据尚未产生时保持空白，报价到齐后自动显示。"
+        },
+        {
+          "title": "收盘记录",
+          "brief": "等待所选日期收盘，不沿用上一交易日的收盘结论。",
+          "full": "等待所选日期收盘，不沿用上一交易日的收盘结论。"
+        }
+      ]
+    },
+    "marketContext": {
+      "phase": "non-trading",
+      "label": "周末 · 暂无当日交易数据",
+      "hasTodayQuote": false,
+      "quoteDate": "2026-11-20",
+      "message": "仅有 2026-11-20 报价，属于上一交易日参考，不代表 2026-11-21 行情。"
+    },
+    "sourceLinks": {
+      "price": {
+        "name": "东方财富 · 上证指数",
+        "url": "https://quote.eastmoney.com/zs000001.html"
+      },
+      "sectors": {
+        "name": "东方财富 · 行业板块",
+        "url": "https://quote.eastmoney.com/center/boardlist.html#industry_board"
+      },
+      "flows": {
+        "name": "东方财富 · 行业资金",
+        "url": "https://data.eastmoney.com/bkzj/hy.html"
+      },
+      "limits": {
+        "name": "东方财富 · 涨停板池",
+        "url": "https://quote.eastmoney.com/ztb/detail#type=ztgc"
+      }
+    },
+    "overnight": {
+      "policy": "previous-us-session-close",
+      "aShareDate": "2026-11-21",
+      "usTradeDate": "2026-11-20",
+      "status": "waiting",
+      "lockedAt": null
+    }
+  }
+}

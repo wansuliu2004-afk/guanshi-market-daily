@@ -1,10 +1,10 @@
 {
   "date": "2026-11-20",
   "cutoffAt": "2026-11-20T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-19T16:38:06.726Z",
-  "lastSavedAt": "2026-11-20T15:33:27.570Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-20T16:28:44.183Z",
+  "sealedAt": "2026-11-20T16:28:37.260Z",
   "news": {
     "items": [
       {
@@ -33,11 +33,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 89.4,
+        "score": 88.8,
         "signals": {
           "coverage": 35,
           "engagement": 29,
-          "recency": 18.9,
+          "recency": 18.2,
           "emphasis": 6.5
         },
         "category": "公司",
@@ -71,11 +71,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 85.6,
+        "score": 85,
         "signals": {
           "coverage": 35,
           "engagement": 29.8,
-          "recency": 14.3,
+          "recency": 13.8,
           "emphasis": 6.5
         },
         "category": "政策",
@@ -109,17 +109,53 @@
           }
         ],
         "sourceCount": 3,
-        "score": 78.2,
+        "score": 77.8,
         "signals": {
           "coverage": 35,
           "engagement": 25,
-          "recency": 11.8,
+          "recency": 11.3,
           "emphasis": 6.5
         },
         "category": "公司",
         "sectors": [],
         "rank": 3,
         "importance": "重磅"
+      },
+      {
+        "id": "topic-fc642a47b54816b6f70d",
+        "title": "美股再次走弱 费城半导体指数跌幅扩大至5%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540600",
+        "summary": "美股再次走弱，费城半导体指数跌幅扩大至5%，报8946.81点。纳斯达克100指数跌幅扩大至1.5%，道琼斯指数涨0.58%，标普500指数跌0.53%，纳斯达克综合指数跌1.55%。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-20T15:18:21.000Z",
+        "date": "2026-11-20",
+        "time": "23:18",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540600"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611203936508783.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 75.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 27.6,
+          "recency": 23.7,
+          "emphasis": 6.5
+        },
+        "category": "海外",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 4,
+        "importance": "关注"
       },
       {
         "id": "topic-24da1f30c80bfb454d77",
@@ -143,55 +179,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 75.7,
+        "score": 75.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 28.4,
-          "recency": 23.2,
+          "engagement": 28.9,
+          "recency": 22.4,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 4,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-2fbde24dc0bf9e09d68b",
-        "title": "两市融资余额减少154.89亿元",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3202900",
-        "summary": "财联社11月20日电，截至11月19日，上交所融资余额报11413.78亿元，较前一交易日减少73.2亿元；深交所融资余额报10441.36亿元，较前一交易日减少81.69亿元；两市合计21855.14亿元，较前一交易日减少154.89亿元。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-20T00:47:10.000Z",
-        "date": "2026-11-20",
-        "time": "08:47",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3202900"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2539623"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://stock.eastmoney.com/a/202611203935707344.html"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 75.3,
-        "signals": {
-          "coverage": 35,
-          "engagement": 26.5,
-          "recency": 7.3,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
         "rank": 5,
         "importance": "关注"
       },
@@ -221,16 +219,54 @@
           }
         ],
         "sourceCount": 3,
-        "score": 75.2,
+        "score": 74.7,
         "signals": {
           "coverage": 35,
-          "engagement": 26.2,
-          "recency": 14,
+          "engagement": 26.1,
+          "recency": 13.5,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
         "rank": 6,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-2fbde24dc0bf9e09d68b",
+        "title": "两市融资余额减少154.89亿元",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3202900",
+        "summary": "财联社11月20日电，截至11月19日，上交所融资余额报11413.78亿元，较前一交易日减少73.2亿元；深交所融资余额报10441.36亿元，较前一交易日减少81.69亿元；两市合计21855.14亿元，较前一交易日减少154.89亿元。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-20T00:47:10.000Z",
+        "date": "2026-11-20",
+        "time": "08:47",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3202900"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2539623"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://stock.eastmoney.com/a/202611203935707344.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 74.7,
+        "signals": {
+          "coverage": 35,
+          "engagement": 26.1,
+          "recency": 7,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 7,
         "importance": "关注"
       },
       {
@@ -255,16 +291,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 74.6,
+        "score": 74.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 26.7,
-          "recency": 23.9,
+          "engagement": 27.3,
+          "recency": 23.1,
           "emphasis": 6.5
         },
         "category": "海外",
         "sectors": [],
-        "rank": 7,
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -293,16 +329,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 74.2,
+        "score": 73.7,
         "signals": {
           "coverage": 35,
           "engagement": 23.2,
-          "recency": 16.1,
+          "recency": 15.5,
           "emphasis": 0
         },
         "category": "政策",
         "sectors": [],
-        "rank": 8,
+        "rank": 9,
         "importance": "关注"
       },
       {
@@ -327,11 +363,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 73,
+        "score": 72.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 26.1,
-          "recency": 23,
+          "engagement": 26.6,
+          "recency": 22.1,
           "emphasis": 6.5
         },
         "category": "海外",
@@ -339,8 +375,42 @@
           "半导体",
           "人工智能"
         ],
-        "rank": 9,
+        "rank": 10,
         "importance": "关注"
+      },
+      {
+        "id": "topic-d287658c102bdf1619e9",
+        "title": "法国加强2027年总统选举网络监管",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203468",
+        "summary": "财联社11月20日电，法国音像和数字通信监管局19日发布监管新规，就在2027年总统选举前夕“大流量”视频博主给予不同候选人的曝光度作出明确规定。法国将于明年4月18日举行总统选举首轮投票，若无候选人得票过半，则于5月2日进行第二轮投票。监管新规要求，明年3月中旬开始，各候选人…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-20T15:58:03.000Z",
+        "date": "2026-11-20",
+        "time": "23:58",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203468"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540621"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 72.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.8,
+          "recency": 24.9,
+          "emphasis": 0
+        },
+        "category": "政策",
+        "sectors": [],
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-6ae6e33c9cd9ce42dd10",
@@ -368,19 +438,19 @@
           }
         ],
         "sourceCount": 3,
-        "score": 71.1,
+        "score": 70.3,
         "signals": {
           "coverage": 35,
-          "engagement": 24.5,
-          "recency": 11.7,
+          "engagement": 24.1,
+          "recency": 11.2,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "银行"
         ],
-        "rank": 10,
-        "importance": "关注"
+        "rank": 12,
+        "importance": "一般"
       },
       {
         "id": "topic-2a9a3ec8e39ca143558a",
@@ -408,18 +478,18 @@
           }
         ],
         "sourceCount": 3,
-        "score": 70.1,
+        "score": 69.8,
         "signals": {
           "coverage": 35,
           "engagement": 28.3,
-          "recency": 6.8,
+          "recency": 6.5,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "房地产"
         ],
-        "rank": 11,
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -448,52 +518,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 70,
+        "score": 69.3,
         "signals": {
           "coverage": 35,
-          "engagement": 27,
-          "recency": 8,
+          "engagement": 26.6,
+          "recency": 7.7,
           "emphasis": 0
         },
         "category": "政策",
         "sectors": [],
-        "rank": 12,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-fc642a47b54816b6f70d",
-        "title": "美股再次走弱 费城半导体指数跌幅扩大至5%",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540600",
-        "summary": "美股再次走弱，费城半导体指数跌幅扩大至5%，报8946.81点。纳斯达克100指数跌幅扩大至1.5%，道琼斯指数涨0.58%，标普500指数跌0.53%，纳斯达克综合指数跌1.55%。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-20T15:18:21.000Z",
-        "date": "2026-11-20",
-        "time": "23:18",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540600"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611203936508783.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 68.1,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 19.5,
-          "recency": 24.6,
-          "emphasis": 6.5
-        },
-        "category": "海外",
-        "sectors": [
-          "半导体"
-        ],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -522,18 +556,18 @@
           }
         ],
         "sourceCount": 3,
-        "score": 68,
+        "score": 67.7,
         "signals": {
           "coverage": 35,
-          "engagement": 27,
-          "recency": 6,
+          "engagement": 26.9,
+          "recency": 5.8,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "银行"
         ],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -562,16 +596,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 67.8,
+        "score": 67.1,
         "signals": {
           "coverage": 35,
-          "engagement": 24.2,
-          "recency": 8.6,
+          "engagement": 23.9,
+          "recency": 8.3,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 15,
+        "rank": 16,
         "importance": "一般"
       },
       {
@@ -600,16 +634,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 65,
+        "score": 64.4,
         "signals": {
           "coverage": 35,
           "engagement": 13.5,
-          "recency": 16.5,
+          "recency": 15.9,
           "emphasis": 0
         },
         "category": "公司",
         "sectors": [],
-        "rank": 16,
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -634,16 +668,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 64.7,
+        "score": 63.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29.8,
-          "recency": 10.9,
+          "engagement": 29.3,
+          "recency": 10.5,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
-        "rank": 17,
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -668,16 +702,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 64.2,
+        "score": 63.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.5,
-          "recency": 18.8,
+          "engagement": 21.1,
+          "recency": 18.1,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
-        "rank": 18,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -702,60 +736,24 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63.4,
+        "score": 62.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 26.2,
-          "recency": 19.7,
+          "engagement": 26.1,
+          "recency": 19,
           "emphasis": 0
         },
         "category": "公司",
         "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-42075e722d76f9532924",
-        "title": "木林森：拟投资22.5亿元建设半导体芯片封测项目",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611203936224582.html",
-        "summary": "木林森(002745.SZ)公告称，公司董事会审议通过议案，同意与江西省吉安市井冈山经济技术开发区招商管理有限公司签订投资合同书，拟在井冈山经济技术开发区投资建设半导体芯片封测项目及半导体封装项目，预计2028年底总投资额22.5亿元。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-20T10:42:57.000Z",
-        "date": "2026-11-20",
-        "time": "18:42",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611203936224582.html"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3203299"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 62.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 28.7,
-          "recency": 16.7,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "半导体"
-        ],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-20T15:33:09.852Z",
-    "collectedAt": "2026-11-20T15:33:09.852Z",
-    "latestPublishedAt": "2026-11-20T15:25:55.000Z",
-    "totalCandidates": 1189,
-    "financeCandidates": 826,
+    "asOf": "2026-11-20T16:28:37.270Z",
+    "collectedAt": "2026-11-20T16:28:37.270Z",
+    "latestPublishedAt": "2026-11-20T15:58:03.000Z",
+    "totalCandidates": 1215,
+    "financeCandidates": 838,
     "sources": [
       {
         "id": "cls",
@@ -763,9 +761,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-20T15:33:09.852Z",
-        "lastSuccessAt": "2026-11-20T15:33:09.852Z",
-        "count": 10,
+        "checkedAt": "2026-11-20T16:28:37.270Z",
+        "lastSuccessAt": "2026-11-20T16:28:37.270Z",
+        "count": 8,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -774,8 +772,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-20T15:33:09.852Z",
-        "lastSuccessAt": "2026-11-20T15:33:09.852Z",
+        "checkedAt": "2026-11-20T16:28:37.270Z",
+        "lastSuccessAt": "2026-11-20T16:28:37.270Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -785,9 +783,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-20T15:33:09.852Z",
-        "lastSuccessAt": "2026-11-20T15:33:09.852Z",
-        "count": 55,
+        "checkedAt": "2026-11-20T16:28:37.270Z",
+        "lastSuccessAt": "2026-11-20T16:28:37.270Z",
+        "count": 48,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -796,8 +794,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "empty",
-        "checkedAt": "2026-11-20T15:33:09.852Z",
-        "lastSuccessAt": "2026-11-20T15:33:09.852Z",
+        "checkedAt": "2026-11-20T16:28:37.270Z",
+        "lastSuccessAt": "2026-11-20T16:28:37.270Z",
         "count": 0,
         "message": "暂无带独立标题的可用条目"
       }
@@ -815,7 +813,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-20",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-20T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-20",
@@ -4338,5 +4337,12 @@
       "status": "locked",
       "lockedAt": "2026-11-19T22:43:14.765Z"
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-20T16:00:00.000Z",
+    "completedAt": "2026-11-20T16:28:44.183Z",
+    "newsCollectedAt": "2026-11-20T16:28:37.270Z",
+    "marketCollectedAt": "2026-11-20T15:33:09.895Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }

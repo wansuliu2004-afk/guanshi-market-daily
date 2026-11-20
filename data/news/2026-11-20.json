@@ -1,7 +1,343 @@
 {
   "date": "2026-11-20",
-  "asOf": "2026-11-20T15:33:09.852Z",
+  "asOf": "2026-11-20T23:17:27.661Z",
   "records": [
+    {
+      "id": "wallstreet-e179e1579ee9dbc8a7c2",
+      "title": "法国加强2027年总统选举网络监管",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3203468",
+      "publishedAt": "2026-11-20T15:58:03.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.397Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-5be163d4566c78aeb522",
+      "title": "欧洲天然气期货价格一度上涨5%至88.7欧元/兆瓦时",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://stock.eastmoney.com/a/202611203936534983.html",
+      "publishedAt": "2026-11-20T15:57:12.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.813Z",
+      "attention": 4,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-8b7e324a5655eb5dcb31",
+      "title": "法国加强2027年总统选举网络监管",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2540621",
+      "summary": "财联社11月20日电，法国音像和数字通信监管局19日发布监管新规，就在2027年总统选举前夕“大流量”视频博主给予不同候选人的曝光度作出明确规定。法国将于明年4月18日举行总统选举首轮投票，若无候选人得票过半，则于5月2日进行第二轮投票。监管新规要求，明年3月中旬开始，各候选人…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-20T15:56:36.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:38.298Z",
+      "attention": 499058,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-458d29e6933aa74f74e4",
+      "title": "沙特联军称对胡塞武装目标实施军事打击",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936534097.html",
+      "summary": "当地时间11月20日，沙特阿拉伯主导的多国联军宣布，当天凌晨在也门境内针对胡塞武装的军事设施及相关目标实施军事打击，重点打击其弹道导弹和无人机能力，以消除针对也门及沙特境内平民的安全威胁。多国联军发言人当天通过社交媒体连续发布声明称，此次军事行动针对胡塞武装用于支持军事活动的关…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-20T15:56:25.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.814Z",
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-6f1e658efbccf9db2ab0",
+      "title": "标普500指数跌幅扩大",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://global.eastmoney.com/a/202611203936534541.html",
+      "summary": "标普500指数跌幅扩大，现跌1.0%，最新报7099.11点。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-20T15:56:03.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.814Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-ea8c72b0adb04524f2be",
+      "title": "沙特联军称对胡塞武装目标实施军事打击",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2540619",
+      "summary": "财联社11月20日电，沙特阿拉伯主导的多国联军宣布，当天凌晨在也门境内针对胡塞武装的军事设施及相关目标实施军事打击，重点打击其弹道导弹和无人机能力，以消除针对也门及沙特境内平民的安全威胁。多国联军发言人当天通过社交媒体连续发布声明称，此次军事行动针对胡塞武装用于支持军事活动的关…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-20T15:55:19.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:38.298Z",
+      "attention": 489481,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-268714b561a271180b8f",
+      "title": "郭明錤：谷歌已削减了2027年博通设计的TPU 8i系列出货量约100万台",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2540618",
+      "summary": "财联社11月20日电，郭明錤表示，他最新的行业调查显示，谷歌已削减了2027年博通设计的TPU 8i系列出货量约100万台（主要是价格更高的8i Max / Whalefish）。此次削减约占2027年TPU 8i系列出货量的20%。该调查还显示，谷歌计划增加2027年Medi…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-20T15:54:50.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:38.299Z",
+      "attention": 504765,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-ddf57111e16f6389a8da",
+      "title": "郭明錤：谷歌已削减了2027年博通设计的TPU 8i系列出货量约100万台",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936534472.html",
+      "summary": "郭明錤表示，他最新的行业调查显示，谷歌已削减了2027年博通设计的TPU8i系列出货量约100万台（主要是价格更高的8iMax/Whalefish）。此次削减约占2027年TPU8i系列出货量的20%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-20T15:54:50.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.814Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-a1ceaabb86c939a93dd1",
+      "title": "CoreWeave跌幅一度达10% 跌破40美元的IPO发行价",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936533137.html",
+      "publishedAt": "2026-11-20T15:51:08.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.814Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-acfb3dda70eefd554833",
+      "title": "科技股抛售搅动市场，AI信用风险指标恶化，谷歌CDS创历史新高",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3203463",
+      "publishedAt": "2026-11-20T15:45:59.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.397Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-e30da6ddbbba0dab9190",
+      "title": "利弗莫尔中概股龙头指数跌幅扩大至3%",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2540616",
+      "summary": "财联社11月20日电，利弗莫尔中概股龙头指数跌幅扩大至3%，报7629.82点。成分股中，南茂跌10.7%，小鹏跌9.91%，日月光投控跌9.58%，慧荣科技跌8.17%，希尔威金属矿业跌8.13%。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-20T15:45:49.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:38.299Z",
+      "attention": 467113,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-92d8fc43568682d58b39",
+      "title": "中概股持续走低",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936532435.html",
+      "summary": "南茂跌10.7%，小鹏跌9.91%，日月光投控跌9.58%，慧荣科技跌8.17%，希尔威金属矿业跌8.13%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-20T15:45:49.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.814Z",
+      "attention": 9,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-e275abb100f856e5b7b0",
+      "title": "日本政府关键网络业务系统遭非法访问",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2540615",
+      "summary": "财联社11月20日电，日本数字厅20日说，该厅运营的日本政府关键网络业务系统遭遇非法访问，政府内部资料可能已经外泄。数字厅20日发布新闻公报说，该厅运营的政府关键网络业务系统“政府解决方案服务”遭遇非法访问，经由该服务处理过的部分文件可能泄露。公报说，“政府解决方案服务”是面向…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-20T15:44:47.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:38.299Z",
+      "attention": 469480,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-ed7510eec01620a18f90",
+      "title": "英伟达跌超6%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936530528.html",
+      "summary": "英伟达持续下挫，现跌超6%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-20T15:44:42.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.814Z",
+      "attention": 6,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-1b07c9546963199bb33b",
+      "title": "比特币自7月以来首次跌破6万美元 日内下跌5%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936529855.html",
+      "publishedAt": "2026-11-20T15:43:50.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.814Z",
+      "attention": 4,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-6235503ac3980ade3fa1",
+      "title": "美国10年期国债收益率当日下跌10个基点，至4.95%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://bond.eastmoney.com/a/202611203936528389.html",
+      "publishedAt": "2026-11-20T15:41:20.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.814Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-c7295739214614b278d6",
+      "title": "据伊朗方面消息 伊朗格什姆岛传来爆炸声",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936528446.html",
+      "publishedAt": "2026-11-20T15:40:52.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.814Z",
+      "attention": 9,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-bed3f649b1743e48355b",
+      "title": "郭明錤：谷歌已将博通TPU 8i系列2027年出货量下调约100万颗",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3203460",
+      "publishedAt": "2026-11-20T15:40:13.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.397Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-5e1e8e89c9211a164aef",
+      "title": "费城半导体指数跌幅一度达到7% 报8756.66点",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://stock.eastmoney.com/a/202611203936527969.html",
+      "publishedAt": "2026-11-20T15:40:11.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.815Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-aa7de86533a2b31f50ff",
+      "title": "伊朗媒体：格什姆岛上空传出爆炸声",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3203459",
+      "publishedAt": "2026-11-20T15:39:49.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.397Z",
+      "attention": 0,
+      "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-6559aa9d9bcef07a0d7a",
+      "title": "纳斯达克100指数跌幅扩大至2.5%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://stock.eastmoney.com/a/202611203936528134.html",
+      "publishedAt": "2026-11-20T15:39:45.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.815Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-633356afb276e5ced726",
+      "title": "德国国债扩大涨幅 10年期收益率下跌10个基点至3.30%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://bond.eastmoney.com/a/202611203936526989.html",
+      "publishedAt": "2026-11-20T15:39:29.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.815Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-2d6ca37499d0d31ef370",
+      "title": "英伟达股价跌幅扩大至6.1%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936526595.html",
+      "summary": "英伟达股价跌幅扩大至6.1%，报137.080美元/股，总市值报3.30万亿美元。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-20T15:38:08.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.815Z",
+      "attention": 6,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-f4882cfe63908b6bb409",
+      "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936528037.html",
+      "summary": "11月20日晚，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会。近30位中澳商会和企业负责人出席。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-20T15:36:26.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.815Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-4751ae2aa553cfc70818",
+      "title": "美国财长贝森特称，Anthropic的一位创始人将在未来几周内向“特朗普账户”进行大额捐赠",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611203936526395.html",
+      "publishedAt": "2026-11-20T15:34:40.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.815Z",
+      "attention": 24,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-bdae9ffbd7f0a001ab80",
+      "title": "美国2至7年期国债收益率日内下跌至少10个基点",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://bond.eastmoney.com/a/202611203936516262.html",
+      "publishedAt": "2026-11-20T15:29:16.000Z",
+      "date": "2026-11-20",
+      "observedAt": "2026-11-20T16:28:39.815Z",
+      "attention": 5,
+      "emphasis": 0
+    },
     {
       "id": "cls-58a6884f5a6c76b4f357",
       "title": "费城半导体指数跌幅扩大至6%",
@@ -18,15 +354,17 @@
     },
     {
       "id": "eastmoney-c8a390536be48f64908c",
-      "title": "费城半导体指数跌幅扩大至6% 报8846.94点",
+      "title": "费城半导体指数跌幅扩大至6%",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611203936513345.html",
       "publishedAt": "2026-11-20T15:25:55.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.515Z",
-      "attention": 0,
-      "emphasis": 0
+      "attention": 19,
+      "emphasis": 0,
+      "summary": "费城半导体指数跌幅扩大至6%，报8846.94点。闪迪跌超12%，希捷科技、西部数据跌超9%，ARM跌超8%，应用材料、AMD、拉姆研究、博通跌超7%，英伟达跌超5%。",
+      "summarySourceId": "eastmoney"
     },
     {
       "id": "eastmoney-910ab5866b15f6393e3b",
@@ -51,7 +389,7 @@
       "publishedAt": "2026-11-20T15:21:29.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.515Z",
-      "attention": 6,
+      "attention": 41,
       "emphasis": 0
     },
     {
@@ -63,7 +401,7 @@
       "publishedAt": "2026-11-20T15:21:09.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.515Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -89,7 +427,7 @@
       "publishedAt": "2026-11-20T15:18:21.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.515Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -103,7 +441,7 @@
       "publishedAt": "2026-11-20T15:16:32.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.516Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -207,7 +545,7 @@
       "publishedAt": "2026-11-20T15:03:04.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.516Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -233,7 +571,7 @@
       "publishedAt": "2026-11-20T15:01:45.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.516Z",
-      "attention": 24,
+      "attention": 34,
       "emphasis": 0
     },
     {
@@ -289,7 +627,7 @@
       "publishedAt": "2026-11-20T15:00:03.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.516Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -313,7 +651,7 @@
       "publishedAt": "2026-11-20T14:49:28.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.516Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -327,7 +665,7 @@
       "publishedAt": "2026-11-20T14:48:25.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.516Z",
-      "attention": 1,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -339,7 +677,7 @@
       "publishedAt": "2026-11-20T14:47:58.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.517Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -401,7 +739,7 @@
       "publishedAt": "2026-11-20T14:42:46.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.517Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -429,7 +767,7 @@
       "publishedAt": "2026-11-20T14:40:56.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.517Z",
-      "attention": 76,
+      "attention": 163,
       "emphasis": 0
     },
     {
@@ -457,7 +795,7 @@
       "publishedAt": "2026-11-20T14:40:41.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.517Z",
-      "attention": 12,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -509,7 +847,7 @@
       "publishedAt": "2026-11-20T14:36:35.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.517Z",
-      "attention": 19,
+      "attention": 20,
       "emphasis": 0
     },
     {
@@ -591,7 +929,7 @@
       "publishedAt": "2026-11-20T14:32:00.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.517Z",
-      "attention": 21,
+      "attention": 25,
       "emphasis": 0
     },
     {
@@ -631,7 +969,7 @@
       "publishedAt": "2026-11-20T14:30:50.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T15:33:11.518Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -851,7 +1189,7 @@
       "publishedAt": "2026-11-20T13:53:40.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T14:37:24.403Z",
-      "attention": 14,
+      "attention": 19,
       "emphasis": 0
     },
     {
@@ -957,7 +1295,7 @@
       "publishedAt": "2026-11-20T13:41:56.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T13:46:03.026Z",
-      "attention": 16,
+      "attention": 24,
       "emphasis": 0
     },
     {
@@ -971,7 +1309,7 @@
       "publishedAt": "2026-11-20T13:41:00.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T13:46:03.026Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -1089,7 +1427,7 @@
       "publishedAt": "2026-11-20T13:24:09.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T13:46:03.027Z",
-      "attention": 248,
+      "attention": 251,
       "emphasis": 0
     },
     {
@@ -1359,7 +1697,7 @@
       "publishedAt": "2026-11-20T12:50:00.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T13:46:03.028Z",
-      "attention": 5,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -1425,7 +1763,7 @@
       "publishedAt": "2026-11-20T12:42:54.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T13:46:03.028Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -1635,7 +1973,7 @@
       "publishedAt": "2026-11-20T12:24:05.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T12:30:41.942Z",
-      "attention": 149,
+      "attention": 152,
       "emphasis": 0
     },
     {
@@ -1705,7 +2043,7 @@
       "publishedAt": "2026-11-20T12:20:45.000Z",
       "date": "2026-11-20",
       "observedAt": "2026-11-20T12:30:41.942Z",
-      "attention": 8,
+      "attention": 9,
       "emphasis": 0
     },
     {
@@ -16010,9 +16348,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-20T15:33:09.852Z",
-      "lastSuccessAt": "2026-11-20T15:33:09.852Z",
-      "count": 10,
+      "checkedAt": "2026-11-20T23:17:27.661Z",
+      "lastSuccessAt": "2026-11-20T23:17:27.661Z",
+      "count": 9,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -16021,8 +16359,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-20T15:33:09.852Z",
-      "lastSuccessAt": "2026-11-20T15:33:09.852Z",
+      "checkedAt": "2026-11-20T23:17:27.661Z",
+      "lastSuccessAt": "2026-11-20T23:17:27.661Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -16032,9 +16370,9 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-20T15:33:09.852Z",
-      "lastSuccessAt": "2026-11-20T15:33:09.852Z",
-      "count": 55,
+      "checkedAt": "2026-11-20T23:17:27.661Z",
+      "lastSuccessAt": "2026-11-20T23:17:27.661Z",
+      "count": 30,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -16043,8 +16381,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "empty",
-      "checkedAt": "2026-11-20T15:33:09.852Z",
-      "lastSuccessAt": "2026-11-20T15:33:09.852Z",
+      "checkedAt": "2026-11-20T23:17:27.661Z",
+      "lastSuccessAt": "2026-11-20T23:17:27.661Z",
       "count": 0,
       "message": "暂无带独立标题的可用条目"
     }
