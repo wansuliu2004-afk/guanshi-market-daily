@@ -1,10 +1,10 @@
 {
   "date": "2026-11-21",
   "cutoffAt": "2026-11-21T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-20T16:28:43.073Z",
-  "lastSavedAt": "2026-11-21T15:23:36.882Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-21T16:49:44.782Z",
+  "sealedAt": "2026-11-21T16:07:40.519Z",
   "news": {
     "items": [
       {
@@ -33,11 +33,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 79,
+        "score": 78.6,
         "signals": {
           "coverage": 35,
           "engagement": 28.9,
-          "recency": 8.6,
+          "recency": 8.2,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -71,11 +71,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 72.5,
+        "score": 72,
         "signals": {
           "coverage": 35,
           "engagement": 26.4,
-          "recency": 11.1,
+          "recency": 10.5,
           "emphasis": 0
         },
         "category": "公司",
@@ -109,11 +109,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 72.1,
+        "score": 71.4,
         "signals": {
           "coverage": 35,
-          "engagement": 21.3,
-          "recency": 15.8,
+          "engagement": 21.4,
+          "recency": 15,
           "emphasis": 0
         },
         "category": "行业",
@@ -147,11 +147,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 71.7,
+        "score": 71.2,
         "signals": {
           "coverage": 35,
           "engagement": 27.1,
-          "recency": 9.5,
+          "recency": 9.1,
           "emphasis": 0
         },
         "category": "行业",
@@ -185,11 +185,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 70.7,
+        "score": 70.2,
         "signals": {
           "coverage": 35,
           "engagement": 25.7,
-          "recency": 10,
+          "recency": 9.5,
           "emphasis": 0
         },
         "category": "行业",
@@ -223,56 +223,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 70.3,
+        "score": 69.8,
         "signals": {
           "coverage": 35,
           "engagement": 25,
-          "recency": 10.3,
+          "recency": 9.8,
           "emphasis": 0
         },
         "category": "政策",
         "sectors": [],
         "rank": 6,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-d01a7973bf8a0997818c",
-        "title": "中国铜业100亿元小公募债申报获上交所受理",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3203656",
-        "summary": "财联社11月21日电，上交所公司债券项目信息平台显示，中国铜业有限公司100亿元小公募债项目状态更新为“已受理”，受理日期为2026年11月20日。募集说明书申报稿显示，本次公司债券募集资金扣除发行费用后，拟用于生产性支出，具体包括偿还到期债务、补充流动资金、项目建设及运营、股…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-21T09:34:56.000Z",
-        "date": "2026-11-21",
-        "time": "17:34",
-        "relatedSources": [
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3203656"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540796"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://bond.eastmoney.com/a/202611213936819887.html"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 66.1,
-        "signals": {
-          "coverage": 35,
-          "engagement": 15.7,
-          "recency": 15.4,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "有色金属"
-        ],
-        "rank": 7,
         "importance": "关注"
       },
       {
@@ -301,50 +261,56 @@
           }
         ],
         "sourceCount": 3,
-        "score": 63.4,
+        "score": 67.8,
         "signals": {
           "coverage": 35,
-          "engagement": 5.9,
-          "recency": 22.5,
+          "engagement": 11.4,
+          "recency": 21.4,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 8,
+        "rank": 7,
         "importance": "关注"
       },
       {
-        "id": "topic-74c3fe3a7c34922a89d4",
-        "title": "人民日报：唱空中国经济者终会落空",
+        "id": "topic-d01a7973bf8a0997818c",
+        "title": "中国铜业100亿元小公募债申报获上交所受理",
         "source": "华尔街见闻",
         "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3203638",
-        "summary": "今年以来，一些境外媒体和机构围绕中国经济频频发难。一会儿渲染所谓“通缩陷阱”，断言中国经济增长难以为继；一会儿炒作“中国冲击2.0”，声称中国制造威胁全球产业。说辞换了一茬又一茬，唯有悲观的结论像是提前写好了一般。可惜，中国经济的发展，从来不由这些唱空者说了算。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-21T03:21:32.000Z",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203656",
+        "summary": "财联社11月21日电，上交所公司债券项目信息平台显示，中国铜业有限公司100亿元小公募债项目状态更新为“已受理”，受理日期为2026年11月20日。募集说明书申报稿显示，本次公司债券募集资金扣除发行费用后，拟用于生产性支出，具体包括偿还到期债务、补充流动资金、项目建设及运营、股…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T09:34:56.000Z",
         "date": "2026-11-21",
-        "time": "11:21",
+        "time": "17:34",
         "relatedSources": [
           {
             "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3203638"
+            "url": "https://wallstreetcn.com/livenews/3203656"
+          },
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540796"
           },
           {
             "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611213936792690.html"
+            "url": "http://bond.eastmoney.com/a/202611213936819887.html"
           }
         ],
-        "sourceCount": 2,
-        "score": 62.2,
+        "sourceCount": 3,
+        "score": 64.6,
         "signals": {
-          "coverage": 17.5,
-          "engagement": 29,
-          "recency": 9.2,
-          "emphasis": 6.5
+          "coverage": 35,
+          "engagement": 15,
+          "recency": 14.6,
+          "emphasis": 0
         },
-        "category": "宏观",
-        "sectors": [],
-        "rank": 9,
+        "category": "行业",
+        "sectors": [
+          "有色金属"
+        ],
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -373,17 +339,51 @@
           }
         ],
         "sourceCount": 3,
-        "score": 62.1,
+        "score": 62,
         "signals": {
           "coverage": 35,
           "engagement": 23.1,
-          "recency": 4,
+          "recency": 3.8,
           "emphasis": 0
         },
         "category": "宏观",
         "sectors": [
           "银行"
         ],
+        "rank": 9,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-74c3fe3a7c34922a89d4",
+        "title": "人民日报：唱空中国经济者终会落空",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203638",
+        "summary": "今年以来，一些境外媒体和机构围绕中国经济频频发难。一会儿渲染所谓“通缩陷阱”，断言中国经济增长难以为继；一会儿炒作“中国冲击2.0”，声称中国制造威胁全球产业。说辞换了一茬又一茬，唯有悲观的结论像是提前写好了一般。可惜，中国经济的发展，从来不由这些唱空者说了算。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-21T03:21:32.000Z",
+        "date": "2026-11-21",
+        "time": "11:21",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203638"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936792690.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 61.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29,
+          "recency": 8.7,
+          "emphasis": 6.5
+        },
+        "category": "宏观",
+        "sectors": [],
         "rank": 10,
         "importance": "关注"
       },
@@ -409,11 +409,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.4,
+        "score": 60,
         "signals": {
           "coverage": 17.5,
-          "engagement": 25.9,
-          "recency": 17.1,
+          "engagement": 26.3,
+          "recency": 16.2,
           "emphasis": 0
         },
         "category": "宏观",
@@ -445,11 +445,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 57.8,
+        "score": 57.6,
         "signals": {
           "coverage": 17.5,
           "engagement": 28.4,
-          "recency": 5.4,
+          "recency": 5.1,
           "emphasis": 6.5
         },
         "category": "海外",
@@ -457,6 +457,77 @@
           "人工智能"
         ],
         "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-a344381cdb77b9a62253",
+        "title": "亿纬锂能刘金成：锂电池消费税落地后会有相当一部分企业退出市场",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540770",
+        "summary": "在今日进行的第十一届动力电池应用国际峰会上，亿纬锂能董事长刘金成表示，锂电消费税落地后，会有相当一部分企业将退出市场。他援引统计数据称，在铅酸电池增收10%消费税后，行业内90%的铅酸企业退出。以此类推，三年之内，锂电池行业中相当一部分企业也将不得不退出市场，这也会给行业发展带…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T04:36:11.000Z",
+        "date": "2026-11-21",
+        "time": "12:36",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540770"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936804282.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 56.5,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.3,
+          "recency": 9.7,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "新能源",
+          "食品饮料"
+        ],
+        "rank": 13,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-055f9c86305ceff72c37",
+        "title": "标普500指数连续第7个交易日下跌 创2020年以来最长连跌纪录",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540695",
+        "summary": "财联社11月21日电，标普500指数连续第七个交易日下跌，创2020年以来最长连跌纪录。本周标普500指数重挫8.6%，道指下跌8.0%，纳斯达克指数暴跌10.0%。标普500指数和道指均创2025年4月以来最大单周跌幅。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-20T21:16:52.000Z",
+        "date": "2026-11-21",
+        "time": "05:16",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540695"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://global.eastmoney.com/a/202611213936579896.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 56.5,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 27.3,
+          "recency": 5.3,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -485,83 +556,12 @@
           }
         ],
         "sourceCount": 3,
-        "score": 57.3,
+        "score": 56.2,
         "signals": {
           "coverage": 35,
-          "engagement": 14.3,
-          "recency": 8,
+          "engagement": 13.6,
+          "recency": 7.6,
           "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 13,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-a344381cdb77b9a62253",
-        "title": "亿纬锂能刘金成：锂电池消费税落地后会有相当一部分企业退出市场",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540770",
-        "summary": "在今日进行的第十一届动力电池应用国际峰会上，亿纬锂能董事长刘金成表示，锂电消费税落地后，会有相当一部分企业将退出市场。他援引统计数据称，在铅酸电池增收10%消费税后，行业内90%的铅酸企业退出。以此类推，三年之内，锂电池行业中相当一部分企业也将不得不退出市场，这也会给行业发展带…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-21T04:36:11.000Z",
-        "date": "2026-11-21",
-        "time": "12:36",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540770"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611213936804282.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 57,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 29.3,
-          "recency": 10.2,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "新能源",
-          "食品饮料"
-        ],
-        "rank": 14,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-055f9c86305ceff72c37",
-        "title": "标普500指数连续第7个交易日下跌 创2020年以来最长连跌纪录",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540695",
-        "summary": "财联社11月21日电，标普500指数连续第七个交易日下跌，创2020年以来最长连跌纪录。本周标普500指数重挫8.6%，道指下跌8.0%，纳斯达克指数暴跌10.0%。标普500指数和道指均创2025年4月以来最大单周跌幅。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-20T21:16:52.000Z",
-        "date": "2026-11-21",
-        "time": "05:16",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540695"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://global.eastmoney.com/a/202611213936579896.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 56.8,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 27.2,
-          "recency": 5.5,
-          "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
@@ -590,11 +590,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 56.2,
+        "score": 55.7,
         "signals": {
           "coverage": 17.5,
           "engagement": 28.6,
-          "recency": 10.2,
+          "recency": 9.7,
           "emphasis": 0
         },
         "category": "政策",
@@ -602,6 +602,112 @@
           "新能源"
         ],
         "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-7dd6702115d3be97060f",
+        "title": "费城半导体指数跌幅扩大至8% 美光科技跌近12%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540637",
+        "summary": "费城半导体指数跌幅扩大至8%，报8664.69点。成分股方面，英伟达股价下跌6.58%，台积电股价下跌7.58%，博通股价下跌9.84%，超威半导体股价下跌10.74%，美光科技股价下跌11.9%，阿斯麦股价下跌5.17%。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-20T16:33:48.000Z",
+        "date": "2026-11-21",
+        "time": "00:33",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540637"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936543433.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 52.6,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 25.1,
+          "recency": 3.5,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 17,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-cdb1dfaecea4f33db495",
+        "title": "美新科技：子公司星曜宇航已启动4米级舱段生产",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540784",
+        "summary": "财联社11月21日电，美新科技在接待机构调研时表示，子公司四川星曜宇航航天科技有限公司成立于2026年2月，是一家专注于商业航天运载火箭全箭结构件的专业化企业。公司构建了火箭结构件集产品研发、工艺设计、精密加工、特种焊接、试验验证及批量交付于一体的全链条研制体系，可形成从设计输…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T05:46:27.000Z",
+        "date": "2026-11-21",
+        "time": "13:46",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540784"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936810316.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 51.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 23.6,
+          "recency": 10.7,
+          "emphasis": 0
+        },
+        "category": "公司",
+        "sectors": [],
+        "rank": 18,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-221383b2468a5e275609",
+        "title": "中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540788",
+        "summary": "财联社11月21日电，中信建投证券发布食品饮料2027年投资策略报告称，食饮选股新范式：优先选择自由现金流稳定、分红率与股息率可验证、位居行业龙头且格局稳定、管理层有明确的股东回报动作（回购注销、承诺分红）的公司；以“大盘红利底仓”（头部白酒、龙头乳企等高股息资产）承接确定性，…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T06:42:58.000Z",
+        "date": "2026-11-21",
+        "time": "14:42",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540788"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936816963.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 51.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 22.1,
+          "recency": 11.5,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "食品饮料"
+        ],
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -630,130 +736,24 @@
           }
         ],
         "sourceCount": 3,
-        "score": 53.5,
+        "score": 51.1,
         "signals": {
           "coverage": 35,
-          "engagement": 12.9,
-          "recency": 5.7,
+          "engagement": 10.7,
+          "recency": 5.4,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-7dd6702115d3be97060f",
-        "title": "费城半导体指数跌幅扩大至8% 美光科技跌近12%",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540637",
-        "summary": "费城半导体指数跌幅扩大至8%，报8664.69点。成分股方面，英伟达股价下跌6.58%，台积电股价下跌7.58%，博通股价下跌9.84%，超威半导体股价下跌10.74%，美光科技股价下跌11.9%，阿斯麦股价下跌5.17%。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-20T16:33:48.000Z",
-        "date": "2026-11-21",
-        "time": "00:33",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540637"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611213936543433.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 52.8,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 25.1,
-          "recency": 3.7,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [
-          "半导体"
-        ],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-cdb1dfaecea4f33db495",
-        "title": "美新科技：子公司星曜宇航已启动4米级舱段生产",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540784",
-        "summary": "财联社11月21日电，美新科技在接待机构调研时表示，子公司四川星曜宇航航天科技有限公司成立于2026年2月，是一家专注于商业航天运载火箭全箭结构件的专业化企业。公司构建了火箭结构件集产品研发、工艺设计、精密加工、特种焊接、试验验证及批量交付于一体的全链条研制体系，可形成从设计输…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-21T05:46:27.000Z",
-        "date": "2026-11-21",
-        "time": "13:46",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540784"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611213936810316.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 52.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 23.6,
-          "recency": 11.2,
-          "emphasis": 0
-        },
-        "category": "公司",
-        "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-221383b2468a5e275609",
-        "title": "中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540788",
-        "summary": "财联社11月21日电，中信建投证券发布食品饮料2027年投资策略报告称，食饮选股新范式：优先选择自由现金流稳定、分红率与股息率可验证、位居行业龙头且格局稳定、管理层有明确的股东回报动作（回购注销、承诺分红）的公司；以“大盘红利底仓”（头部白酒、龙头乳企等高股息资产）承接确定性，…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-21T06:42:58.000Z",
-        "date": "2026-11-21",
-        "time": "14:42",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540788"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611213936816963.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 51.8,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 22.1,
-          "recency": 12.1,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "食品饮料"
-        ],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-21T15:23:26.706Z",
-    "collectedAt": "2026-11-21T15:23:26.706Z",
-    "latestPublishedAt": "2026-11-21T15:19:48.000Z",
-    "totalCandidates": 469,
-    "financeCandidates": 249,
+    "asOf": "2026-11-21T16:49:40.644Z",
+    "collectedAt": "2026-11-21T16:49:40.644Z",
+    "latestPublishedAt": "2026-11-21T15:45:38.000Z",
+    "totalCandidates": 473,
+    "financeCandidates": 250,
     "sources": [
       {
         "id": "cls",
@@ -761,8 +761,8 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-21T15:23:26.706Z",
-        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "checkedAt": "2026-11-21T16:49:40.644Z",
+        "lastSuccessAt": "2026-11-21T16:49:40.644Z",
         "count": 20,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -772,8 +772,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-21T15:23:26.706Z",
-        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "checkedAt": "2026-11-21T16:49:40.644Z",
+        "lastSuccessAt": "2026-11-21T16:49:40.644Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -783,8 +783,8 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-21T15:23:26.706Z",
-        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "checkedAt": "2026-11-21T16:49:40.644Z",
+        "lastSuccessAt": "2026-11-21T16:49:40.644Z",
         "count": 64,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -794,8 +794,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-21T15:23:26.706Z",
-        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "checkedAt": "2026-11-21T16:49:40.644Z",
+        "lastSuccessAt": "2026-11-21T16:49:40.644Z",
         "count": 1,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -813,7 +813,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-21",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-21T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-21",
@@ -1849,5 +1850,12 @@
       "status": "waiting",
       "lockedAt": null
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-21T16:00:00.000Z",
+    "completedAt": "2026-11-21T16:49:44.782Z",
+    "newsCollectedAt": "2026-11-21T16:49:40.644Z",
+    "marketCollectedAt": "2026-11-21T15:23:26.750Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }
