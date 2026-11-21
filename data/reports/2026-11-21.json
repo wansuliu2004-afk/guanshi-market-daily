@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-21",
   "cutoffAt": "2026-11-21T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-21T16:49:44.782Z",
   "createdAt": "2026-11-20T16:28:44.199Z",
-  "updatedAt": "2026-11-21T15:23:38.295Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-21T16:49:44.795Z",
+  "finalizedAt": "2026-11-21T16:49:44.795Z",
+  "status": "final",
   "news": {
     "date": "2026-11-21",
     "cutoffAt": "2026-11-21T16:00:00.000Z",
@@ -111,10 +111,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 66.2,
+        "score": 66.3,
         "signals": {
           "coverage": 35,
-          "engagement": 19.2,
+          "engagement": 19.3,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
@@ -148,7 +148,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 62.1,
+        "score": 62.2,
         "signals": {
           "coverage": 17.5,
           "engagement": 20.9,
@@ -300,7 +300,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 59.4,
+        "score": 59.5,
         "signals": {
           "coverage": 17.5,
           "engagement": 22.7,
@@ -452,10 +452,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 54,
+        "score": 54.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.5,
+          "engagement": 21.9,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
@@ -528,10 +528,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 53.2,
+        "score": 51.4,
         "signals": {
           "coverage": 35,
-          "engagement": 10.7,
+          "engagement": 8.9,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -567,10 +567,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 51.1,
+        "score": 50.5,
         "signals": {
           "coverage": 35,
-          "engagement": 13.1,
+          "engagement": 12.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -608,10 +608,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 49.9,
+        "score": 49.3,
         "signals": {
           "coverage": 35,
-          "engagement": 11.9,
+          "engagement": 11.3,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -659,6 +659,45 @@
         "importance": "一般"
       },
       {
+        "id": "topic-021f1e1e7bb51656650c",
+        "title": "以军袭击加沙城一辆汽车 致3死多伤",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540844",
+        "summary": "财联社11月21日电，据巴勒斯坦方面当地时间21日消息，以色列军方战机当天中午袭击了加沙地带加沙城西南部的一辆汽车，造成3名巴勒斯坦人死亡、另有数人受伤。据目击者称，遭袭车辆当时正在向加沙城内的一处流离失所民众营地运送慈善组织提供的食物。以色列方面对此暂无回应。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-21T14:06:26.000Z",
+        "date": "2026-11-21",
+        "time": "22:06",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540844"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611213936851955.html"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203680"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 47.5,
+        "signals": {
+          "coverage": 35,
+          "engagement": 9.5,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 3
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 18,
+        "importance": "一般"
+      },
+      {
         "id": "topic-a344381cdb77b9a62253",
         "title": "亿纬锂能刘金成：锂电池消费税落地后会有相当一部分企业退出市场",
         "source": "财联社",
@@ -693,7 +732,7 @@
           "新能源",
           "食品饮料"
         ],
-        "rank": 18,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -712,60 +751,25 @@
           }
         ],
         "sourceCount": 1,
-        "score": 43.8,
+        "score": 43.3,
         "signals": {
           "coverage": 0,
-          "engagement": 24.5,
+          "engagement": 24.1,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "海外",
         "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-ffd4331f6255b2072832",
-        "title": "英国海上贸易行动办公室：一艘油轮在霍尔木兹海峡遭袭",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540800",
-        "summary": "财联社11月21日电，英国海上贸易行动办公室发布通报称，当天一艘油轮在阿曼海塞卜以北约11海里处遭袭。通报说，这艘油轮当时正驶离霍尔木兹海峡，船尾遭不明发射物击中。目前尚无人员伤亡情况报告，事件对环境造成的影响尚不明确。英国海上贸易行动办公室建议过往船只谨慎航行，并向该机构报告…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-21T08:07:40.000Z",
-        "date": "2026-11-21",
-        "time": "16:07",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540800"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611213936542633.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 43.2,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 13.7,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 12
-        },
-        "category": "行业",
-        "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-21T15:23:26.706Z",
-    "collectedAt": "2026-11-21T15:23:26.706Z",
-    "latestPublishedAt": "2026-11-21T15:19:48.000Z",
-    "totalCandidates": 469,
-    "financeCandidates": 249,
+    "asOf": "2026-11-21T16:49:40.644Z",
+    "collectedAt": "2026-11-21T16:49:40.644Z",
+    "latestPublishedAt": "2026-11-21T15:45:38.000Z",
+    "totalCandidates": 473,
+    "financeCandidates": 250,
     "sources": [
       {
         "id": "cls",
@@ -773,8 +777,8 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-21T15:23:26.706Z",
-        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "checkedAt": "2026-11-21T16:49:40.644Z",
+        "lastSuccessAt": "2026-11-21T16:49:40.644Z",
         "count": 20,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -784,8 +788,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-21T15:23:26.706Z",
-        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "checkedAt": "2026-11-21T16:49:40.644Z",
+        "lastSuccessAt": "2026-11-21T16:49:40.644Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -795,8 +799,8 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-21T15:23:26.706Z",
-        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "checkedAt": "2026-11-21T16:49:40.644Z",
+        "lastSuccessAt": "2026-11-21T16:49:40.644Z",
         "count": 64,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -806,8 +810,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-21T15:23:26.706Z",
-        "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+        "checkedAt": "2026-11-21T16:49:40.644Z",
+        "lastSuccessAt": "2026-11-21T16:49:40.644Z",
         "count": 1,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -823,8 +827,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-21T16:49:44.795Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-20T16:28:38.298Z"

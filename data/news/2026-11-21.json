@@ -1,7 +1,49 @@
 {
   "date": "2026-11-21",
-  "asOf": "2026-11-21T15:23:26.706Z",
+  "asOf": "2026-11-21T20:55:50.628Z",
   "records": [
+    {
+      "id": "eastmoney-5c31c2f87755d33d1982",
+      "title": "特朗普称没有考虑伊朗政权更迭",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611213936856797.html",
+      "summary": "美国总统特朗普在美国福克斯新闻频道21日播出的采访节目中说，没有考虑伊朗政权更迭。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-21T15:45:38.000Z",
+      "date": "2026-11-21",
+      "observedAt": "2026-11-21T16:07:41.799Z",
+      "attention": 9,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-879bc24f47c4b9e74594",
+      "title": "伊朗称在波斯湾北部拦截一架敌方侦察无人机",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611213936856463.html",
+      "summary": "当地时间21日，伊朗伊斯兰革命卫队宣布，不久前，卫队航空航天部队的防空系统成功拦截并击落了一架侵入伊朗领空的敌方侦察无人机。伊朗伊斯兰革命卫队表示，此次行动发生在波斯湾北部，即布什尔沿海水域。伊朗防空部队通过精准有效的火力完成了此次拦截。任何对伊朗领空的侵犯都是绝对不可接受的。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-21T15:36:45.000Z",
+      "date": "2026-11-21",
+      "observedAt": "2026-11-21T16:07:41.799Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-441c5a27480f8ae62c77",
+      "title": "特朗普称将与伊朗达成一项永久性协议",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2540852",
+      "summary": "财联社11月21日电，美国总统特朗普在当地时间21日播出的采访节目中说，将与伊朗达成一项永久性协议。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-21T15:29:42.000Z",
+      "date": "2026-11-21",
+      "observedAt": "2026-11-21T16:07:43.092Z",
+      "attention": 569300,
+      "emphasis": 0
+    },
     {
       "id": "eastmoney-261fc2b4cfb08e4a75bf",
       "title": "特朗普：将与伊朗达成一项永久性协议",
@@ -13,7 +55,7 @@
       "publishedAt": "2026-11-21T15:19:48.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T15:23:28.199Z",
-      "attention": 0,
+      "attention": 60,
       "emphasis": 0
     },
     {
@@ -41,7 +83,7 @@
       "publishedAt": "2026-11-21T14:57:28.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T15:23:28.200Z",
-      "attention": 4,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -55,7 +97,7 @@
       "publishedAt": "2026-11-21T14:55:59.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T15:23:27.706Z",
-      "attention": 19665,
+      "attention": 602965,
       "emphasis": 0
     },
     {
@@ -69,7 +111,7 @@
       "publishedAt": "2026-11-21T14:39:39.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T15:23:28.200Z",
-      "attention": 8,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -83,7 +125,7 @@
       "publishedAt": "2026-11-21T14:38:15.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T15:23:27.706Z",
-      "attention": 23241,
+      "attention": 587908,
       "emphasis": 0
     },
     {
@@ -111,7 +153,7 @@
       "publishedAt": "2026-11-21T14:24:53.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T14:36:19.875Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -139,7 +181,7 @@
       "publishedAt": "2026-11-21T14:23:12.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T14:36:19.477Z",
-      "attention": 28478,
+      "attention": 633514,
       "emphasis": 0
     },
     {
@@ -153,7 +195,7 @@
       "publishedAt": "2026-11-21T14:06:26.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T14:36:19.477Z",
-      "attention": 40166,
+      "attention": 640916,
       "emphasis": 0
     },
     {
@@ -223,7 +265,7 @@
       "publishedAt": "2026-11-21T13:32:07.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T13:51:37.691Z",
-      "attention": 49106,
+      "attention": 626110,
       "emphasis": 0
     },
     {
@@ -249,7 +291,7 @@
       "publishedAt": "2026-11-21T13:25:24.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T13:51:39.384Z",
-      "attention": 11,
+      "attention": 14,
       "emphasis": 0
     },
     {
@@ -313,7 +355,7 @@
       "publishedAt": "2026-11-21T13:06:29.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T13:51:37.691Z",
-      "attention": 60383,
+      "attention": 660319,
       "emphasis": 0
     },
     {
@@ -325,7 +367,7 @@
       "publishedAt": "2026-11-21T13:04:42.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T13:51:37.691Z",
-      "attention": 15857,
+      "attention": 168699,
       "emphasis": 0
     },
     {
@@ -339,7 +381,7 @@
       "publishedAt": "2026-11-21T13:02:37.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T13:51:39.384Z",
-      "attention": 5,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -353,7 +395,7 @@
       "publishedAt": "2026-11-21T12:57:04.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T12:58:24.245Z",
-      "attention": 71816,
+      "attention": 655995,
       "emphasis": 0
     },
     {
@@ -393,7 +435,7 @@
       "publishedAt": "2026-11-21T12:32:00.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T12:58:24.245Z",
-      "attention": 147650,
+      "attention": 698687,
       "emphasis": 0
     },
     {
@@ -405,7 +447,7 @@
       "publishedAt": "2026-11-21T12:15:59.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T12:58:24.245Z",
-      "attention": 47881,
+      "attention": 189050,
       "emphasis": 0
     },
     {
@@ -435,6 +477,20 @@
       "emphasis": 0
     },
     {
+      "id": "eastmoney-62d754c3c8dbf31e785b",
+      "title": "台湾金管会宣布稳定股市措施",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611213936857159.html",
+      "summary": "11月21日消息，中国台湾地区金管会宣布进一步稳定市场的措施，实施全面禁止卖空以稳定市场，上市柜个股最低融券保证金成数由130%升为150%。“国安基金”表示已进场买入股票。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-21T12:05:44.000Z",
+      "date": "2026-11-21",
+      "observedAt": "2026-11-21T16:07:41.800Z",
+      "attention": 13,
+      "emphasis": 0
+    },
+    {
       "id": "wallstreet-8f26971cdc457f545dfb",
       "title": "泽连斯基称乌欧美俄四方会谈时间取决于美方协调",
       "source": "华尔街见闻",
@@ -457,7 +513,7 @@
       "publishedAt": "2026-11-21T12:01:15.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T12:08:30.102Z",
-      "attention": 237329,
+      "attention": 749617,
       "emphasis": 0.65
     },
     {
@@ -485,7 +541,7 @@
       "publishedAt": "2026-11-21T11:56:37.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T12:08:30.102Z",
-      "attention": 264568,
+      "attention": 819162,
       "emphasis": 0
     },
     {
@@ -523,7 +579,7 @@
       "publishedAt": "2026-11-21T11:41:28.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T12:08:30.102Z",
-      "attention": 292957,
+      "attention": 809378,
       "emphasis": 0
     },
     {
@@ -563,7 +619,7 @@
       "publishedAt": "2026-11-21T11:29:41.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T12:08:30.102Z",
-      "attention": 317158,
+      "attention": 818127,
       "emphasis": 0
     },
     {
@@ -589,7 +645,7 @@
       "publishedAt": "2026-11-21T11:20:48.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T11:25:57.731Z",
-      "attention": 360211,
+      "attention": 891886,
       "emphasis": 0
     },
     {
@@ -627,7 +683,7 @@
       "publishedAt": "2026-11-21T10:59:18.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T11:25:57.732Z",
-      "attention": 409798,
+      "attention": 892735,
       "emphasis": 0
     },
     {
@@ -681,7 +737,7 @@
       "publishedAt": "2026-11-21T10:49:15.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T11:25:57.732Z",
-      "attention": 438097,
+      "attention": 910904,
       "emphasis": 0
     },
     {
@@ -709,7 +765,7 @@
       "publishedAt": "2026-11-21T10:48:34.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T11:25:57.732Z",
-      "attention": 431197,
+      "attention": 884617,
       "emphasis": 0
     },
     {
@@ -723,7 +779,7 @@
       "publishedAt": "2026-11-21T10:47:52.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T11:25:58.126Z",
-      "attention": 55,
+      "attention": 57,
       "emphasis": 0
     },
     {
@@ -763,7 +819,7 @@
       "publishedAt": "2026-11-21T10:31:23.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T10:40:05.781Z",
-      "attention": 503440,
+      "attention": 933290,
       "emphasis": 0
     },
     {
@@ -857,7 +913,7 @@
       "publishedAt": "2026-11-21T09:57:10.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T10:40:06.018Z",
-      "attention": 12,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -1031,7 +1087,7 @@
       "publishedAt": "2026-11-21T08:23:26.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T09:14:14.108Z",
-      "attention": 13,
+      "attention": 15,
       "emphasis": 0
     },
     {
@@ -1165,7 +1221,7 @@
       "publishedAt": "2026-11-21T08:01:00.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T08:29:06.955Z",
-      "attention": 9,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -1179,7 +1235,7 @@
       "publishedAt": "2026-11-21T07:56:49.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T08:29:06.955Z",
-      "attention": 61,
+      "attention": 63,
       "emphasis": 0
     },
     {
@@ -1289,7 +1345,7 @@
       "publishedAt": "2026-11-21T07:39:19.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T08:29:06.955Z",
-      "attention": 14,
+      "attention": 16,
       "emphasis": 0
     },
     {
@@ -1425,7 +1481,7 @@
       "publishedAt": "2026-11-21T07:00:20.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T07:38:47.985Z",
-      "attention": 10,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -1439,7 +1495,7 @@
       "publishedAt": "2026-11-21T06:59:35.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T07:38:47.985Z",
-      "attention": 12,
+      "attention": 14,
       "emphasis": 0
     },
     {
@@ -1551,7 +1607,7 @@
       "publishedAt": "2026-11-21T06:30:05.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T07:38:47.985Z",
-      "attention": 56,
+      "attention": 58,
       "emphasis": 0
     },
     {
@@ -1593,7 +1649,7 @@
       "publishedAt": "2026-11-21T06:20:51.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T06:24:32.568Z",
-      "attention": 38,
+      "attention": 40,
       "emphasis": 0
     },
     {
@@ -1635,7 +1691,7 @@
       "publishedAt": "2026-11-21T06:10:42.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T06:24:32.568Z",
-      "attention": 57,
+      "attention": 65,
       "emphasis": 0
     },
     {
@@ -1649,7 +1705,7 @@
       "publishedAt": "2026-11-21T06:01:00.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T06:24:32.568Z",
-      "attention": 452,
+      "attention": 454,
       "emphasis": 0
     },
     {
@@ -1703,7 +1759,7 @@
       "publishedAt": "2026-11-21T05:50:02.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T06:24:32.568Z",
-      "attention": 556,
+      "attention": 595,
       "emphasis": 0
     },
     {
@@ -1717,7 +1773,7 @@
       "publishedAt": "2026-11-21T05:48:20.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T06:24:32.568Z",
-      "attention": 8,
+      "attention": 9,
       "emphasis": 0
     },
     {
@@ -1813,7 +1869,7 @@
       "publishedAt": "2026-11-21T05:34:25.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T06:24:32.568Z",
-      "attention": 43,
+      "attention": 45,
       "emphasis": 0
     },
     {
@@ -1855,7 +1911,7 @@
       "publishedAt": "2026-11-21T05:29:00.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T06:24:32.568Z",
-      "attention": 5,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -1923,7 +1979,7 @@
       "publishedAt": "2026-11-21T05:12:00.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T05:29:34.271Z",
-      "attention": 10,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -2019,7 +2075,7 @@
       "publishedAt": "2026-11-21T04:38:52.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T05:29:34.272Z",
-      "attention": 29,
+      "attention": 30,
       "emphasis": 0
     },
     {
@@ -2131,7 +2187,7 @@
       "publishedAt": "2026-11-21T04:31:09.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T04:34:15.896Z",
-      "attention": 127,
+      "attention": 131,
       "emphasis": 0
     },
     {
@@ -2145,7 +2201,7 @@
       "publishedAt": "2026-11-21T04:25:00.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T04:34:15.896Z",
-      "attention": 5,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -2473,7 +2529,7 @@
       "publishedAt": "2026-11-21T03:14:00.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T03:38:07.987Z",
-      "attention": 304,
+      "attention": 305,
       "emphasis": 0
     },
     {
@@ -2691,7 +2747,7 @@
       "publishedAt": "2026-11-21T02:35:17.000Z",
       "date": "2026-11-21",
       "observedAt": "2026-11-21T03:38:08.591Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0.65
     },
     {
@@ -6296,8 +6352,8 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-21T15:23:26.706Z",
-      "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+      "checkedAt": "2026-11-21T20:55:50.628Z",
+      "lastSuccessAt": "2026-11-21T20:55:50.628Z",
       "count": 20,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -6307,8 +6363,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-21T15:23:26.706Z",
-      "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+      "checkedAt": "2026-11-21T20:55:50.628Z",
+      "lastSuccessAt": "2026-11-21T20:55:50.628Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -6318,8 +6374,8 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-21T15:23:26.706Z",
-      "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+      "checkedAt": "2026-11-21T20:55:50.628Z",
+      "lastSuccessAt": "2026-11-21T20:55:50.628Z",
       "count": 64,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -6329,8 +6385,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-21T15:23:26.706Z",
-      "lastSuccessAt": "2026-11-21T15:23:26.706Z",
+      "checkedAt": "2026-11-21T20:55:50.628Z",
+      "lastSuccessAt": "2026-11-21T20:55:50.628Z",
       "count": 1,
       "message": "提取标题、可用来源摘要及原文链接"
     }
