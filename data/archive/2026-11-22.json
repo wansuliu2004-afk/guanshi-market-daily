@@ -1,10 +1,10 @@
 {
   "date": "2026-11-22",
   "cutoffAt": "2026-11-22T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-21T16:07:48.286Z",
-  "lastSavedAt": "2026-11-22T15:21:12.694Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-22T16:45:48.966Z",
+  "sealedAt": "2026-11-22T16:04:13.201Z",
   "news": {
     "items": [
       {
@@ -33,11 +33,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 78.5,
+        "score": 77.9,
         "signals": {
           "coverage": 35,
-          "engagement": 19.7,
-          "recency": 17.3,
+          "engagement": 20,
+          "recency": 16.4,
           "emphasis": 6.5
         },
         "category": "海外",
@@ -71,11 +71,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 77.4,
+        "score": 77.7,
         "signals": {
           "coverage": 35,
-          "engagement": 21.3,
-          "recency": 21.1,
+          "engagement": 22.8,
+          "recency": 20,
           "emphasis": 0
         },
         "category": "行业",
@@ -109,11 +109,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 75.1,
+        "score": 74.3,
         "signals": {
           "coverage": 35,
           "engagement": 24.8,
-          "recency": 15.2,
+          "recency": 14.4,
           "emphasis": 0
         },
         "category": "行业",
@@ -147,11 +147,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 72.2,
+        "score": 71.8,
         "signals": {
           "coverage": 35,
           "engagement": 29.5,
-          "recency": 7.8,
+          "recency": 7.3,
           "emphasis": 0
         },
         "category": "行业",
@@ -185,11 +185,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 72.1,
+        "score": 71.5,
         "signals": {
           "coverage": 35,
           "engagement": 25.9,
-          "recency": 11.2,
+          "recency": 10.6,
           "emphasis": 0
         },
         "category": "行业",
@@ -219,11 +219,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 70.3,
+        "score": 69.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29.3,
-          "recency": 17,
+          "engagement": 29.4,
+          "recency": 16.1,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -253,11 +253,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 62.5,
+        "score": 62.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.7,
-          "recency": 13.8,
+          "engagement": 25.2,
+          "recency": 13.1,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -287,11 +287,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 62.4,
+        "score": 61.5,
         "signals": {
           "coverage": 17.5,
-          "engagement": 25.3,
-          "recency": 13.1,
+          "engagement": 25.2,
+          "recency": 12.4,
           "emphasis": 6.5
         },
         "category": "政策",
@@ -300,36 +300,38 @@
         "importance": "关注"
       },
       {
-        "id": "topic-4f9f8f667d51e4c807e9",
-        "title": "上交所组合式推出新一批降费措施，助力激发市场主体活力",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3203739",
-        "summary": "财联社11月22日电，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免数据中心相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延长两年。本次新推出的降费措施预计向市场让利13.68亿元，预计本年度沪市整体降费金额…",
+        "id": "topic-28879cb30e2701eb44e8",
+        "title": "水贝商户一天卖数公斤黄金 金价跌了多地现购金热潮",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2541040",
+        "summary": "财联社11月22日电，近期金价变动，搅动年末的黄金消费市场。随着伦敦现货黄金失守3600美元/盎司，国内黄金消费市场迎来小高潮。在北京市西城区的菜百首饰总店，柜台前挤满了前来选购黄金饰品的消费者。不少购买婚嫁首饰的消费者在持续观望后，选择在这个时机入手婚嫁用品。这周末，深圳水贝…",
         "summarySource": "财联社",
-        "publishedAt": "2026-11-22T10:41:07.000Z",
+        "publishedAt": "2026-11-22T14:31:11.000Z",
         "date": "2026-11-22",
-        "time": "18:41",
+        "time": "22:31",
         "relatedSources": [
           {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3203737"
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2541040"
           },
           {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540998"
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611223936969492.html"
           }
         ],
         "sourceCount": 2,
-        "score": 62.1,
+        "score": 61.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.2,
-          "recency": 16.9,
-          "emphasis": 6.5
+          "engagement": 21.7,
+          "recency": 22.1,
+          "emphasis": 0
         },
         "category": "行业",
-        "sectors": [],
+        "sectors": [
+          "有色金属"
+        ],
         "rank": 9,
         "importance": "关注"
       },
@@ -355,11 +357,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 62,
+        "score": 61.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.7,
-          "recency": 21.8,
+          "engagement": 22.9,
+          "recency": 20.7,
           "emphasis": 0
         },
         "category": "行业",
@@ -370,71 +372,37 @@
         "importance": "关注"
       },
       {
-        "id": "topic-ab9a923bfc190e51455a",
-        "title": "启迪设计：股票将被实施其他风险警示 11月23日停牌一天",
+        "id": "topic-95a0e19f94e5a892ae9f",
+        "title": "沪深交易所再降费：年内整体让利合计超46亿元",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540927",
-        "summary": "财联社11月22日电，启迪设计(300500.SZ)公告称，公司收到证监会江苏监管局《行政处罚事先告知书》，因原子公司虚增利润等事项，股票将被实施其他风险警示。公司股票于11月23日停牌一天，11月24日复牌并变更为“ST启设”，日涨跌幅限制仍为20%。公司已对相关年度财报进行…",
+        "sourceUrl": "https://www.cls.cn/detail/2541008",
+        "summary": "沪深交易所最新同步发布新一批降费措施，向市场再送\"真金白银\"。其中，上交所免收交易单元使用费、减免数据中心相关服务费用，本次新增让利预计13.68亿元，2026年度整体降费金额超24亿元；深交所免收交易单元使用费、网络投票服务费，减免交易通信服务费用，本次新增让利预计13.9亿…",
         "summarySource": "财联社",
-        "publishedAt": "2026-11-22T07:35:40.000Z",
+        "publishedAt": "2026-11-22T12:23:37.000Z",
         "date": "2026-11-22",
-        "time": "15:35",
+        "time": "20:23",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540927"
+            "url": "https://www.cls.cn/detail/2541008"
           },
           {
             "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611223936893269.html"
+            "url": "http://stock.eastmoney.com/a/202611223936938713.html"
           }
         ],
         "sourceCount": 2,
-        "score": 59.4,
+        "score": 60.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.3,
-          "recency": 13.1,
-          "emphasis": 6.5
+          "engagement": 24.3,
+          "recency": 18.5,
+          "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
         "rank": 11,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-ed62111ae8cd5e9d56b4",
-        "title": "美股遭遇恐慌性抛售 多家华尔街机构认为或只是牛市调整",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540864",
-        "summary": "财联社11月22日电，美东时间周五，AI相关股票遭遇猛烈抛售，拖累美股三大股指集体大跌。但多家华尔街机构认为，当前下跌可能只是牛市中的一次调整，尚未构成基本面持续恶化的明确信号。 摩根士丹利旗下E*Trade交易主管克里斯·拉金（Chris Larkin）表示：“考虑到经济和基…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-21T23:25:49.000Z",
-        "date": "2026-11-22",
-        "time": "07:25",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540864"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://stock.eastmoney.com/a/202611223936865989.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 58.6,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 27.9,
-          "recency": 6.6,
-          "emphasis": 6.5
-        },
-        "category": "海外",
-        "sectors": [],
-        "rank": 12,
         "importance": "一般"
       },
       {
@@ -459,12 +427,46 @@
           }
         ],
         "sourceCount": 2,
-        "score": 55.5,
+        "score": 59.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 15.3,
-          "recency": 22.7,
+          "engagement": 20.7,
+          "recency": 21.5,
           "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-ab9a923bfc190e51455a",
+        "title": "启迪设计：股票将被实施其他风险警示 11月23日停牌一天",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2540927",
+        "summary": "财联社11月22日电，启迪设计(300500.SZ)公告称，公司收到证监会江苏监管局《行政处罚事先告知书》，因原子公司虚增利润等事项，股票将被实施其他风险警示。公司股票于11月23日停牌一天，11月24日复牌并变更为“ST启设”，日涨跌幅限制仍为20%。公司已对相关年度财报进行…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-22T07:35:40.000Z",
+        "date": "2026-11-22",
+        "time": "15:35",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540927"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611223936893269.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 58.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 22.3,
+          "recency": 12.4,
+          "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
@@ -472,67 +474,67 @@
         "importance": "一般"
       },
       {
-        "id": "topic-95a0e19f94e5a892ae9f",
-        "title": "沪深交易所再降费：年内整体让利合计超46亿元",
+        "id": "topic-ed62111ae8cd5e9d56b4",
+        "title": "美股遭遇恐慌性抛售 多家华尔街机构认为或只是牛市调整",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2541008",
-        "summary": "沪深交易所最新同步发布新一批降费措施，向市场再送\"真金白银\"。其中，上交所免收交易单元使用费、减免数据中心相关服务费用，本次新增让利预计13.68亿元，2026年度整体降费金额超24亿元；深交所免收交易单元使用费、网络投票服务费，减免交易通信服务费用，本次新增让利预计13.9亿…",
+        "sourceUrl": "https://www.cls.cn/detail/2540864",
+        "summary": "财联社11月22日电，美东时间周五，AI相关股票遭遇猛烈抛售，拖累美股三大股指集体大跌。但多家华尔街机构认为，当前下跌可能只是牛市中的一次调整，尚未构成基本面持续恶化的明确信号。 摩根士丹利旗下E*Trade交易主管克里斯·拉金（Chris Larkin）表示：“考虑到经济和基…",
         "summarySource": "财联社",
-        "publishedAt": "2026-11-22T12:23:37.000Z",
+        "publishedAt": "2026-11-21T23:25:49.000Z",
         "date": "2026-11-22",
-        "time": "20:23",
+        "time": "07:25",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2541008"
+            "url": "https://www.cls.cn/detail/2540864"
           },
           {
             "name": "东方财富",
-            "url": "http://stock.eastmoney.com/a/202611223936938713.html"
+            "url": "http://stock.eastmoney.com/a/202611223936865989.html"
           }
         ],
         "sourceCount": 2,
-        "score": 55.4,
+        "score": 58.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 18.3,
-          "recency": 19.5,
-          "emphasis": 0
+          "engagement": 27.9,
+          "recency": 6.3,
+          "emphasis": 6.5
         },
-        "category": "行业",
+        "category": "海外",
         "sectors": [],
         "rank": 14,
         "importance": "一般"
       },
       {
-        "id": "topic-36ae1bcfd65c43577456",
-        "title": "沪深交易所逐年提高降费举措力度 2021年以来已累计让利超70亿元",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2541011",
-        "summary": "沪深交易所22日再推新一批降费措施，降费力度逐年加码趋势明显。当日，上交所新增让利预计13.68亿元、2026年度整体降费超24亿元；深交所新增让利预计13.9亿元、2026年度整体降费超22亿元。记者统计发现，在证监会统筹指导下，两所合计2021年以来已累计让利超70亿元。有…",
+        "id": "topic-4f9f8f667d51e4c807e9",
+        "title": "上交所组合式推出新一批降费措施，助力激发市场主体活力",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3203739",
+        "summary": "财联社11月22日电，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免数据中心相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延长两年。本次新推出的降费措施预计向市场让利13.68亿元，预计本年度沪市整体降费金额…",
         "summarySource": "财联社",
-        "publishedAt": "2026-11-22T12:07:20.000Z",
+        "publishedAt": "2026-11-22T10:41:07.000Z",
         "date": "2026-11-22",
-        "time": "20:07",
+        "time": "18:41",
         "relatedSources": [
           {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2541011"
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203737"
           },
           {
-            "name": "东方财富",
-            "url": "http://stock.eastmoney.com/a/202611223936937060.html"
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2540998"
           }
         ],
         "sourceCount": 2,
-        "score": 54.6,
+        "score": 57.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 18,
-          "recency": 19.1,
-          "emphasis": 0
+          "engagement": 17.6,
+          "recency": 16.1,
+          "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
@@ -561,16 +563,50 @@
           }
         ],
         "sourceCount": 2,
-        "score": 54.6,
+        "score": 54.5,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.7,
-          "recency": 13.5,
+          "engagement": 24.2,
+          "recency": 12.8,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
         "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-36ae1bcfd65c43577456",
+        "title": "沪深交易所逐年提高降费举措力度 2021年以来已累计让利超70亿元",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2541011",
+        "summary": "沪深交易所22日再推新一批降费措施，降费力度逐年加码趋势明显。当日，上交所新增让利预计13.68亿元、2026年度整体降费超24亿元；深交所新增让利预计13.9亿元、2026年度整体降费超22亿元。记者统计发现，在证监会统筹指导下，两所合计2021年以来已累计让利超70亿元。有…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-22T12:07:20.000Z",
+        "date": "2026-11-22",
+        "time": "20:07",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2541011"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://stock.eastmoney.com/a/202611223936937060.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 54,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 18.4,
+          "recency": 18.1,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -595,53 +631,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 54.5,
+        "score": 54,
         "signals": {
           "coverage": 17.5,
           "engagement": 29,
-          "recency": 8,
+          "recency": 7.6,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "人工智能",
           "医药生物"
-        ],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-0f72f99da5d56bd54cc5",
-        "title": "“AI攻克黎曼猜想”获Lean数学社区认证 但读懂它仍需时日",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2540991",
-        "summary": "财联社11月22日电，形式化证明系统Lean与其数学库Mathlib的开发者社区发布联合声明，宣布数学家莱文特·阿尔波格（Levent Alpöge）11月20日公开的黎曼猜想证明已通过核验。这意味着，这份由人类数学家与AI模型Claude合作完成、约1700万行代码写就的证明…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-22T10:28:29.000Z",
-        "date": "2026-11-22",
-        "time": "18:28",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540991"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611223936923790.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 54.3,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 20.2,
-          "recency": 16.6,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "人工智能"
         ],
         "rank": 18,
         "importance": "一般"
@@ -668,11 +668,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 53.4,
+        "score": 52.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.3,
-          "recency": 11.6,
+          "engagement": 23.8,
+          "recency": 11,
           "emphasis": 0
         },
         "category": "行业",
@@ -683,47 +683,47 @@
         "importance": "一般"
       },
       {
-        "id": "topic-e7cebc5706e87e6d93a5",
-        "title": "中信证券：美股2027年AI产业链预计呈现年初估值承压、年中估值修复、年末表现分化的阶段性特征",
+        "id": "topic-a8c6345fea7c7f65c976",
+        "title": "特朗普拟联手民主党 将信用卡利率上限设为10%",
         "source": "东方财富",
         "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611223936918621.html",
-        "summary": "中信证券最新研报指出，2027年AI产业链预计呈现年初估值承压、年中估值修复、年末表现分化的阶段性特征。目前至明年一季度，数据中心监管趋严叠加CSP资本开支与经营现金流错配的担忧，或压制产业链整体估值，并加剧新兴云服务商的融资压力。",
+        "sourceUrl": "http://finance.eastmoney.com/a/202611223936864714.html",
+        "summary": "当地时间周六，美国总统特朗普表示，愿与即将掌控国会两院的民主党合作，推动将信用卡利率上限设为10%，以兑现其2024年竞选承诺。他称，信用卡公司“已经赚了很多钱”。民主党参议员沃伦随后回应称：“让我们限制信用卡利率，为美国民众省钱。”沃伦预计将出任下一届参议院银行委员会主席。特…",
         "summarySource": "东方财富",
-        "publishedAt": "2026-11-22T09:50:20.000Z",
+        "publishedAt": "2026-11-21T22:29:07.000Z",
         "date": "2026-11-22",
-        "time": "17:50",
+        "time": "06:29",
         "relatedSources": [
           {
             "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611223936918621.html"
+            "url": "http://finance.eastmoney.com/a/202611223936864714.html"
           },
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2540976"
+            "url": "https://www.cls.cn/detail/2540861"
           }
         ],
         "sourceCount": 2,
-        "score": 52.4,
+        "score": 51.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 19.1,
-          "recency": 15.8,
+          "engagement": 28.4,
+          "recency": 5.8,
           "emphasis": 0
         },
-        "category": "海外",
+        "category": "宏观",
         "sectors": [
-          "人工智能"
+          "银行"
         ],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-22T15:21:02.319Z",
-    "collectedAt": "2026-11-22T15:21:02.319Z",
-    "latestPublishedAt": "2026-11-22T15:10:11.000Z",
-    "totalCandidates": 305,
-    "financeCandidates": 177,
+    "asOf": "2026-11-22T16:45:42.425Z",
+    "collectedAt": "2026-11-22T16:45:42.425Z",
+    "latestPublishedAt": "2026-11-22T15:58:21.000Z",
+    "totalCandidates": 314,
+    "financeCandidates": 180,
     "sources": [
       {
         "id": "cls",
@@ -731,9 +731,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-22T15:21:02.319Z",
-        "lastSuccessAt": "2026-11-22T15:21:02.319Z",
-        "count": 17,
+        "checkedAt": "2026-11-22T16:45:42.425Z",
+        "lastSuccessAt": "2026-11-22T16:45:42.425Z",
+        "count": 13,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -742,8 +742,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-22T15:21:02.319Z",
-        "lastSuccessAt": "2026-11-22T15:21:02.319Z",
+        "checkedAt": "2026-11-22T16:45:42.425Z",
+        "lastSuccessAt": "2026-11-22T16:45:42.425Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -753,8 +753,8 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-22T15:21:02.319Z",
-        "lastSuccessAt": "2026-11-22T15:21:02.319Z",
+        "checkedAt": "2026-11-22T16:45:42.425Z",
+        "lastSuccessAt": "2026-11-22T16:45:42.425Z",
         "count": 85,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -764,8 +764,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-22T15:21:02.319Z",
-        "lastSuccessAt": "2026-11-22T15:21:02.319Z",
+        "checkedAt": "2026-11-22T16:45:42.425Z",
+        "lastSuccessAt": "2026-11-22T16:45:42.425Z",
         "count": 1,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -783,7 +783,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-22",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-22T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-22",
@@ -1818,5 +1819,12 @@
       "status": "waiting",
       "lockedAt": null
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-22T16:00:00.000Z",
+    "completedAt": "2026-11-22T16:45:48.966Z",
+    "newsCollectedAt": "2026-11-22T16:45:42.425Z",
+    "marketCollectedAt": "2026-11-22T15:21:02.356Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }
