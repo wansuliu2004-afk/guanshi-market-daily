@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
   "cutoffAt": "2026-11-23T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-22T16:04:18.066Z",
-  "lastSavedAt": "2026-11-23T15:50:21.286Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-23T16:42:08.562Z",
+  "sealedAt": "2026-11-23T16:42:02.512Z",
   "news": {
     "items": [
       {
@@ -33,11 +33,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 86.4,
+        "score": 86.2,
         "signals": {
           "coverage": 35,
-          "engagement": 26.6,
-          "recency": 18.3,
+          "engagement": 26.7,
+          "recency": 18,
           "emphasis": 6.5
         },
         "category": "行业",
@@ -71,11 +71,11 @@
           }
         ],
         "sourceCount": 3,
-        "score": 81.9,
+        "score": 81.7,
         "signals": {
           "coverage": 35,
-          "engagement": 26.6,
-          "recency": 20.3,
+          "engagement": 26.7,
+          "recency": 20,
           "emphasis": 0
         },
         "category": "海外",
@@ -105,11 +105,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 75,
+        "score": 74.8,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.7,
-          "recency": 21.3,
+          "recency": 21.1,
           "emphasis": 6.5
         },
         "category": "海外",
@@ -141,11 +141,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 74.6,
+        "score": 74.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 28.2,
-          "recency": 22.4,
+          "engagement": 28.1,
+          "recency": 22.1,
           "emphasis": 6.5
         },
         "category": "海外",
@@ -178,16 +178,52 @@
           }
         ],
         "sourceCount": 2,
-        "score": 72.7,
+        "score": 72.5,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.8,
-          "recency": 18.9,
+          "recency": 18.6,
           "emphasis": 6.5
         },
         "category": "公司",
         "sectors": [],
         "rank": 5,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-a4d052fd15ec6774c435",
+        "title": "黄仁勋回归带动AI交易反弹 Anthropic股价却走势震荡",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2542276",
+        "summary": "财联社11月23日电，Anthropic股价周一早盘走势反复，在英伟达的黄仁勋复职带动AI板块反弹之际，这家人工智能实验室的表现落后于同行。该股早盘在涨跌之间来回震荡，截至纽约时间上午10:08跌至每股88.29美元，仍较83美元的首次公开募股发行价高出6.4%。该公司表现落后…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-23T15:40:46.000Z",
+        "date": "2026-11-23",
+        "time": "23:40",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2542276"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611233937701426.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 71.4,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.6,
+          "recency": 24.3,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 6,
         "importance": "关注"
       },
       {
@@ -216,16 +252,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 71.3,
+        "score": 70.8,
         "signals": {
           "coverage": 35,
-          "engagement": 20.7,
-          "recency": 15.6,
+          "engagement": 20.5,
+          "recency": 15.4,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 6,
+        "rank": 7,
         "importance": "关注"
       },
       {
@@ -254,16 +290,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 69,
+        "score": 68.5,
         "signals": {
           "coverage": 35,
-          "engagement": 16.7,
-          "recency": 17.3,
+          "engagement": 16.5,
+          "recency": 17,
           "emphasis": 0
         },
         "category": "政策",
         "sectors": [],
-        "rank": 7,
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -292,56 +328,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 68.6,
+        "score": 68.2,
         "signals": {
           "coverage": 35,
-          "engagement": 19.2,
-          "recency": 14.4,
+          "engagement": 19,
+          "recency": 14.2,
           "emphasis": 0
         },
         "category": "政策",
         "sectors": [
           "银行"
-        ],
-        "rank": 8,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-600dc303b72c7ea5c251",
-        "title": "“车电融合”渐成主流 二线新能源动力电池企业崛起",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2541090",
-        "summary": "财联社11月23日电，伴随“车电融合”节奏加快，二线新能源动力电池企业正在迅速崛起。中国汽车动力电池产业创新联盟日前发布数据显示，中创新航、国轩高科、亿纬锂能、欣旺达等企业的动力电池销量显著提升，甚至出现三位数增长，正在逐渐缩小与宁德时代、比亚迪两家头部企业的差距。近期，欣旺达…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-22T23:27:31.000Z",
-        "date": "2026-11-23",
-        "time": "07:27",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2541090"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3203798"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611233937005150.html"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 67.9,
-        "signals": {
-          "coverage": 35,
-          "engagement": 26.5,
-          "recency": 6.4,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "新能源"
         ],
         "rank": 9,
         "importance": "关注"
@@ -375,14 +371,54 @@
         "score": 67.9,
         "signals": {
           "coverage": 35,
-          "engagement": 26.6,
-          "recency": 6.3,
+          "engagement": 26.7,
+          "recency": 6.2,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
         "rank": 10,
         "importance": "关注"
+      },
+      {
+        "id": "topic-600dc303b72c7ea5c251",
+        "title": "“车电融合”渐成主流 二线新能源动力电池企业崛起",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2541090",
+        "summary": "财联社11月23日电，伴随“车电融合”节奏加快，二线新能源动力电池企业正在迅速崛起。中国汽车动力电池产业创新联盟日前发布数据显示，中创新航、国轩高科、亿纬锂能、欣旺达等企业的动力电池销量显著提升，甚至出现三位数增长，正在逐渐缩小与宁德时代、比亚迪两家头部企业的差距。近期，欣旺达…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-22T23:27:31.000Z",
+        "date": "2026-11-23",
+        "time": "07:27",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2541090"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3203798"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611233937005150.html"
+          }
+        ],
+        "sourceCount": 3,
+        "score": 67.4,
+        "signals": {
+          "coverage": 35,
+          "engagement": 26.1,
+          "recency": 6.3,
+          "emphasis": 0
+        },
+        "category": "行业",
+        "sectors": [
+          "新能源"
+        ],
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-6b6aeaca9413dabe9528",
@@ -410,18 +446,54 @@
           }
         ],
         "sourceCount": 3,
-        "score": 67,
+        "score": 66.5,
         "signals": {
           "coverage": 35,
-          "engagement": 22.4,
-          "recency": 9.6,
+          "engagement": 22,
+          "recency": 9.5,
           "emphasis": 0
         },
         "category": "海外",
         "sectors": [
           "医药生物"
         ],
-        "rank": 11,
+        "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-35dbba8b06473553abf6",
+        "title": "芯源微：科创半导体ETF华夏增持公司股份至5%",
+        "source": "华尔街见闻",
+        "sourceId": "wallstreet",
+        "sourceUrl": "https://wallstreetcn.com/livenews/3204204",
+        "summary": "芯源微(688037.SH)公告称，华夏基金管理有限公司代表科创半导体ETF华夏于2026年11月20日通过集中竞价交易增持公司股份106,302股。本次权益变动后，科创半导体ETF华夏持有公司股份10,105,015股，占公司总股本的5.00%。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-23T10:15:40.000Z",
+        "date": "2026-11-23",
+        "time": "18:15",
+        "relatedSources": [
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3204204"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611233937390448.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 66.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 26.7,
+          "recency": 15.5,
+          "emphasis": 6.5
+        },
+        "category": "公司",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -450,56 +522,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 66.7,
+        "score": 66.2,
         "signals": {
           "coverage": 35,
-          "engagement": 22,
-          "recency": 9.8,
+          "engagement": 21.6,
+          "recency": 9.6,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 12,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-1570c83fa9ec1bb92f63",
-        "title": "高盛表示股市反弹取决于美联储信号和AI盈利",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2541707",
-        "summary": "财联社11月23日电，高盛策略师表示，美股需要以下三个催化剂中的一个来预示市场触底，包括对人工智能(AI)盈利的信心增强、美联储释放的鸽派政策信号或持仓水平的大幅下降。由Ben Snider领导的策略师指出，投资者对AI投资盈利潜力和变现能力的信心增强，有助于支撑市场复苏。Sn…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-23T07:58:13.000Z",
-        "date": "2026-11-23",
-        "time": "15:58",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2541707"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611233937274380.html"
-          },
-          {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3204033"
-          }
-        ],
-        "sourceCount": 3,
-        "score": 66.5,
-        "signals": {
-          "coverage": 35,
-          "engagement": 18.5,
-          "recency": 13,
-          "emphasis": 0
-        },
-        "category": "海外",
-        "sectors": [
-          "人工智能"
-        ],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -528,52 +560,56 @@
           }
         ],
         "sourceCount": 3,
-        "score": 66.4,
+        "score": 66.1,
         "signals": {
           "coverage": 35,
-          "engagement": 25.2,
-          "recency": 6.2,
+          "engagement": 25,
+          "recency": 6.1,
           "emphasis": 0
         },
         "category": "公司",
         "sectors": [],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
-        "id": "topic-35dbba8b06473553abf6",
-        "title": "芯源微：科创半导体ETF华夏增持公司股份至5%",
-        "source": "华尔街见闻",
-        "sourceId": "wallstreet",
-        "sourceUrl": "https://wallstreetcn.com/livenews/3204204",
-        "summary": "芯源微(688037.SH)公告称，华夏基金管理有限公司代表科创半导体ETF华夏于2026年11月20日通过集中竞价交易增持公司股份106,302股。本次权益变动后，科创半导体ETF华夏持有公司股份10,105,015股，占公司总股本的5.00%。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-23T10:15:40.000Z",
+        "id": "topic-1570c83fa9ec1bb92f63",
+        "title": "高盛表示股市反弹取决于美联储信号和AI盈利",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2541707",
+        "summary": "财联社11月23日电，高盛策略师表示，美股需要以下三个催化剂中的一个来预示市场触底，包括对人工智能(AI)盈利的信心增强、美联储释放的鸽派政策信号或持仓水平的大幅下降。由Ben Snider领导的策略师指出，投资者对AI投资盈利潜力和变现能力的信心增强，有助于支撑市场复苏。Sn…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-23T07:58:13.000Z",
         "date": "2026-11-23",
-        "time": "18:15",
+        "time": "15:58",
         "relatedSources": [
           {
-            "name": "华尔街见闻",
-            "url": "https://wallstreetcn.com/livenews/3204204"
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2541707"
           },
           {
             "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611233937390448.html"
+            "url": "http://finance.eastmoney.com/a/202611233937274380.html"
+          },
+          {
+            "name": "华尔街见闻",
+            "url": "https://wallstreetcn.com/livenews/3204033"
           }
         ],
-        "sourceCount": 2,
-        "score": 66.3,
+        "sourceCount": 3,
+        "score": 65.9,
         "signals": {
-          "coverage": 17.5,
-          "engagement": 26.6,
-          "recency": 15.7,
-          "emphasis": 6.5
+          "coverage": 35,
+          "engagement": 18.1,
+          "recency": 12.8,
+          "emphasis": 0
         },
-        "category": "公司",
+        "category": "海外",
         "sectors": [
-          "半导体"
+          "人工智能"
         ],
-        "rank": 15,
+        "rank": 16,
         "importance": "一般"
       },
       {
@@ -598,18 +634,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 66.1,
+        "score": 65.9,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.6,
-          "recency": 12.4,
+          "recency": 12.3,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "半导体"
         ],
-        "rank": 16,
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -634,18 +670,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 66,
+        "score": 65.7,
         "signals": {
           "coverage": 17.5,
           "engagement": 28.4,
-          "recency": 20.1,
+          "recency": 19.8,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "半导体"
         ],
-        "rank": 17,
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -674,18 +710,18 @@
           }
         ],
         "sourceCount": 3,
-        "score": 64.4,
+        "score": 64,
         "signals": {
           "coverage": 35,
-          "engagement": 20.7,
-          "recency": 8.7,
+          "engagement": 20.5,
+          "recency": 8.6,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "新能源"
         ],
-        "rank": 18,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -714,60 +750,26 @@
           }
         ],
         "sourceCount": 3,
-        "score": 64.1,
+        "score": 63.7,
         "signals": {
           "coverage": 35,
-          "engagement": 20.7,
-          "recency": 8.3,
+          "engagement": 20.5,
+          "recency": 8.2,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-7457f5f8fe4c8579c0d7",
-        "title": "CPO概念持续反弹 天孚通信等多股涨超10%",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2541423",
-        "summary": "财联社11月23日电，午后CPO概念持续反弹，天孚通信、蘅东光、腾景科技、长盈通均涨超10%，此前青山纸业涨停，新易盛、东田微、长光华芯、中际旭创均涨超6%。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-23T05:07:05.000Z",
-        "date": "2026-11-23",
-        "time": "13:07",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2541423"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611233937156758.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 63.6,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 29.3,
-          "recency": 10.2,
-          "emphasis": 6.5
-        },
-        "category": "行业",
-        "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-23T15:50:09.195Z",
-    "collectedAt": "2026-11-23T15:50:09.195Z",
-    "latestPublishedAt": "2026-11-23T15:44:34.000Z",
-    "totalCandidates": 1227,
-    "financeCandidates": 837,
+    "asOf": "2026-11-23T16:42:02.519Z",
+    "collectedAt": "2026-11-23T16:42:02.519Z",
+    "latestPublishedAt": "2026-11-23T15:59:40.000Z",
+    "totalCandidates": 1237,
+    "financeCandidates": 844,
     "sources": [
       {
         "id": "cls",
@@ -775,9 +777,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-23T15:50:09.195Z",
-        "lastSuccessAt": "2026-11-23T15:50:09.195Z",
-        "count": 5,
+        "checkedAt": "2026-11-23T16:42:02.519Z",
+        "lastSuccessAt": "2026-11-23T16:42:02.519Z",
+        "count": 3,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -786,8 +788,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-23T15:50:09.195Z",
-        "lastSuccessAt": "2026-11-23T15:50:09.195Z",
+        "checkedAt": "2026-11-23T16:42:02.519Z",
+        "lastSuccessAt": "2026-11-23T16:42:02.519Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -797,9 +799,9 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-23T15:50:09.195Z",
-        "lastSuccessAt": "2026-11-23T15:50:09.195Z",
-        "count": 45,
+        "checkedAt": "2026-11-23T16:42:02.519Z",
+        "lastSuccessAt": "2026-11-23T16:42:02.519Z",
+        "count": 38,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -808,8 +810,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "empty",
-        "checkedAt": "2026-11-23T15:50:09.195Z",
-        "lastSuccessAt": "2026-11-23T15:50:09.195Z",
+        "checkedAt": "2026-11-23T16:42:02.519Z",
+        "lastSuccessAt": "2026-11-23T16:42:02.519Z",
         "count": 0,
         "message": "暂无带独立标题的可用条目"
       }
@@ -827,7 +829,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-23",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-23T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-23",
@@ -4483,5 +4486,12 @@
       "status": "locked",
       "lockedAt": "2026-11-22T16:04:17.855Z"
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-23T16:00:00.000Z",
+    "completedAt": "2026-11-23T16:42:08.562Z",
+    "newsCollectedAt": "2026-11-23T16:42:02.519Z",
+    "marketCollectedAt": "2026-11-23T15:50:09.242Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }

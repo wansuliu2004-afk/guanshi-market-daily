@@ -1,7 +1,125 @@
 {
   "date": "2026-11-23",
-  "asOf": "2026-11-23T15:50:09.195Z",
+  "asOf": "2026-11-23T22:51:41.090Z",
   "records": [
+    {
+      "id": "eastmoney-9d47b728074000a60090",
+      "title": "波音股价延续涨势 涨幅达4.2% 创盘中新高",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611233937714266.html",
+      "publishedAt": "2026-11-23T15:59:40.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:04.412Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-75d0623a86f92cc98b27",
+      "title": "ICE白糖期货上涨超过3% 至每吨502.80美元",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://futures.eastmoney.com/a/202611233937712013.html",
+      "publishedAt": "2026-11-23T15:58:14.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:04.412Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-7617750dc102ffcfbe10",
+      "title": "微创医疗获复牌指引：六项条件待解，法证调查范围扩至关联方多宗交易",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611233937695112.html",
+      "summary": "停牌已近三个月的微创医疗（00853.HK），11月23日披露了香港联交所对其复牌提出的完整指引。这份指引把独立法证调查的范围，从公司此前提及的物业租赁协议，扩大至“求真务实基金有限公司与本集团或常兆华博士（常博士）家人之间于长期内进行的多宗交易”，并要求证明管理层及相关人士的…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-23T15:57:13.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:04.413Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-eda62715123125d16487",
+      "title": "数据显示：随着英伟达股价升至168.5美元 英伟达卖空者预计将录得约122亿美元的账面亏损",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611233937710495.html",
+      "summary": "数据显示，随着英伟达股价升至168.5美元，英伟达卖空者预计将录得约122亿美元的账面亏损，为至少自2019年以来最大的单日亏损。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-23T15:53:24.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:04.413Z",
+      "attention": 52,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-8879c498a7e7a571ce8d",
+      "title": "美国原油期货跌超4%跌穿80美元关口，美指涨0.5%",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3204411",
+      "publishedAt": "2026-11-23T15:53:17.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:05.196Z",
+      "attention": 0,
+      "emphasis": 0.65
+    },
+    {
+      "id": "cls-c8c5c5336b0e143262cd",
+      "title": "WTI原油期货自8月以来首次跌破每桶80美元",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2542282",
+      "summary": "财联社11月23日电，国际油价跌幅扩大，截至目前，WTI原油期货价格跌4.13%，报79.968美元/桶，自8月以来首次跌破80美元关口；布伦特原油期货价格跌4.23%，报88.651美元/桶。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-23T15:51:49.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:03.976Z",
+      "attention": 529694,
+      "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-f56e5c22da73cb3eefd8",
+      "title": "美油、布油期货日内跌超4%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611233937708673.html",
+      "summary": "国际油价跌幅扩大，截至目前，WTI原油期货价格跌4.13%，报79.968美元/桶；布伦特原油期货价格跌4.23%，报88.651美元/桶。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-23T15:51:49.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:04.413Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-5438d56ab2a638a4f94f",
+      "title": "投资银行Baird将英伟达列为最新看多首选股",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611233937708128.html",
+      "summary": "投资银行Baird将英伟达列为最新看多首选股（Fresh Pick）。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-23T15:50:32.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:04.413Z",
+      "attention": 6,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-fc7ac53c36c5cd048636",
+      "title": "印度：英国就散装苏格兰威士忌高额关税向印度表达关切",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3204409",
+      "publishedAt": "2026-11-23T15:50:29.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:05.196Z",
+      "attention": 0,
+      "emphasis": 0
+    },
     {
       "id": "eastmoney-299d659a06325d284c33",
       "title": "欧洲科技股指数涨幅扩大至5.3% 有望创下4月8日以来最大单日涨幅",
@@ -11,7 +129,7 @@
       "publishedAt": "2026-11-23T15:44:34.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.815Z",
-      "attention": 0,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -35,7 +153,7 @@
       "publishedAt": "2026-11-23T15:43:08.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.815Z",
-      "attention": 0,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -63,7 +181,7 @@
       "publishedAt": "2026-11-23T15:40:46.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.432Z",
-      "attention": 12669,
+      "attention": 505985,
       "emphasis": 0
     },
     {
@@ -77,7 +195,7 @@
       "publishedAt": "2026-11-23T15:40:46.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.816Z",
-      "attention": 0,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -89,7 +207,7 @@
       "publishedAt": "2026-11-23T15:33:39.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.816Z",
-      "attention": 8,
+      "attention": 28,
       "emphasis": 0
     },
     {
@@ -101,7 +219,7 @@
       "publishedAt": "2026-11-23T15:31:33.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.816Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -137,7 +255,7 @@
       "publishedAt": "2026-11-23T15:25:19.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.816Z",
-      "attention": 8,
+      "attention": 18,
       "emphasis": 0
     },
     {
@@ -163,7 +281,7 @@
       "publishedAt": "2026-11-23T15:22:52.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.817Z",
-      "attention": 1,
+      "attention": 14,
       "emphasis": 0
     },
     {
@@ -191,7 +309,7 @@
       "publishedAt": "2026-11-23T15:22:05.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.817Z",
-      "attention": 16,
+      "attention": 40,
       "emphasis": 0
     },
     {
@@ -229,7 +347,7 @@
       "publishedAt": "2026-11-23T15:17:40.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.817Z",
-      "attention": 1,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -255,7 +373,7 @@
       "publishedAt": "2026-11-23T15:15:28.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.817Z",
-      "attention": 5,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -295,7 +413,7 @@
       "publishedAt": "2026-11-23T15:05:08.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.818Z",
-      "attention": 4,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -345,7 +463,7 @@
       "publishedAt": "2026-11-23T15:01:59.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.818Z",
-      "attention": 15,
+      "attention": 23,
       "emphasis": 0
     },
     {
@@ -371,7 +489,7 @@
       "publishedAt": "2026-11-23T15:01:32.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.818Z",
-      "attention": 19,
+      "attention": 39,
       "emphasis": 0
     },
     {
@@ -435,7 +553,7 @@
       "publishedAt": "2026-11-23T14:58:20.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.818Z",
-      "attention": 10,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -485,7 +603,7 @@
       "publishedAt": "2026-11-23T14:50:10.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T15:50:10.819Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -523,7 +641,7 @@
       "publishedAt": "2026-11-23T14:44:42.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T14:52:29.509Z",
-      "attention": 33,
+      "attention": 41,
       "emphasis": 0
     },
     {
@@ -651,7 +769,7 @@
       "publishedAt": "2026-11-23T14:36:56.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T14:52:29.509Z",
-      "attention": 10,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -663,7 +781,7 @@
       "publishedAt": "2026-11-23T14:35:55.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T14:52:29.509Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -775,7 +893,7 @@
       "publishedAt": "2026-11-23T14:33:55.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T14:52:29.510Z",
-      "attention": 5,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -933,7 +1051,7 @@
       "publishedAt": "2026-11-23T14:23:33.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T14:52:29.510Z",
-      "attention": 267,
+      "attention": 268,
       "emphasis": 0
     },
     {
@@ -986,6 +1104,18 @@
       "date": "2026-11-23",
       "observedAt": "2026-11-23T14:52:29.510Z",
       "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "wallstreet-a82d3c3a2381dedf47b5",
+      "title": "英伟达恢复黄仁勋CEO职务，美国信用风险指标大幅收紧",
+      "source": "华尔街见闻",
+      "sourceId": "wallstreet",
+      "sourceUrl": "https://wallstreetcn.com/livenews/3204349",
+      "publishedAt": "2026-11-23T14:16:44.000Z",
+      "date": "2026-11-23",
+      "observedAt": "2026-11-23T16:42:05.197Z",
+      "attention": 0,
       "emphasis": 0
     },
     {
@@ -1183,7 +1313,7 @@
       "publishedAt": "2026-11-23T14:03:57.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T14:52:29.511Z",
-      "attention": 283,
+      "attention": 314,
       "emphasis": 0
     },
     {
@@ -1230,7 +1360,7 @@
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611233937582398.html",
-      "summary": "【英伟达董事会一致同意恢复黄仁勋CEO职务 英伟达美股盘前涨超25%】英伟达官网公告称，公司董事会已一致投票决定，即日起恢复黄仁勋的总裁、首席执行官及董事职务。英伟达表示，董事会经过与黄仁勋多轮讨论和会议，对其坦诚程度及领导公司能力表示认可，并认为恢复其职务符合股东、员工、合作…",
+      "summary": "英伟达官网公告称，公司董事会已一致投票决定，即日起恢复黄仁勋的总裁、首席执行官及董事职务。英伟达表示，董事会经过与黄仁勋多轮讨论和会议，对其坦诚程度及领导公司能力表示认可，并认为恢复其职务符合股东、员工、合作伙伴及客户的最佳利益。",
       "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-23T13:58:29.000Z",
       "date": "2026-11-23",
@@ -1273,7 +1403,7 @@
       "publishedAt": "2026-11-23T13:56:26.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T14:52:29.511Z",
-      "attention": 424,
+      "attention": 425,
       "emphasis": 0
     },
     {
@@ -1435,7 +1565,7 @@
       "publishedAt": "2026-11-23T13:44:42.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T13:56:38.912Z",
-      "attention": 30,
+      "attention": 37,
       "emphasis": 0
     },
     {
@@ -1449,7 +1579,7 @@
       "publishedAt": "2026-11-23T13:43:45.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T13:56:38.912Z",
-      "attention": 5,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -1609,7 +1739,7 @@
       "publishedAt": "2026-11-23T13:29:24.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T13:56:38.913Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -1851,7 +1981,7 @@
       "publishedAt": "2026-11-23T13:06:59.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T13:56:38.913Z",
-      "attention": 5,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -1893,7 +2023,7 @@
       "publishedAt": "2026-11-23T13:02:00.000Z",
       "date": "2026-11-23",
       "observedAt": "2026-11-23T13:56:38.914Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -16608,9 +16738,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-23T15:50:09.195Z",
-      "lastSuccessAt": "2026-11-23T15:50:09.195Z",
-      "count": 5,
+      "checkedAt": "2026-11-23T22:51:41.090Z",
+      "lastSuccessAt": "2026-11-23T22:51:41.090Z",
+      "count": 9,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -16619,8 +16749,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-23T15:50:09.195Z",
-      "lastSuccessAt": "2026-11-23T15:50:09.195Z",
+      "checkedAt": "2026-11-23T22:51:41.090Z",
+      "lastSuccessAt": "2026-11-23T22:51:41.090Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -16630,9 +16760,9 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-23T15:50:09.195Z",
-      "lastSuccessAt": "2026-11-23T15:50:09.195Z",
-      "count": 45,
+      "checkedAt": "2026-11-23T22:51:41.090Z",
+      "lastSuccessAt": "2026-11-23T22:51:41.090Z",
+      "count": 48,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -16641,8 +16771,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "empty",
-      "checkedAt": "2026-11-23T15:50:09.195Z",
-      "lastSuccessAt": "2026-11-23T15:50:09.195Z",
+      "checkedAt": "2026-11-23T22:51:41.090Z",
+      "lastSuccessAt": "2026-11-23T22:51:41.090Z",
       "count": 0,
       "message": "暂无带独立标题的可用条目"
     }
