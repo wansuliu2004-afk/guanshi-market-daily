@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-24",
   "cutoffAt": "2026-11-24T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-24T16:50:03.472Z",
   "createdAt": "2026-11-23T16:42:08.578Z",
-  "updatedAt": "2026-11-24T15:49:13.911Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-24T16:50:03.483Z",
+  "finalizedAt": "2026-11-24T16:50:03.483Z",
+  "status": "final",
   "news": {
     "date": "2026-11-24",
     "cutoffAt": "2026-11-24T16:00:00.000Z",
@@ -54,6 +54,43 @@
         "importance": "重磅"
       },
       {
+        "id": "topic-a95b3378954f0d7d5660",
+        "title": "费城半导体指数跌幅扩大至8% 闪迪、AMD、美光科技跌超10%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2543413",
+        "summary": "【费城半导体指数跌幅扩大至8%】财联社11月24日电，费城半导体指数跌幅扩大至8%，报8808.35点。闪迪跌超12%，AMD、美光科技跌超10%，海力士跌超9%，希捷科技跌超8%，恩智浦、应用材料、英特尔、英伟达、西部数据、拉姆研究跌超7%。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-24T15:25:54.000Z",
+        "date": "2026-11-24",
+        "time": "23:25",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2543413"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611243938822573.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 64.9,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 23.6,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 7.5
+        },
+        "category": "行业",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 2,
+        "importance": "重磅"
+      },
+      {
         "id": "topic-5acbd07476369fb3a0c1",
         "title": "财政部副部长廖岷出席金融稳定理事会全体会议",
         "source": "华尔街见闻",
@@ -79,17 +116,17 @@
           }
         ],
         "sourceCount": 3,
-        "score": 63.3,
+        "score": 63.1,
         "signals": {
           "coverage": 35,
-          "engagement": 16.3,
+          "engagement": 16.1,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "政策",
         "sectors": [],
-        "rank": 2,
+        "rank": 3,
         "importance": "重磅"
       },
       {
@@ -117,15 +154,15 @@
         "score": 60.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24,
+          "engagement": 24.1,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 3,
-        "importance": "重磅"
+        "rank": 4,
+        "importance": "关注"
       },
       {
         "id": "topic-65a306f9b9bfd52429e0",
@@ -149,17 +186,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.4,
+        "score": 60.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.6,
+          "engagement": 23.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "公司",
         "sectors": [],
-        "rank": 4,
+        "rank": 5,
         "importance": "关注"
       },
       {
@@ -187,14 +224,14 @@
         "score": 58.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.9,
+          "engagement": 22,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 5,
+        "rank": 6,
         "importance": "关注"
       },
       {
@@ -222,14 +259,14 @@
         "score": 58.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.3,
+          "engagement": 21.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "海外",
         "sectors": [],
-        "rank": 6,
+        "rank": 7,
         "importance": "关注"
       },
       {
@@ -264,7 +301,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 7,
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -293,7 +330,7 @@
         },
         "category": "海外",
         "sectors": [],
-        "rank": 8,
+        "rank": 9,
         "importance": "关注"
       },
       {
@@ -318,17 +355,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 54.3,
+        "score": 54.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.8,
+          "engagement": 24.7,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "政策",
         "sectors": [],
-        "rank": 9,
+        "rank": 10,
         "importance": "关注"
       },
       {
@@ -363,41 +400,6 @@
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 10,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-0f2fbf1a195f5a705aa7",
-        "title": "油价下跌缓解通胀担忧 美国国债价格上涨",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2542718",
-        "summary": "财联社11月24日电，随着油价下跌缓解市场对通胀的担忧，美国国债全线走高。基准10年期美国国债收益率下行3个基点，对美联储政策前景更为敏感的2年期美国国债收益率也下行3个基点。受市场对结束美伊战争的努力抱持审慎乐观态度影响，油价上一交易日下跌逾3%。债市走势显示，相较于AI股票…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-24T04:59:24.000Z",
-        "date": "2026-11-24",
-        "time": "12:59",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2542718"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://forex.eastmoney.com/a/202611243938322661.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 53.6,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 24.1,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 12
-        },
-        "category": "宏观",
-        "sectors": [],
         "rank": 11,
         "importance": "一般"
       },
@@ -423,10 +425,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 53.5,
+        "score": 53.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21,
+          "engagement": 21.1,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
@@ -434,6 +436,41 @@
         "category": "海外",
         "sectors": [],
         "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-0f2fbf1a195f5a705aa7",
+        "title": "油价下跌缓解通胀担忧 美国国债价格上涨",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2542718",
+        "summary": "财联社11月24日电，随着油价下跌缓解市场对通胀的担忧，美国国债全线走高。基准10年期美国国债收益率下行3个基点，对美联储政策前景更为敏感的2年期美国国债收益率也下行3个基点。受市场对结束美伊战争的努力抱持审慎乐观态度影响，油价上一交易日下跌逾3%。债市走势显示，相较于AI股票…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-24T04:59:24.000Z",
+        "date": "2026-11-24",
+        "time": "12:59",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2542718"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://forex.eastmoney.com/a/202611243938322661.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 53.5,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 12
+        },
+        "category": "宏观",
+        "sectors": [],
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -458,17 +495,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 53.3,
+        "score": 53.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.8,
+          "engagement": 23.9,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -493,10 +530,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 52.4,
+        "score": 52.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 15.6,
+          "engagement": 15.5,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -505,7 +542,7 @@
         "sectors": [
           "人工智能"
         ],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -530,10 +567,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 51.4,
+        "score": 51.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.9,
+          "engagement": 22.3,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
@@ -542,7 +579,7 @@
         "sectors": [
           "食品饮料"
         ],
-        "rank": 15,
+        "rank": 16,
         "importance": "一般"
       },
       {
@@ -567,10 +604,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 49.7,
+        "score": 49.5,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.7,
+          "engagement": 24.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -579,7 +616,7 @@
         "sectors": [
           "人工智能"
         ],
-        "rank": 16,
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -608,10 +645,10 @@
           }
         ],
         "sourceCount": 3,
-        "score": 49.3,
+        "score": 49.1,
         "signals": {
           "coverage": 35,
-          "engagement": 11.3,
+          "engagement": 11.1,
           "recency": 0,
           "emphasis": 0,
           "impact": 3
@@ -620,7 +657,7 @@
         "sectors": [
           "人工智能"
         ],
-        "rank": 17,
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -645,10 +682,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 49,
+        "score": 48.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24,
+          "engagement": 23.8,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -657,7 +694,7 @@
         "sectors": [
           "半导体"
         ],
-        "rank": 18,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -682,10 +719,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 48.8,
+        "score": 48.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.8,
+          "engagement": 23.6,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -694,50 +731,15 @@
         "sectors": [
           "人工智能"
         ],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-810df7f664431172378f",
-        "title": "小米集团Q3业绩出炉 单季营收1072亿元",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2543086",
-        "summary": "财联社11月24日电，小米集团（HK01810）11月24日发布2026年第三季度业绩报告。本季度实现营收1072亿元，再超千亿；集团毛利率环比改善，经营质量逆势提升。其中智能手机业务收入456亿元，环比增长8.2%，超市场预期；IoT与生活消费产品业务收入272亿元，毛利率增…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-24T09:40:22.000Z",
-        "date": "2026-11-24",
-        "time": "17:40",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2543086"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611243938522467.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 47.7,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 10.9,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "公司",
-        "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-24T15:49:02.625Z",
-    "collectedAt": "2026-11-24T15:49:02.625Z",
-    "latestPublishedAt": "2026-11-24T15:48:07.000Z",
-    "totalCandidates": 1168,
-    "financeCandidates": 779,
+    "asOf": "2026-11-24T16:49:57.868Z",
+    "collectedAt": "2026-11-24T16:49:57.868Z",
+    "latestPublishedAt": "2026-11-24T15:59:37.000Z",
+    "totalCandidates": 1187,
+    "financeCandidates": 792,
     "sources": [
       {
         "id": "cls",
@@ -745,9 +747,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-24T15:49:02.625Z",
-        "lastSuccessAt": "2026-11-24T15:49:02.625Z",
-        "count": 9,
+        "checkedAt": "2026-11-24T16:49:57.868Z",
+        "lastSuccessAt": "2026-11-24T16:49:57.868Z",
+        "count": 8,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -756,8 +758,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-24T15:49:02.625Z",
-        "lastSuccessAt": "2026-11-24T15:49:02.625Z",
+        "checkedAt": "2026-11-24T16:49:57.868Z",
+        "lastSuccessAt": "2026-11-24T16:49:57.868Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -767,7 +769,7 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "error",
-        "checkedAt": "2026-11-24T15:49:02.625Z",
+        "checkedAt": "2026-11-24T16:49:57.868Z",
         "lastSuccessAt": "2026-11-24T04:41:08.064Z",
         "count": 0,
         "message": "fetch failed"
@@ -778,8 +780,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-24T15:49:02.625Z",
-        "lastSuccessAt": "2026-11-24T15:49:02.625Z",
+        "checkedAt": "2026-11-24T16:49:57.868Z",
+        "lastSuccessAt": "2026-11-24T16:49:57.868Z",
         "count": 1,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -795,8 +797,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-24T16:50:03.483Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-23T16:42:03.976Z"

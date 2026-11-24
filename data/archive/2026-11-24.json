@@ -1,12 +1,48 @@
 {
   "date": "2026-11-24",
   "cutoffAt": "2026-11-24T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-23T16:42:07.704Z",
-  "lastSavedAt": "2026-11-24T15:49:12.398Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-24T16:50:03.472Z",
+  "sealedAt": "2026-11-24T16:49:57.863Z",
   "news": {
     "items": [
+      {
+        "id": "topic-a95b3378954f0d7d5660",
+        "title": "费城半导体指数跌幅扩大至8% 闪迪、AMD、美光科技跌超10%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2543413",
+        "summary": "【费城半导体指数跌幅扩大至8%】财联社11月24日电，费城半导体指数跌幅扩大至8%，报8808.35点。闪迪跌超12%，AMD、美光科技跌超10%，海力士跌超9%，希捷科技跌超8%，恩智浦、应用材料、英特尔、英伟达、西部数据、拉姆研究跌超7%。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-24T15:25:54.000Z",
+        "date": "2026-11-24",
+        "time": "23:25",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2543413"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611243938822573.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 76.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.4,
+          "recency": 23.8,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 1,
+        "importance": "重磅"
+      },
       {
         "id": "topic-3a7e6fc04627d0e1da0f",
         "title": "天齐锂业：拟68.72亿元收购关联方天齐集团旗下锂矿采矿权与探矿权资产",
@@ -29,16 +65,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 73.5,
+        "score": 73.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 28.8,
-          "recency": 20.7,
+          "engagement": 28.9,
+          "recency": 20.4,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
-        "rank": 1,
+        "rank": 2,
         "importance": "重磅"
       },
       {
@@ -63,16 +99,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 72,
+        "score": 71.7,
         "signals": {
           "coverage": 17.5,
           "engagement": 25.6,
-          "recency": 22.4,
+          "recency": 22.1,
           "emphasis": 6.5
         },
         "category": "海外",
         "sectors": [],
-        "rank": 2,
+        "rank": 3,
         "importance": "重磅"
       },
       {
@@ -101,7 +137,7 @@
           }
         ],
         "sourceCount": 3,
-        "score": 69.2,
+        "score": 69.1,
         "signals": {
           "coverage": 35,
           "engagement": 28.3,
@@ -113,8 +149,8 @@
           "半导体",
           "人工智能"
         ],
-        "rank": 3,
-        "importance": "重磅"
+        "rank": 4,
+        "importance": "关注"
       },
       {
         "id": "topic-2364425b1c816e077a87",
@@ -138,18 +174,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 67.6,
+        "score": 67.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 26.3,
-          "recency": 23.8,
+          "engagement": 26.8,
+          "recency": 23.5,
           "emphasis": 0
         },
         "category": "宏观",
         "sectors": [
           "食品饮料"
         ],
-        "rank": 4,
+        "rank": 5,
         "importance": "关注"
       },
       {
@@ -174,16 +210,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 65.4,
+        "score": 65.2,
         "signals": {
           "coverage": 17.5,
           "engagement": 28.6,
-          "recency": 19.3,
+          "recency": 19,
           "emphasis": 0
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 5,
+        "rank": 6,
         "importance": "关注"
       },
       {
@@ -208,16 +244,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63.9,
+        "score": 64.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.1,
-          "recency": 23.3,
+          "engagement": 24.2,
+          "recency": 23,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 6,
+        "rank": 7,
         "importance": "关注"
       },
       {
@@ -242,16 +278,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 62.6,
+        "score": 62.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 28.3,
-          "recency": 10.2,
+          "engagement": 28.1,
+          "recency": 10.1,
           "emphasis": 6.5
         },
         "category": "公司",
         "sectors": [],
-        "rank": 7,
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -276,16 +312,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 62.3,
+        "score": 62.1,
         "signals": {
           "coverage": 17.5,
           "engagement": 22.2,
-          "recency": 16.1,
+          "recency": 15.8,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
-        "rank": 8,
+        "rank": 9,
         "importance": "关注"
       },
       {
@@ -314,16 +350,16 @@
           }
         ],
         "sourceCount": 3,
-        "score": 61.5,
+        "score": 61.2,
         "signals": {
           "coverage": 35,
-          "engagement": 19.6,
-          "recency": 6.9,
+          "engagement": 19.4,
+          "recency": 6.8,
           "emphasis": 0
         },
         "category": "政策",
         "sectors": [],
-        "rank": 9,
+        "rank": 10,
         "importance": "关注"
       },
       {
@@ -352,19 +388,19 @@
           }
         ],
         "sourceCount": 3,
-        "score": 61.4,
+        "score": 61,
         "signals": {
           "coverage": 35,
-          "engagement": 13.5,
-          "recency": 12.9,
+          "engagement": 13.3,
+          "recency": 12.7,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 10,
-        "importance": "关注"
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-eee16abd282808b6bb71",
@@ -388,16 +424,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.8,
+        "score": 60.5,
         "signals": {
           "coverage": 17.5,
           "engagement": 27.6,
-          "recency": 15.7,
+          "recency": 15.4,
           "emphasis": 0
         },
         "category": "公司",
         "sectors": [],
-        "rank": 11,
+        "rank": 12,
         "importance": "一般"
       },
       {
@@ -422,51 +458,15 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.5,
+        "score": 60.2,
         "signals": {
           "coverage": 17.5,
           "engagement": 22.2,
-          "recency": 20.8,
+          "recency": 20.5,
           "emphasis": 0
         },
         "category": "公司",
         "sectors": [],
-        "rank": 12,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-5bfef1c65c04911e0360",
-        "title": "德商银行预计到2027年底金价将达到每盎司4100美元",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2543247",
-        "summary": "财联社11月24日电，德商银行预计到2027年底金价将达到每盎司4100美元。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-24T12:03:54.000Z",
-        "date": "2026-11-24",
-        "time": "20:03",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2543247"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611243938636069.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 58.5,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 22.7,
-          "recency": 18.3,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "银行"
-        ],
         "rank": 13,
         "importance": "一般"
       },
@@ -492,11 +492,11 @@
           }
         ],
         "sourceCount": 2,
-        "score": 58.4,
+        "score": 58.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 28.5,
-          "recency": 12.4,
+          "engagement": 28.3,
+          "recency": 12.2,
           "emphasis": 0
         },
         "category": "海外",
@@ -507,36 +507,38 @@
         "importance": "一般"
       },
       {
-        "id": "topic-8e025104c81d39862a6f",
-        "title": "韩国成立联合工作组 加强对非法卖空的监管",
+        "id": "topic-5bfef1c65c04911e0360",
+        "title": "德商银行预计到2027年底金价将达到每盎司4100美元",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2542754",
-        "summary": "财联社11月24日电，韩国金融监督院和韩国交易所联合发布声明称，已成立了一个联合工作组，负责侦测及调查非法卖空行为。国内股市波动加剧之际，当局将开展为期三个月的行动，加强对非法卖空活动的监管。韩国交易所将进行实时监控，金融监督院也将开展密集检查，以发现包括做空激增、交易集中于特…",
+        "sourceUrl": "https://www.cls.cn/detail/2543247",
+        "summary": "财联社11月24日电，德商银行预计到2027年底金价将达到每盎司4100美元。",
         "summarySource": "财联社",
-        "publishedAt": "2026-11-24T05:40:40.000Z",
+        "publishedAt": "2026-11-24T12:03:54.000Z",
         "date": "2026-11-24",
-        "time": "13:40",
+        "time": "20:03",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2542754"
+            "url": "https://www.cls.cn/detail/2543247"
           },
           {
             "name": "东方财富",
-            "url": "http://stock.eastmoney.com/a/202611243938348873.html"
+            "url": "http://finance.eastmoney.com/a/202611243938636069.html"
           }
         ],
         "sourceCount": 2,
         "score": 58,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29.8,
-          "recency": 10.7,
+          "engagement": 22.5,
+          "recency": 18,
           "emphasis": 0
         },
-        "category": "政策",
-        "sectors": [],
+        "category": "行业",
+        "sectors": [
+          "银行"
+        ],
         "rank": 15,
         "importance": "一般"
       },
@@ -562,16 +564,50 @@
           }
         ],
         "sourceCount": 2,
-        "score": 58,
+        "score": 57.9,
         "signals": {
           "coverage": 17.5,
-          "engagement": 26.3,
-          "recency": 7.7,
+          "engagement": 26.4,
+          "recency": 7.5,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
         "rank": 16,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-8e025104c81d39862a6f",
+        "title": "韩国成立联合工作组 加强对非法卖空的监管",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2542754",
+        "summary": "财联社11月24日电，韩国金融监督院和韩国交易所联合发布声明称，已成立了一个联合工作组，负责侦测及调查非法卖空行为。国内股市波动加剧之际，当局将开展为期三个月的行动，加强对非法卖空活动的监管。韩国交易所将进行实时监控，金融监督院也将开展密集检查，以发现包括做空激增、交易集中于特…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-24T05:40:40.000Z",
+        "date": "2026-11-24",
+        "time": "13:40",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2542754"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://stock.eastmoney.com/a/202611243938348873.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 57.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.6,
+          "recency": 10.6,
+          "emphasis": 0
+        },
+        "category": "政策",
+        "sectors": [],
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -596,16 +632,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 57.9,
+        "score": 57.5,
         "signals": {
           "coverage": 17.5,
-          "engagement": 27.9,
-          "recency": 12.4,
+          "engagement": 27.7,
+          "recency": 12.2,
           "emphasis": 0
         },
         "category": "海外",
         "sectors": [],
-        "rank": 17,
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -630,18 +666,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 57.7,
+        "score": 57.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 27.7,
-          "recency": 12.5,
+          "engagement": 27.5,
+          "recency": 12.3,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 18,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -666,60 +702,24 @@
           }
         ],
         "sourceCount": 2,
-        "score": 56.6,
+        "score": 56.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29,
-          "recency": 10.1,
+          "engagement": 28.8,
+          "recency": 10,
           "emphasis": 0
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-27900e516f4c45b366ec",
-        "title": "上海医药：注射用B024获临床试验批准通知书",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2542882",
-        "summary": "财联社11月24日电，上海医药(601607.SH)公告称，公司下属上药交联研发的注射用B024收到国家药监局核准签发的《药物临床试验批准通知书》，同意开展系统性红斑狼疮适应症临床试验。该药为抗体偶联药物，由人源化抗CD74抗体与糖皮质激素载荷偶联制备而成，可精准递送至B细胞等…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-24T07:33:24.000Z",
-        "date": "2026-11-24",
-        "time": "15:33",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2542882"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611243938417689.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 55.9,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 25.8,
-          "recency": 12.6,
-          "emphasis": 0
-        },
-        "category": "行业",
-        "sectors": [
-          "医药生物"
-        ],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-24T15:49:02.625Z",
-    "collectedAt": "2026-11-24T15:49:02.625Z",
-    "latestPublishedAt": "2026-11-24T15:48:07.000Z",
-    "totalCandidates": 1168,
-    "financeCandidates": 779,
+    "asOf": "2026-11-24T16:49:57.868Z",
+    "collectedAt": "2026-11-24T16:49:57.868Z",
+    "latestPublishedAt": "2026-11-24T15:59:37.000Z",
+    "totalCandidates": 1187,
+    "financeCandidates": 792,
     "sources": [
       {
         "id": "cls",
@@ -727,9 +727,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-24T15:49:02.625Z",
-        "lastSuccessAt": "2026-11-24T15:49:02.625Z",
-        "count": 9,
+        "checkedAt": "2026-11-24T16:49:57.868Z",
+        "lastSuccessAt": "2026-11-24T16:49:57.868Z",
+        "count": 8,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -738,8 +738,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-24T15:49:02.625Z",
-        "lastSuccessAt": "2026-11-24T15:49:02.625Z",
+        "checkedAt": "2026-11-24T16:49:57.868Z",
+        "lastSuccessAt": "2026-11-24T16:49:57.868Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -749,7 +749,7 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "error",
-        "checkedAt": "2026-11-24T15:49:02.625Z",
+        "checkedAt": "2026-11-24T16:49:57.868Z",
         "lastSuccessAt": "2026-11-24T04:41:08.064Z",
         "count": 0,
         "message": "fetch failed"
@@ -760,8 +760,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-24T15:49:02.625Z",
-        "lastSuccessAt": "2026-11-24T15:49:02.625Z",
+        "checkedAt": "2026-11-24T16:49:57.868Z",
+        "lastSuccessAt": "2026-11-24T16:49:57.868Z",
         "count": 1,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -779,7 +779,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-24",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-24T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-24",
@@ -4389,5 +4390,12 @@
       "status": "locked",
       "lockedAt": "2026-11-23T22:02:12.095Z"
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-24T16:00:00.000Z",
+    "completedAt": "2026-11-24T16:50:03.472Z",
+    "newsCollectedAt": "2026-11-24T16:49:57.868Z",
+    "marketCollectedAt": "2026-11-24T15:49:02.654Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }

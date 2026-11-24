@@ -1,7 +1,239 @@
 {
   "date": "2026-11-24",
-  "asOf": "2026-11-24T15:49:02.625Z",
+  "asOf": "2026-11-25T11:21:55.506Z",
   "records": [
+    {
+      "id": "eastmoney-56b713e807075d322836",
+      "title": "现货白银日内跌幅扩大至5% 报40.98美元/盎司",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938839734.html",
+      "publishedAt": "2026-11-24T15:59:37.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-01f5d520b4600dd5addb",
+      "title": "丰光精密：公司机器人自动化相关业务主要涵盖三大板块",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938841479.html",
+      "summary": "丰光精密发布投资者关系活动记录表，公司机器人自动化相关业务主要涵盖三大板块，一是机器人精密零部件，为下游配套伺服电机轴类、自动化配件类、机器人部品类等精密结构件产品；二是谐波减速器，属于机器人核心传动部件；三是惯性导航业务，子公司唯实深蓝的光纤惯导、MEMS惯导、多源组合导航产…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:59:35.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-74b5c113211e5a9f389d",
+      "title": "数字人：离任监事苗青解除限售3.2万股",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938840761.html",
+      "summary": "数字人公告，本次股票解除限售数量总额为32,000股，占公司总股本0.0301%，可交易时间为2026年11月27日。本次解除限售股东为离任监事苗青，解除限售后其未解除限售股票数量为0股。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:59:32.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-7ba17e69a8fd6c838b3c",
+      "title": "雷神科技：信创产品已在党、政领域，金融、教育、医疗等八大重点行业及其他行业广泛采用",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938841334.html",
+      "summary": "雷神科技发布投资者关系活动记录表，公司信创产品涵盖海光、兆芯、飞腾、龙芯四大技术路线，构建了以笔记本、台式机、miniPC、一体机、瘦客户机、服务器、存储、云终端为核心的产品矩阵，信创产品已在党、政领域，金融、教育、医疗等八大重点行业及其他行业广泛采用，覆盖上百个用户场景，并积…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:59:26.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 3,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-36a90092896e8b285d71",
+      "title": "铜冠矿建：拟回购110万股至220万股",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938840872.html",
+      "summary": "铜冠矿建公告，公司拟以自有资金及银行专项贷款资金，通过竞价方式回购股份，回购数量不少于110万股且不超过220万股，回购价格不超过23元/股，预计资金总额2530万元至5060万元，期限为董事会审议通过之日起不超3个月。回购股份将用于维护公司价值及股东权益。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:59:23.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-20eb1d08adfc7bd35a57",
+      "title": "邦德股份：取得2项实用新型专利证书",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938841556.html",
+      "summary": "邦德股份公告，公司于2026年11月24日取得国家知识产权局颁发的2项《实用新型专利证书》，分别为“一种旋压式油冷器管路组件”及“一种冷凝器芯体装配机”。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:59:18.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-54d56459a0bd56ee3ff0",
+      "title": "纳科诺尔：取得一项发明专利证书",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938841076.html",
+      "summary": "纳科诺尔公告，公司于近日收到国家知识产权局颁发的一项发明专利证书，发明名称为“一种温等静压机温压协同控制方法及系统”。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:59:14.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-c67129c0bbe1f436f374",
+      "title": "安达科技：拟500万至1000万元回购股份",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938840665.html",
+      "summary": "安达科技公告，公司拟使用自有资金、自筹资金及金融机构借款，以竞价方式回购部分A股股份，回购资金总额不少于500万元，不超过1000万元，回购价格不超过8.88元/股，回购股份将用于注销并减少注册资本、维护上市公司价值及股东权益，回购期限为股东会审议通过后不超过3个月。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:59:11.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-8b3fa93b64c3cb5d3f61",
+      "title": "双英集团：拟设两家全资子公司",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938841240.html",
+      "summary": "双英集团公告，公司拟出资在重庆市沙坪坝区、武汉市洪山区分别设立一家全资子公司，投资金额均为3500万元，合计7000万元。两家子公司主要围绕“智能制造+汽车零部件”构建产业协同平台，开展软件开发、系统集成及汽车零部件研发制造等业务。本次投资不构成重大资产重组及关联交易，尚需办理…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:59:07.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-ac9a96cad2c690d35e69",
+      "title": "*ST田野：收盘价低于1元面临终止上市风险",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938841630.html",
+      "summary": "*ST田野公告，公司股票于2026年11月24日收盘价为0.99元/股，低于1元，存在因连续60个交易日每日收盘价均低于1元而被终止上市的风险。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:59:04.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 4,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-b18e944c4562efb1786a",
+      "title": "国际体育仲裁法庭裁定：恢复塞内加尔队非洲杯冠军头衔",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938839125.html",
+      "summary": "国际体育仲裁法庭24日宣布，支持塞内加尔足协提出的上诉，撤销非洲足联此前判定塞内加尔队在2025年非洲国家杯决赛中负于摩洛哥队的决定，确认塞内加尔队1:0战胜摩洛哥队的比赛结果，恢复塞内加尔队冠军头衔。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:58:59.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-e5f5e14a63d6cb8ba3c1",
+      "title": "国际体育仲裁法庭裁定：恢复塞内加尔队非洲杯冠军头衔",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2543427",
+      "summary": "财联社11月24日电，国际体育仲裁法庭24日宣布，支持塞内加尔足协提出的上诉，撤销非洲足联此前判定塞内加尔队在2025年非洲国家杯决赛中负于摩洛哥队的决定，确认塞内加尔队1:0战胜摩洛哥队的比赛结果，恢复塞内加尔队冠军头衔。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-24T15:58:06.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:49:58.996Z",
+      "attention": 468721,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-b7eda78fa98010c4c38e",
+      "title": "俄国防部称打击乌能源设施和海上船只",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938839093.html",
+      "summary": "俄罗斯国防部24日晚间发布通报称，俄武装部队当天使用无人机打击了为乌克兰武装部队提供保障的能源基础设施和海上船只。通报称，俄军打击了位于乌克兰文尼察市、切尔尼戈夫州和罗夫诺州的三处变电站。在乌克兰敖德萨西南方向的黑海水域，俄军打击了一艘为乌军运送军民两用物资的干货船。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:57:50.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.442Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-ab645fddd1b0ac9647fa",
+      "title": "芝商所单日成交量创历史新高 达7146万份合约",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938838683.html",
+      "summary": "芝加哥商品交易所集团（CME Group）表示，受利率类产品成交量强劲推动，公司11月23日单日成交量达到7145.7万份合约，创历史新高，超过此前2025年2月25日创下的6712.4571万份合约纪录。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:57:28.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.443Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-c2e8013f044748338c37",
+      "title": "芝商所单日成交量创历史新高 达7146万份合约",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2543426",
+      "summary": "财联社11月24日电，芝加哥商品交易所集团（CME Group）表示，受利率类产品成交量强劲推动，公司11月23日单日成交量达到7145.7万份合约，创历史新高，超过此前2025年2月25日创下的6712.4571万份合约纪录。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-24T15:57:07.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:49:58.996Z",
+      "attention": 474596,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-6d1927760a6ff5017ab6",
+      "title": "费城半导体指数跌幅扩大至9% 报8721.36点",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938836021.html",
+      "publishedAt": "2026-11-24T15:52:34.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.443Z",
+      "attention": 4,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-243dcc560e95b34517c5",
+      "title": "俄罗斯总统普京表示：俄罗斯燃料市场形势依然严峻 俄罗斯将对炼油厂遭袭事件作出回应",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938834433.html",
+      "publishedAt": "2026-11-24T15:50:24.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.443Z",
+      "attention": 1,
+      "emphasis": 0
+    },
     {
       "id": "cls-437f73052b3ccb552016",
       "title": "利弗莫尔中概股龙头指数跌幅扩大至3%",
@@ -13,7 +245,33 @@
       "publishedAt": "2026-11-24T15:48:07.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:03.675Z",
-      "attention": 2675,
+      "attention": 497950,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-73e5299035c5f852b823",
+      "title": "中概股普跌",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611243938834283.html",
+      "summary": "中概股普跌，慧荣科技跌10.94%，万国数据跌10.38%，文远知行跌8.63%，日月光投控跌8.53%，联电跌7.61%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-24T15:48:07.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.443Z",
+      "attention": 6,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-47d9def8b8e6d6afbfed",
+      "title": "LME伦铜跌幅扩大 现跌5.04% 最新报11859.5美元/吨",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://futures.eastmoney.com/a/202611243938833748.html",
+      "publishedAt": "2026-11-24T15:44:51.000Z",
+      "date": "2026-11-24",
+      "observedAt": "2026-11-24T16:50:00.443Z",
+      "attention": 0,
       "emphasis": 0
     },
     {
@@ -27,7 +285,7 @@
       "publishedAt": "2026-11-24T15:44:22.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.442Z",
-      "attention": 0,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -41,7 +299,7 @@
       "publishedAt": "2026-11-24T15:43:56.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:03.675Z",
-      "attention": 11058,
+      "attention": 518208,
       "emphasis": 0.65
     },
     {
@@ -53,7 +311,7 @@
       "publishedAt": "2026-11-24T15:39:24.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.442Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -65,7 +323,7 @@
       "publishedAt": "2026-11-24T15:35:56.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.442Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -108,16 +366,16 @@
     },
     {
       "id": "eastmoney-570fd9a7202110f7c963",
-      "title": "费城半导体指数跌幅扩大至8%",
+      "title": "费城半导体指数跌幅扩大至8% 闪迪、AMD、美光科技跌超10%",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611243938822573.html",
-      "summary": "费城半导体指数跌幅扩大至8%，报8808.35点。闪迪跌超12%，AMD、美光科技跌超10%，海力士跌超9%，希捷科技跌超8%，恩智浦、应用材料、英特尔、英伟达、西部数据、拉姆研究跌超7%。",
+      "summary": "费城半导体指数跌幅扩大至8%，报8808.35点。纳斯达克100指数现跌2.3%，刷新日低。闪迪跌超12%，AMD、美光科技跌超10%，海力士跌超9%，希捷科技跌超8%，恩智浦、应用材料、英特尔、英伟达、西部数据、拉姆研究、Cerebras跌超7%，台积电跌超5%，博通、阿斯麦…",
       "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-24T15:25:54.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.442Z",
-      "attention": 28,
+      "attention": 40,
       "emphasis": 0
     },
     {
@@ -129,7 +387,7 @@
       "publishedAt": "2026-11-24T15:21:18.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.442Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -157,7 +415,7 @@
       "publishedAt": "2026-11-24T15:16:24.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.442Z",
-      "attention": 3,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -199,7 +457,7 @@
       "publishedAt": "2026-11-24T15:14:22.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.443Z",
-      "attention": 14,
+      "attention": 16,
       "emphasis": 0
     },
     {
@@ -208,12 +466,12 @@
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611243938813873.html",
-      "summary": "英伟达跌幅扩大至7%，股价报153.46美元。",
+      "summary": "英伟达跌幅扩大至7%，股价报153.46美元，总市值约3.7万亿美元。",
       "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-24T15:09:41.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.443Z",
-      "attention": 9,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -312,10 +570,12 @@
     },
     {
       "id": "eastmoney-aa25a3b830a1d16dbc09",
-      "title": "美国11月谘商会消费者信心指数为103.3 预期92.1 前值91.7",
+      "title": "美国11月消费者信心指数升至103.3 高于所有预期",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611243938810598.html",
+      "summary": "世界大型企业联合会数据显示，美国11月消费者信心指数升至103.3，前月数据为91.9；预期中值92.4，45位经济学家的预估值介于90至94.7之间。前月数据从91.7修正至91.9；当前状况指数从119.1升至132.8；预期指数从73.7升至83.6；对通胀率的预期中值为…",
+      "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-24T15:00:23.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.443Z",
@@ -347,7 +607,7 @@
       "publishedAt": "2026-11-24T14:59:59.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.443Z",
-      "attention": 7,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -417,7 +677,7 @@
       "publishedAt": "2026-11-24T14:49:31.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.443Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -445,7 +705,7 @@
       "publishedAt": "2026-11-24T14:43:12.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T15:49:10.443Z",
-      "attention": 0,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -1029,7 +1289,7 @@
       "publishedAt": "2026-11-24T13:37:31.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T13:55:01.960Z",
-      "attention": 11,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -1071,7 +1331,7 @@
       "publishedAt": "2026-11-24T13:35:00.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T13:55:01.960Z",
-      "attention": 21,
+      "attention": 24,
       "emphasis": 0
     },
     {
@@ -1099,7 +1359,7 @@
       "publishedAt": "2026-11-24T13:33:50.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T13:55:01.960Z",
-      "attention": 50,
+      "attention": 52,
       "emphasis": 0
     },
     {
@@ -1113,7 +1373,7 @@
       "publishedAt": "2026-11-24T13:33:00.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T13:55:01.960Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -1281,7 +1541,7 @@
       "publishedAt": "2026-11-24T13:14:14.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T13:55:01.961Z",
-      "attention": 417,
+      "attention": 432,
       "emphasis": 0
     },
     {
@@ -1447,7 +1707,7 @@
       "publishedAt": "2026-11-24T12:48:10.000Z",
       "date": "2026-11-24",
       "observedAt": "2026-11-24T13:55:01.962Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -15970,9 +16230,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-24T15:49:02.625Z",
-      "lastSuccessAt": "2026-11-24T15:49:02.625Z",
-      "count": 9,
+      "checkedAt": "2026-11-25T11:21:55.506Z",
+      "lastSuccessAt": "2026-11-25T11:21:55.506Z",
+      "count": 14,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -15981,8 +16241,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-24T15:49:02.625Z",
-      "lastSuccessAt": "2026-11-24T15:49:02.625Z",
+      "checkedAt": "2026-11-25T11:21:55.506Z",
+      "lastSuccessAt": "2026-11-25T11:21:55.506Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -15992,7 +16252,7 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "error",
-      "checkedAt": "2026-11-24T15:49:02.625Z",
+      "checkedAt": "2026-11-25T11:21:55.506Z",
       "lastSuccessAt": "2026-11-24T04:41:08.064Z",
       "count": 0,
       "message": "fetch failed"
@@ -16003,8 +16263,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-24T15:49:02.625Z",
-      "lastSuccessAt": "2026-11-24T15:49:02.625Z",
+      "checkedAt": "2026-11-25T11:21:55.506Z",
+      "lastSuccessAt": "2026-11-25T11:21:55.506Z",
       "count": 1,
       "message": "提取标题、可用来源摘要及原文链接"
     }
