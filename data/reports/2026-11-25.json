@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-25",
   "cutoffAt": "2026-11-25T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-25T16:46:57.754Z",
   "createdAt": "2026-11-24T16:50:03.483Z",
-  "updatedAt": "2026-11-25T15:44:50.399Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-25T16:46:57.789Z",
+  "finalizedAt": "2026-11-25T16:46:57.789Z",
+  "status": "final",
   "news": {
     "date": "2026-11-25",
     "cutoffAt": "2026-11-25T16:00:00.000Z",
@@ -33,10 +33,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 70.2,
+        "score": 69.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.5,
+          "engagement": 24,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 12
@@ -119,43 +119,6 @@
         "importance": "重磅"
       },
       {
-        "id": "topic-6fc4100b9bd9dabcb1ba",
-        "title": "华东重机：芯片设计及解决方案业务尚处于培育阶段 未形成规模化盈利贡献",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2544404",
-        "summary": "财联社11月25日电，华东重机(002685.SZ)公告称，公司股票连续10个交易日收盘价格涨幅偏离值累计超过100%，属于股票交易严重异常波动。公司最新滚动市盈率为100.70倍，显著高于行业平均的35.93倍。公司主营业务聚焦集装箱装卸设备业务，芯片设计及解决方案业务尚处于…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-25T10:52:14.000Z",
-        "date": "2026-11-25",
-        "time": "18:52",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2544404"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611253939670941.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 63.5,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 22.2,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 7.5
-        },
-        "category": "行业",
-        "sectors": [
-          "半导体"
-        ],
-        "rank": 4,
-        "importance": "关注"
-      },
-      {
         "id": "topic-6cf1729d0db313b0c739",
         "title": "费城半导体指数跌超7% 英伟达、AMD跌逾9%",
         "source": "财联社",
@@ -177,10 +140,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63.3,
+        "score": 63.9,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.1,
+          "engagement": 22.6,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 7.5
@@ -190,44 +153,44 @@
           "半导体",
           "人工智能"
         ],
-        "rank": 5,
+        "rank": 4,
         "importance": "关注"
       },
       {
-        "id": "topic-33e4317201570d2547ce",
-        "title": "医药板块涨势扩大 康芝药业等十余股涨停",
+        "id": "topic-6fc4100b9bd9dabcb1ba",
+        "title": "华东重机：芯片设计及解决方案业务尚处于培育阶段 未形成规模化盈利贡献",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2543695",
-        "summary": "医药板块盘中涨势扩大，抗流感方向持续领涨，康芝药业、拓新药业、亨迪药业、双鹭药业、特一药业等十余股涨停，新赣江涨超15%，金石亚药、金迪克、华兰疫苗、新华制药涨幅靠前。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-25T02:05:53.000Z",
+        "sourceUrl": "https://www.cls.cn/detail/2544404",
+        "summary": "财联社11月25日电，华东重机(002685.SZ)公告称，公司股票连续10个交易日收盘价格涨幅偏离值累计超过100%，属于股票交易严重异常波动。公司最新滚动市盈率为100.70倍，显著高于行业平均的35.93倍。公司主营业务聚焦集装箱装卸设备业务，芯片设计及解决方案业务尚处于…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-25T10:52:14.000Z",
         "date": "2026-11-25",
-        "time": "10:05",
+        "time": "18:52",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2543695"
+            "url": "https://www.cls.cn/detail/2544404"
           },
           {
             "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611253939357385.html"
+            "url": "http://finance.eastmoney.com/a/202611253939670941.html"
           }
         ],
         "sourceCount": 2,
-        "score": 61.4,
+        "score": 63.4,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.6,
+          "engagement": 22.2,
           "recency": 0,
           "emphasis": 16.3,
-          "impact": 3
+          "impact": 7.5
         },
         "category": "行业",
         "sectors": [
-          "医药生物"
+          "半导体"
         ],
-        "rank": 6,
+        "rank": 5,
         "importance": "关注"
       },
       {
@@ -262,7 +225,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 7,
+        "rank": 6,
         "importance": "关注"
       },
       {
@@ -287,7 +250,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 61.1,
+        "score": 61.2,
         "signals": {
           "coverage": 17.5,
           "engagement": 24.4,
@@ -297,42 +260,44 @@
         },
         "category": "公司",
         "sectors": [],
-        "rank": 8,
+        "rank": 7,
         "importance": "关注"
       },
       {
-        "id": "topic-5d96f716cb418aa89813",
-        "title": "珠免集团：拟购买免税公司49%股权 股票明起复牌",
+        "id": "topic-33e4317201570d2547ce",
+        "title": "医药板块涨势扩大 康芝药业等十余股涨停",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2544428",
-        "summary": "财联社11月25日电，珠免集团(600185.SH)公告称，公司筹划以发行股份及支付现金方式购买珠海投资控股持有的免税公司26%股权及珠海康格投资持有的免税公司23%股权并募集配套资金，预计构成重大资产重组。公司股票自2026年11月26日开市起复牌。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-25T11:21:27.000Z",
+        "sourceUrl": "https://www.cls.cn/detail/2543695",
+        "summary": "医药板块盘中涨势扩大，抗流感方向持续领涨，康芝药业、拓新药业、亨迪药业、双鹭药业、特一药业等十余股涨停，新赣江涨超15%，金石亚药、金迪克、华兰疫苗、新华制药涨幅靠前。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-25T02:05:53.000Z",
         "date": "2026-11-25",
-        "time": "19:21",
+        "time": "10:05",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2544428"
+            "url": "https://www.cls.cn/detail/2543695"
           },
           {
             "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611253939682442.html"
+            "url": "http://finance.eastmoney.com/a/202611253939357385.html"
           }
         ],
         "sourceCount": 2,
-        "score": 60.2,
+        "score": 60.5,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.4,
+          "engagement": 23.8,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
-        "category": "公司",
-        "sectors": [],
-        "rank": 9,
+        "category": "行业",
+        "sectors": [
+          "医药生物"
+        ],
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -357,7 +322,42 @@
           }
         ],
         "sourceCount": 2,
-        "score": 60.2,
+        "score": 60.4,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 23.7,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "海外",
+        "sectors": [],
+        "rank": 9,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-5d96f716cb418aa89813",
+        "title": "珠免集团：拟购买免税公司49%股权 股票明起复牌",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2544428",
+        "summary": "财联社11月25日电，珠免集团(600185.SH)公告称，公司筹划以发行股份及支付现金方式购买珠海投资控股持有的免税公司26%股权及珠海康格投资持有的免税公司23%股权并募集配套资金，预计构成重大资产重组。公司股票自2026年11月26日开市起复牌。",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-25T11:21:27.000Z",
+        "date": "2026-11-25",
+        "time": "19:21",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2544428"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611253939682442.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 60.1,
         "signals": {
           "coverage": 17.5,
           "engagement": 23.4,
@@ -365,45 +365,10 @@
           "emphasis": 16.3,
           "impact": 3
         },
-        "category": "海外",
+        "category": "公司",
         "sectors": [],
         "rank": 10,
         "importance": "关注"
-      },
-      {
-        "id": "topic-53383a8ed31dfedd5b18",
-        "title": "宁德时代跌超6%创19个月新低 A+H股总市值跌破1万亿",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2543888",
-        "summary": "电池龙头宁德时代午后扩大跌幅至6%，股价较5月7日历史高点回撤超54%，刷新19个月以来新低，A+H股总市值跌破1万亿。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-25T05:32:20.000Z",
-        "date": "2026-11-25",
-        "time": "13:32",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2543888"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611253939430564.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 57.7,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 20.9,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 11,
-        "importance": "一般"
       },
       {
         "id": "topic-d54c8af17ae952fb8151",
@@ -427,10 +392,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 57.7,
+        "score": 58.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 20.9,
+          "engagement": 22,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -439,7 +404,79 @@
         "sectors": [
           "人工智能"
         ],
+        "rank": 11,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-53383a8ed31dfedd5b18",
+        "title": "宁德时代跌超6%创19个月新低 A+H股总市值跌破1万亿",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2543888",
+        "summary": "电池龙头宁德时代午后扩大跌幅至6%，股价较5月7日历史高点回撤超54%，刷新19个月以来新低，A+H股总市值跌破1万亿。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-25T05:32:20.000Z",
+        "date": "2026-11-25",
+        "time": "13:32",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2543888"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611253939430564.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 57.6,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 20.8,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 3
+        },
+        "category": "行业",
+        "sectors": [],
         "rank": 12,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-3ede80f6b5fe46fd71a5",
+        "title": "纳斯达克100指数进入“先卖再说”模式 AI和加息之忧刺激抛售",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2544663",
+        "summary": "财联社11月25日电，纳斯达克100指数连续第二天暴跌并短暂进入熊市，投资者对AI过度投资的担忧加剧，重创了美国大型科技公司的股价。纳斯达克100指数短暂较收盘纪录高位下跌20%后收复了部分失地。目前来看该指数今年微跌。 “先卖了再说，之后再问问题，”The Wealth Al…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-25T15:51:24.000Z",
+        "date": "2026-11-25",
+        "time": "23:51",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2544663"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611253939917111.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 57.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.8,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 15
+        },
+        "category": "行业",
+        "sectors": [
+          "人工智能"
+        ],
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -474,7 +511,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -499,10 +536,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 53.8,
+        "score": 53,
         "signals": {
           "coverage": 17.5,
-          "engagement": 12.6,
+          "engagement": 11.8,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 7.5
@@ -513,7 +550,7 @@
           "医药生物",
           "食品饮料"
         ],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -538,17 +575,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 51.8,
+        "score": 51,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.3,
+          "engagement": 21.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "行业",
         "sectors": [],
-        "rank": 15,
+        "rank": 16,
         "importance": "一般"
       },
       {
@@ -573,17 +610,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 51,
+        "score": 50.9,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.5,
+          "engagement": 21.4,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "行业",
         "sectors": [],
-        "rank": 16,
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -608,120 +645,45 @@
           }
         ],
         "sourceCount": 2,
-        "score": 50.4,
+        "score": 49.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 17.9,
+          "engagement": 17.1,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
         },
         "category": "海外",
         "sectors": [],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-2410dd742e15ceea54d7",
-        "title": "周三你需要知道的隔夜全球要闻：AI板块疲软费半指数重挫近8%；趋势追踪量化基金削减美债空头头寸；美国消费者信心升至近两年最高",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2543499",
-        "summary": "1、美三大股指收盘涨跌不一，道琼斯指数涨0.85%，标普500指数跌0.50%，纳斯达克综合指数跌1.48%。AI硬件板块疲软，费城半导体指数重挫近8%，英伟达跌近6%，AMD跌近9%，美光跌11%。 2、美股医疗保健、消费零售板块逆势走高，礼来、诺和诺德涨超3%，联合健康涨近…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-24T22:12:11.000Z",
-        "date": "2026-11-25",
-        "time": "06:12",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2543499"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://bond.eastmoney.com/a/202611253938885828.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 50,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 13.3,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "海外",
-        "sectors": [
-          "人工智能",
-          "食品饮料"
-        ],
         "rank": 18,
         "importance": "一般"
       },
       {
-        "id": "topic-134adb0f307a90f15edc",
-        "title": "算力租赁概念震荡拉升 城地香江涨停",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611253939358578.html",
-        "summary": "算力租赁概念震荡拉升，城地香江涨停，青云科技、美利云、大位科技、群兴玩具跟涨。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-25T02:08:01.000Z",
-        "date": "2026-11-25",
-        "time": "10:08",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611253939358578.html"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2543696"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 49.8,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 24.8,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 7.5
-        },
-        "category": "行业",
-        "sectors": [
-          "人工智能"
-        ],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-5484b210a05920a4523e",
-        "title": "现货黄金日内跌幅扩大至1%",
+        "id": "topic-fd8d68e4d626de0daa2d",
+        "title": "现货黄金日内跌幅达3.5%",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2543915",
-        "summary": "财联社11月25日电，现货黄金价格跌1.01%，报3519.78美元/盎司；现货白银价格跌1.79%，报40.16美元/盎司。",
+        "sourceUrl": "https://www.cls.cn/detail/2544639",
+        "summary": "财联社11月25日电，国际贵金属持续走低，现货黄金价格跌3.5%，报3431.63美元/盎司；现货白银价格跌6.41%，报38.27美元/盎司。",
         "summarySource": "财联社",
-        "publishedAt": "2026-11-25T06:01:19.000Z",
+        "publishedAt": "2026-11-25T15:19:24.000Z",
         "date": "2026-11-25",
-        "time": "14:01",
+        "time": "23:19",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2543915"
+            "url": "https://www.cls.cn/detail/2544639"
           },
           {
             "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611253939448882.html"
+            "url": "http://finance.eastmoney.com/a/202611253939905281.html"
           }
         ],
         "sourceCount": 2,
-        "score": 49.3,
+        "score": 49.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.3,
+          "engagement": 24.6,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -730,15 +692,50 @@
         "sectors": [
           "有色金属"
         ],
+        "rank": 19,
+        "importance": "一般"
+      },
+      {
+        "id": "topic-24772eeb5478fa824b38",
+        "title": "EIA：上周美国原油库存增加111万桶",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2544644",
+        "summary": "财联社11月25日电，EIA数据显示，美国上周EIA原油库存增加111万桶，分析师预期增加205.980万桶，之前一周增加33.8万桶；上周馏分油库存增加71.5万桶，市场预估为增加133.8万桶上周原油每日进口量增加189.3万桶；上周炼厂产能利用率上升1.8个百分点；上周汽…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-25T15:32:33.000Z",
+        "date": "2026-11-25",
+        "time": "23:32",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2544644"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611253939911265.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 49.5,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.5,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 7.5
+        },
+        "category": "海外",
+        "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-25T15:44:41.491Z",
-    "collectedAt": "2026-11-25T15:44:41.491Z",
-    "latestPublishedAt": "2026-11-25T15:39:14.000Z",
-    "totalCandidates": 1030,
-    "financeCandidates": 721,
+    "asOf": "2026-11-25T16:46:45.289Z",
+    "collectedAt": "2026-11-25T16:46:45.289Z",
+    "latestPublishedAt": "2026-11-25T15:58:41.000Z",
+    "totalCandidates": 1039,
+    "financeCandidates": 726,
     "sources": [
       {
         "id": "cls",
@@ -746,9 +743,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-25T15:44:41.491Z",
-        "lastSuccessAt": "2026-11-25T15:44:41.491Z",
-        "count": 9,
+        "checkedAt": "2026-11-25T16:46:45.289Z",
+        "lastSuccessAt": "2026-11-25T16:46:45.289Z",
+        "count": 13,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -757,8 +754,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-25T15:44:41.491Z",
-        "lastSuccessAt": "2026-11-25T15:44:41.491Z",
+        "checkedAt": "2026-11-25T16:46:45.289Z",
+        "lastSuccessAt": "2026-11-25T16:46:45.289Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -768,7 +765,7 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "error",
-        "checkedAt": "2026-11-25T15:44:41.491Z",
+        "checkedAt": "2026-11-25T16:46:45.289Z",
         "lastSuccessAt": "2026-11-24T04:41:08.064Z",
         "count": 0,
         "message": "fetch failed"
@@ -779,8 +776,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "empty",
-        "checkedAt": "2026-11-25T15:44:41.491Z",
-        "lastSuccessAt": "2026-11-25T15:44:41.491Z",
+        "checkedAt": "2026-11-25T16:46:45.289Z",
+        "lastSuccessAt": "2026-11-25T16:46:45.289Z",
         "count": 0,
         "message": "暂无带独立标题的可用条目"
       }
@@ -796,8 +793,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-25T16:46:57.789Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-24T16:49:58.995Z"

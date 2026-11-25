@@ -1,7 +1,75 @@
 {
   "date": "2026-11-25",
-  "asOf": "2026-11-25T15:44:41.491Z",
+  "asOf": "2026-11-25T23:29:31.058Z",
   "records": [
+    {
+      "id": "cls-160383f9490d6e2c586b",
+      "title": "美军在艾奥瓦州销毁数吨有毒化学物质",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2544667",
+      "summary": "财联社11月25日电，美国陆军在艾奥瓦州的一处设施内销毁了近5吨用于制造炸药的有毒含铅化合物。联邦官员此前表示，必须进行此次受控销毁，因为这些化学物质已经发生降解，在严寒气温下，它们可能会引发失控的爆炸，若试图打开容器进行化学中和处理，也同样存在爆炸风险。此前，环保组织警告，引…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-25T15:58:41.000Z",
+      "date": "2026-11-25",
+      "observedAt": "2026-11-25T16:46:46.501Z",
+      "attention": 492684,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-83cc696477a01951d16a",
+      "title": "美国30年期国债收益率当日下跌10个基点至5.22%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://bond.eastmoney.com/a/202611253939917228.html",
+      "publishedAt": "2026-11-25T15:53:12.000Z",
+      "date": "2026-11-25",
+      "observedAt": "2026-11-25T16:46:47.212Z",
+      "attention": 5,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-4157dc068770a94cf49c",
+      "title": "纳斯达克100指数进入“先卖再说”模式 AI和加息之忧刺激抛售",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2544663",
+      "summary": "财联社11月25日电，纳斯达克100指数连续第二天暴跌并短暂进入熊市，投资者对AI过度投资的担忧加剧，重创了美国大型科技公司的股价。纳斯达克100指数短暂较收盘纪录高位下跌20%后收复了部分失地。目前来看该指数今年微跌。 “先卖了再说，之后再问问题，”The Wealth Al…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-25T15:51:24.000Z",
+      "date": "2026-11-25",
+      "observedAt": "2026-11-25T16:46:46.502Z",
+      "attention": 518154,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-8d01c5166f751600ce2c",
+      "title": "纳斯达克100指数进入“先卖再说”模式 AI和加息之忧刺激抛售",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611253939917111.html",
+      "summary": "纳斯达克100指数连续第二天暴跌并短暂进入熊市，投资者对AI过度投资的担忧加剧，重创了美国大型科技公司的股价。纳斯达克100指数短暂较收盘纪录高位下跌20%后收复了部分失地。目前来看该指数今年微跌。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-25T15:51:24.000Z",
+      "date": "2026-11-25",
+      "observedAt": "2026-11-25T16:46:47.212Z",
+      "attention": 11,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-f2d46ddd65daf2506a18",
+      "title": "产品“供不应求”“持续放量” 多家沪市科技公司发声稳市场 还拿出真金白银护盘回购",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611253939912879.html",
+      "summary": "多方面因素扰动之下，近日，全球科技公司股价调整加剧。对A股来说，科技产业发展趋势有没有发生变化？订单需求还能不能有力支撑企业发展？都是投资者关心的问题。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-25T15:49:56.000Z",
+      "date": "2026-11-25",
+      "observedAt": "2026-11-25T16:46:47.213Z",
+      "attention": 47,
+      "emphasis": 0
+    },
     {
       "id": "eastmoney-b5f3d7dfd548332a1ce7",
       "title": "喜力表示：正与海地政府合作 以尽快恢复在海地的运营 公司目标是在假日季前让啤酒重新上市",
@@ -53,6 +121,62 @@
       "publishedAt": "2026-11-25T15:38:44.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.470Z",
+      "attention": 2,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-9cab53840e717ddab7ac",
+      "title": "宇特光电：聘任许俊为财务总监",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611253939914448.html",
+      "summary": "宇特光电公告，沈建华因公司规范治理与经营发展需要辞任财务总监，离任后继续担任董事会秘书职务。许俊获聘为公司财务总监，任期至第五届董事会届满之日止，自2026年11月24日起生效。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-25T15:38:41.000Z",
+      "date": "2026-11-25",
+      "observedAt": "2026-11-25T16:46:47.213Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-c3879c68a154d7b32aac",
+      "title": "国航远洋：对2026年全年BDI及第四季度运价持较为乐观态度",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611253939914733.html",
+      "summary": "国航远洋发布投资者关系活动记录表，公司对2026年全年BDI及第四季度运价持较为乐观态度。主要支撑因素包括：市场供需格局未发生重大变化，货运量与交船量均处于正常区间；油价虽有所下调但仍处于相对高位，且燃油成本占运营成本30%以上，对运价形成一定支撑；市场运营效率未显著提升，需求…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-25T15:38:38.000Z",
+      "date": "2026-11-25",
+      "observedAt": "2026-11-25T16:46:47.213Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-31ee7aee00302575302c",
+      "title": "科强股份：拟回购100万至200万股",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611253939914513.html",
+      "summary": "科强股份公告，公司拟以集中竞价方式回购股份，数量不少于100万股且不超过200万股，回购价格不超过10元/股，预计资金总额1000万至2000万元。资金来源为自有资金及中国银行无锡分行提供的专项贷款。回购期限为董事会审议通过之日起12个月内，用于实施员工持股计划或股权激励。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-25T15:38:33.000Z",
+      "date": "2026-11-25",
+      "observedAt": "2026-11-25T16:46:47.213Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-5a5687a7e9841ae0ed29",
+      "title": "通领科技：公司胸腔本体产品已获得智元机器人的项目定点",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611253939914888.html",
+      "summary": "通领科技发布投资者关系活动记录表，公司目前主营业务为汽车内饰件的研发、生产和销售。在新兴业务方向上，公司依托精密塑料成型、高端表面处理、精密模具工艺三大核心优势，积极向人形机器人相关零部件领域延伸。公司已成立机器人研发部，并顺利通过智元机器人的供应商准入评审。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-25T15:38:30.000Z",
+      "date": "2026-11-25",
+      "observedAt": "2026-11-25T16:46:47.213Z",
       "attention": 0,
       "emphasis": 0
     },
@@ -67,7 +191,7 @@
       "publishedAt": "2026-11-25T15:38:02.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:42.346Z",
-      "attention": 3218,
+      "attention": 465056,
       "emphasis": 0
     },
     {
@@ -81,7 +205,7 @@
       "publishedAt": "2026-11-25T15:38:01.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.470Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -95,7 +219,7 @@
       "publishedAt": "2026-11-25T15:35:36.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.471Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -109,7 +233,7 @@
       "publishedAt": "2026-11-25T15:35:06.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.471Z",
-      "attention": 0,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -137,12 +261,12 @@
       "publishedAt": "2026-11-25T15:32:33.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:42.346Z",
-      "attention": 6971,
+      "attention": 483803,
       "emphasis": 0
     },
     {
       "id": "eastmoney-519e636bfebba845e53f",
-      "title": "EIA数据显示：美国上周EIA原油库存增加111万桶 分析师预期增加205.980万桶",
+      "title": "EIA：上周美国原油库存增加111万桶",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611253939911265.html",
@@ -151,7 +275,7 @@
       "publishedAt": "2026-11-25T15:32:33.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.471Z",
-      "attention": 1,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -179,7 +303,7 @@
       "publishedAt": "2026-11-25T15:28:58.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.471Z",
-      "attention": 0,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -207,7 +331,7 @@
       "publishedAt": "2026-11-25T15:26:36.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:42.346Z",
-      "attention": 10711,
+      "attention": 478404,
       "emphasis": 0
     },
     {
@@ -221,7 +345,7 @@
       "publishedAt": "2026-11-25T15:26:36.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.471Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -235,7 +359,7 @@
       "publishedAt": "2026-11-25T15:23:38.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.471Z",
-      "attention": 0,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -249,7 +373,7 @@
       "publishedAt": "2026-11-25T15:21:02.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.471Z",
-      "attention": 1,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -263,7 +387,7 @@
       "publishedAt": "2026-11-25T15:19:24.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:42.346Z",
-      "attention": 17330,
+      "attention": 499816,
       "emphasis": 0
     },
     {
@@ -305,7 +429,7 @@
       "publishedAt": "2026-11-25T15:17:36.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:42.346Z",
-      "attention": 10410,
+      "attention": 476127,
       "emphasis": 0
     },
     {
@@ -333,7 +457,7 @@
       "publishedAt": "2026-11-25T15:17:04.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:42.346Z",
-      "attention": 16908,
+      "attention": 508830,
       "emphasis": 0
     },
     {
@@ -347,7 +471,7 @@
       "publishedAt": "2026-11-25T15:17:04.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.472Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -361,7 +485,7 @@
       "publishedAt": "2026-11-25T15:16:14.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.472Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -375,7 +499,7 @@
       "publishedAt": "2026-11-25T15:14:18.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.472Z",
-      "attention": 6,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -417,7 +541,7 @@
       "publishedAt": "2026-11-25T15:09:00.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.472Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -579,7 +703,7 @@
       "publishedAt": "2026-11-25T14:59:07.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.473Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -643,7 +767,7 @@
       "publishedAt": "2026-11-25T14:50:12.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T15:44:43.473Z",
-      "attention": 5,
+      "attention": 6,
       "emphasis": 0
     },
     {
@@ -683,7 +807,7 @@
       "publishedAt": "2026-11-25T14:45:17.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T14:49:45.636Z",
-      "attention": 32,
+      "attention": 42,
       "emphasis": 0
     },
     {
@@ -751,7 +875,7 @@
       "publishedAt": "2026-11-25T14:41:55.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T14:49:45.636Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -789,7 +913,7 @@
       "publishedAt": "2026-11-25T14:36:31.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T14:49:45.636Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -803,7 +927,7 @@
       "publishedAt": "2026-11-25T14:36:22.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T14:49:45.636Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -857,7 +981,7 @@
       "publishedAt": "2026-11-25T14:33:38.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T14:49:45.637Z",
-      "attention": 17,
+      "attention": 24,
       "emphasis": 0
     },
     {
@@ -925,7 +1049,7 @@
       "publishedAt": "2026-11-25T14:30:24.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T14:49:45.637Z",
-      "attention": 13,
+      "attention": 17,
       "emphasis": 0
     },
     {
@@ -1220,11 +1344,11 @@
     },
     {
       "id": "eastmoney-9c9fdc09cfaae4d57cf0",
-      "title": "现货黄金价格跌2.42% 现货白银价格跌4.04%",
+      "title": "国际金银跌幅扩大 现货白银价格跌超4%",
       "source": "东方财富",
       "sourceId": "eastmoney",
       "sourceUrl": "http://finance.eastmoney.com/a/202611253939812668.html",
-      "summary": "现货黄金价格跌2.42%，报3469.83美元/盎司；现货白银价格跌4.04%，报39.24美元/盎司。",
+      "summary": "国际金银跌幅扩大，现货黄金价格跌2.42%，报3469.83美元/盎司；现货白银价格跌4.04%，报39.24美元/盎司。",
       "summarySourceId": "eastmoney",
       "publishedAt": "2026-11-25T13:40:56.000Z",
       "date": "2026-11-25",
@@ -1255,7 +1379,7 @@
       "publishedAt": "2026-11-25T13:38:59.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T13:47:59.262Z",
-      "attention": 22,
+      "attention": 23,
       "emphasis": 0
     },
     {
@@ -1283,7 +1407,7 @@
       "publishedAt": "2026-11-25T13:37:50.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T13:47:59.262Z",
-      "attention": 23,
+      "attention": 24,
       "emphasis": 0
     },
     {
@@ -1379,7 +1503,7 @@
       "publishedAt": "2026-11-25T13:30:50.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T13:47:59.263Z",
-      "attention": 102,
+      "attention": 104,
       "emphasis": 0
     },
     {
@@ -1421,7 +1545,7 @@
       "publishedAt": "2026-11-25T13:30:29.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T13:47:59.263Z",
-      "attention": 622,
+      "attention": 651,
       "emphasis": 0
     },
     {
@@ -1503,7 +1627,7 @@
       "publishedAt": "2026-11-25T13:20:11.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T13:47:59.263Z",
-      "attention": 12,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -1517,7 +1641,7 @@
       "publishedAt": "2026-11-25T13:18:23.000Z",
       "date": "2026-11-25",
       "observedAt": "2026-11-25T13:47:59.263Z",
-      "attention": 1091,
+      "attention": 1142,
       "emphasis": 0
     },
     {
@@ -14230,9 +14354,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-25T15:44:41.491Z",
-      "lastSuccessAt": "2026-11-25T15:44:41.491Z",
-      "count": 9,
+      "checkedAt": "2026-11-25T23:29:31.058Z",
+      "lastSuccessAt": "2026-11-25T23:29:31.058Z",
+      "count": 19,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -14241,8 +14365,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-25T15:44:41.491Z",
-      "lastSuccessAt": "2026-11-25T15:44:41.491Z",
+      "checkedAt": "2026-11-25T23:29:31.058Z",
+      "lastSuccessAt": "2026-11-25T23:29:31.058Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -14252,7 +14376,7 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "error",
-      "checkedAt": "2026-11-25T15:44:41.491Z",
+      "checkedAt": "2026-11-25T23:29:31.058Z",
       "lastSuccessAt": "2026-11-24T04:41:08.064Z",
       "count": 0,
       "message": "fetch failed"
@@ -14263,8 +14387,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "empty",
-      "checkedAt": "2026-11-25T15:44:41.491Z",
-      "lastSuccessAt": "2026-11-25T15:44:41.491Z",
+      "checkedAt": "2026-11-25T23:29:31.058Z",
+      "lastSuccessAt": "2026-11-25T23:29:31.058Z",
       "count": 0,
       "message": "暂无带独立标题的可用条目"
     }
