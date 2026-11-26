@@ -1,7 +1,75 @@
 {
   "date": "2026-11-26",
-  "asOf": "2026-11-26T15:49:36.353Z",
+  "asOf": "2026-11-27T10:45:23.184Z",
   "records": [
+    {
+      "id": "eastmoney-5b8b1f33b1dd29e24982",
+      "title": "斯托克欧洲600指数上涨2%，至638.63点",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://stock.eastmoney.com/a/202611263940996393.html",
+      "publishedAt": "2026-11-26T15:57:03.000Z",
+      "date": "2026-11-26",
+      "observedAt": "2026-11-26T16:51:07.712Z",
+      "attention": 5,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-bcc284a7533c98e1c91a",
+      "title": "特朗普指责政府蓄意低报经济增长 要求展开调查",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2545933",
+      "summary": "财联社11月26日电，特朗普指责自己的政府“蓄意”低报美国经济增长，他抓住一次例行数据修正，以此作为其提出选举干预指控的依据，但并未提供任何证据。特朗普周四在社交媒体发帖指出，GDP数据显示美国经济第三季度按年率计算增长4.3%，高于此前公布的3.4%估计值，并称这是一个“重大…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-26T15:56:28.000Z",
+      "date": "2026-11-26",
+      "observedAt": "2026-11-26T16:51:06.841Z",
+      "attention": 569315,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-7bb1baaa6baf89b36b47",
+      "title": "特朗普指责政府蓄意低报经济增长 要求展开调查",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611263940996490.html",
+      "summary": "特朗普指责自己的政府“蓄意”低报美国经济增长，他抓住一次例行数据修正，以此作为其提出选举干预指控的依据，但并未提供任何证据。特朗普周四在社交媒体发帖指出，GDP数据显示美国经济第三季度按年率计算增长4.3%，高于此前公布的3.4%估计值，并称这是一个“重大差异”。特朗普还表示，…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-26T15:56:28.000Z",
+      "date": "2026-11-26",
+      "observedAt": "2026-11-26T16:51:07.712Z",
+      "attention": 4,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-dd36dc6c034850b523b0",
+      "title": "阿联酋迪拜航空将恢复迪拜至以色列特拉维夫航班",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611263940994630.html",
+      "summary": "当地时间11月26日自以色列方面获悉，阿联酋迪拜航空公司将于12月3日起恢复迪拜国际机场至以色列特拉维夫本-古里安国际机场的直飞航班，相关航班已开放预订。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-26T15:51:43.000Z",
+      "date": "2026-11-26",
+      "observedAt": "2026-11-26T16:51:07.712Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-14a6e3d15ab945dd64ad",
+      "title": "阿联酋迪拜航空将恢复迪拜至以色列特拉维夫航班",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2545932",
+      "summary": "财联社11月26日电，阿联酋迪拜航空公司将于12月3日起恢复迪拜国际机场至以色列特拉维夫本-古里安国际机场的直飞航班，相关航班已开放预订。",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-26T15:50:28.000Z",
+      "date": "2026-11-26",
+      "observedAt": "2026-11-26T16:51:06.841Z",
+      "attention": 521673,
+      "emphasis": 0
+    },
     {
       "id": "cls-c0f8a7b3c6df80270b25",
       "title": "瑞银承诺维持全球业务布局 回应瑞士议会委员会支持加码资本监管",
@@ -13,7 +81,35 @@
       "publishedAt": "2026-11-26T15:44:56.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:37.401Z",
-      "attention": 10476,
+      "attention": 540284,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-5d527911da2e13096477",
+      "title": "瑞银承诺维持全球业务布局 回应瑞士议会委员会支持加码资本监管",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://bank.eastmoney.com/a/202611263940993495.html",
+      "summary": "瑞银集团最高管理层本周致信员工，试图向他们保证，瑞士收紧监管的努力不会夺走该行历经数十年打造的成果 —— 一项真正意义上的全球化业务。员工备忘录显示，董事长Colm Kelleher和首席执行官Sergio Ermotti表示，该行仍“完全致力于我们的战略、增长目标和全球布局”…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-26T15:44:56.000Z",
+      "date": "2026-11-26",
+      "observedAt": "2026-11-26T16:51:07.712Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-37afc770386f0e7d0d13",
+      "title": "中国驻欧盟使团发言人就欧洲议会通过涉区锦新案消极动议答记者问",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611263940994043.html",
+      "summary": "中国驻欧盟使团发言人就欧洲议会通过涉区锦新案消极动议答记者问。问：11月26日，欧洲议会就区锦新案判决通过消极动议。中方对此有何评论？",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-26T15:41:55.000Z",
+      "date": "2026-11-26",
+      "observedAt": "2026-11-26T16:51:07.712Z",
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -27,7 +123,7 @@
       "publishedAt": "2026-11-26T15:41:01.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:37.401Z",
-      "attention": 12034,
+      "attention": 550726,
       "emphasis": 0
     },
     {
@@ -39,7 +135,7 @@
       "publishedAt": "2026-11-26T15:36:24.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:38.239Z",
-      "attention": 2,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -63,7 +159,7 @@
       "publishedAt": "2026-11-26T15:18:38.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:38.239Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -77,7 +173,7 @@
       "publishedAt": "2026-11-26T15:16:28.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:38.239Z",
-      "attention": 1,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -105,7 +201,7 @@
       "publishedAt": "2026-11-26T15:07:24.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:37.401Z",
-      "attention": 31303,
+      "attention": 558961,
       "emphasis": 0.65
     },
     {
@@ -119,7 +215,7 @@
       "publishedAt": "2026-11-26T15:01:18.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:37.401Z",
-      "attention": 21461,
+      "attention": 532794,
       "emphasis": 0
     },
     {
@@ -133,7 +229,7 @@
       "publishedAt": "2026-11-26T15:01:18.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:38.239Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -147,7 +243,7 @@
       "publishedAt": "2026-11-26T15:00:16.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:38.239Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -161,7 +257,7 @@
       "publishedAt": "2026-11-26T14:58:40.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:38.240Z",
-      "attention": 4,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -173,7 +269,7 @@
       "publishedAt": "2026-11-26T14:55:53.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:38.240Z",
-      "attention": 5,
+      "attention": 8,
       "emphasis": 0
     },
     {
@@ -187,7 +283,7 @@
       "publishedAt": "2026-11-26T14:52:15.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T15:49:38.240Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -201,7 +297,7 @@
       "publishedAt": "2026-11-26T14:51:13.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:54:58.134Z",
-      "attention": 27190,
+      "attention": 484131,
       "emphasis": 0
     },
     {
@@ -277,7 +373,7 @@
       "publishedAt": "2026-11-26T14:33:41.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:55:00.455Z",
-      "attention": 11,
+      "attention": 12,
       "emphasis": 0
     },
     {
@@ -305,7 +401,7 @@
       "publishedAt": "2026-11-26T14:31:45.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:55:00.455Z",
-      "attention": 437,
+      "attention": 719,
       "emphasis": 0
     },
     {
@@ -359,7 +455,7 @@
       "publishedAt": "2026-11-26T14:27:58.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:55:00.456Z",
-      "attention": 9,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -429,7 +525,7 @@
       "publishedAt": "2026-11-26T14:18:00.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:55:00.456Z",
-      "attention": 8,
+      "attention": 10,
       "emphasis": 0
     },
     {
@@ -453,7 +549,7 @@
       "publishedAt": "2026-11-26T14:08:03.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:55:00.456Z",
-      "attention": 14,
+      "attention": 16,
       "emphasis": 0
     },
     {
@@ -507,7 +603,7 @@
       "publishedAt": "2026-11-26T14:01:54.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:55:00.457Z",
-      "attention": 55,
+      "attention": 59,
       "emphasis": 0
     },
     {
@@ -589,7 +685,7 @@
       "publishedAt": "2026-11-26T13:55:49.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:55:00.457Z",
-      "attention": 13,
+      "attention": 15,
       "emphasis": 0
     },
     {
@@ -617,7 +713,7 @@
       "publishedAt": "2026-11-26T13:53:22.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:00:03.952Z",
-      "attention": 6,
+      "attention": 11,
       "emphasis": 0
     },
     {
@@ -643,7 +739,7 @@
       "publishedAt": "2026-11-26T13:48:31.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:00:03.953Z",
-      "attention": 25,
+      "attention": 27,
       "emphasis": 0
     },
     {
@@ -981,7 +1077,7 @@
       "publishedAt": "2026-11-26T12:58:28.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:00:03.956Z",
-      "attention": 29,
+      "attention": 37,
       "emphasis": 0
     },
     {
@@ -995,7 +1091,7 @@
       "publishedAt": "2026-11-26T12:53:16.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T14:00:03.956Z",
-      "attention": 26,
+      "attention": 29,
       "emphasis": 0
     },
     {
@@ -1203,7 +1299,7 @@
       "publishedAt": "2026-11-26T12:30:31.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T12:47:35.118Z",
-      "attention": 7,
+      "attention": 9,
       "emphasis": 0
     },
     {
@@ -1299,7 +1395,7 @@
       "publishedAt": "2026-11-26T12:25:09.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T12:47:35.119Z",
-      "attention": 15,
+      "attention": 17,
       "emphasis": 0
     },
     {
@@ -1535,7 +1631,7 @@
       "publishedAt": "2026-11-26T12:07:02.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T12:47:35.120Z",
-      "attention": 23,
+      "attention": 24,
       "emphasis": 0
     },
     {
@@ -1675,7 +1771,7 @@
       "publishedAt": "2026-11-26T11:50:13.000Z",
       "date": "2026-11-26",
       "observedAt": "2026-11-26T12:47:35.121Z",
-      "attention": 1335,
+      "attention": 1415,
       "emphasis": 0
     },
     {
@@ -13820,9 +13916,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-26T15:49:36.353Z",
-      "lastSuccessAt": "2026-11-26T15:49:36.353Z",
-      "count": 9,
+      "checkedAt": "2026-11-27T10:45:23.184Z",
+      "lastSuccessAt": "2026-11-27T10:45:23.184Z",
+      "count": 19,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -13831,8 +13927,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-26T15:49:36.353Z",
-      "lastSuccessAt": "2026-11-26T15:49:36.353Z",
+      "checkedAt": "2026-11-27T10:45:23.184Z",
+      "lastSuccessAt": "2026-11-27T10:45:23.184Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -13842,7 +13938,7 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "error",
-      "checkedAt": "2026-11-26T15:49:36.353Z",
+      "checkedAt": "2026-11-27T10:45:23.184Z",
       "lastSuccessAt": "2026-11-24T04:41:08.064Z",
       "count": 0,
       "message": "fetch failed"
@@ -13853,8 +13949,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-26T15:49:36.353Z",
-      "lastSuccessAt": "2026-11-26T15:49:36.353Z",
+      "checkedAt": "2026-11-27T10:45:23.184Z",
+      "lastSuccessAt": "2026-11-27T10:45:23.184Z",
       "count": 2,
       "message": "提取标题、可用来源摘要及原文链接"
     }

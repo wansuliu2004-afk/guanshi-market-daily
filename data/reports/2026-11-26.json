@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-26",
   "cutoffAt": "2026-11-26T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-26T16:51:10.962Z",
   "createdAt": "2026-11-25T16:46:57.789Z",
-  "updatedAt": "2026-11-26T15:49:59.254Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-26T16:51:10.979Z",
+  "finalizedAt": "2026-11-26T16:51:10.979Z",
+  "status": "final",
   "news": {
     "date": "2026-11-26",
     "cutoffAt": "2026-11-26T16:00:00.000Z",
@@ -144,7 +144,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 64,
+        "score": 63.9,
         "signals": {
           "coverage": 17.5,
           "engagement": 22.7,
@@ -184,7 +184,7 @@
         "score": 60.3,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.5,
+          "engagement": 23.6,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -216,10 +216,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 57.3,
+        "score": 57,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.8,
+          "engagement": 24.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 15
@@ -286,10 +286,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 55.4,
+        "score": 55.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 18.6,
+          "engagement": 18.3,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -323,7 +323,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 54.9,
+        "score": 54.8,
         "signals": {
           "coverage": 17.5,
           "engagement": 18.1,
@@ -337,6 +337,76 @@
         ],
         "rank": 9,
         "importance": "关注"
+      },
+      {
+        "id": "topic-c856bfc152d5be4ee1bc",
+        "title": "特朗普指责政府蓄意低报经济增长 要求展开调查",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2545933",
+        "summary": "财联社11月26日电，特朗普指责自己的政府“蓄意”低报美国经济增长，他抓住一次例行数据修正，以此作为其提出选举干预指控的依据，但并未提供任何证据。特朗普周四在社交媒体发帖指出，GDP数据显示美国经济第三季度按年率计算增长4.3%，高于此前公布的3.4%估计值，并称这是一个“重大…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-26T15:56:28.000Z",
+        "date": "2026-11-26",
+        "time": "23:56",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2545933"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611263940996490.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 54.3,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.8,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 12
+        },
+        "category": "宏观",
+        "sectors": [],
+        "rank": 10,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-ad46348fb3ac3dd81601",
+        "title": "瑞银承诺维持全球业务布局 回应瑞士议会委员会支持加码资本监管",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2545931",
+        "summary": "财联社11月26日电，瑞银集团最高管理层本周致信员工，试图向他们保证，瑞士收紧监管的努力不会夺走该行历经数十年打造的成果 —— 一项真正意义上的全球化业务。员工备忘录显示，董事长Colm Kelleher和首席执行官Sergio Ermotti表示，该行仍“完全致力于我们的战略…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-26T15:44:56.000Z",
+        "date": "2026-11-26",
+        "time": "23:44",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2545931"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://bank.eastmoney.com/a/202611263940993495.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 54.2,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.7,
+          "recency": 0,
+          "emphasis": 0,
+          "impact": 12
+        },
+        "category": "政策",
+        "sectors": [],
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-10102463432209766b18",
@@ -370,8 +440,8 @@
         },
         "category": "海外",
         "sectors": [],
-        "rank": 10,
-        "importance": "关注"
+        "rank": 12,
+        "importance": "一般"
       },
       {
         "id": "topic-ce26b6145024cb40ed51",
@@ -395,17 +465,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 53.3,
+        "score": 53,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.8,
+          "engagement": 23.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "公司",
         "sectors": [],
-        "rank": 11,
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -430,17 +500,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 51.4,
+        "score": 51.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 21.9,
+          "engagement": 21.6,
           "recency": 0,
           "emphasis": 0,
           "impact": 12
         },
         "category": "宏观",
         "sectors": [],
-        "rank": 12,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -465,10 +535,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 49.8,
+        "score": 49.9,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.8,
+          "engagement": 24.9,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -477,7 +547,7 @@
         "sectors": [
           "银行"
         ],
-        "rank": 13,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -502,10 +572,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 49.1,
+        "score": 48.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.1,
+          "engagement": 23.8,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -514,7 +584,7 @@
         "sectors": [
           "有色金属"
         ],
-        "rank": 14,
+        "rank": 16,
         "importance": "一般"
       },
       {
@@ -539,10 +609,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 48.1,
+        "score": 47.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.1,
+          "engagement": 22.8,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -551,7 +621,7 @@
         "sectors": [
           "人工智能"
         ],
-        "rank": 15,
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -576,10 +646,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 47.6,
+        "score": 47.5,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.6,
+          "engagement": 22.5,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -588,7 +658,7 @@
         "sectors": [
           "人工智能"
         ],
-        "rank": 16,
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -613,10 +683,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 47.3,
+        "score": 47.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 22.3,
+          "engagement": 22.2,
           "recency": 0,
           "emphasis": 0,
           "impact": 7.5
@@ -625,7 +695,7 @@
         "sectors": [
           "银行"
         ],
-        "rank": 17,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -662,88 +732,15 @@
         "sectors": [
           "银行"
         ],
-        "rank": 18,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-331a08aae06a1135305b",
-        "title": "算力芯片概念震荡反弹 旋极信息20cm涨停",
-        "source": "东方财富",
-        "sourceId": "eastmoney",
-        "sourceUrl": "http://finance.eastmoney.com/a/202611263940497295.html",
-        "summary": "算力芯片概念震荡反弹，旋极信息20cm涨停，大胜达回封涨停，品高股份、寒武纪、云天励飞、东芯股份、沐曦股份等涨幅靠前。",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-26T05:21:48.000Z",
-        "date": "2026-11-26",
-        "time": "13:21",
-        "relatedSources": [
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611263940497295.html"
-          },
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2545125"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 46.2,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 21.2,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 7.5
-        },
-        "category": "行业",
-        "sectors": [
-          "半导体",
-          "人工智能"
-        ],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-e6222edea53cae3f9575",
-        "title": "英国央行：将逆周期缓冲资本率维持在2%不变",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2545699",
-        "summary": "财联社11月26日电，英国央行称，将逆周期缓冲资本率维持在2%不变；多项金融风险同时显现的危险已经上升，尽管近期有所下跌，全球股票估值仍然偏高，反映出市场对人工智能强劲盈利的预期。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-26T10:32:50.000Z",
-        "date": "2026-11-26",
-        "time": "18:32",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2545699"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://forex.eastmoney.com/a/202611263940725548.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 45.4,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 12.9,
-          "recency": 0,
-          "emphasis": 0,
-          "impact": 15
-        },
-        "category": "政策",
-        "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-26T15:49:36.353Z",
-    "collectedAt": "2026-11-26T15:49:36.353Z",
-    "latestPublishedAt": "2026-11-26T15:44:56.000Z",
-    "totalCandidates": 1000,
-    "financeCandidates": 663,
+    "asOf": "2026-11-26T16:51:05.564Z",
+    "collectedAt": "2026-11-26T16:51:05.564Z",
+    "latestPublishedAt": "2026-11-26T15:57:03.000Z",
+    "totalCandidates": 1007,
+    "financeCandidates": 666,
     "sources": [
       {
         "id": "cls",
@@ -751,9 +748,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-26T15:49:36.353Z",
-        "lastSuccessAt": "2026-11-26T15:49:36.353Z",
-        "count": 9,
+        "checkedAt": "2026-11-26T16:51:05.564Z",
+        "lastSuccessAt": "2026-11-26T16:51:05.564Z",
+        "count": 10,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -762,8 +759,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-26T15:49:36.353Z",
-        "lastSuccessAt": "2026-11-26T15:49:36.353Z",
+        "checkedAt": "2026-11-26T16:51:05.564Z",
+        "lastSuccessAt": "2026-11-26T16:51:05.564Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -773,7 +770,7 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "error",
-        "checkedAt": "2026-11-26T15:49:36.353Z",
+        "checkedAt": "2026-11-26T16:51:05.564Z",
         "lastSuccessAt": "2026-11-24T04:41:08.064Z",
         "count": 0,
         "message": "fetch failed"
@@ -784,8 +781,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-26T15:49:36.353Z",
-        "lastSuccessAt": "2026-11-26T15:49:36.353Z",
+        "checkedAt": "2026-11-26T16:51:05.564Z",
+        "lastSuccessAt": "2026-11-26T16:51:05.564Z",
         "count": 2,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -801,8 +798,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-26T16:51:10.979Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-25T16:46:46.500Z"
