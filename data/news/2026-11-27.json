@@ -1,7 +1,113 @@
 {
   "date": "2026-11-27",
-  "asOf": "2026-11-27T15:41:16.768Z",
+  "asOf": "2026-11-28T11:10:36.124Z",
   "records": [
+    {
+      "id": "eastmoney-1e2ffaf0e6bce547f959",
+      "title": "惠誉将Stellantis的信用评级定为“BBB” 展望为负面",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611273942106087.html",
+      "publishedAt": "2026-11-27T15:57:20.000Z",
+      "date": "2026-11-27",
+      "observedAt": "2026-11-27T16:44:50.711Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-f28bb56ca174b6cdd7fd",
+      "title": "Codelco审视智利百年丘基卡马塔露天矿的未来",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2547085",
+      "summary": "财联社11月27日电，智利国家铜业公司（Codelco）表示，在工会对丘基卡马塔（Chuquicamata）百年铜矿部分设施可能被关闭表达担忧后，该公司正在重新评估该矿区部分业务的未来。这家智利国有矿业公司在一份声明中表示，目前尚未做出影响整个分部的即时决定，但承认作为对丘基卡…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-27T15:49:19.000Z",
+      "date": "2026-11-27",
+      "observedAt": "2026-11-27T16:44:50.012Z",
+      "attention": 518197,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-44d4bea50ee3376697df",
+      "title": "Codelco审视智利百年丘基卡马塔露天矿的未来",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611273942103330.html",
+      "summary": "智利国家铜业公司（Codelco）表示，在工会对丘基卡马塔（Chuquicamata）百年铜矿部分设施可能被关闭表达担忧后，该公司正在重新评估该矿区部分业务的未来。这家智利国有矿业公司在一份声明中表示，目前尚未做出影响整个分部的即时决定，但承认作为对丘基卡马塔商业模式审查的一部…",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-27T15:49:19.000Z",
+      "date": "2026-11-27",
+      "observedAt": "2026-11-27T16:44:50.711Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-0829c4da86370dd05241",
+      "title": "美股存储芯片股集体走强：闪迪涨近14% 铠侠ADR涨超15%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611273942103723.html",
+      "summary": "美股半导体板块反弹，费城半导体指数上涨3.01%，报9038.69点。存储芯片股表现强势，闪迪上涨13.63%，铠侠ADR上涨15.53%，美光科技上涨6.01%，SK海力士上涨5.28%，西部数据上涨5.24%，希捷科技上涨5.54%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-27T15:47:15.000Z",
+      "date": "2026-11-27",
+      "observedAt": "2026-11-27T16:44:50.711Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-97e1d8cef66745dcdaba",
+      "title": "加拿大10年期实际收益率上涨3.3个基点 报1.51%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://bond.eastmoney.com/a/202611273942103285.html",
+      "publishedAt": "2026-11-27T15:47:13.000Z",
+      "date": "2026-11-27",
+      "observedAt": "2026-11-27T16:44:50.711Z",
+      "attention": 0,
+      "emphasis": 0
+    },
+    {
+      "id": "cls-90a0f49e0282ee3ba0ce",
+      "title": "美股存储芯片股集体走强：闪迪涨近14% 铠侠ADR涨超15%",
+      "source": "财联社",
+      "sourceId": "cls",
+      "sourceUrl": "https://www.cls.cn/detail/2547083",
+      "summary": "【美股存储芯片股集体走强：闪迪涨超13% 铠侠ADR涨超15%】财联社11月27日电，美股半导体板块反弹，费城半导体指数上涨3.01%，报9038.69点。存储芯片股表现强势，闪迪上涨13.63%，铠侠ADR上涨15.53%，美光科技上涨6.01%，SK海力士上涨5.28%，西…",
+      "summarySourceId": "cls",
+      "publishedAt": "2026-11-27T15:45:55.000Z",
+      "date": "2026-11-27",
+      "observedAt": "2026-11-27T16:44:50.012Z",
+      "attention": 515539,
+      "emphasis": 0.65
+    },
+    {
+      "id": "eastmoney-40fca521f0bf03413287",
+      "title": "纳斯达克100指数涨幅扩大至1.8% 刷新日高",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611273942096468.html",
+      "publishedAt": "2026-11-27T15:42:18.000Z",
+      "date": "2026-11-27",
+      "observedAt": "2026-11-27T16:44:50.711Z",
+      "attention": 1,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-f3545bb6bb6c90e9cca9",
+      "title": "特斯拉涨幅扩大至逾5%",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611273942096989.html",
+      "summary": "特斯拉股价持续走高，涨幅扩大至逾5%。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-27T15:40:02.000Z",
+      "date": "2026-11-27",
+      "observedAt": "2026-11-27T16:44:50.711Z",
+      "attention": 4,
+      "emphasis": 0
+    },
     {
       "id": "cls-a95c70fcf804748235aa",
       "title": "哈马斯领导人之子在以军袭击中幸存",
@@ -13,7 +119,21 @@
       "publishedAt": "2026-11-27T15:39:46.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:17.743Z",
-      "attention": 7575,
+      "attention": 476172,
+      "emphasis": 0
+    },
+    {
+      "id": "eastmoney-0f28cb297f1db347fe44",
+      "title": "哈马斯领导人之子在以军袭击中幸存",
+      "source": "东方财富",
+      "sourceId": "eastmoney",
+      "sourceUrl": "http://finance.eastmoney.com/a/202611273942097863.html",
+      "summary": "巴勒斯坦伊斯兰抵抗运动（哈马斯）政治局成员巴塞姆·纳伊姆27日表示，哈马斯政治局主席哈利勒·哈亚最小的儿子伊兹丁·哈亚在以军当天的袭击中幸存。",
+      "summarySourceId": "eastmoney",
+      "publishedAt": "2026-11-27T15:39:22.000Z",
+      "date": "2026-11-27",
+      "observedAt": "2026-11-27T16:44:50.711Z",
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -25,7 +145,7 @@
       "publishedAt": "2026-11-27T15:33:01.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:18.530Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -39,7 +159,7 @@
       "publishedAt": "2026-11-27T15:31:04.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:18.530Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -53,7 +173,7 @@
       "publishedAt": "2026-11-27T15:26:34.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:18.531Z",
-      "attention": 0,
+      "attention": 1,
       "emphasis": 0
     },
     {
@@ -81,7 +201,7 @@
       "publishedAt": "2026-11-27T15:18:37.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:18.531Z",
-      "attention": 3,
+      "attention": 19,
       "emphasis": 0
     },
     {
@@ -109,7 +229,7 @@
       "publishedAt": "2026-11-27T15:05:13.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:18.531Z",
-      "attention": 0,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -123,7 +243,7 @@
       "publishedAt": "2026-11-27T15:04:39.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:17.743Z",
-      "attention": 16350,
+      "attention": 524744,
       "emphasis": 0
     },
     {
@@ -137,7 +257,7 @@
       "publishedAt": "2026-11-27T15:04:14.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:18.531Z",
-      "attention": 1,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -151,7 +271,7 @@
       "publishedAt": "2026-11-27T15:02:31.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:17.743Z",
-      "attention": 21584,
+      "attention": 518405,
       "emphasis": 0
     },
     {
@@ -165,7 +285,7 @@
       "publishedAt": "2026-11-27T15:00:34.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:18.531Z",
-      "attention": 0,
+      "attention": 3,
       "emphasis": 0
     },
     {
@@ -179,7 +299,7 @@
       "publishedAt": "2026-11-27T14:58:00.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:17.743Z",
-      "attention": 20728,
+      "attention": 518134,
       "emphasis": 0
     },
     {
@@ -205,7 +325,7 @@
       "publishedAt": "2026-11-27T14:51:39.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:18.532Z",
-      "attention": 3,
+      "attention": 4,
       "emphasis": 0
     },
     {
@@ -313,7 +433,7 @@
       "publishedAt": "2026-11-27T14:40:51.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T15:41:18.532Z",
-      "attention": 0,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -381,7 +501,7 @@
       "publishedAt": "2026-11-27T14:32:51.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T14:44:13.369Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -465,7 +585,7 @@
       "publishedAt": "2026-11-27T14:06:32.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T14:44:13.369Z",
-      "attention": 31,
+      "attention": 45,
       "emphasis": 0
     },
     {
@@ -549,7 +669,7 @@
       "publishedAt": "2026-11-27T13:57:07.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T14:44:13.369Z",
-      "attention": 13,
+      "attention": 17,
       "emphasis": 0
     },
     {
@@ -633,7 +753,7 @@
       "publishedAt": "2026-11-27T13:46:44.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T13:56:00.016Z",
-      "attention": 19,
+      "attention": 25,
       "emphasis": 0
     },
     {
@@ -801,7 +921,7 @@
       "publishedAt": "2026-11-27T13:28:21.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T13:56:00.016Z",
-      "attention": 25,
+      "attention": 28,
       "emphasis": 0
     },
     {
@@ -829,7 +949,7 @@
       "publishedAt": "2026-11-27T13:28:00.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T13:56:00.017Z",
-      "attention": 1,
+      "attention": 2,
       "emphasis": 0
     },
     {
@@ -1259,7 +1379,7 @@
       "publishedAt": "2026-11-27T12:20:27.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T12:38:39.266Z",
-      "attention": 4,
+      "attention": 5,
       "emphasis": 0
     },
     {
@@ -1273,7 +1393,7 @@
       "publishedAt": "2026-11-27T12:15:35.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T12:38:39.266Z",
-      "attention": 189,
+      "attention": 202,
       "emphasis": 0
     },
     {
@@ -1385,7 +1505,7 @@
       "publishedAt": "2026-11-27T12:09:31.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T12:38:39.266Z",
-      "attention": 576,
+      "attention": 631,
       "emphasis": 0
     },
     {
@@ -1441,7 +1561,7 @@
       "publishedAt": "2026-11-27T12:03:51.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T12:38:39.267Z",
-      "attention": 139,
+      "attention": 144,
       "emphasis": 0
     },
     {
@@ -1455,7 +1575,7 @@
       "publishedAt": "2026-11-27T12:00:12.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T12:38:39.267Z",
-      "attention": 10,
+      "attention": 13,
       "emphasis": 0
     },
     {
@@ -1805,7 +1925,7 @@
       "publishedAt": "2026-11-27T11:19:26.000Z",
       "date": "2026-11-27",
       "observedAt": "2026-11-27T11:38:10.964Z",
-      "attention": 6,
+      "attention": 7,
       "emphasis": 0
     },
     {
@@ -15040,9 +15160,9 @@
       "home": "https://www.cls.cn/telegraph",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-27T15:41:16.768Z",
-      "lastSuccessAt": "2026-11-27T15:41:16.768Z",
-      "count": 10,
+      "checkedAt": "2026-11-28T11:10:36.124Z",
+      "lastSuccessAt": "2026-11-28T11:10:36.124Z",
+      "count": 20,
       "message": "提取标题、可用来源摘要及原文链接"
     },
     {
@@ -15051,8 +15171,8 @@
       "home": "https://kuaixun.eastmoney.com/",
       "kind": "快讯",
       "status": "ok",
-      "checkedAt": "2026-11-27T15:41:16.768Z",
-      "lastSuccessAt": "2026-11-27T15:41:16.768Z",
+      "checkedAt": "2026-11-28T11:10:36.124Z",
+      "lastSuccessAt": "2026-11-28T11:10:36.124Z",
       "count": 100,
       "message": "提取标题、可用来源摘要及原文链接"
     },
@@ -15062,7 +15182,7 @@
       "home": "https://wallstreetcn.com/live/global",
       "kind": "快讯",
       "status": "error",
-      "checkedAt": "2026-11-27T15:41:16.768Z",
+      "checkedAt": "2026-11-28T11:10:36.124Z",
       "lastSuccessAt": "2026-11-24T04:41:08.064Z",
       "count": 0,
       "message": "fetch failed"
@@ -15073,8 +15193,8 @@
       "home": "https://tv.cctv.com/lm/xwlb/",
       "kind": "权威发布",
       "status": "ok",
-      "checkedAt": "2026-11-27T15:41:16.768Z",
-      "lastSuccessAt": "2026-11-27T15:41:16.768Z",
+      "checkedAt": "2026-11-28T11:10:36.124Z",
+      "lastSuccessAt": "2026-11-28T11:10:36.124Z",
       "count": 2,
       "message": "提取标题、可用来源摘要及原文链接"
     }

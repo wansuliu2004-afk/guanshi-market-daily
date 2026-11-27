@@ -2,11 +2,11 @@
   "version": 4,
   "date": "2026-11-27",
   "cutoffAt": "2026-11-27T16:00:00.000Z",
-  "dayEndCompletedAt": null,
+  "dayEndCompletedAt": "2026-11-27T16:44:55.223Z",
   "createdAt": "2026-11-26T16:51:10.979Z",
-  "updatedAt": "2026-11-27T15:41:37.179Z",
-  "finalizedAt": null,
-  "status": "developing",
+  "updatedAt": "2026-11-27T16:44:55.246Z",
+  "finalizedAt": "2026-11-27T16:44:55.246Z",
+  "status": "final",
   "news": {
     "date": "2026-11-27",
     "cutoffAt": "2026-11-27T16:00:00.000Z",
@@ -36,7 +36,7 @@
         "score": 73.5,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.7,
+          "engagement": 24.8,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 15
@@ -73,7 +73,7 @@
         "score": 73.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.3,
+          "engagement": 24.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 15
@@ -143,7 +143,7 @@
         "score": 70.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 24.4,
+          "engagement": 24.3,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 12
@@ -210,10 +210,10 @@
           }
         ],
         "sourceCount": 2,
-        "score": 68.7,
+        "score": 68.6,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23,
+          "engagement": 22.8,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 12
@@ -221,6 +221,43 @@
         "category": "政策",
         "sectors": [],
         "rank": 6,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-39904162ca9bad5d661f",
+        "title": "美股存储芯片股集体走强：闪迪涨近14% 铠侠ADR涨超15%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2547083",
+        "summary": "美股半导体板块反弹，费城半导体指数上涨3.01%，报9038.69点。存储芯片股表现强势，闪迪上涨13.63%，铠侠ADR上涨15.53%，美光科技上涨6.01%，SK海力士上涨5.28%，西部数据上涨5.24%，希捷科技上涨5.54%。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-27T15:45:55.000Z",
+        "date": "2026-11-27",
+        "time": "23:45",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2547083"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611273942103723.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 66.1,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 24.8,
+          "recency": 0,
+          "emphasis": 16.3,
+          "impact": 7.5
+        },
+        "category": "海外",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 7,
         "importance": "关注"
       },
       {
@@ -257,7 +294,7 @@
         "sectors": [
           "银行"
         ],
-        "rank": 7,
+        "rank": 8,
         "importance": "关注"
       },
       {
@@ -292,7 +329,7 @@
         },
         "category": "公司",
         "sectors": [],
-        "rank": 8,
+        "rank": 9,
         "importance": "关注"
       },
       {
@@ -327,7 +364,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 9,
+        "rank": 10,
         "importance": "关注"
       },
       {
@@ -352,18 +389,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 61.2,
+        "score": 61.1,
         "signals": {
           "coverage": 17.5,
-          "engagement": 12.4,
+          "engagement": 12.3,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 15
         },
         "category": "政策",
         "sectors": [],
-        "rank": 10,
-        "importance": "关注"
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-881efd4c6ed97538c55a",
@@ -397,7 +434,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 11,
+        "rank": 12,
         "importance": "一般"
       },
       {
@@ -432,7 +469,7 @@
         },
         "category": "公司",
         "sectors": [],
-        "rank": 12,
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -460,14 +497,14 @@
         "score": 60.2,
         "signals": {
           "coverage": 17.5,
-          "engagement": 23.5,
+          "engagement": 23.4,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
         "category": "行业",
         "sectors": [],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -502,7 +539,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -537,7 +574,7 @@
         },
         "category": "行业",
         "sectors": [],
-        "rank": 15,
+        "rank": 16,
         "importance": "一般"
       },
       {
@@ -562,7 +599,7 @@
           }
         ],
         "sourceCount": 2,
-        "score": 58.6,
+        "score": 58.7,
         "signals": {
           "coverage": 17.5,
           "engagement": 21.9,
@@ -574,7 +611,7 @@
         "sectors": [
           "人工智能"
         ],
-        "rank": 16,
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -603,41 +640,6 @@
         "signals": {
           "coverage": 17.5,
           "engagement": 21.4,
-          "recency": 0,
-          "emphasis": 16.3,
-          "impact": 3
-        },
-        "category": "行业",
-        "sectors": [],
-        "rank": 17,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-3987e218b603663a3af4",
-        "title": "国常会一个月内两提资本市场史上首次 稳市内容涉及较多",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2546342",
-        "summary": "国务院总理李强11月27日主持召开国务院常务会议，研究持续深化资本市场投融资综合改革工作。会议指出，资本市场事关经济发展大局，将实施好存量政策，谋划出台增量政策。综合记者采访情况来看，本次会议有五个特别点值得关注：一是叠加今年11月6日国常会已提及资本市场，这是国常会史上首次在…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-27T05:24:03.000Z",
-        "date": "2026-11-27",
-        "time": "13:24",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2546342"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611273941589094.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 58,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 21.2,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
@@ -685,46 +687,46 @@
         "importance": "一般"
       },
       {
-        "id": "topic-96608ca1f1afa75d1a3c",
-        "title": "港股午评：恒生指数涨0.85% 恒生科技指数涨3.25%",
+        "id": "topic-3987e218b603663a3af4",
+        "title": "国常会一个月内两提资本市场史上首次 稳市内容涉及较多",
         "source": "财联社",
         "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2546302",
-        "summary": "港股午间收盘，恒生指数涨0.85%，恒生科技指数涨3.25%。大型科网股集体上涨，美团涨近5%，阿里巴巴涨3.52%，百度、京东、网易涨超2%。光通信、PCB、芯片股涨幅居前，芯碁微装涨超20%，海光芯正涨逾15%，剑桥科技涨逾11%，华虹宏力、中际旭创涨近10%，广合科技涨逾…",
-        "summarySource": "东方财富",
-        "publishedAt": "2026-11-27T04:00:47.000Z",
+        "sourceUrl": "https://www.cls.cn/detail/2546342",
+        "summary": "国务院总理李强11月27日主持召开国务院常务会议，研究持续深化资本市场投融资综合改革工作。会议指出，资本市场事关经济发展大局，将实施好存量政策，谋划出台增量政策。综合记者采访情况来看，本次会议有五个特别点值得关注：一是叠加今年11月6日国常会已提及资本市场，这是国常会史上首次在…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-27T05:24:03.000Z",
         "date": "2026-11-27",
-        "time": "12:00",
+        "time": "13:24",
         "relatedSources": [
           {
             "name": "财联社",
-            "url": "https://www.cls.cn/detail/2546302"
+            "url": "https://www.cls.cn/detail/2546342"
           },
           {
             "name": "东方财富",
-            "url": "http://stock.eastmoney.com/a/202611273941558160.html"
+            "url": "http://finance.eastmoney.com/a/202611273941589094.html"
           }
         ],
         "sourceCount": 2,
-        "score": 55.5,
+        "score": 57.8,
         "signals": {
           "coverage": 17.5,
-          "engagement": 18.7,
+          "engagement": 21.1,
           "recency": 0,
           "emphasis": 16.3,
           "impact": 3
         },
-        "category": "海外",
+        "category": "行业",
         "sectors": [],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-27T15:41:16.768Z",
-    "collectedAt": "2026-11-27T15:41:16.768Z",
-    "latestPublishedAt": "2026-11-27T15:39:46.000Z",
-    "totalCandidates": 1081,
-    "financeCandidates": 781,
+    "asOf": "2026-11-27T16:44:48.959Z",
+    "collectedAt": "2026-11-27T16:44:48.959Z",
+    "latestPublishedAt": "2026-11-27T15:57:20.000Z",
+    "totalCandidates": 1090,
+    "financeCandidates": 784,
     "sources": [
       {
         "id": "cls",
@@ -732,9 +734,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-27T15:41:16.768Z",
-        "lastSuccessAt": "2026-11-27T15:41:16.768Z",
-        "count": 10,
+        "checkedAt": "2026-11-27T16:44:48.959Z",
+        "lastSuccessAt": "2026-11-27T16:44:48.959Z",
+        "count": 9,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -743,8 +745,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-27T15:41:16.768Z",
-        "lastSuccessAt": "2026-11-27T15:41:16.768Z",
+        "checkedAt": "2026-11-27T16:44:48.959Z",
+        "lastSuccessAt": "2026-11-27T16:44:48.959Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -754,7 +756,7 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "error",
-        "checkedAt": "2026-11-27T15:41:16.768Z",
+        "checkedAt": "2026-11-27T16:44:48.959Z",
         "lastSuccessAt": "2026-11-24T04:41:08.064Z",
         "count": 0,
         "message": "fetch failed"
@@ -765,8 +767,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-27T15:41:16.768Z",
-        "lastSuccessAt": "2026-11-27T15:41:16.768Z",
+        "checkedAt": "2026-11-27T16:44:48.959Z",
+        "lastSuccessAt": "2026-11-27T16:44:48.959Z",
         "count": 2,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -782,8 +784,8 @@
         "recency": 0
       }
     },
-    "status": "developing",
-    "finalizedAt": null,
+    "status": "final",
+    "finalizedAt": "2026-11-27T16:44:55.246Z",
     "mode": "daily",
     "legacy": false,
     "coverageStart": "2026-11-26T16:51:06.840Z"

@@ -1,12 +1,48 @@
 {
   "date": "2026-11-27",
   "cutoffAt": "2026-11-27T16:00:00.000Z",
-  "status": "collecting",
+  "status": "archived",
   "firstSavedAt": "2026-11-26T16:51:10.411Z",
-  "lastSavedAt": "2026-11-27T15:41:35.002Z",
-  "sealedAt": null,
+  "lastSavedAt": "2026-11-27T16:44:55.223Z",
+  "sealedAt": "2026-11-27T16:44:48.950Z",
   "news": {
     "items": [
+      {
+        "id": "topic-39904162ca9bad5d661f",
+        "title": "美股存储芯片股集体走强：闪迪涨近14% 铠侠ADR涨超15%",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2547083",
+        "summary": "美股半导体板块反弹，费城半导体指数上涨3.01%，报9038.69点。存储芯片股表现强势，闪迪上涨13.63%，铠侠ADR上涨15.53%，美光科技上涨6.01%，SK海力士上涨5.28%，西部数据上涨5.24%，希捷科技上涨5.54%。",
+        "summarySource": "东方财富",
+        "publishedAt": "2026-11-27T15:45:55.000Z",
+        "date": "2026-11-27",
+        "time": "23:45",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2547083"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611273942103723.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 78.4,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 29.8,
+          "recency": 24.6,
+          "emphasis": 6.5
+        },
+        "category": "海外",
+        "sectors": [
+          "半导体"
+        ],
+        "rank": 1,
+        "importance": "重磅"
+      },
       {
         "id": "topic-d0263cfcdc74f099067d",
         "title": "AI交易回暖 美股纳指高开1.5% 存储、光通信、新云服务商等走强",
@@ -29,18 +65,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 72.9,
+        "score": 72.4,
         "signals": {
           "coverage": 17.5,
           "engagement": 26.3,
-          "recency": 22.7,
+          "recency": 22.1,
           "emphasis": 6.5
         },
         "category": "海外",
         "sectors": [
           "人工智能"
         ],
-        "rank": 1,
+        "rank": 2,
         "importance": "重磅"
       },
       {
@@ -65,18 +101,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 72.6,
+        "score": 72,
         "signals": {
           "coverage": 17.5,
           "engagement": 25.4,
-          "recency": 23.2,
+          "recency": 22.6,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 2,
+        "rank": 3,
         "importance": "重磅"
       },
       {
@@ -101,19 +137,19 @@
           }
         ],
         "sourceCount": 2,
-        "score": 72.3,
+        "score": 71.9,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.7,
-          "recency": 18.6,
+          "recency": 18.2,
           "emphasis": 6.5
         },
         "category": "政策",
         "sectors": [
           "银行"
         ],
-        "rank": 3,
-        "importance": "重磅"
+        "rank": 4,
+        "importance": "关注"
       },
       {
         "id": "topic-81a75d1e8964f01fc6f0",
@@ -137,16 +173,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 72,
+        "score": 71.5,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.2,
-          "recency": 18.8,
+          "recency": 18.3,
           "emphasis": 6.5
         },
         "category": "政策",
         "sectors": [],
-        "rank": 4,
+        "rank": 5,
         "importance": "关注"
       },
       {
@@ -171,16 +207,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 69.4,
+        "score": 69,
         "signals": {
           "coverage": 17.5,
           "engagement": 28.9,
-          "recency": 16.4,
+          "recency": 16,
           "emphasis": 6.5
         },
         "category": "政策",
         "sectors": [],
-        "rank": 5,
+        "rank": 6,
         "importance": "关注"
       },
       {
@@ -205,48 +241,14 @@
           }
         ],
         "sourceCount": 2,
-        "score": 69.3,
+        "score": 68.9,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.1,
-          "recency": 16.2,
+          "recency": 15.8,
           "emphasis": 6.5
         },
         "category": "公司",
-        "sectors": [],
-        "rank": 6,
-        "importance": "关注"
-      },
-      {
-        "id": "topic-974c8b144ddbdceae92e",
-        "title": "科创50指数调整5只样本 长鑫科技、燕东微、华峰测控等新纳入",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2546838",
-        "summary": "财联社11月27日电，上海证券交易所与中证指数有限公司决定调整科创50指数样本，调入燕东微（688172）、华峰测控（688200）、仕佳光子（688313）、西安奕材（688783）、长鑫科技（688825）；调出石头科技（688169）、思特威（688213）、翱捷科技（6…",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-27T10:19:50.000Z",
-        "date": "2026-11-27",
-        "time": "18:19",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2546838"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611273941801658.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 68.2,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 28.2,
-          "recency": 16,
-          "emphasis": 6.5
-        },
-        "category": "行业",
         "sectors": [],
         "rank": 7,
         "importance": "关注"
@@ -273,16 +275,50 @@
           }
         ],
         "sourceCount": 2,
-        "score": 68.2,
+        "score": 67.9,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.1,
-          "recency": 15.2,
+          "recency": 14.8,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
         "rank": 8,
+        "importance": "关注"
+      },
+      {
+        "id": "topic-974c8b144ddbdceae92e",
+        "title": "科创50指数调整5只样本 长鑫科技、燕东微、华峰测控等新纳入",
+        "source": "财联社",
+        "sourceId": "cls",
+        "sourceUrl": "https://www.cls.cn/detail/2546838",
+        "summary": "财联社11月27日电，上海证券交易所与中证指数有限公司决定调整科创50指数样本，调入燕东微（688172）、华峰测控（688200）、仕佳光子（688313）、西安奕材（688783）、长鑫科技（688825）；调出石头科技（688169）、思特威（688213）、翱捷科技（6…",
+        "summarySource": "财联社",
+        "publishedAt": "2026-11-27T10:19:50.000Z",
+        "date": "2026-11-27",
+        "time": "18:19",
+        "relatedSources": [
+          {
+            "name": "财联社",
+            "url": "https://www.cls.cn/detail/2546838"
+          },
+          {
+            "name": "东方财富",
+            "url": "http://finance.eastmoney.com/a/202611273941801658.html"
+          }
+        ],
+        "sourceCount": 2,
+        "score": 67.7,
+        "signals": {
+          "coverage": 17.5,
+          "engagement": 28.1,
+          "recency": 15.6,
+          "emphasis": 6.5
+        },
+        "category": "行业",
+        "sectors": [],
+        "rank": 9,
         "importance": "关注"
       },
       {
@@ -307,16 +343,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 67.5,
+        "score": 67,
         "signals": {
           "coverage": 17.5,
           "engagement": 28.1,
-          "recency": 21.9,
+          "recency": 21.4,
           "emphasis": 0
         },
         "category": "公司",
         "sectors": [],
-        "rank": 9,
+        "rank": 10,
         "importance": "关注"
       },
       {
@@ -341,17 +377,17 @@
           }
         ],
         "sourceCount": 2,
-        "score": 67.2,
+        "score": 66.8,
         "signals": {
           "coverage": 17.5,
           "engagement": 27,
-          "recency": 16.3,
+          "recency": 15.8,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
-        "rank": 10,
-        "importance": "关注"
+        "rank": 11,
+        "importance": "一般"
       },
       {
         "id": "topic-74dbf014a6604a002da3",
@@ -375,16 +411,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 66.3,
+        "score": 66,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.4,
-          "recency": 12.9,
+          "recency": 12.5,
           "emphasis": 6.5
         },
         "category": "行业",
         "sectors": [],
-        "rank": 11,
+        "rank": 12,
         "importance": "一般"
       },
       {
@@ -409,18 +445,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 65.6,
+        "score": 65,
         "signals": {
           "coverage": 17.5,
-          "engagement": 27.6,
-          "recency": 20.5,
+          "engagement": 27.5,
+          "recency": 20,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "人工智能"
         ],
-        "rank": 12,
+        "rank": 13,
         "importance": "一般"
       },
       {
@@ -445,16 +481,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63.8,
+        "score": 63.5,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.2,
-          "recency": 10.6,
+          "recency": 10.3,
           "emphasis": 6.5
         },
         "category": "政策",
         "sectors": [],
-        "rank": 13,
+        "rank": 14,
         "importance": "一般"
       },
       {
@@ -479,16 +515,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63.4,
+        "score": 63.1,
         "signals": {
           "coverage": 17.5,
           "engagement": 29.6,
-          "recency": 9.8,
+          "recency": 9.5,
           "emphasis": 6.5
         },
         "category": "公司",
         "sectors": [],
-        "rank": 14,
+        "rank": 15,
         "importance": "一般"
       },
       {
@@ -513,16 +549,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63.2,
+        "score": 63,
         "signals": {
           "coverage": 17.5,
           "engagement": 28.5,
-          "recency": 10.7,
+          "recency": 10.5,
           "emphasis": 6.5
         },
         "category": "政策",
         "sectors": [],
-        "rank": 15,
+        "rank": 16,
         "importance": "一般"
       },
       {
@@ -547,18 +583,18 @@
           }
         ],
         "sourceCount": 2,
-        "score": 63,
+        "score": 62.5,
         "signals": {
           "coverage": 17.5,
           "engagement": 25,
-          "recency": 20.5,
+          "recency": 19.9,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [
           "房地产"
         ],
-        "rank": 16,
+        "rank": 17,
         "importance": "一般"
       },
       {
@@ -583,16 +619,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 62.1,
+        "score": 61.7,
         "signals": {
           "coverage": 17.5,
-          "engagement": 27.5,
-          "recency": 10.5,
+          "engagement": 27.4,
+          "recency": 10.3,
           "emphasis": 6.5
         },
         "category": "政策",
         "sectors": [],
-        "rank": 17,
+        "rank": 18,
         "importance": "一般"
       },
       {
@@ -617,16 +653,16 @@
           }
         ],
         "sourceCount": 2,
-        "score": 61.6,
+        "score": 61,
         "signals": {
           "coverage": 17.5,
-          "engagement": 29.8,
-          "recency": 14.2,
+          "engagement": 29.6,
+          "recency": 13.9,
           "emphasis": 0
         },
         "category": "公司",
         "sectors": [],
-        "rank": 18,
+        "rank": 19,
         "importance": "一般"
       },
       {
@@ -651,60 +687,24 @@
           }
         ],
         "sourceCount": 2,
-        "score": 61.1,
+        "score": 60.5,
         "signals": {
           "coverage": 17.5,
-          "engagement": 25.3,
-          "recency": 18.3,
+          "engagement": 25.1,
+          "recency": 17.9,
           "emphasis": 0
         },
         "category": "行业",
         "sectors": [],
-        "rank": 19,
-        "importance": "一般"
-      },
-      {
-        "id": "topic-8fec6959a7c8c5d1468f",
-        "title": "智飞生物：控股子公司司美格鲁肽注射液体重管理适应症获受理",
-        "source": "财联社",
-        "sourceId": "cls",
-        "sourceUrl": "https://www.cls.cn/detail/2546878",
-        "summary": "财联社11月27日电，智飞生物(300122.SZ)公告称，控股子公司宸安生物研发的司美格鲁肽注射液体重管理适应症申请生产注册获国家药监局受理。该产品属于治疗用生物制品3.3类（生物类似药），Ⅲ期临床数据显示其有效性和安全性与原研产品基本一致。",
-        "summarySource": "财联社",
-        "publishedAt": "2026-11-27T10:50:01.000Z",
-        "date": "2026-11-27",
-        "time": "18:50",
-        "relatedSources": [
-          {
-            "name": "财联社",
-            "url": "https://www.cls.cn/detail/2546878"
-          },
-          {
-            "name": "东方财富",
-            "url": "http://finance.eastmoney.com/a/202611273941817894.html"
-          }
-        ],
-        "sourceCount": 2,
-        "score": 61,
-        "signals": {
-          "coverage": 17.5,
-          "engagement": 26.8,
-          "recency": 16.7,
-          "emphasis": 0
-        },
-        "category": "公司",
-        "sectors": [
-          "医药生物"
-        ],
         "rank": 20,
         "importance": "一般"
       }
     ],
-    "asOf": "2026-11-27T15:41:16.768Z",
-    "collectedAt": "2026-11-27T15:41:16.768Z",
-    "latestPublishedAt": "2026-11-27T15:39:46.000Z",
-    "totalCandidates": 1081,
-    "financeCandidates": 781,
+    "asOf": "2026-11-27T16:44:48.959Z",
+    "collectedAt": "2026-11-27T16:44:48.959Z",
+    "latestPublishedAt": "2026-11-27T15:57:20.000Z",
+    "totalCandidates": 1090,
+    "financeCandidates": 784,
     "sources": [
       {
         "id": "cls",
@@ -712,9 +712,9 @@
         "home": "https://www.cls.cn/telegraph",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-27T15:41:16.768Z",
-        "lastSuccessAt": "2026-11-27T15:41:16.768Z",
-        "count": 10,
+        "checkedAt": "2026-11-27T16:44:48.959Z",
+        "lastSuccessAt": "2026-11-27T16:44:48.959Z",
+        "count": 9,
         "message": "提取标题、可用来源摘要及原文链接"
       },
       {
@@ -723,8 +723,8 @@
         "home": "https://kuaixun.eastmoney.com/",
         "kind": "快讯",
         "status": "ok",
-        "checkedAt": "2026-11-27T15:41:16.768Z",
-        "lastSuccessAt": "2026-11-27T15:41:16.768Z",
+        "checkedAt": "2026-11-27T16:44:48.959Z",
+        "lastSuccessAt": "2026-11-27T16:44:48.959Z",
         "count": 100,
         "message": "提取标题、可用来源摘要及原文链接"
       },
@@ -734,7 +734,7 @@
         "home": "https://wallstreetcn.com/live/global",
         "kind": "快讯",
         "status": "error",
-        "checkedAt": "2026-11-27T15:41:16.768Z",
+        "checkedAt": "2026-11-27T16:44:48.959Z",
         "lastSuccessAt": "2026-11-24T04:41:08.064Z",
         "count": 0,
         "message": "fetch failed"
@@ -745,8 +745,8 @@
         "home": "https://tv.cctv.com/lm/xwlb/",
         "kind": "权威发布",
         "status": "ok",
-        "checkedAt": "2026-11-27T15:41:16.768Z",
-        "lastSuccessAt": "2026-11-27T15:41:16.768Z",
+        "checkedAt": "2026-11-27T16:44:48.959Z",
+        "lastSuccessAt": "2026-11-27T16:44:48.959Z",
         "count": 2,
         "message": "提取标题、可用来源摘要及原文链接"
       }
@@ -764,7 +764,8 @@
     "mode": "aggregate",
     "demo": false,
     "date": "2026-11-27",
-    "intervalSeconds": 300
+    "intervalSeconds": 300,
+    "cutoffAt": "2026-11-27T16:00:00.000Z"
   },
   "snapshot": {
     "date": "2026-11-27",
@@ -4405,5 +4406,12 @@
       "status": "locked",
       "lockedAt": "2026-11-26T16:51:10.167Z"
     }
+  },
+  "dayEnd": {
+    "cutoffAt": "2026-11-27T16:00:00.000Z",
+    "completedAt": "2026-11-27T16:44:55.223Z",
+    "newsCollectedAt": "2026-11-27T16:44:48.959Z",
+    "marketCollectedAt": "2026-11-27T15:41:16.819Z",
+    "note": "统计区间截至北京时间当日24:00；跨日补采只纳入截止前发布的标题，行情保留各市场最后实际报价时间。"
   }
 }
